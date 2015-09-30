@@ -1,0 +1,2112 @@
+[
+   {
+      "notation" : [
+         "EA"
+      ],
+      "prefLabel" : {
+         "en" : "Mass media"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/EA"
+   },
+   {
+      "notation" : [
+         "CC"
+      ],
+      "prefLabel" : {
+         "en" : "User categories: children, young people, social groups"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/CC"
+   },
+   {
+      "notation" : [
+         "GD"
+      ],
+      "prefLabel" : {
+         "en" : "Organizations"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/GD"
+   },
+   {
+      "notation" : [
+         "LN"
+      ],
+      "prefLabel" : {
+         "en" : "Data base management systems"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/LN"
+   },
+   {
+      "notation" : [
+         "CE"
+      ],
+      "prefLabel" : {
+         "en" : "Literacy"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/CE"
+   },
+   {
+      "notation" : [
+         "BC"
+      ],
+      "prefLabel" : {
+         "en" : "Information in society"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/BC"
+   },
+   {
+      "notation" : [
+         "AA"
+      ],
+      "prefLabel" : {
+         "en" : "Library and information science as a field"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/AA"
+   },
+   {
+      "notation" : [
+         "LA"
+      ],
+      "prefLabel" : {
+         "en" : "Telecommunications"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/LA"
+   },
+   {
+      "notation" : [
+         "LE"
+      ],
+      "prefLabel" : {
+         "en" : "Scanners"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/LE"
+   },
+   {
+      "notation" : [
+         "AZ"
+      ],
+      "prefLabel" : {
+         "en" : "None of these, but in this section"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/AZ"
+   },
+   {
+      "notation" : [
+         "KE"
+      ],
+      "prefLabel" : {
+         "en" : "Architecture"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/KE"
+   },
+   {
+      "narrower" : [
+         "http://example.org/jita/EE",
+         "http://example.org/jita/ED",
+         "http://example.org/jita/EC",
+         "http://example.org/jita/EZ",
+         "http://example.org/jita/EB",
+         "http://example.org/jita/EA",
+         "http://example.org/jita/EF"
+      ],
+      "notation" : [
+         "E",
+         "E",
+         "E",
+         "E",
+         "E",
+         "E",
+         "E"
+      ],
+      "prefLabel" : {
+         "en" : "Publishing and legal issues"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/E"
+   },
+   {
+      "notation" : [
+         "LJ"
+      ],
+      "prefLabel" : {
+         "en" : "Software"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/LJ"
+   },
+   {
+      "notation" : [
+         "IK"
+      ],
+      "prefLabel" : {
+         "en" : "Design, development, implementation and maintenance"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/IK"
+   },
+   {
+      "notation" : [
+         "ED"
+      ],
+      "prefLabel" : {
+         "en" : "Intellectual property: author's rights, ownership, copyright, copyleft"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/ED"
+   },
+   {
+      "notation" : [
+         "IZ"
+      ],
+      "prefLabel" : {
+         "en" : "None of these, but in this section"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/IZ"
+   },
+   {
+      "notation" : [
+         "IA"
+      ],
+      "prefLabel" : {
+         "en" : "Cataloging, bibliographic control"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/IA"
+   },
+   {
+      "narrower" : [
+         "http://example.org/jita/KB",
+         "http://example.org/jita/KE",
+         "http://example.org/jita/KH",
+         "http://example.org/jita/KF",
+         "http://example.org/jita/KC",
+         "http://example.org/jita/KG",
+         "http://example.org/jita/KZ",
+         "http://example.org/jita/KA",
+         "http://example.org/jita/KD"
+      ],
+      "notation" : [
+         "K",
+         "K",
+         "K",
+         "K",
+         "K",
+         "K",
+         "K",
+         "K",
+         "K"
+      ],
+      "prefLabel" : {
+         "en" : "Housing technologies"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/K"
+   },
+   {
+      "notation" : [
+         "CA"
+      ],
+      "prefLabel" : {
+         "en" : "Use studies"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/CA"
+   },
+   {
+      "notation" : [
+         "DG"
+      ],
+      "prefLabel" : {
+         "en" : "Private libraries"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/DG"
+   },
+   {
+      "notation" : [
+         "IH"
+      ],
+      "prefLabel" : {
+         "en" : "Image systems"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/IH"
+   },
+   {
+      "notation" : [
+         "CZ"
+      ],
+      "prefLabel" : {
+         "en" : "None of these, but in this section"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/CZ"
+   },
+   {
+      "notation" : [
+         "LI"
+      ],
+      "prefLabel" : {
+         "en" : "Authentication, and access control"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/LI"
+   },
+   {
+      "notation" : [
+         "HN"
+      ],
+      "prefLabel" : {
+         "en" : "e-journals"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/HN"
+   },
+   {
+      "notation" : [
+         "LL"
+      ],
+      "prefLabel" : {
+         "en" : "Automated language processing"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/LL"
+   },
+   {
+      "notation" : [
+         "LG"
+      ],
+      "prefLabel" : {
+         "en" : "Photocopiers"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/LG"
+   },
+   {
+      "notation" : [
+         "GZ"
+      ],
+      "prefLabel" : {
+         "en" : "None of these, but in this section"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/GZ"
+   },
+   {
+      "notation" : [
+         "JZ"
+      ],
+      "prefLabel" : {
+         "en" : "None of these, but in this section"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/JZ"
+   },
+   {
+      "notation" : [
+         "HK"
+      ],
+      "prefLabel" : {
+         "en" : "Online hosts"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/HK"
+   },
+   {
+      "notation" : [
+         "AC"
+      ],
+      "prefLabel" : {
+         "en" : "Relationship of LIS with other fields"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/AC"
+   },
+   {
+      "notation" : [
+         "GF"
+      ],
+      "prefLabel" : {
+         "en" : "Biographies"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/GF"
+   },
+   {
+      "notation" : [
+         "II"
+      ],
+      "prefLabel" : {
+         "en" : "Filtering"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/II"
+   },
+   {
+      "notation" : [
+         "DK"
+      ],
+      "prefLabel" : {
+         "en" : "Health libraries, Medical libraries"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/DK"
+   },
+   {
+      "notation" : [
+         "DD"
+      ],
+      "prefLabel" : {
+         "en" : "Academic libraries"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/DD"
+   },
+   {
+      "narrower" : [
+         "http://example.org/jita/LM",
+         "http://example.org/jita/LK",
+         "http://example.org/jita/LD",
+         "http://example.org/jita/LQ",
+         "http://example.org/jita/LL",
+         "http://example.org/jita/LG",
+         "http://example.org/jita/LF",
+         "http://example.org/jita/LB",
+         "http://example.org/jita/LP",
+         "http://example.org/jita/LZ",
+         "http://example.org/jita/LC",
+         "http://example.org/jita/LR",
+         "http://example.org/jita/LA",
+         "http://example.org/jita/LO",
+         "http://example.org/jita/LH",
+         "http://example.org/jita/LN",
+         "http://example.org/jita/LE",
+         "http://example.org/jita/LS",
+         "http://example.org/jita/LJ",
+         "http://example.org/jita/LI"
+      ],
+      "notation" : [
+         "L",
+         "L",
+         "L",
+         "L",
+         "L",
+         "L",
+         "L",
+         "L",
+         "L",
+         "L",
+         "L",
+         "L",
+         "L",
+         "L",
+         "L",
+         "L",
+         "L",
+         "L",
+         "L",
+         "L"
+      ],
+      "prefLabel" : {
+         "en" : "Information technology and library technology"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/L"
+   },
+   {
+      "narrower" : [
+         "http://example.org/jita/CF",
+         "http://example.org/jita/CB",
+         "http://example.org/jita/CE",
+         "http://example.org/jita/CC",
+         "http://example.org/jita/CA",
+         "http://example.org/jita/CD",
+         "http://example.org/jita/CZ"
+      ],
+      "notation" : [
+         "C",
+         "C",
+         "C",
+         "C",
+         "C",
+         "C",
+         "C"
+      ],
+      "prefLabel" : {
+         "en" : "Users, literacy and reading"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/C"
+   },
+   {
+      "narrower" : [
+         "http://example.org/jita/DB",
+         "http://example.org/jita/DD",
+         "http://example.org/jita/DE",
+         "http://example.org/jita/DC",
+         "http://example.org/jita/DG",
+         "http://example.org/jita/DJ",
+         "http://example.org/jita/DZ",
+         "http://example.org/jita/DF",
+         "http://example.org/jita/DK",
+         "http://example.org/jita/DM",
+         "http://example.org/jita/DH",
+         "http://example.org/jita/DA",
+         "http://example.org/jita/DI",
+         "http://example.org/jita/DL"
+      ],
+      "notation" : [
+         "D",
+         "D",
+         "D",
+         "D",
+         "D",
+         "D",
+         "D",
+         "D",
+         "D",
+         "D",
+         "D",
+         "D",
+         "D",
+         "D"
+      ],
+      "prefLabel" : {
+         "en" : "Libraries as physical collections"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/D"
+   },
+   {
+      "notation" : [
+         "KD"
+      ],
+      "prefLabel" : {
+         "en" : "Vehicles"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/KD"
+   },
+   {
+      "notation" : [
+         "GH"
+      ],
+      "prefLabel" : {
+         "en" : "Education"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/GH"
+   },
+   {
+      "narrower" : [
+         "http://example.org/jita/FE",
+         "http://example.org/jita/FH",
+         "http://example.org/jita/FD",
+         "http://example.org/jita/FI",
+         "http://example.org/jita/FB",
+         "http://example.org/jita/FZ",
+         "http://example.org/jita/FC",
+         "http://example.org/jita/FA",
+         "http://example.org/jita/FF",
+         "http://example.org/jita/FG"
+      ],
+      "notation" : [
+         "F",
+         "F",
+         "F",
+         "F",
+         "F",
+         "F",
+         "F",
+         "F",
+         "F",
+         "F"
+      ],
+      "prefLabel" : {
+         "en" : "Management"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/F"
+   },
+   {
+      "notation" : [
+         "DB"
+      ],
+      "prefLabel" : {
+         "en" : "National libraries"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/DB"
+   },
+   {
+      "notation" : [
+         "JD"
+      ],
+      "prefLabel" : {
+         "en" : "Stock taking"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/JD"
+   },
+   {
+      "notation" : [
+         "HC"
+      ],
+      "prefLabel" : {
+         "en" : "Archival materials"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/HC"
+   },
+   {
+      "notation" : [
+         "BZ"
+      ],
+      "prefLabel" : {
+         "en" : "None of these, but in this section"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/BZ"
+   },
+   {
+      "notation" : [
+         "FF"
+      ],
+      "prefLabel" : {
+         "en" : "Funding"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/FF"
+   },
+   {
+      "notation" : [
+         "FE"
+      ],
+      "prefLabel" : {
+         "en" : "Personnel management"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/FE"
+   },
+   {
+      "notation" : [
+         "FI"
+      ],
+      "prefLabel" : {
+         "en" : "Unitary authorities"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/FI"
+   },
+   {
+      "notation" : [
+         "LM"
+      ],
+      "prefLabel" : {
+         "en" : "Automatic text retrieval"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/LM"
+   },
+   {
+      "notation" : [
+         "DC"
+      ],
+      "prefLabel" : {
+         "en" : "Public libraries"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/DC"
+   },
+   {
+      "notation" : [
+         "EE"
+      ],
+      "prefLabel" : {
+         "en" : "Intellectual freedom"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/EE"
+   },
+   {
+      "notation" : [
+         "HF"
+      ],
+      "prefLabel" : {
+         "en" : "Microforms"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/HF"
+   },
+   {
+      "notation" : [
+         "GI"
+      ],
+      "prefLabel" : {
+         "en" : "Training"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/GI"
+   },
+   {
+      "notation" : [
+         "JK"
+      ],
+      "prefLabel" : {
+         "en" : "Interlibrary loans"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/JK"
+   },
+   {
+      "notation" : [
+         "LZ"
+      ],
+      "prefLabel" : {
+         "en" : "None of these, but in this section"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/LZ"
+   },
+   {
+      "notation" : [
+         "KC"
+      ],
+      "prefLabel" : {
+         "en" : "Furniture"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/KC"
+   },
+   {
+      "notation" : [
+         "LD"
+      ],
+      "prefLabel" : {
+         "en" : "Computers"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/LD"
+   },
+   {
+      "notation" : [
+         "LC"
+      ],
+      "prefLabel" : {
+         "en" : "Internet, including WWW"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/LC"
+   },
+   {
+      "narrower" : [
+         "http://example.org/jita/JI",
+         "http://example.org/jita/JG",
+         "http://example.org/jita/JJ",
+         "http://example.org/jita/JH",
+         "http://example.org/jita/JK",
+         "http://example.org/jita/JA",
+         "http://example.org/jita/JC",
+         "http://example.org/jita/JE",
+         "http://example.org/jita/JZ",
+         "http://example.org/jita/JD",
+         "http://example.org/jita/JB",
+         "http://example.org/jita/JF"
+      ],
+      "notation" : [
+         "J",
+         "J",
+         "J",
+         "J",
+         "J",
+         "J",
+         "J",
+         "J",
+         "J",
+         "J",
+         "J",
+         "J"
+      ],
+      "prefLabel" : {
+         "en" : "Technical services in libraries, archives, museum"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/J"
+   },
+   {
+      "notation" : [
+         "FA"
+      ],
+      "prefLabel" : {
+         "en" : "Co-operation"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/FA"
+   },
+   {
+      "notation" : [
+         "LQ"
+      ],
+      "prefLabel" : {
+         "en" : "Library automation systems"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/LQ"
+   },
+   {
+      "notation" : [
+         "BB"
+      ],
+      "prefLabel" : {
+         "en" : "Bibliometric methods"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/BB"
+   },
+   {
+      "notation" : [
+         "HP"
+      ],
+      "prefLabel" : {
+         "en" : "e-resources"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/HP"
+   },
+   {
+      "notation" : [
+         "GB"
+      ],
+      "prefLabel" : {
+         "en" : "Software industry"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/GB"
+   },
+   {
+      "notation" : [
+         "BI"
+      ],
+      "prefLabel" : {
+         "en" : "User interfaces, usability"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/BI"
+   },
+   {
+      "notation" : [
+         "JA"
+      ],
+      "prefLabel" : {
+         "en" : "Acquisitions"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/JA"
+   },
+   {
+      "notation" : [
+         "GG"
+      ],
+      "prefLabel" : {
+         "en" : "Curricula aspects"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/GG"
+   },
+   {
+      "notation" : [
+         "LK"
+      ],
+      "prefLabel" : {
+         "en" : "Software methodologies and engineering"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/LK"
+   },
+   {
+      "notation" : [
+         "GC"
+      ],
+      "prefLabel" : {
+         "en" : "Computer and telecommunication industry"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/GC"
+   },
+   {
+      "notation" : [
+         "IC"
+      ],
+      "prefLabel" : {
+         "en" : "Index languages, processes and schemes"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/IC"
+   },
+   {
+      "notation" : [
+         "LO"
+      ],
+      "prefLabel" : {
+         "en" : "Object-oriented DBMS"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/LO"
+   },
+   {
+      "notation" : [
+         "DF"
+      ],
+      "prefLabel" : {
+         "en" : "Government libraries"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/DF"
+   },
+   {
+      "notation" : [
+         "HJ"
+      ],
+      "prefLabel" : {
+         "en" : "CD-ROM"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/HJ"
+   },
+   {
+      "notation" : [
+         "LF"
+      ],
+      "prefLabel" : {
+         "en" : "Digital cameras"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/LF"
+   },
+   {
+      "notation" : [
+         "FC"
+      ],
+      "prefLabel" : {
+         "en" : "Finance"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/FC"
+   },
+   {
+      "notation" : [
+         "HG"
+      ],
+      "prefLabel" : {
+         "en" : "Non-print materials"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/HG"
+   },
+   {
+      "narrower" : [
+         "http://example.org/jita/AZ",
+         "http://example.org/jita/AB",
+         "http://example.org/jita/AC",
+         "http://example.org/jita/AA"
+      ],
+      "notation" : [
+         "A",
+         "A",
+         "A",
+         "A"
+      ],
+      "prefLabel" : {
+         "en" : "Theoretical and general aspects of libraries and information"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/A"
+   },
+   {
+      "notation" : [
+         "BF"
+      ],
+      "prefLabel" : {
+         "en" : "Information policy"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/BF"
+   },
+   {
+      "notation" : [
+         "IJ"
+      ],
+      "prefLabel" : {
+         "en" : "Reference work"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/IJ"
+   },
+   {
+      "notation" : [
+         "HZ"
+      ],
+      "prefLabel" : {
+         "en" : "None of these, but in this section"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/HZ"
+   },
+   {
+      "notation" : [
+         "HI"
+      ],
+      "prefLabel" : {
+         "en" : "Electronic Media"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/HI"
+   },
+   {
+      "notation" : [
+         "DA"
+      ],
+      "prefLabel" : {
+         "en" : "World libraries"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/DA"
+   },
+   {
+      "notation" : [
+         "HR"
+      ],
+      "prefLabel" : {
+         "en" : "Portals"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/HR"
+   },
+   {
+      "notation" : [
+         "JH"
+      ],
+      "prefLabel" : {
+         "en" : "Digital preservation"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/JH"
+   },
+   {
+      "notation" : [
+         "ID"
+      ],
+      "prefLabel" : {
+         "en" : "Knowledge representation"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/ID"
+   },
+   {
+      "notation" : [
+         "JG"
+      ],
+      "prefLabel" : {
+         "en" : "Digitization"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/JG"
+   },
+   {
+      "notation" : [
+         "BH"
+      ],
+      "prefLabel" : {
+         "en" : "Information needs and information requirements analysis"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/BH"
+   },
+   {
+      "notation" : [
+         "JJ"
+      ],
+      "prefLabel" : {
+         "en" : "Document delivery"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/JJ"
+   },
+   {
+      "notation" : [
+         "LP"
+      ],
+      "prefLabel" : {
+         "en" : "Intelligent agents"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/LP"
+   },
+   {
+      "narrower" : [
+         "http://example.org/jita/G",
+         "http://example.org/jita/D",
+         "http://example.org/jita/E",
+         "http://example.org/jita/F",
+         "http://example.org/jita/C"
+      ],
+      "notation" : [
+         "2",
+         "2",
+         "2",
+         "2",
+         "2"
+      ],
+      "prefLabel" : {
+         "en" : "User oriented, directional, and management functionalities"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/2"
+   },
+   {
+      "notation" : [
+         "KH"
+      ],
+      "prefLabel" : {
+         "en" : "Disaster planning"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/KH"
+   },
+   {
+      "notation" : [
+         "DM"
+      ],
+      "prefLabel" : {
+         "en" : "Museums"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/DM"
+   },
+   {
+      "notation" : [
+         "BG"
+      ],
+      "prefLabel" : {
+         "en" : "Information dissemination and diffusion"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/BG"
+   },
+   {
+      "notation" : [
+         "KA"
+      ],
+      "prefLabel" : {
+         "en" : "Resources centers"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/KA"
+   },
+   {
+      "narrower" : [
+         "http://example.org/jita/II",
+         "http://example.org/jita/IA",
+         "http://example.org/jita/IB",
+         "http://example.org/jita/IH",
+         "http://example.org/jita/IF",
+         "http://example.org/jita/IJ",
+         "http://example.org/jita/IK",
+         "http://example.org/jita/IE",
+         "http://example.org/jita/IC",
+         "http://example.org/jita/ID",
+         "http://example.org/jita/IG",
+         "http://example.org/jita/IZ"
+      ],
+      "notation" : [
+         "I",
+         "I",
+         "I",
+         "I",
+         "I",
+         "I",
+         "I",
+         "I",
+         "I",
+         "I",
+         "I",
+         "I"
+      ],
+      "prefLabel" : {
+         "en" : "Information treatment for information services"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/I"
+   },
+   {
+      "notation" : [
+         "FH"
+      ],
+      "prefLabel" : {
+         "en" : "Reorganization"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/FH"
+   },
+   {
+      "notation" : [
+         "DL"
+      ],
+      "prefLabel" : {
+         "en" : "Archives"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/DL"
+   },
+   {
+      "notation" : [
+         "KB"
+      ],
+      "prefLabel" : {
+         "en" : "Library, archive and museum buildings"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/KB"
+   },
+   {
+      "notation" : [
+         "JF"
+      ],
+      "prefLabel" : {
+         "en" : "Paper preservation"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/JF"
+   },
+   {
+      "notation" : [
+         "DE"
+      ],
+      "prefLabel" : {
+         "en" : "School libraries"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/DE"
+   },
+   {
+      "notation" : [
+         "BE"
+      ],
+      "prefLabel" : {
+         "en" : "Information economics"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/BE"
+   },
+   {
+      "notation" : [
+         "KG"
+      ],
+      "prefLabel" : {
+         "en" : "Safety"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/KG"
+   },
+   {
+      "narrower" : [
+         "http://example.org/jita/GI",
+         "http://example.org/jita/GC",
+         "http://example.org/jita/GD",
+         "http://example.org/jita/GF",
+         "http://example.org/jita/GZ",
+         "http://example.org/jita/GH",
+         "http://example.org/jita/GE",
+         "http://example.org/jita/GA",
+         "http://example.org/jita/GB",
+         "http://example.org/jita/GG"
+      ],
+      "notation" : [
+         "G",
+         "G",
+         "G",
+         "G",
+         "G",
+         "G",
+         "G",
+         "G",
+         "G",
+         "G"
+      ],
+      "prefLabel" : {
+         "en" : "Industry, profession and education"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/G"
+   },
+   {
+      "notation" : [
+         "BA"
+      ],
+      "prefLabel" : {
+         "en" : "Use and impact of information"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/BA"
+   },
+   {
+      "notation" : [
+         "IG"
+      ],
+      "prefLabel" : {
+         "en" : "Information presentation: hypertext, hypermedia"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/IG"
+   },
+   {
+      "notation" : [
+         "HS"
+      ],
+      "prefLabel" : {
+         "en" : "Repositories"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/HS"
+   },
+   {
+      "notation" : [
+         "BD"
+      ],
+      "prefLabel" : {
+         "en" : "Information society"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/BD"
+   },
+   {
+      "notation" : [
+         "HE"
+      ],
+      "prefLabel" : {
+         "en" : "Print materials"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/HE"
+   },
+   {
+      "narrower" : [
+         "http://example.org/jita/HR",
+         "http://example.org/jita/HA",
+         "http://example.org/jita/HN",
+         "http://example.org/jita/HS",
+         "http://example.org/jita/HD",
+         "http://example.org/jita/HF",
+         "http://example.org/jita/HQ",
+         "http://example.org/jita/HG",
+         "http://example.org/jita/HH",
+         "http://example.org/jita/HE",
+         "http://example.org/jita/HC",
+         "http://example.org/jita/HJ",
+         "http://example.org/jita/HL",
+         "http://example.org/jita/HK",
+         "http://example.org/jita/HO",
+         "http://example.org/jita/HP",
+         "http://example.org/jita/HB",
+         "http://example.org/jita/HI",
+         "http://example.org/jita/HM",
+         "http://example.org/jita/HZ"
+      ],
+      "notation" : [
+         "H",
+         "H",
+         "H",
+         "H",
+         "H",
+         "H",
+         "H",
+         "H",
+         "H",
+         "H",
+         "H",
+         "H",
+         "H",
+         "H",
+         "H",
+         "H",
+         "H",
+         "H",
+         "H",
+         "H"
+      ],
+      "prefLabel" : {
+         "en" : "Information sources, supports, channels"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/H"
+   },
+   {
+      "notation" : [
+         "CB"
+      ],
+      "prefLabel" : {
+         "en" : "User studies"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/CB"
+   },
+   {
+      "notation" : [
+         "DI"
+      ],
+      "prefLabel" : {
+         "en" : "Science libraries"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/DI"
+   },
+   {
+      "notation" : [
+         "DJ"
+      ],
+      "prefLabel" : {
+         "en" : "Technical libraries"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/DJ"
+   },
+   {
+      "notation" : [
+         "LH"
+      ],
+      "prefLabel" : {
+         "en" : "Computer and network security"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/LH"
+   },
+   {
+      "notation" : [
+         "EZ"
+      ],
+      "prefLabel" : {
+         "en" : "None of these, but in this section"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/EZ"
+   },
+   {
+      "notation" : [
+         "EC"
+      ],
+      "prefLabel" : {
+         "en" : "Book selling"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/EC"
+   },
+   {
+      "notation" : [
+         "EF"
+      ],
+      "prefLabel" : {
+         "en" : "Censorship"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/EF"
+   },
+   {
+      "notation" : [
+         "FD"
+      ],
+      "prefLabel" : {
+         "en" : "Public relations"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/FD"
+   },
+   {
+      "notation" : [
+         "IF"
+      ],
+      "prefLabel" : {
+         "en" : "Information transfer: protocols, formats, techniques"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/IF"
+   },
+   {
+      "notation" : [
+         "FB"
+      ],
+      "prefLabel" : {
+         "en" : "Marketing"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/FB"
+   },
+   {
+      "notation" : [
+         "HD"
+      ],
+      "prefLabel" : {
+         "en" : "Rare books and manuscripts"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/HD"
+   },
+   {
+      "notation" : [
+         "HB"
+      ],
+      "prefLabel" : {
+         "en" : "Gray literature"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/HB"
+   },
+   {
+      "narrower" : [
+         "http://example.org/jita/H",
+         "http://example.org/jita/K",
+         "http://example.org/jita/J",
+         "http://example.org/jita/I",
+         "http://example.org/jita/L"
+      ],
+      "notation" : [
+         "3",
+         "3",
+         "3",
+         "3",
+         "3"
+      ],
+      "prefLabel" : {
+         "en" : "Objects, Pragmatics and Technicalities"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/3"
+   },
+   {
+      "notation" : [
+         "CF"
+      ],
+      "prefLabel" : {
+         "en" : "Reading and story telling"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/CF"
+   },
+   {
+      "notation" : [
+         "LS"
+      ],
+      "prefLabel" : {
+         "en" : "Search engines"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/LS"
+   },
+   {
+      "notation" : [
+         "HQ"
+      ],
+      "prefLabel" : {
+         "en" : "Web pages"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/HQ"
+   },
+   {
+      "notation" : [
+         "IB"
+      ],
+      "prefLabel" : {
+         "en" : "Content analysis (A and I, class.)"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/IB"
+   },
+   {
+      "notation" : [
+         "FZ"
+      ],
+      "prefLabel" : {
+         "en" : "None of these, but in this section"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/FZ"
+   },
+   {
+      "notation" : [
+         "IE"
+      ],
+      "prefLabel" : {
+         "en" : "Data and metadata structures"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/IE"
+   },
+   {
+      "notation" : [
+         "AB"
+      ],
+      "prefLabel" : {
+         "en" : "Information theory and library theory"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/AB"
+   },
+   {
+      "notation" : [
+         "DZ"
+      ],
+      "prefLabel" : {
+         "en" : "None of these, but in this section"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/DZ"
+   },
+   {
+      "notation" : [
+         "KF"
+      ],
+      "prefLabel" : {
+         "en" : "Planning, Design, Removal"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/KF"
+   },
+   {
+      "notation" : [
+         "HO"
+      ],
+      "prefLabel" : {
+         "en" : "e-books"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/HO"
+   },
+   {
+      "notation" : [
+         "LR"
+      ],
+      "prefLabel" : {
+         "en" : "OPAC systems"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/LR"
+   },
+   {
+      "notation" : [
+         "HA"
+      ],
+      "prefLabel" : {
+         "en" : "Periodicals, Newspapers"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/HA"
+   },
+   {
+      "notation" : [
+         "KZ"
+      ],
+      "prefLabel" : {
+         "en" : "None of these, but in this section"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/KZ"
+   },
+   {
+      "narrower" : [
+         "http://example.org/jita/B",
+         "http://example.org/jita/A"
+      ],
+      "notation" : [
+         "1",
+         "1"
+      ],
+      "prefLabel" : {
+         "en" : "Theoretical and General"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/1"
+   },
+   {
+      "notation" : [
+         "GA"
+      ],
+      "prefLabel" : {
+         "en" : "Information industry"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/GA"
+   },
+   {
+      "notation" : [
+         "HL"
+      ],
+      "prefLabel" : {
+         "en" : "Databases and database Networking"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/HL"
+   },
+   {
+      "notation" : [
+         "JE"
+      ],
+      "prefLabel" : {
+         "en" : "Record keeping"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/JE"
+   },
+   {
+      "notation" : [
+         "GE"
+      ],
+      "prefLabel" : {
+         "en" : "Staff"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/GE"
+   },
+   {
+      "notation" : [
+         "HH"
+      ],
+      "prefLabel" : {
+         "en" : "Audio-visual, Multimedia"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/HH"
+   },
+   {
+      "notation" : [
+         "JI"
+      ],
+      "prefLabel" : {
+         "en" : "Circulation"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/JI"
+   },
+   {
+      "notation" : [
+         "EB"
+      ],
+      "prefLabel" : {
+         "en" : "Printing, electronic publishing, broadcasting"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/EB"
+   },
+   {
+      "notation" : [
+         "JC"
+      ],
+      "prefLabel" : {
+         "en" : "Withdrawals"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/JC"
+   },
+   {
+      "notation" : [
+         "LB"
+      ],
+      "prefLabel" : {
+         "en" : "Computer networking"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/LB"
+   },
+   {
+      "notation" : [
+         "JB"
+      ],
+      "prefLabel" : {
+         "en" : "Serials management"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/JB"
+   },
+   {
+      "notation" : [
+         "HM"
+      ],
+      "prefLabel" : {
+         "en" : "OPACs"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/HM"
+   },
+   {
+      "notation" : [
+         "FG"
+      ],
+      "prefLabel" : {
+         "en" : "Local government"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/FG"
+   },
+   {
+      "notation" : [
+         "CD"
+      ],
+      "prefLabel" : {
+         "en" : "User training, promotion, activities, education"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/CD"
+   },
+   {
+      "narrower" : [
+         "http://example.org/jita/BG",
+         "http://example.org/jita/BD",
+         "http://example.org/jita/BI",
+         "http://example.org/jita/BB",
+         "http://example.org/jita/BH",
+         "http://example.org/jita/BC",
+         "http://example.org/jita/BF",
+         "http://example.org/jita/BE",
+         "http://example.org/jita/BA",
+         "http://example.org/jita/BZ"
+      ],
+      "notation" : [
+         "B",
+         "B",
+         "B",
+         "B",
+         "B",
+         "B",
+         "B",
+         "B",
+         "B",
+         "B"
+      ],
+      "prefLabel" : {
+         "en" : "Information use and sociology of information"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/B"
+   },
+   {
+      "notation" : [
+         "DH"
+      ],
+      "prefLabel" : {
+         "en" : "Special libraries"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://example.org/jita/DH"
+   }
+]
+

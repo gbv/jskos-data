@@ -1,0 +1,5 @@
+requires 'perl', 'v5.14';
+
+requires 'RDF::Trine';
+requires 'RDF::Query';
+requires 'RDF::Query::Client';
