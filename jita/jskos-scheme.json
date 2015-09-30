@@ -1,5 +1,8 @@
 {
-   "@context" : "https://gbv.github.io/jskos/context.json",
+   "@context" : "https://gbv.github.io/jskos/context.json",   
+   "identifier" : [
+      "http://bartoc.org/en/node/663"
+   ],
    "prefLabel" : {
       "en" : "JITA Classification System of Library and Information Science"
    },

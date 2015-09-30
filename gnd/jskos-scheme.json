@@ -5,9 +5,10 @@
       "en" : "international authority file for personal names, subject headings and corporate bodies"
    },
    "identifier" : [
+      "http://bartoc.org/en/node/430",
       "http://d-nb.info/gnd/7749153-1",
-      "http://www.wikidata.org/entity/Q36578",
       "http://viaf.org/viaf/188136221",
+      "http://www.wikidata.org/entity/Q36578",
       null
    ],
    "notation" : [
