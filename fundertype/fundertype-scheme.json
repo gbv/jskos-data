@@ -1,0 +1,30 @@
+{
+   "@context" : "https://gbv.github.io/jskos/context.json",
+   "notation" : [
+      "fundertype"
+   ],
+   "prefLabel" : {
+      "de" : "Unterhaltsträger gemäß dem Sigelverzeichnis",
+      "en" : "Funding Bodies after the German ISIL Registry"
+   },
+   "topConcepts" : [
+      "http://purl.org/lobid/fundertype#n01",
+      "http://purl.org/lobid/fundertype#n02",
+      "http://purl.org/lobid/fundertype#n03",
+      "http://purl.org/lobid/fundertype#n04",
+      "http://purl.org/lobid/fundertype#n05",
+      "http://purl.org/lobid/fundertype#n06",
+      "http://purl.org/lobid/fundertype#n07",
+      "http://purl.org/lobid/fundertype#n08",
+      "http://purl.org/lobid/fundertype#n09",
+      "http://purl.org/lobid/fundertype#n10",
+      "http://purl.org/lobid/fundertype#n11",
+      "http://purl.org/lobid/fundertype#n12",
+      "http://purl.org/lobid/fundertype#n13"
+   ],
+   "type" : [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+   ],
+   "uri" : "http://purl.org/lobid/fundertype#scheme"
+}
+

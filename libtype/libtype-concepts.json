@@ -1,0 +1,308 @@
+[
+   {
+      "inScheme" : "http://purl.org/lobid/libtype#scheme",
+      "notation" : [
+         "11"
+      ],
+      "prefLabel" : {
+         "de" : "Nationalbibliothek",
+         "en" : "National Library"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/libtype#n11"
+   },
+   {
+      "inScheme" : "http://purl.org/lobid/libtype#scheme",
+      "notation" : [
+         "15"
+      ],
+      "prefLabel" : {
+         "de" : "Zentrale Fachbibliothek",
+         "en" : "Central Subject Library"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/libtype#n15"
+   },
+   {
+      "inScheme" : "http://purl.org/lobid/libtype#scheme",
+      "notation" : [
+         "21"
+      ],
+      "prefLabel" : {
+         "de" : "Regionalbibliothek",
+         "en" : "Regional Library"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/libtype#n21"
+   },
+   {
+      "inScheme" : "http://purl.org/lobid/libtype#scheme",
+      "notation" : [
+         "33"
+      ],
+      "prefLabel" : {
+         "de" : "Öffentliche Bibliothek",
+         "en" : "Public Library"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/libtype#n33"
+   },
+   {
+      "inScheme" : "http://purl.org/lobid/libtype#scheme",
+      "notation" : [
+         "36"
+      ],
+      "prefLabel" : {
+         "de" : "Öffentliche Bibliothek für besondere Benutzergruppen"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/libtype#n36"
+   },
+   {
+      "inScheme" : "http://purl.org/lobid/libtype#scheme",
+      "notation" : [
+         "39"
+      ],
+      "prefLabel" : {
+         "de" : "Fahrbibliothek",
+         "en" : "Mobile Library"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/libtype#n39"
+   },
+   {
+      "inScheme" : "http://purl.org/lobid/libtype#scheme",
+      "notation" : [
+         "60"
+      ],
+      "prefLabel" : {
+         "de" : "Zentrale Universitätsbibliothek",
+         "en" : "Central University Library"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/libtype#n60"
+   },
+   {
+      "inScheme" : "http://purl.org/lobid/libtype#scheme",
+      "notation" : [
+         "65"
+      ],
+      "prefLabel" : {
+         "de" : "Abteilungsbibliothek, Fachbereichsbibliothek, Institutsbibliothek (Universität)",
+         "en" : "University's Departement Library, Faculty Library, Institute Library"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/libtype#n65"
+   },
+   {
+      "inScheme" : "http://purl.org/lobid/libtype#scheme",
+      "notation" : [
+         "70"
+      ],
+      "prefLabel" : {
+         "de" : "Zentrale Hochschulbibliothek, nicht Universität",
+         "en" : "Central Academic Library, not University"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/libtype#n70"
+   },
+   {
+      "inScheme" : "http://purl.org/lobid/libtype#scheme",
+      "notation" : [
+         "73"
+      ],
+      "prefLabel" : {
+         "de" : "Abteilungsbibliothek, Fachbereichsbibliothek (Hochschule, nicht Universität)",
+         "en" : "College's Departement Library, Faculty Library (not University)"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/libtype#n73"
+   },
+   {
+      "inScheme" : "http://purl.org/lobid/libtype#scheme",
+      "notation" : [
+         "81"
+      ],
+      "prefLabel" : {
+         "de" : "Wissenschaftliche Spezialbibliothek",
+         "en" : "Academic Special Library"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/libtype#n81"
+   },
+   {
+      "inScheme" : "http://purl.org/lobid/libtype#scheme",
+      "notation" : [
+         "85"
+      ],
+      "prefLabel" : {
+         "de" : "Archiv (nicht Archivbibliothek)",
+         "en" : "Archive"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/libtype#n85"
+   },
+   {
+      "inScheme" : "http://purl.org/lobid/libtype#scheme",
+      "notation" : [
+         "86"
+      ],
+      "prefLabel" : {
+         "de" : "Museum (nicht Museumsbibliothek)"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/libtype#n86"
+   },
+   {
+      "inScheme" : "http://purl.org/lobid/libtype#scheme",
+      "notation" : [
+         "87"
+      ],
+      "prefLabel" : {
+         "de" : "Verlag"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/libtype#n87"
+   },
+   {
+      "inScheme" : "http://purl.org/lobid/libtype#scheme",
+      "notation" : [
+         "88"
+      ],
+      "prefLabel" : {
+         "de" : "Sonstige Einrichtung",
+         "en" : "Other Organization"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/libtype#n88"
+   },
+   {
+      "inScheme" : "http://purl.org/lobid/libtype#scheme",
+      "notation" : [
+         "89"
+      ],
+      "prefLabel" : {
+         "de" : "Paket elektronischer Ressourcen",
+         "en" : "Collection of electronic resources"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/libtype#n89"
+   },
+   {
+      "inScheme" : "http://purl.org/lobid/libtype#scheme",
+      "notation" : [
+         "91"
+      ],
+      "prefLabel" : {
+         "de" : "Fachstelle für Bibliotheken",
+         "en" : "State Public Library Office"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/libtype#n91"
+   },
+   {
+      "inScheme" : "http://purl.org/lobid/libtype#scheme",
+      "notation" : [
+         "94"
+      ],
+      "prefLabel" : {
+         "de" : "Regionaler Zentralkatalog / Leihverkehrszentrale",
+         "en" : "Regional Catalogue"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/libtype#n94"
+   },
+   {
+      "inScheme" : "http://purl.org/lobid/libtype#scheme",
+      "notation" : [
+         "95"
+      ],
+      "prefLabel" : {
+         "de" : "Fachzentralkatalog",
+         "en" : "Central Subject Catalogue"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/libtype#n95"
+   },
+   {
+      "inScheme" : "http://purl.org/lobid/libtype#scheme",
+      "notation" : [
+         "96"
+      ],
+      "prefLabel" : {
+         "de" : "Verbundsystem/ -kataloge",
+         "en" : "Union Catalogue"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/libtype#n96"
+   },
+   {
+      "inScheme" : "http://purl.org/lobid/libtype#scheme",
+      "notation" : [
+         "97"
+      ],
+      "prefLabel" : {
+         "de" : "Ministerium",
+         "en" : "Ministry"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/libtype#n97"
+   },
+   {
+      "inScheme" : "http://purl.org/lobid/libtype#scheme",
+      "notation" : [
+         "98"
+      ],
+      "prefLabel" : {
+         "de" : "Serviceeinrichtung",
+         "en" : "Service Institution"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/libtype#n98"
+   }
+]
+

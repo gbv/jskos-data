@@ -1,0 +1,37 @@
+{
+   "@context" : "https://gbv.github.io/jskos/context.json",
+   "notation" : [
+      "libtype"
+   ],
+   "prefLabel" : {
+      "de" : "Bibliothekstypen gemäß dem Sigelverzeichnis"
+   },
+   "topConcepts" : [
+      "http://purl.org/lobid/libtype#n11",
+      "http://purl.org/lobid/libtype#n15",
+      "http://purl.org/lobid/libtype#n21",
+      "http://purl.org/lobid/libtype#n33",
+      "http://purl.org/lobid/libtype#n36",
+      "http://purl.org/lobid/libtype#n39",
+      "http://purl.org/lobid/libtype#n60",
+      "http://purl.org/lobid/libtype#n65",
+      "http://purl.org/lobid/libtype#n70",
+      "http://purl.org/lobid/libtype#n73",
+      "http://purl.org/lobid/libtype#n81",
+      "http://purl.org/lobid/libtype#n85",
+      "http://purl.org/lobid/libtype#n86",
+      "http://purl.org/lobid/libtype#n87",
+      "http://purl.org/lobid/libtype#n88",
+      "http://purl.org/lobid/libtype#n89",
+      "http://purl.org/lobid/libtype#n91",
+      "http://purl.org/lobid/libtype#n94",
+      "http://purl.org/lobid/libtype#n95",
+      "http://purl.org/lobid/libtype#n96",
+      "http://purl.org/lobid/libtype#n98"
+   ],
+   "type" : [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+   ],
+   "uri" : "http://purl.org/lobid/libtype#scheme"
+}
+

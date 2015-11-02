@@ -1,0 +1,157 @@
+[
+   {
+      "inScheme" : "http://purl.org/lobid/stocksize#scheme",
+      "notation" : [
+         "01"
+      ],
+      "prefLabel" : {
+         "de" : "bis 1.000",
+         "en" : "up to 1,000"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/stocksize#n01"
+   },
+   {
+      "inScheme" : "http://purl.org/lobid/stocksize#scheme",
+      "notation" : [
+         "02"
+      ],
+      "prefLabel" : {
+         "de" : "1.001 - 2.000",
+         "en" : "1,001 - 2,000"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/stocksize#n02"
+   },
+   {
+      "inScheme" : "http://purl.org/lobid/stocksize#scheme",
+      "notation" : [
+         "03"
+      ],
+      "prefLabel" : {
+         "de" : "2.001 - 3.000",
+         "en" : "2,001 - 3,000"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/stocksize#n03"
+   },
+   {
+      "inScheme" : "http://purl.org/lobid/stocksize#scheme",
+      "notation" : [
+         "04"
+      ],
+      "prefLabel" : {
+         "de" : "3.001 - 5.000",
+         "en" : "3,001 - 5,000"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/stocksize#n04"
+   },
+   {
+      "inScheme" : "http://purl.org/lobid/stocksize#scheme",
+      "notation" : [
+         "05"
+      ],
+      "prefLabel" : {
+         "de" : "5.001 - 10.000",
+         "en" : "5,001 - 10,000"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/stocksize#n05"
+   },
+   {
+      "inScheme" : "http://purl.org/lobid/stocksize#scheme",
+      "notation" : [
+         "06"
+      ],
+      "prefLabel" : {
+         "de" : "10.001 - 30.000",
+         "en" : "10,001 - 30,000"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/stocksize#n06"
+   },
+   {
+      "inScheme" : "http://purl.org/lobid/stocksize#scheme",
+      "notation" : [
+         "07"
+      ],
+      "prefLabel" : {
+         "de" : "30.001 - 100.000",
+         "en" : "30,001 - 100,000"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/stocksize#n07"
+   },
+   {
+      "inScheme" : "http://purl.org/lobid/stocksize#scheme",
+      "notation" : [
+         "08"
+      ],
+      "prefLabel" : {
+         "de" : "100.001 - 300.000",
+         "en" : "100,001 - 300,000"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/stocksize#n08"
+   },
+   {
+      "inScheme" : "http://purl.org/lobid/stocksize#scheme",
+      "notation" : [
+         "09"
+      ],
+      "prefLabel" : {
+         "de" : "300.001 - 1.000.000",
+         "en" : "300,001 - 1,000,000"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/stocksize#n09"
+   },
+   {
+      "inScheme" : "http://purl.org/lobid/stocksize#scheme",
+      "notation" : [
+         "10"
+      ],
+      "prefLabel" : {
+         "de" : "1.000.001 und mehr",
+         "en" : "1,000,001 and more"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/stocksize#n10"
+   },
+   {
+      "inScheme" : "http://purl.org/lobid/stocksize#scheme",
+      "notation" : [
+         "11"
+      ],
+      "prefLabel" : {
+         "de" : "Einrichtung ohne Bestand",
+         "en" : "Institution without a collection"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://purl.org/lobid/stocksize#n11"
+   }
+]
+
