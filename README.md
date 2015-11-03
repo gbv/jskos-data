@@ -13,6 +13,7 @@ Each KOS data is located in a subdirectory with the following files:
 * fundertype - Funding Bodies of the German ISIL Registry (from [vocabs])
 * stocksize - Stock Size Classification of the German ISIL Registry (from [vocabs])
 * libtype - Bibliothekstypen gemäß dem Sigelverzeichnis (from [vocabs])
+* nwbib - Raumsystematik der Nordrhein-Westfälischen Bibliographie (from [vocabs])
 
 [vocabs]: https://github.com/lobid/vocabs
 
