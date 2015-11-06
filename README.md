@@ -22,8 +22,10 @@ The files have partly been created with
 * **stocksize** - Stock Size Classification of the German ISIL Registry (from [vocabs])
 * **libtype** - Bibliothekstypen gemäß dem Sigelverzeichnis (from [vocabs])
 * **nwbib** - Raumsystematik der Nordrhein-Westfälischen Bibliographie (from [vocabs])
+* **bartoc-types** - BARTOC KOS types (from [BARTOC])
 
 [vocabs]: https://github.com/lobid/vocabs
+[BARTOC]: http://bartoc.org/
 
 ## License
 
