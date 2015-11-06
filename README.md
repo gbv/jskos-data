@@ -1,19 +1,27 @@
-This repository contains a collection of knowledge organization systems (KOS)
-encoded in [JSKOS data format](https://gbv.github.io/jskos/).
+This repository contains a collection of **Knowledge Organization Systems (KOS)
+encoded in [JSKOS data format](https://gbv.github.io/jskos/)**. The collection
+is part of [project coli-conc](https://coli-conc.gbv.de/).
 
-Each KOS data is located in a subdirectory with the following files:
+## Overview
 
-* `jskos-scheme.json` (canonical JSON)
-* `jskos-concepts.json` (canonical JSON, optional)
- 
+Each KOS data is located in a subdirectory with one or more of the following
+files, all of them given in *canonical JSKOS*:
+
+* `jskos-scheme.json`
+* `jskos-concepts.json`
+* `jskos-mappings.json` 
+
+The files have partly been created with
+[skos2jskos](https://metacpan.org/pod/skos2jskos).
+
 ## Contents
 
-* jita - JITA Classification System of Library and Information Science
-* gnd - Gemeinsame Normdatei
-* fundertype - Funding Bodies of the German ISIL Registry (from [vocabs])
-* stocksize - Stock Size Classification of the German ISIL Registry (from [vocabs])
-* libtype - Bibliothekstypen gemäß dem Sigelverzeichnis (from [vocabs])
-* nwbib - Raumsystematik der Nordrhein-Westfälischen Bibliographie (from [vocabs])
+* **jita** - JITA Classification System of Library and Information Science
+* **gnd** - Gemeinsame Normdatei
+* **fundertype** - Funding Bodies of the German ISIL Registry (from [vocabs])
+* **stocksize** - Stock Size Classification of the German ISIL Registry (from [vocabs])
+* **libtype** - Bibliothekstypen gemäß dem Sigelverzeichnis (from [vocabs])
+* **nwbib** - Raumsystematik der Nordrhein-Westfälischen Bibliographie (from [vocabs])
 
 [vocabs]: https://github.com/lobid/vocabs
 
@@ -21,4 +29,5 @@ Each KOS data is located in a subdirectory with the following files:
 
 All data in this repository can be used freely as public domain ([Creative
 Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/))
+
 
