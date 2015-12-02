@@ -1,0 +1,21 @@
+{
+   "@context" : "https://gbv.github.io/jskos/context.json",
+   "definition" : {
+      "en" : [
+         "Online Coins of the Roman Empire (OCRE), a joint project of the American Numismatic Society and the Institute for the Study of the Ancient World at New York University (...). The project will ultimately record every published type of Roman Imperial Coinage from Augustus in 31 BC, until the death of Zeno in AD 491."
+      ]
+   },
+   "notation" : [
+      "OCRE"
+   ],
+   "prefLabel" : {
+      "en" : "Online Coins of the Roman Empire (OCRE)"
+   },
+   "type" : [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+   ],
+   "uri" : "http://bartoc.org/en/node/1787",
+   "url" : [
+       "http://numismatics.org/ocre/"
+   ]
+}
