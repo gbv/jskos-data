@@ -1,0 +1,21 @@
+{
+   "@context" : "https://gbv.github.io/jskos/context.json",
+   "definition" : {
+      "en" : [
+         "Coinage of the Roman Republic Online (CRRO) contains information about specimens of Republican coinage. Coin types are based on Michael Crawford's 1974 publication Roman Republican Coinage (RRC)."
+      ]
+   },
+   "notation" : [
+      "CRRO"
+   ],
+   "prefLabel" : {
+      "en" : "Coinage of the Roman Republic Online"
+   },
+   "type" : [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+   ],
+   "uri" : "http://bartoc.org/en/node/1788",
+   "url" : [
+       "http://numismatics.org/crro/"
+   ]
+}

@@ -9,7 +9,7 @@
       "OCRE"
    ],
    "prefLabel" : {
-      "en" : "Online Coins of the Roman Empire (OCRE)"
+      "en" : "Online Coins of the Roman Empire"
    },
    "type" : [
       "http://www.w3.org/2004/02/skos/core#ConceptScheme"
