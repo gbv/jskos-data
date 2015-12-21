@@ -1,0 +1,22 @@
+{
+   "identifier" : [
+      "http://bartoc.org/en/node/745",
+      "http://www.wikidata.org/entity/Q810226",
+      "http://d-nb.info/gnd/4361769-4",
+      "http://viaf.org/viaf/198550876",
+      "http://id.loc.gov/vocabulary/classSchemes/bkl",
+      null
+   ],
+   "notation" : [
+      "BK"
+   ],
+   "prefLabel" : {
+      "-" : "…",
+      "de" : "Basisklassifikation",
+      "nl" : "Nederlandse Basisclassificatie"
+   },
+   "type" : [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+   ],
+   "uri" : "http://uri.gbv.de/terminology/bk"
+}
