@@ -1,6 +1,6 @@
 [
    {
-      "inScheme" : "http://example.org/bartoc-types",
+      "inScheme": [ { "uri": "http://example.org/bartoc-types" } ],
       "prefLabel" : {
          "en" : "thesaurus"
       },
@@ -10,7 +10,7 @@
       "uri" : "http://bartoc.org/taxonomy/term/1"
    },
    {
-      "inScheme" : "http://example.org/bartoc-types",
+      "inScheme": [ { "uri": "http://example.org/bartoc-types" } ],
       "prefLabel" : {
          "en" : "glossary"
       },
@@ -20,7 +20,7 @@
       "uri" : "http://bartoc.org/taxonomy/term/12506"
    },
    {
-      "inScheme" : "http://example.org/bartoc-types",
+      "inScheme": [ { "uri": "http://example.org/bartoc-types" } ],
       "prefLabel" : {
          "en" : "categorization scheme"
       },
@@ -30,7 +30,7 @@
       "uri" : "http://bartoc.org/taxonomy/term/13688"
    },
    {
-      "inScheme" : "http://example.org/bartoc-types",
+      "inScheme": [ { "uri": "http://example.org/bartoc-types" } ],
       "prefLabel" : {
          "en" : "dictionary"
       },
@@ -40,7 +40,7 @@
       "uri" : "http://bartoc.org/taxonomy/term/13689"
    },
    {
-      "inScheme" : "http://example.org/bartoc-types",
+      "inScheme": [ { "uri": "http://example.org/bartoc-types" } ],
       "prefLabel" : {
          "en" : "gazetteer"
       },
@@ -50,7 +50,7 @@
       "uri" : "http://bartoc.org/taxonomy/term/13690"
    },
    {
-      "inScheme" : "http://example.org/bartoc-types",
+      "inScheme": [ { "uri": "http://example.org/bartoc-types" } ],
       "prefLabel" : {
          "en" : "list"
       },
@@ -60,7 +60,7 @@
       "uri" : "http://bartoc.org/taxonomy/term/13691"
    },
    {
-      "inScheme" : "http://example.org/bartoc-types",
+      "inScheme": [ { "uri": "http://example.org/bartoc-types" } ],
       "prefLabel" : {
          "en" : "name authority list"
       },
@@ -70,7 +70,7 @@
       "uri" : "http://bartoc.org/taxonomy/term/13692"
    },
    {
-      "inScheme" : "http://example.org/bartoc-types",
+      "inScheme": [ { "uri": "http://example.org/bartoc-types" } ],
       "prefLabel" : {
          "en" : "semantic network"
       },
@@ -80,7 +80,7 @@
       "uri" : "http://bartoc.org/taxonomy/term/13693"
    },
    {
-      "inScheme" : "http://example.org/bartoc-types",
+      "inScheme": [ { "uri": "http://example.org/bartoc-types" } ],
       "prefLabel" : {
          "en" : "subject heading scheme"
       },
@@ -90,7 +90,7 @@
       "uri" : "http://bartoc.org/taxonomy/term/13694"
    },
    {
-      "inScheme" : "http://example.org/bartoc-types",
+      "inScheme": [ { "uri": "http://example.org/bartoc-types" } ],
       "prefLabel" : {
          "en" : "synonym ring"
       },
@@ -100,7 +100,7 @@
       "uri" : "http://bartoc.org/taxonomy/term/13695"
    },
    {
-      "inScheme" : "http://example.org/bartoc-types",
+      "inScheme": [ { "uri": "http://example.org/bartoc-types" } ],
       "prefLabel" : {
          "en" : "terminology"
       },
@@ -110,7 +110,7 @@
       "uri" : "http://bartoc.org/taxonomy/term/13696"
    },
    {
-      "inScheme" : "http://example.org/bartoc-types",
+      "inScheme": [ { "uri": "http://example.org/bartoc-types" } ],
       "prefLabel" : {
          "en" : "ontology"
       },
@@ -120,7 +120,7 @@
       "uri" : "http://bartoc.org/taxonomy/term/2"
    },
    {
-      "inScheme" : "http://example.org/bartoc-types",
+      "inScheme": [ { "uri": "http://example.org/bartoc-types" } ],
       "prefLabel" : {
          "en" : "classification scheme"
       },
@@ -130,7 +130,7 @@
       "uri" : "http://bartoc.org/taxonomy/term/3"
    },
    {
-      "inScheme" : "http://example.org/bartoc-types",
+      "inScheme": [ { "uri": "http://example.org/bartoc-types" } ],
       "prefLabel" : {
          "en" : "taxonomy"
       },

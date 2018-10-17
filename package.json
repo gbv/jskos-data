@@ -1,0 +1,20 @@
+{
+  "name": "jskos-data",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "echo 'Error: no test specified' && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbv/jskos-data.git"
+  },
+  "author": "Jakob Voß",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/gbv/jskos-data/issues"
+  },
+  "homepage": "https://github.com/gbv/jskos-data#readme",
+  "devDependencies": {
+    "jskos-tools": "^0.1.12"
+  }
+}

@@ -8,19 +8,19 @@
       "en" : "Stock Size Classification after the German ISIL Registry"
    },
    "topConcepts" : [
-      "http://purl.org/lobid/stocksize#n01",
-      "http://purl.org/lobid/stocksize#n02",
-      "http://purl.org/lobid/stocksize#n03",
-      "http://purl.org/lobid/stocksize#n04",
-      "http://purl.org/lobid/stocksize#n05",
-      "http://purl.org/lobid/stocksize#n06",
-      "http://purl.org/lobid/stocksize#n07",
-      "http://purl.org/lobid/stocksize#n08",
-      "http://purl.org/lobid/stocksize#n09",
-      "http://purl.org/lobid/stocksize#n10",
-      "http://purl.org/lobid/stocksize#n11",
-      "http://purl.org/lobid/stocksize#n12",
-      "http://purl.org/lobid/stocksize#n13"
+      { "uri": "http://purl.org/lobid/stocksize#n01" },
+      { "uri": "http://purl.org/lobid/stocksize#n02" },
+      { "uri": "http://purl.org/lobid/stocksize#n03" },
+      { "uri": "http://purl.org/lobid/stocksize#n04" },
+      { "uri": "http://purl.org/lobid/stocksize#n05" },
+      { "uri": "http://purl.org/lobid/stocksize#n06" },
+      { "uri": "http://purl.org/lobid/stocksize#n07" },
+      { "uri": "http://purl.org/lobid/stocksize#n08" },
+      { "uri": "http://purl.org/lobid/stocksize#n09" },
+      { "uri": "http://purl.org/lobid/stocksize#n10" },
+      { "uri": "http://purl.org/lobid/stocksize#n11" },
+      { "uri": "http://purl.org/lobid/stocksize#n12" },
+      { "uri": "http://purl.org/lobid/stocksize#n13" }
    ],
    "type" : [
       "http://www.w3.org/2004/02/skos/core#ConceptScheme"

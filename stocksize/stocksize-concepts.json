@@ -1,6 +1,6 @@
 [
    {
-      "inScheme" : "http://purl.org/lobid/stocksize#scheme",
+      "inScheme": [ { "uri": "http://purl.org/lobid/stocksize#scheme" } ],
       "notation" : [
          "01"
       ],
@@ -14,7 +14,7 @@
       "uri" : "http://purl.org/lobid/stocksize#n01"
    },
    {
-      "inScheme" : "http://purl.org/lobid/stocksize#scheme",
+      "inScheme": [ { "uri": "http://purl.org/lobid/stocksize#scheme" } ],
       "notation" : [
          "02"
       ],
@@ -28,7 +28,7 @@
       "uri" : "http://purl.org/lobid/stocksize#n02"
    },
    {
-      "inScheme" : "http://purl.org/lobid/stocksize#scheme",
+      "inScheme": [ { "uri": "http://purl.org/lobid/stocksize#scheme" } ],
       "notation" : [
          "03"
       ],
@@ -42,7 +42,7 @@
       "uri" : "http://purl.org/lobid/stocksize#n03"
    },
    {
-      "inScheme" : "http://purl.org/lobid/stocksize#scheme",
+      "inScheme": [ { "uri": "http://purl.org/lobid/stocksize#scheme" } ],
       "notation" : [
          "04"
       ],
@@ -56,7 +56,7 @@
       "uri" : "http://purl.org/lobid/stocksize#n04"
    },
    {
-      "inScheme" : "http://purl.org/lobid/stocksize#scheme",
+      "inScheme": [ { "uri": "http://purl.org/lobid/stocksize#scheme" } ],
       "notation" : [
          "05"
       ],
@@ -70,7 +70,7 @@
       "uri" : "http://purl.org/lobid/stocksize#n05"
    },
    {
-      "inScheme" : "http://purl.org/lobid/stocksize#scheme",
+      "inScheme": [ { "uri": "http://purl.org/lobid/stocksize#scheme" } ],
       "notation" : [
          "06"
       ],
@@ -84,7 +84,7 @@
       "uri" : "http://purl.org/lobid/stocksize#n06"
    },
    {
-      "inScheme" : "http://purl.org/lobid/stocksize#scheme",
+      "inScheme": [ { "uri": "http://purl.org/lobid/stocksize#scheme" } ],
       "notation" : [
          "07"
       ],
@@ -98,7 +98,7 @@
       "uri" : "http://purl.org/lobid/stocksize#n07"
    },
    {
-      "inScheme" : "http://purl.org/lobid/stocksize#scheme",
+      "inScheme": [ { "uri": "http://purl.org/lobid/stocksize#scheme" } ],
       "notation" : [
          "08"
       ],
@@ -112,7 +112,7 @@
       "uri" : "http://purl.org/lobid/stocksize#n08"
    },
    {
-      "inScheme" : "http://purl.org/lobid/stocksize#scheme",
+      "inScheme": [ { "uri": "http://purl.org/lobid/stocksize#scheme" } ],
       "notation" : [
          "09"
       ],
@@ -126,7 +126,7 @@
       "uri" : "http://purl.org/lobid/stocksize#n09"
    },
    {
-      "inScheme" : "http://purl.org/lobid/stocksize#scheme",
+      "inScheme": [ { "uri": "http://purl.org/lobid/stocksize#scheme" } ],
       "notation" : [
          "10"
       ],
@@ -140,7 +140,7 @@
       "uri" : "http://purl.org/lobid/stocksize#n10"
    },
    {
-      "inScheme" : "http://purl.org/lobid/stocksize#scheme",
+      "inScheme": [ { "uri": "http://purl.org/lobid/stocksize#scheme" } ],
       "notation" : [
          "11"
       ],

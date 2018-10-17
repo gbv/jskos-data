@@ -1,6 +1,6 @@
 [
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "01"
       ],
@@ -13,7 +13,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n01"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "03"
       ],
@@ -26,7 +26,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n03"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "05"
       ],
@@ -39,7 +39,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n05"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "10"
       ],
@@ -52,7 +52,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n10"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "12"
       ],
@@ -65,7 +65,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n12"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "13"
       ],
@@ -78,7 +78,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n13"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "14"
       ],
@@ -91,7 +91,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n14"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "16"
       ],
@@ -104,7 +104,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n16"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "18"
       ],
@@ -117,7 +117,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n18"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "20"
       ],
@@ -130,7 +130,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n20"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "22"
       ],
@@ -143,7 +143,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n22"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "24"
       ],
@@ -156,7 +156,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n24"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "28"
       ],
@@ -169,7 +169,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n28"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "32"
       ],
@@ -182,7 +182,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n32"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "33"
       ],
@@ -195,7 +195,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n33"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "34"
       ],
@@ -208,7 +208,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n34"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "35"
       ],
@@ -221,7 +221,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n35"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "36"
       ],
@@ -234,7 +234,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n36"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "37"
       ],
@@ -247,7 +247,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n37"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "42"
       ],
@@ -260,7 +260,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n42"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "43"
       ],
@@ -273,7 +273,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n43"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "44"
       ],
@@ -286,7 +286,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n44"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "45"
       ],
@@ -299,7 +299,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n45"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "46"
       ],
@@ -312,7 +312,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n46"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "47"
       ],
@@ -325,7 +325,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n47"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "48"
       ],
@@ -338,7 +338,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n48"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "52"
       ],
@@ -351,7 +351,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n52"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "54"
       ],
@@ -364,7 +364,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n54"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "57"
       ],
@@ -377,7 +377,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n57"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "62"
       ],
@@ -390,7 +390,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n62"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "63"
       ],
@@ -403,7 +403,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n63"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "64"
       ],
@@ -416,7 +416,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n64"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "65"
       ],
@@ -429,7 +429,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n65"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "66"
       ],
@@ -442,7 +442,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n66"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "67"
       ],
@@ -455,7 +455,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n67"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "68"
       ],
@@ -468,7 +468,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n68"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "69"
       ],
@@ -481,7 +481,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n69"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "70"
       ],
@@ -494,7 +494,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n70"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "72"
       ],
@@ -507,7 +507,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n72"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "74"
       ],
@@ -520,7 +520,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n74"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "76"
       ],
@@ -533,7 +533,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n76"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "77"
       ],
@@ -546,7 +546,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n77"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "91"
       ],
@@ -559,7 +559,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n91"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "96"
       ],
@@ -572,7 +572,7 @@
       "uri" : "http://purl.org/lobid/nwbib-spatial#n96"
    },
    {
-      "inScheme" : "http://purl.org/lobid/nwbib-spatial",
+      "inScheme": [ { "uri": "http://purl.org/lobid/nwbib-spatial" } ],
       "notation" : [
          "97"
       ],
