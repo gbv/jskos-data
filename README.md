@@ -7,9 +7,9 @@ is part of [project coli-conc](https://coli-conc.gbv.de/).
 Each KOS data is located in a subdirectory with one or more of the following
 files, all of them given in *canonical JSKOS*:
 
-* `jskos-scheme.json`
-* `jskos-concepts.json`
-* `jskos-mappings.json` 
+* `...-scheme.json`
+* `...-concepts.json`
+* `...-mappings.json` 
 
 The files have partly been created with
 [skos2jskos](https://metacpan.org/pod/skos2jskos).
