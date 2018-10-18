@@ -3,7 +3,8 @@ use v5.14;
 use JSON;
 
 my @concepts;
-my $base = "https://www.ixtheo.de/classification/";
+my $base     = "https://www.ixtheo.de/classification/";
+my $language = "de";
 
 while (<>) {
     my ( $notation, $label );
@@ -22,12 +23,15 @@ while (<>) {
     my %concept = (
         uri       => $uri,
         notation  => [$notation],
-        prefLabel => { en => $label },
+        prefLabel => { $language => $label },
         inScheme  => [ { uri => $base } ],
     );
 
     if ( length $notation > 1 ) {
         $concept{broader} = [ { uri => substr $uri, 0, length($uri) - 1 } ];
+    }
+    else {
+        say STDERR "{ \"uri\": \"$uri\" }";
     }
 
     push @concepts, \%concept;

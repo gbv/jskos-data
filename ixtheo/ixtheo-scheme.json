@@ -9,6 +9,21 @@
     "de": "IxTheo-Klassifikation",
     "en": "IxTheo-Classification"
   },
+  "topConcepts" : [
+    { "uri": "https://www.ixtheo.de/classification/A" },
+    { "uri": "https://www.ixtheo.de/classification/B" },
+    { "uri": "https://www.ixtheo.de/classification/C" },
+    { "uri": "https://www.ixtheo.de/classification/F" },
+    { "uri": "https://www.ixtheo.de/classification/H" },
+    { "uri": "https://www.ixtheo.de/classification/K" },
+    { "uri": "https://www.ixtheo.de/classification/N" },
+    { "uri": "https://www.ixtheo.de/classification/R" },
+    { "uri": "https://www.ixtheo.de/classification/S" },
+    { "uri": "https://www.ixtheo.de/classification/T" },
+    { "uri": "https://www.ixtheo.de/classification/V" },
+    { "uri": "https://www.ixtheo.de/classification/X" },
+    { "uri": "https://www.ixtheo.de/classification/Z" }
+  ],
   "publisher": [
     {
       "prefLabel": {
