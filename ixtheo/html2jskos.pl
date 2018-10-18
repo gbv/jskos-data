@@ -32,7 +32,7 @@ while (<>) {
         $concept{broader} = [ { uri => substr $uri, 0, length($uri) - 1 } ];
     }
     else {
-        say STDERR "{ \"uri\": \"$uri\" }";
+        $concept{topConceptOf} = $concept{inScheme};
     }
 
     push @concepts, \%concept;

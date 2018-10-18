@@ -1,20 +1,25 @@
 [
    {
+      "uri" : "https://www.ixtheo.de/classification/A",
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
-      "inScheme" : [
+      "notation" : [
+         "A"
+      ],
+      "topConceptOf" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
       "prefLabel" : {
          "de" : "Religionswissenschaft allgemein"
-      },
-      "uri" : "https://www.ixtheo.de/classification/A",
-      "notation" : [
-         "A"
-      ]
+      }
    },
    {
       "inScheme" : [
@@ -22,6 +27,10 @@
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
+      "uri" : "https://www.ixtheo.de/classification/AA",
+      "prefLabel" : {
+         "de" : "Religionswissenschaft"
+      },
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/A"
@@ -32,32 +41,50 @@
       ],
       "notation" : [
          "AA"
-      ],
-      "uri" : "https://www.ixtheo.de/classification/AA",
-      "prefLabel" : {
-         "de" : "Religionswissenschaft"
-      }
+      ]
    },
    {
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/A"
+         }
+      ],
       "prefLabel" : {
          "de" : "Religionsphilosophie"
       },
-      "uri" : "https://www.ixtheo.de/classification/AB",
       "notation" : [
          "AB"
       ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
+      "uri" : "https://www.ixtheo.de/classification/AB"
+   },
+   {
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
+      "uri" : "https://www.ixtheo.de/classification/AD",
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/A"
          }
       ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
+      "prefLabel" : {
+         "de" : "Religionssoziologie"
+      },
+      "notation" : [
+         "AD"
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
       ]
    },
    {
@@ -66,69 +93,55 @@
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/A"
-         }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "notation" : [
-         "AD"
-      ],
-      "uri" : "https://www.ixtheo.de/classification/AD",
-      "prefLabel" : {
-         "de" : "Religionssoziologie"
-      }
-   },
-   {
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/A"
-         }
-      ],
-      "notation" : [
-         "AE"
-      ],
+      "uri" : "https://www.ixtheo.de/classification/AE",
       "prefLabel" : {
          "de" : "Religionspsychologie"
       },
-      "uri" : "https://www.ixtheo.de/classification/AE"
-   },
-   {
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/A"
          }
       ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "notation" : [
+         "AE"
+      ]
+   },
+   {
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
       "notation" : [
          "AF"
       ],
-      "uri" : "https://www.ixtheo.de/classification/AF",
       "prefLabel" : {
          "de" : "Religionsgeographie"
-      }
+      },
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/A"
+         }
+      ],
+      "uri" : "https://www.ixtheo.de/classification/AF",
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ]
    },
    {
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
       "notation" : [
          "AG"
+      ],
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/A"
+         }
       ],
       "prefLabel" : {
          "de" : "Religiöses Leben"
@@ -138,47 +151,35 @@
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/A"
-         }
       ]
    },
    {
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/A"
-         }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
-      "uri" : "https://www.ixtheo.de/classification/AH",
       "prefLabel" : {
          "de" : "Religionspädagogik"
       },
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/A"
+         }
+      ],
       "notation" : [
          "AH"
-      ]
-   },
-   {
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
-      "broader" : [
+      "uri" : "https://www.ixtheo.de/classification/AH"
+   },
+   {
+      "uri" : "https://www.ixtheo.de/classification/AX",
+      "inScheme" : [
          {
-            "uri" : "https://www.ixtheo.de/classification/A"
+            "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
       "type" : [
@@ -187,63 +188,69 @@
       "notation" : [
          "AX"
       ],
-      "uri" : "https://www.ixtheo.de/classification/AX",
       "prefLabel" : {
          "de" : "Interreligiöse Beziehung"
-      }
+      },
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/A"
+         }
+      ]
    },
    {
+      "uri" : "https://www.ixtheo.de/classification/AZ",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
+      ],
+      "notation" : [
+         "AZ"
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
       ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/A"
          }
       ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "notation" : [
-         "AZ"
-      ],
-      "uri" : "https://www.ixtheo.de/classification/AZ",
       "prefLabel" : {
          "de" : "Neue Religion"
       }
    },
    {
+      "prefLabel" : {
+         "de" : "Einzelne Religionen"
+      },
+      "notation" : [
+         "B"
+      ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "topConceptOf" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
       ],
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
-      "prefLabel" : {
-         "de" : "Einzelne Religionen"
-      },
-      "uri" : "https://www.ixtheo.de/classification/B",
-      "notation" : [
-         "B"
-      ]
+      "uri" : "https://www.ixtheo.de/classification/B"
    },
    {
-      "notation" : [
-         "BA"
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
       ],
       "uri" : "https://www.ixtheo.de/classification/BA",
       "prefLabel" : {
          "de" : "Nichtchristliche Religion"
       },
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/B"
@@ -251,6 +258,9 @@
       ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "notation" : [
+         "BA"
       ]
    },
    {
@@ -259,45 +269,26 @@
             "uri" : "https://www.ixtheo.de/classification/B"
          }
       ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
-      "uri" : "https://www.ixtheo.de/classification/BB",
       "prefLabel" : {
          "de" : "Indigene Religionen (Religionen ethnischer Gruppen)"
       },
-      "notation" : [
-         "BB"
-      ]
-   },
-   {
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/B"
-         }
-      ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "notation" : [
+         "BB"
       ],
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
-      "uri" : "https://www.ixtheo.de/classification/BC",
+      "uri" : "https://www.ixtheo.de/classification/BB"
+   },
+   {
       "prefLabel" : {
          "de" : "Alter Orient ; Religion"
       },
-      "notation" : [
-         "BC"
-      ]
-   },
-   {
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/B"
@@ -306,83 +297,102 @@
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
+      "notation" : [
+         "BC"
+      ],
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
-      "uri" : "https://www.ixtheo.de/classification/BD",
+      "uri" : "https://www.ixtheo.de/classification/BC"
+   },
+   {
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "notation" : [
+         "BD"
+      ],
       "prefLabel" : {
          "de" : "Alteuropäische Religion"
       },
-      "notation" : [
-         "BD"
-      ]
-   },
-   {
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/B"
          }
       ],
-      "notation" : [
-         "BE"
+      "uri" : "https://www.ixtheo.de/classification/BD",
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ]
+   },
+   {
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/B"
+         }
       ],
       "prefLabel" : {
          "de" : "Griechisch-Römische Religionen"
       },
-      "uri" : "https://www.ixtheo.de/classification/BE"
-   },
-   {
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "notation" : [
+         "BE"
+      ],
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
+      "uri" : "https://www.ixtheo.de/classification/BE"
+   },
+   {
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/B"
          }
-      ],
-      "notation" : [
-         "BF"
       ],
       "prefLabel" : {
          "de" : "Gnosis"
       },
-      "uri" : "https://www.ixtheo.de/classification/BF"
-   },
-   {
+      "notation" : [
+         "BF"
+      ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/B"
-         }
       ],
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
+      "uri" : "https://www.ixtheo.de/classification/BF"
+   },
+   {
+      "uri" : "https://www.ixtheo.de/classification/BG",
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "notation" : [
+         "BG"
+      ],
       "prefLabel" : {
          "de" : "Weltreligion"
       },
-      "uri" : "https://www.ixtheo.de/classification/BG",
-      "notation" : [
-         "BG"
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/B"
+         }
       ]
    },
    {
@@ -391,6 +401,10 @@
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
+      "uri" : "https://www.ixtheo.de/classification/BH",
+      "prefLabel" : {
+         "de" : "Judentum"
+      },
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/B"
@@ -401,13 +415,10 @@
       ],
       "notation" : [
          "BH"
-      ],
-      "uri" : "https://www.ixtheo.de/classification/BH",
-      "prefLabel" : {
-         "de" : "Judentum"
-      }
+      ]
    },
    {
+      "uri" : "https://www.ixtheo.de/classification/BJ",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
@@ -415,51 +426,42 @@
       ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/B"
-         }
       ],
       "notation" : [
          "BJ"
       ],
-      "prefLabel" : {
-         "de" : "Islam"
-      },
-      "uri" : "https://www.ixtheo.de/classification/BJ"
-   },
-   {
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/B"
          }
       ],
+      "prefLabel" : {
+         "de" : "Islam"
+      }
+   },
+   {
+      "notation" : [
+         "BK"
+      ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
+      "prefLabel" : {
+         "de" : "Hinduismus"
+      },
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/B"
+         }
+      ],
+      "uri" : "https://www.ixtheo.de/classification/BK",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
-      ],
-      "uri" : "https://www.ixtheo.de/classification/BK",
-      "prefLabel" : {
-         "de" : "Hinduismus"
-      },
-      "notation" : [
-         "BK"
       ]
    },
    {
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/B"
-         }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
@@ -469,99 +471,108 @@
       "prefLabel" : {
          "de" : "Buddhismus"
       },
-      "notation" : [
-         "BL"
-      ]
-   },
-   {
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/B"
          }
       ],
+      "notation" : [
+         "BL"
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ]
+   },
+   {
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
       "notation" : [
          "BM"
       ],
-      "uri" : "https://www.ixtheo.de/classification/BM",
       "prefLabel" : {
          "de" : "Chinesischer Universismus"
-      }
-   },
-   {
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
+      },
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/B"
          }
       ],
-      "notation" : [
-         "BN"
+      "uri" : "https://www.ixtheo.de/classification/BM",
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ]
+   },
+   {
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/B"
+         }
       ],
       "prefLabel" : {
          "de" : "Schintoismus"
       },
+      "notation" : [
+         "BN"
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
       "uri" : "https://www.ixtheo.de/classification/BN"
+   },
+   {
+      "notation" : [
+         "BR"
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "prefLabel" : {
+         "de" : "Altamerikanische Religion"
+      },
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/B"
+         }
+      ],
+      "uri" : "https://www.ixtheo.de/classification/BR",
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ]
    },
    {
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/B"
-         }
-      ],
-      "notation" : [
-         "BR"
-      ],
-      "prefLabel" : {
-         "de" : "Altamerikanische Religion"
-      },
-      "uri" : "https://www.ixtheo.de/classification/BR"
-   },
-   {
-      "notation" : [
-         "BS"
       ],
       "uri" : "https://www.ixtheo.de/classification/BS",
       "prefLabel" : {
          "de" : "Afrikanische Religionen (außer Christentum, Islam)"
       },
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/B"
          }
+      ],
+      "notation" : [
+         "BS"
       ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ]
    },
    {
+      "uri" : "https://www.ixtheo.de/classification/BT",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
@@ -569,64 +580,73 @@
       ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/B"
-         }
       ],
       "notation" : [
          "BT"
       ],
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/B"
+         }
+      ],
       "prefLabel" : {
          "de" : "Religionen des Südpazifischen Raums"
-      },
-      "uri" : "https://www.ixtheo.de/classification/BT"
+      }
    },
    {
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
-      "inScheme" : [
+      "notation" : [
+         "C"
+      ],
+      "topConceptOf" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
-      "uri" : "https://www.ixtheo.de/classification/C",
       "prefLabel" : {
          "de" : "Christentum"
       },
-      "notation" : [
-         "C"
+      "uri" : "https://www.ixtheo.de/classification/C",
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
       ]
    },
    {
+      "notation" : [
+         "CA"
+      ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
+      "prefLabel" : {
+         "de" : "Christentum"
+      },
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/C"
          }
       ],
+      "uri" : "https://www.ixtheo.de/classification/CA",
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ]
+   },
+   {
+      "uri" : "https://www.ixtheo.de/classification/CB",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
-      "prefLabel" : {
-         "de" : "Christentum"
-      },
-      "uri" : "https://www.ixtheo.de/classification/CA",
-      "notation" : [
-         "CA"
-      ]
-   },
-   {
-      "uri" : "https://www.ixtheo.de/classification/CB",
-      "prefLabel" : {
-         "de" : "Christliche Existenz"
-      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
       "notation" : [
          "CB"
       ],
@@ -635,53 +655,48 @@
             "uri" : "https://www.ixtheo.de/classification/C"
          }
       ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
+      "prefLabel" : {
+         "de" : "Christliche Existenz"
+      }
+   },
+   {
+      "uri" : "https://www.ixtheo.de/classification/CC",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
-      ]
-   },
-   {
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "notation" : [
+         "CC"
+      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/C"
          }
       ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
-      "uri" : "https://www.ixtheo.de/classification/CC",
       "prefLabel" : {
          "de" : "Christentum ; Nichtchristliche Religion ; Interreligiöse Beziehung"
-      },
-      "notation" : [
-         "CC"
-      ]
+      }
    },
    {
-      "prefLabel" : {
-         "de" : "Christentum ; Kultur"
-      },
-      "uri" : "https://www.ixtheo.de/classification/CD",
       "notation" : [
          "CD"
       ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
+      "prefLabel" : {
+         "de" : "Christentum ; Kultur"
+      },
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/C"
          }
       ],
+      "uri" : "https://www.ixtheo.de/classification/CD",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
@@ -689,77 +704,53 @@
       ]
    },
    {
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/C"
-         }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
       "uri" : "https://www.ixtheo.de/classification/CE",
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/C"
+         }
+      ],
       "prefLabel" : {
          "de" : "Christliche Kunst"
       },
       "notation" : [
          "CE"
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
       ]
    },
    {
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
       "uri" : "https://www.ixtheo.de/classification/CF",
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/C"
+         }
+      ],
       "prefLabel" : {
          "de" : "Christentum ; Wissenschaft"
       },
-      "notation" : [
-         "CF"
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/C"
-         }
-      ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
+      "notation" : [
+         "CF"
       ]
    },
    {
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/C"
-         }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
-      "uri" : "https://www.ixtheo.de/classification/CG",
       "prefLabel" : {
          "de" : "Christentum ; Politik"
       },
-      "notation" : [
-         "CG"
-      ]
-   },
-   {
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/C"
@@ -769,14 +760,61 @@
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
       "notation" : [
-         "CH"
+         "CG"
       ],
-      "uri" : "https://www.ixtheo.de/classification/CH",
-      "prefLabel" : {
-         "de" : "Christentum ; Gesellschaft"
-      }
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
+      "uri" : "https://www.ixtheo.de/classification/CG"
    },
    {
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
+      "uri" : "https://www.ixtheo.de/classification/CH",
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/C"
+         }
+      ],
+      "prefLabel" : {
+         "de" : "Christentum ; Gesellschaft"
+      },
+      "notation" : [
+         "CH"
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ]
+   },
+   {
+      "prefLabel" : {
+         "de" : "Christliche Theologie"
+      },
+      "notation" : [
+         "F"
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "topConceptOf" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
+      "uri" : "https://www.ixtheo.de/classification/F"
+   },
+   {
+      "uri" : "https://www.ixtheo.de/classification/FA",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
@@ -786,62 +824,46 @@
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
       "notation" : [
-         "F"
+         "FA"
+      ],
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/F"
+         }
       ],
       "prefLabel" : {
-         "de" : "Christliche Theologie"
-      },
-      "uri" : "https://www.ixtheo.de/classification/F"
+         "de" : "Theologie"
+      }
    },
    {
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/F"
          }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
-      "uri" : "https://www.ixtheo.de/classification/FA",
-      "prefLabel" : {
-         "de" : "Theologie"
-      },
-      "notation" : [
-         "FA"
-      ]
-   },
-   {
-      "notation" : [
-         "FB"
       ],
       "prefLabel" : {
          "de" : "Theologiestudium"
       },
-      "uri" : "https://www.ixtheo.de/classification/FB",
+      "notation" : [
+         "FB"
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/F"
-         }
-      ]
+      "uri" : "https://www.ixtheo.de/classification/FB"
    },
    {
-      "prefLabel" : {
-         "de" : "Kontextuelle Theologie"
-      },
       "uri" : "https://www.ixtheo.de/classification/FD",
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
       "notation" : [
          "FD"
       ],
@@ -853,36 +875,23 @@
             "uri" : "https://www.ixtheo.de/classification/F"
          }
       ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ]
+      "prefLabel" : {
+         "de" : "Kontextuelle Theologie"
+      }
    },
    {
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
       "prefLabel" : {
          "de" : "Bibel; Bibelwissenschaft"
       },
-      "uri" : "https://www.ixtheo.de/classification/H",
-      "notation" : [
-         "H"
-      ]
-   },
-   {
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
-      "broader" : [
+      "notation" : [
+         "H"
+      ],
+      "topConceptOf" : [
          {
-            "uri" : "https://www.ixtheo.de/classification/H"
+            "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
       "inScheme" : [
@@ -890,27 +899,33 @@
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
+      "uri" : "https://www.ixtheo.de/classification/H"
+   },
+   {
       "prefLabel" : {
          "de" : "Bibel"
       },
-      "uri" : "https://www.ixtheo.de/classification/HA",
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/H"
+         }
+      ],
       "notation" : [
          "HA"
-      ]
-   },
-   {
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
+      "uri" : "https://www.ixtheo.de/classification/HA"
+   },
+   {
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/H"
-         }
       ],
       "notation" : [
          "HB"
@@ -918,20 +933,27 @@
       "prefLabel" : {
          "de" : "Altes Testament"
       },
-      "uri" : "https://www.ixtheo.de/classification/HB"
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/H"
+         }
+      ],
+      "uri" : "https://www.ixtheo.de/classification/HB",
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ]
    },
    {
-      "notation" : [
-         "HC"
-      ],
-      "prefLabel" : {
-         "de" : "Neues Testament"
-      },
       "uri" : "https://www.ixtheo.de/classification/HC",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
+      ],
+      "notation" : [
+         "HC"
       ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
@@ -940,11 +962,22 @@
          {
             "uri" : "https://www.ixtheo.de/classification/H"
          }
-      ]
+      ],
+      "prefLabel" : {
+         "de" : "Neues Testament"
+      }
    },
    {
       "notation" : [
          "HD"
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/H"
+         }
       ],
       "prefLabel" : {
          "de" : "Frühjudentum"
@@ -954,56 +987,56 @@
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/H"
-         }
       ]
    },
    {
+      "notation" : [
+         "HH"
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/H"
          }
       ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
-      "uri" : "https://www.ixtheo.de/classification/HH",
       "prefLabel" : {
          "de" : "Archäologie"
       },
-      "notation" : [
-         "HH"
-      ]
-   },
-   {
+      "uri" : "https://www.ixtheo.de/classification/HH",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
-      ],
+      ]
+   },
+   {
+      "prefLabel" : {
+         "de" : "Kirchen- und Theologiegeschichte; Konfessionskunde"
+      },
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
       "notation" : [
          "K"
       ],
-      "uri" : "https://www.ixtheo.de/classification/K",
-      "prefLabel" : {
-         "de" : "Kirchen- und Theologiegeschichte; Konfessionskunde"
-      }
+      "topConceptOf" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
+      "uri" : "https://www.ixtheo.de/classification/K"
    },
    {
+      "prefLabel" : {
+         "de" : "Kirchengeschichte: Epochen"
+      },
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/K"
@@ -1012,39 +1045,36 @@
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
+      "notation" : [
+         "KA"
+      ],
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
-      "uri" : "https://www.ixtheo.de/classification/KA",
-      "prefLabel" : {
-         "de" : "Kirchengeschichte: Epochen"
-      },
-      "notation" : [
-         "KA"
-      ]
+      "uri" : "https://www.ixtheo.de/classification/KA"
    },
    {
-      "broader" : [
+      "uri" : "https://www.ixtheo.de/classification/KAA",
+      "inScheme" : [
          {
-            "uri" : "https://www.ixtheo.de/classification/KA"
+            "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
+      "notation" : [
+         "KAA"
       ],
-      "uri" : "https://www.ixtheo.de/classification/KAA",
       "prefLabel" : {
          "de" : "Kirche ; Geschichte"
       },
-      "notation" : [
-         "KAA"
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/KA"
+         }
       ]
    },
    {
@@ -1053,86 +1083,86 @@
             "uri" : "https://www.ixtheo.de/classification/KA"
          }
       ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
-      "uri" : "https://www.ixtheo.de/classification/KAB",
       "prefLabel" : {
          "de" : "Frühchristentum"
       },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
       "notation" : [
          "KAB"
-      ]
+      ],
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
+      "uri" : "https://www.ixtheo.de/classification/KAB"
    },
    {
+      "notation" : [
+         "KAC"
+      ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/KA"
-         }
-      ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
       "prefLabel" : {
          "de" : "Mittelalter"
       },
       "uri" : "https://www.ixtheo.de/classification/KAC",
-      "notation" : [
-         "KAC"
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
       ]
    },
    {
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/KA"
-         }
-      ],
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
+      "uri" : "https://www.ixtheo.de/classification/KAD",
       "prefLabel" : {
          "de" : "Frühmittelalter"
       },
-      "uri" : "https://www.ixtheo.de/classification/KAD",
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/KA"
+         }
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
       "notation" : [
          "KAD"
       ]
    },
    {
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/KA"
-         }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
+      "uri" : "https://www.ixtheo.de/classification/KAE",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
-      "uri" : "https://www.ixtheo.de/classification/KAE",
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "notation" : [
+         "KAE"
+      ],
       "prefLabel" : {
          "de" : "Hochmittelalter"
       },
-      "notation" : [
-         "KAE"
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/KA"
+         }
       ]
    },
    {
@@ -1141,31 +1171,26 @@
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
+      "uri" : "https://www.ixtheo.de/classification/KAF",
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/KA"
          }
       ],
-      "notation" : [
-         "KAF"
-      ],
       "prefLabel" : {
          "de" : "Spätmittelalter"
       },
-      "uri" : "https://www.ixtheo.de/classification/KAF"
-   },
-   {
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
+      "notation" : [
+         "KAF"
+      ]
+   },
+   {
+      "prefLabel" : {
+         "de" : "Reformation"
+      },
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/KA"
@@ -1174,41 +1199,48 @@
       "notation" : [
          "KAG"
       ],
-      "prefLabel" : {
-         "de" : "Reformation"
-      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
       "uri" : "https://www.ixtheo.de/classification/KAG"
    },
    {
       "notation" : [
          "KAH"
       ],
-      "uri" : "https://www.ixtheo.de/classification/KAH",
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
       "prefLabel" : {
          "de" : "Neuzeit"
       },
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/KA"
          }
       ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
+      "uri" : "https://www.ixtheo.de/classification/KAH",
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
       ]
    },
    {
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
       "uri" : "https://www.ixtheo.de/classification/KAJ",
       "prefLabel" : {
          "de" : "Neueste Zeit"
       },
-      "notation" : [
-         "KAJ"
-      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/KA"
@@ -1217,231 +1249,229 @@
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
+      "notation" : [
+         "KAJ"
+      ]
+   },
+   {
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
-      ]
-   },
-   {
-      "prefLabel" : {
-         "de" : "Kirchengeschichte: Regionen"
-      },
+      ],
       "uri" : "https://www.ixtheo.de/classification/KB",
-      "notation" : [
-         "KB"
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/K"
          }
       ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
+      "prefLabel" : {
+         "de" : "Kirchengeschichte: Regionen"
+      },
+      "notation" : [
+         "KB"
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
       ]
    },
    {
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/KB"
-         }
-      ],
+      "uri" : "https://www.ixtheo.de/classification/KBA",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
+      ],
+      "notation" : [
+         "KBA"
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
       ],
       "prefLabel" : {
          "de" : "Westeuropa"
       },
-      "uri" : "https://www.ixtheo.de/classification/KBA",
-      "notation" : [
-         "KBA"
-      ]
-   },
-   {
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/KB"
+         }
+      ]
+   },
+   {
+      "uri" : "https://www.ixtheo.de/classification/KBB",
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
       "notation" : [
          "KBB"
       ],
-      "prefLabel" : {
-         "de" : "Deutsches Sprachgebiet"
-      },
-      "uri" : "https://www.ixtheo.de/classification/KBB"
-   },
-   {
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
+      "prefLabel" : {
+         "de" : "Deutsches Sprachgebiet"
+      },
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/KB"
          }
+      ]
+   },
+   {
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
       ],
       "notation" : [
          "KBC"
       ],
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/KB"
+         }
+      ],
       "prefLabel" : {
          "de" : "Schweiz"
       },
-      "uri" : "https://www.ixtheo.de/classification/KBC"
-   },
-   {
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/KB"
-         }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
+      "uri" : "https://www.ixtheo.de/classification/KBC",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
-      ],
-      "uri" : "https://www.ixtheo.de/classification/KBD",
+      ]
+   },
+   {
       "prefLabel" : {
          "de" : "Beneluxländer"
       },
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/KB"
+         }
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
       "notation" : [
          "KBD"
-      ]
+      ],
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
+      "uri" : "https://www.ixtheo.de/classification/KBD"
    },
    {
       "uri" : "https://www.ixtheo.de/classification/KBE",
-      "prefLabel" : {
-         "de" : "Skandinavien"
-      },
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
       "notation" : [
          "KBE"
       ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/KB"
          }
       ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ]
+      "prefLabel" : {
+         "de" : "Skandinavien"
+      }
    },
    {
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/KB"
-         }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
+      "uri" : "https://www.ixtheo.de/classification/KBF",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
-      "uri" : "https://www.ixtheo.de/classification/KBF",
-      "prefLabel" : {
-         "de" : "Britische Inseln"
-      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
       "notation" : [
          "KBF"
-      ]
-   },
-   {
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
       ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/KB"
          }
+      ],
+      "prefLabel" : {
+         "de" : "Britische Inseln"
+      }
+   },
+   {
+      "prefLabel" : {
+         "de" : "Frankreich"
+      },
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/KB"
+         }
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
       ],
       "notation" : [
          "KBG"
       ],
-      "prefLabel" : {
-         "de" : "Frankreich"
-      },
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
       "uri" : "https://www.ixtheo.de/classification/KBG"
    },
    {
+      "uri" : "https://www.ixtheo.de/classification/KBH",
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
       "notation" : [
          "KBH"
       ],
-      "uri" : "https://www.ixtheo.de/classification/KBH",
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
       "prefLabel" : {
          "de" : "Iberische Halbinsel"
       },
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/KB"
          }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
       ]
    },
    {
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/KB"
-         }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
+      "uri" : "https://www.ixtheo.de/classification/KBJ",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
-      "uri" : "https://www.ixtheo.de/classification/KBJ",
-      "prefLabel" : {
-         "de" : "Italien"
-      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
       "notation" : [
          "KBJ"
-      ]
+      ],
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/KB"
+         }
+      ],
+      "prefLabel" : {
+         "de" : "Italien"
+      }
    },
    {
       "inScheme" : [
@@ -1449,38 +1479,38 @@
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
+      "uri" : "https://www.ixtheo.de/classification/KBK",
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/KB"
          }
       ],
+      "prefLabel" : {
+         "de" : "Osteuropa"
+      },
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
       "notation" : [
          "KBK"
-      ],
-      "uri" : "https://www.ixtheo.de/classification/KBK",
-      "prefLabel" : {
-         "de" : "Osteuropa"
-      }
+      ]
    },
    {
-      "prefLabel" : {
-         "de" : "Naher Osten"
-      },
-      "uri" : "https://www.ixtheo.de/classification/KBL",
       "notation" : [
          "KBL"
       ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
+      "prefLabel" : {
+         "de" : "Naher Osten"
+      },
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/KB"
          }
       ],
+      "uri" : "https://www.ixtheo.de/classification/KBL",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
@@ -1488,14 +1518,10 @@
       ]
    },
    {
+      "uri" : "https://www.ixtheo.de/classification/KBM",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/KB"
          }
       ],
       "type" : [
@@ -1504,31 +1530,35 @@
       "notation" : [
          "KBM"
       ],
-      "uri" : "https://www.ixtheo.de/classification/KBM",
       "prefLabel" : {
          "de" : "Asien"
-      }
+      },
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/KB"
+         }
+      ]
    },
    {
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "notation" : [
+         "KBN"
+      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/KB"
          }
       ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
+      "prefLabel" : {
+         "de" : "Schwarzafrika"
+      },
+      "uri" : "https://www.ixtheo.de/classification/KBN",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
-      ],
-      "uri" : "https://www.ixtheo.de/classification/KBN",
-      "prefLabel" : {
-         "de" : "Schwarzafrika"
-      },
-      "notation" : [
-         "KBN"
       ]
    },
    {
@@ -1537,21 +1567,21 @@
             "uri" : "https://www.ixtheo.de/classification/KB"
          }
       ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
-      "uri" : "https://www.ixtheo.de/classification/KBP",
       "prefLabel" : {
          "de" : "Amerika"
       },
       "notation" : [
          "KBP"
-      ]
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
+      "uri" : "https://www.ixtheo.de/classification/KBP"
    },
    {
       "inScheme" : [
@@ -1559,75 +1589,70 @@
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
+      "uri" : "https://www.ixtheo.de/classification/KBQ",
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/KB"
          }
       ],
-      "notation" : [
-         "KBQ"
-      ],
       "prefLabel" : {
          "de" : "Nordamerika"
       },
-      "uri" : "https://www.ixtheo.de/classification/KBQ"
+      "notation" : [
+         "KBQ"
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ]
    },
    {
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
       "notation" : [
          "KBR"
       ],
       "prefLabel" : {
          "de" : "Lateinamerika"
       },
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/KB"
+         }
+      ],
       "uri" : "https://www.ixtheo.de/classification/KBR",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
+      ]
+   },
+   {
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
       ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
+      "uri" : "https://www.ixtheo.de/classification/KBS",
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/KB"
          }
-      ]
-   },
-   {
-      "notation" : [
-         "KBS"
       ],
       "prefLabel" : {
          "de" : "Australien"
       },
-      "uri" : "https://www.ixtheo.de/classification/KBS",
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
+      "notation" : [
+         "KBS"
       ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/KB"
-         }
       ]
    },
    {
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
+      "prefLabel" : {
+         "de" : "Kirchengeschichte: Sachbereiche"
+      },
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/K"
@@ -1636,19 +1661,26 @@
       "notation" : [
          "KC"
       ],
-      "prefLabel" : {
-         "de" : "Kirchengeschichte: Sachbereiche"
-      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
       "uri" : "https://www.ixtheo.de/classification/KC"
    },
    {
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
       "uri" : "https://www.ixtheo.de/classification/KCA",
       "prefLabel" : {
          "de" : "Orden"
       },
-      "notation" : [
-         "KCA"
-      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/KC"
@@ -1657,37 +1689,43 @@
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
+      "notation" : [
+         "KCA"
       ]
    },
    {
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/KC"
-         }
-      ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
+      "notation" : [
+         "KCB"
       ],
       "prefLabel" : {
          "de" : "Papst"
       },
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/KC"
+         }
+      ],
       "uri" : "https://www.ixtheo.de/classification/KCB",
-      "notation" : [
-         "KCB"
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
       ]
    },
    {
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
       "notation" : [
          "KCC"
+      ],
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/KC"
+         }
       ],
       "prefLabel" : {
          "de" : "Konzil"
@@ -1697,67 +1735,53 @@
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/KC"
-         }
       ]
    },
    {
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
       "notation" : [
          "KCD"
       ],
       "prefLabel" : {
          "de" : "Hagiographie"
       },
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/KC"
+         }
+      ],
       "uri" : "https://www.ixtheo.de/classification/KCD",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/KC"
-         }
       ]
    },
    {
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
       "notation" : [
          "KD"
       ],
       "prefLabel" : {
          "de" : "Konfessionskunde"
       },
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/K"
+         }
+      ],
       "uri" : "https://www.ixtheo.de/classification/KD",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/K"
-         }
       ]
    },
    {
-      "notation" : [
-         "KDA"
-      ],
-      "prefLabel" : {
-         "de" : "Konfessionskunde"
-      },
       "uri" : "https://www.ixtheo.de/classification/KDA",
       "inScheme" : [
          {
@@ -1767,57 +1791,64 @@
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
+      "notation" : [
+         "KDA"
+      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/KD"
          }
-      ]
+      ],
+      "prefLabel" : {
+         "de" : "Konfessionskunde"
+      }
    },
    {
+      "uri" : "https://www.ixtheo.de/classification/KDB",
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
+      "notation" : [
+         "KDB"
+      ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/KD"
-         }
-      ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
       "prefLabel" : {
          "de" : "Katholische Kirche"
-      },
-      "uri" : "https://www.ixtheo.de/classification/KDB",
-      "notation" : [
-         "KDB"
-      ]
+      }
    },
    {
+      "uri" : "https://www.ixtheo.de/classification/KDC",
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
       "notation" : [
          "KDC"
       ],
-      "uri" : "https://www.ixtheo.de/classification/KDC",
       "prefLabel" : {
          "de" : "Altkatholische Kirche"
       },
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/KD"
          }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
       ]
    },
    {
+      "uri" : "https://www.ixtheo.de/classification/KDD",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
@@ -1825,11 +1856,6 @@
       ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/KD"
-         }
       ],
       "notation" : [
          "KDD"
@@ -1837,7 +1863,11 @@
       "prefLabel" : {
          "de" : "Evangelische Kirche"
       },
-      "uri" : "https://www.ixtheo.de/classification/KDD"
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/KD"
+         }
+      ]
    },
    {
       "inScheme" : [
@@ -1845,31 +1875,23 @@
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
+      "uri" : "https://www.ixtheo.de/classification/KDE",
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/KD"
          }
-      ],
-      "notation" : [
-         "KDE"
       ],
       "prefLabel" : {
          "de" : "Anglikanische Kirche"
       },
-      "uri" : "https://www.ixtheo.de/classification/KDE"
-   },
-   {
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/KD"
-         }
-      ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
+      "notation" : [
+         "KDE"
+      ]
+   },
+   {
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
@@ -1879,26 +1901,34 @@
       "prefLabel" : {
          "de" : "Orthodoxe Kirche"
       },
-      "notation" : [
-         "KDF"
-      ]
-   },
-   {
-      "uri" : "https://www.ixtheo.de/classification/KDG",
-      "prefLabel" : {
-         "de" : "Freikirche"
-      },
-      "notation" : [
-         "KDG"
-      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/KD"
          }
       ],
+      "notation" : [
+         "KDF"
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ]
+   },
+   {
+      "notation" : [
+         "KDG"
+      ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
+      "prefLabel" : {
+         "de" : "Freikirche"
+      },
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/KD"
+         }
+      ],
+      "uri" : "https://www.ixtheo.de/classification/KDG",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
@@ -1906,18 +1936,15 @@
       ]
    },
    {
-      "notation" : [
-         "KDH"
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
       ],
       "uri" : "https://www.ixtheo.de/classification/KDH",
       "prefLabel" : {
          "de" : "Christliche Sondergemeinschaften"
       },
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/KD"
@@ -1925,43 +1952,51 @@
       ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "notation" : [
+         "KDH"
       ]
    },
    {
-      "notation" : [
-         "KDJ"
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/KD"
+         }
       ],
       "prefLabel" : {
          "de" : "Ökumene"
       },
-      "uri" : "https://www.ixtheo.de/classification/KDJ",
+      "notation" : [
+         "KDJ"
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/KD"
-         }
-      ]
+      "uri" : "https://www.ixtheo.de/classification/KDJ"
    },
    {
+      "uri" : "https://www.ixtheo.de/classification/N",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
       ],
       "notation" : [
          "N"
       ],
-      "uri" : "https://www.ixtheo.de/classification/N",
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "topConceptOf" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
       "prefLabel" : {
          "de" : "Systematische Theologie"
       }
@@ -1970,51 +2005,56 @@
       "prefLabel" : {
          "de" : "Systematische Theologie"
       },
-      "uri" : "https://www.ixtheo.de/classification/NB",
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/N"
+         }
+      ],
       "notation" : [
          "NB"
       ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/N"
-         }
-      ],
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
-      ]
+      ],
+      "uri" : "https://www.ixtheo.de/classification/NB"
    },
    {
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
       ],
+      "uri" : "https://www.ixtheo.de/classification/NBA",
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/NB"
          }
       ],
+      "prefLabel" : {
+         "de" : "Dogmatik"
+      },
+      "notation" : [
+         "NBA"
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ]
+   },
+   {
+      "uri" : "https://www.ixtheo.de/classification/NBB",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
-      "prefLabel" : {
-         "de" : "Dogmatik"
-      },
-      "uri" : "https://www.ixtheo.de/classification/NBA",
-      "notation" : [
-         "NBA"
-      ]
-   },
-   {
-      "uri" : "https://www.ixtheo.de/classification/NBB",
-      "prefLabel" : {
-         "de" : "Offenbarung"
-      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
       "notation" : [
          "NBB"
       ],
@@ -2023,38 +2063,34 @@
             "uri" : "https://www.ixtheo.de/classification/NB"
          }
       ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ]
+      "prefLabel" : {
+         "de" : "Offenbarung"
+      }
    },
    {
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/NB"
-         }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
-      "uri" : "https://www.ixtheo.de/classification/NBC",
       "prefLabel" : {
          "de" : "Gott"
       },
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/NB"
+         }
+      ],
       "notation" : [
          "NBC"
-      ]
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
+      "uri" : "https://www.ixtheo.de/classification/NBC"
    },
    {
+      "uri" : "https://www.ixtheo.de/classification/NBD",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
@@ -2062,36 +2098,35 @@
       ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/NB"
-         }
       ],
       "notation" : [
          "NBD"
       ],
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/NB"
+         }
+      ],
       "prefLabel" : {
          "de" : "Schöpfung"
-      },
-      "uri" : "https://www.ixtheo.de/classification/NBD"
+      }
    },
    {
-      "prefLabel" : {
-         "de" : "Anthropologie"
-      },
-      "uri" : "https://www.ixtheo.de/classification/NBE",
-      "notation" : [
-         "NBE"
-      ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "notation" : [
+         "NBE"
       ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/NB"
          }
       ],
+      "prefLabel" : {
+         "de" : "Anthropologie"
+      },
+      "uri" : "https://www.ixtheo.de/classification/NBE",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
@@ -2104,9 +2139,10 @@
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
+      "uri" : "https://www.ixtheo.de/classification/NBF",
+      "prefLabel" : {
+         "de" : "Christologie"
+      },
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/NB"
@@ -2115,68 +2151,64 @@
       "notation" : [
          "NBF"
       ],
-      "prefLabel" : {
-         "de" : "Christologie"
-      },
-      "uri" : "https://www.ixtheo.de/classification/NBF"
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ]
    },
    {
-      "notation" : [
-         "NBG"
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/NB"
+         }
       ],
       "prefLabel" : {
          "de" : "Heiliger Geist"
       },
-      "uri" : "https://www.ixtheo.de/classification/NBG",
+      "notation" : [
+         "NBG"
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
+      "uri" : "https://www.ixtheo.de/classification/NBG"
+   },
+   {
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
       ],
+      "uri" : "https://www.ixtheo.de/classification/NBH",
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/NB"
          }
-      ]
-   },
-   {
-      "notation" : [
-         "NBH"
       ],
-      "uri" : "https://www.ixtheo.de/classification/NBH",
       "prefLabel" : {
          "de" : "Angelologie"
       },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "notation" : [
+         "NBH"
+      ]
+   },
+   {
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/NB"
-         }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ]
-   },
-   {
-      "notation" : [
-         "NBJ"
       ],
       "uri" : "https://www.ixtheo.de/classification/NBJ",
       "prefLabel" : {
          "de" : "Mariologie"
       },
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/NB"
@@ -2184,61 +2216,60 @@
       ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "notation" : [
+         "NBJ"
       ]
    },
    {
+      "uri" : "https://www.ixtheo.de/classification/NBK",
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
       "notation" : [
          "NBK"
       ],
-      "uri" : "https://www.ixtheo.de/classification/NBK",
-      "prefLabel" : {
-         "de" : "Soteriologie"
-      },
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
       ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/NB"
          }
       ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ]
+      "prefLabel" : {
+         "de" : "Soteriologie"
+      }
    },
    {
-      "notation" : [
-         "NBL"
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
+      "uri" : "https://www.ixtheo.de/classification/NBL",
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/NB"
+         }
       ],
       "prefLabel" : {
          "de" : "Prädestination"
       },
-      "uri" : "https://www.ixtheo.de/classification/NBL",
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
+      "notation" : [
+         "NBL"
       ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/NB"
-         }
       ]
    },
    {
+      "uri" : "https://www.ixtheo.de/classification/NBM",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/NB"
          }
       ],
       "type" : [
@@ -2247,27 +2278,9 @@
       "notation" : [
          "NBM"
       ],
-      "uri" : "https://www.ixtheo.de/classification/NBM",
       "prefLabel" : {
          "de" : "Rechtfertigungslehre"
-      }
-   },
-   {
-      "notation" : [
-         "NBN"
-      ],
-      "prefLabel" : {
-         "de" : "Ekklesiologie"
       },
-      "uri" : "https://www.ixtheo.de/classification/NBN",
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/NB"
@@ -2275,14 +2288,32 @@
       ]
    },
    {
+      "prefLabel" : {
+         "de" : "Ekklesiologie"
+      },
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/NB"
+         }
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "notation" : [
+         "NBN"
+      ],
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
-      "broader" : [
+      "uri" : "https://www.ixtheo.de/classification/NBN"
+   },
+   {
+      "uri" : "https://www.ixtheo.de/classification/NBP",
+      "inScheme" : [
          {
-            "uri" : "https://www.ixtheo.de/classification/NB"
+            "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
       "type" : [
@@ -2291,27 +2322,31 @@
       "notation" : [
          "NBP"
       ],
-      "uri" : "https://www.ixtheo.de/classification/NBP",
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/NB"
+         }
+      ],
       "prefLabel" : {
          "de" : "Sakrament"
       }
    },
    {
-      "prefLabel" : {
-         "de" : "Eschatologie"
-      },
-      "uri" : "https://www.ixtheo.de/classification/NBQ",
       "notation" : [
          "NBQ"
       ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
+      "prefLabel" : {
+         "de" : "Eschatologie"
+      },
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/NB"
          }
       ],
+      "uri" : "https://www.ixtheo.de/classification/NBQ",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
@@ -2319,52 +2354,60 @@
       ]
    },
    {
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/N"
-         }
-      ],
+      "uri" : "https://www.ixtheo.de/classification/NC",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "notation" : [
+         "NC"
       ],
       "prefLabel" : {
          "de" : "Ethik; Moraltheologie"
       },
-      "uri" : "https://www.ixtheo.de/classification/NC",
-      "notation" : [
-         "NC"
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/N"
+         }
       ]
    },
    {
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
       "uri" : "https://www.ixtheo.de/classification/NCA",
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/NC"
+         }
+      ],
       "prefLabel" : {
          "de" : "Ethik"
       },
       "notation" : [
          "NCA"
       ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/NC"
-         }
-      ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
       ]
    },
    {
       "notation" : [
          "NCB"
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/NC"
+         }
       ],
       "prefLabel" : {
          "de" : "Individualethik"
@@ -2374,14 +2417,6 @@
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/NC"
-         }
       ]
    },
    {
@@ -2390,42 +2425,64 @@
             "uri" : "https://www.ixtheo.de/classification/NC"
          }
       ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
-      "uri" : "https://www.ixtheo.de/classification/NCC",
       "prefLabel" : {
          "de" : "Sozialethik"
       },
       "notation" : [
          "NCC"
-      ]
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
+      "uri" : "https://www.ixtheo.de/classification/NCC"
    },
    {
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
+      "notation" : [
+         "NCD"
+      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/NC"
-         }
-      ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
       "prefLabel" : {
          "de" : "Politische Ethik"
       },
       "uri" : "https://www.ixtheo.de/classification/NCD",
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ]
+   },
+   {
       "notation" : [
-         "NCD"
+         "NCE"
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/NC"
+         }
+      ],
+      "prefLabel" : {
+         "de" : "Wirtschaftsethik"
+      },
+      "uri" : "https://www.ixtheo.de/classification/NCE",
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
       ]
    },
    {
@@ -2434,73 +2491,45 @@
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
+      "uri" : "https://www.ixtheo.de/classification/NCF",
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/NC"
-         }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "notation" : [
-         "NCE"
-      ],
-      "uri" : "https://www.ixtheo.de/classification/NCE",
-      "prefLabel" : {
-         "de" : "Wirtschaftsethik"
-      }
-   },
-   {
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/NC"
-         }
-      ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
       "prefLabel" : {
          "de" : "Sexualethik"
       },
-      "uri" : "https://www.ixtheo.de/classification/NCF",
       "notation" : [
          "NCF"
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
       ]
    },
    {
       "prefLabel" : {
          "de" : "Ökologische Ethik ; Schöpfungsethik"
       },
-      "uri" : "https://www.ixtheo.de/classification/NCG",
-      "notation" : [
-         "NCG"
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/NC"
          }
       ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "notation" : [
+         "NCG"
+      ],
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
-      ]
+      ],
+      "uri" : "https://www.ixtheo.de/classification/NCG"
    },
    {
-      "notation" : [
-         "NCH"
-      ],
-      "prefLabel" : {
-         "de" : "Medizinische Ethik"
-      },
       "uri" : "https://www.ixtheo.de/classification/NCH",
       "inScheme" : [
          {
@@ -2510,31 +2539,103 @@
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
+      "notation" : [
+         "NCH"
+      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/NC"
          }
-      ]
+      ],
+      "prefLabel" : {
+         "de" : "Medizinische Ethik"
+      }
    },
    {
-      "uri" : "https://www.ixtheo.de/classification/NCJ",
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/NC"
+         }
+      ],
       "prefLabel" : {
          "de" : "Wissenschaftsethik"
       },
       "notation" : [
          "NCJ"
       ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/NC"
-         }
-      ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
+      "uri" : "https://www.ixtheo.de/classification/NCJ"
+   },
+   {
+      "uri" : "https://www.ixtheo.de/classification/R",
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
+      "notation" : [
+         "R"
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "topConceptOf" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
+      "prefLabel" : {
+         "de" : "Praktische Theologie"
+      }
+   },
+   {
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/R"
+         }
+      ],
+      "prefLabel" : {
+         "de" : "Praktische Theologie"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "notation" : [
+         "RA"
+      ],
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
+      "uri" : "https://www.ixtheo.de/classification/RA"
+   },
+   {
+      "uri" : "https://www.ixtheo.de/classification/RB",
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
+      "notation" : [
+         "RB"
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "prefLabel" : {
+         "de" : "Kirchliches Amt"
+      },
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/R"
          }
       ]
    },
@@ -2544,70 +2645,10 @@
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "notation" : [
-         "R"
-      ],
+      "uri" : "https://www.ixtheo.de/classification/RC",
       "prefLabel" : {
-         "de" : "Praktische Theologie"
+         "de" : "Liturgik"
       },
-      "uri" : "https://www.ixtheo.de/classification/R"
-   },
-   {
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/R"
-         }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "notation" : [
-         "RA"
-      ],
-      "uri" : "https://www.ixtheo.de/classification/RA",
-      "prefLabel" : {
-         "de" : "Praktische Theologie"
-      }
-   },
-   {
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/R"
-         }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "notation" : [
-         "RB"
-      ],
-      "uri" : "https://www.ixtheo.de/classification/RB",
-      "prefLabel" : {
-         "de" : "Kirchliches Amt"
-      }
-   },
-   {
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/R"
@@ -2616,86 +2657,80 @@
       "notation" : [
          "RC"
       ],
-      "prefLabel" : {
-         "de" : "Liturgik"
-      },
-      "uri" : "https://www.ixtheo.de/classification/RC"
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ]
    },
    {
-      "prefLabel" : {
-         "de" : "Hymnologie"
-      },
       "uri" : "https://www.ixtheo.de/classification/RD",
-      "notation" : [
-         "RD"
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
       ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
+      "notation" : [
+         "RD"
+      ],
+      "prefLabel" : {
+         "de" : "Hymnologie"
+      },
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/R"
-         }
-      ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
          }
       ]
    },
    {
+      "uri" : "https://www.ixtheo.de/classification/RE",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
+      ],
+      "notation" : [
+         "RE"
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
       ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/R"
          }
       ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "notation" : [
-         "RE"
-      ],
-      "uri" : "https://www.ixtheo.de/classification/RE",
       "prefLabel" : {
          "de" : "Homiletik"
       }
    },
    {
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
       "uri" : "https://www.ixtheo.de/classification/RF",
       "prefLabel" : {
          "de" : "Katechetik"
       },
-      "notation" : [
-         "RF"
-      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/R"
          }
       ],
+      "notation" : [
+         "RF"
+      ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
       ]
    },
    {
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
+      "prefLabel" : {
+         "de" : "Seelsorge"
+      },
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/R"
@@ -2704,41 +2739,48 @@
       "notation" : [
          "RG"
       ],
-      "prefLabel" : {
-         "de" : "Seelsorge"
-      },
-      "uri" : "https://www.ixtheo.de/classification/RG"
-   },
-   {
-      "prefLabel" : {
-         "de" : "Evangelisation"
-      },
-      "uri" : "https://www.ixtheo.de/classification/RH",
-      "notation" : [
-         "RH"
-      ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/R"
-         }
       ],
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
-      ]
+      ],
+      "uri" : "https://www.ixtheo.de/classification/RG"
    },
    {
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/R"
+         }
+      ],
+      "prefLabel" : {
+         "de" : "Evangelisation"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "notation" : [
+         "RH"
+      ],
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
+      "uri" : "https://www.ixtheo.de/classification/RH"
+   },
+   {
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
       "uri" : "https://www.ixtheo.de/classification/RJ",
       "prefLabel" : {
          "de" : "Mission"
       },
-      "notation" : [
-         "RJ"
-      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/R"
@@ -2747,35 +2789,22 @@
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
+      "notation" : [
+         "RJ"
       ]
    },
    {
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/R"
-         }
-      ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
       "prefLabel" : {
          "de" : "Diakonik"
       },
-      "uri" : "https://www.ixtheo.de/classification/RK",
       "notation" : [
          "RK"
-      ]
-   },
-   {
+      ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
@@ -2784,63 +2813,81 @@
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
-      "uri" : "https://www.ixtheo.de/classification/S",
+      "uri" : "https://www.ixtheo.de/classification/RK"
+   },
+   {
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "notation" : [
+         "S"
+      ],
+      "topConceptOf" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
       "prefLabel" : {
          "de" : "Kirchenrecht"
       },
-      "notation" : [
-         "S"
+      "uri" : "https://www.ixtheo.de/classification/S",
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
       ]
    },
    {
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/S"
+         }
+      ],
+      "prefLabel" : {
+         "de" : "Kirchenrecht"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
       "notation" : [
          "SA"
       ],
-      "prefLabel" : {
-         "de" : "Kirchenrecht"
-      },
-      "uri" : "https://www.ixtheo.de/classification/SA",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/S"
-         }
-      ]
+      "uri" : "https://www.ixtheo.de/classification/SA"
    },
    {
+      "uri" : "https://www.ixtheo.de/classification/SB",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/S"
-         }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
       ],
       "notation" : [
          "SB"
       ],
-      "uri" : "https://www.ixtheo.de/classification/SB",
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
       "prefLabel" : {
          "de" : "Kanonisches Recht"
-      }
+      },
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/S"
+         }
+      ]
    },
    {
-      "prefLabel" : {
-         "de" : "Kirchenrecht ; Anglikanische Kirche"
-      },
       "uri" : "https://www.ixtheo.de/classification/SC",
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
       "notation" : [
          "SC"
       ],
@@ -2852,221 +2899,224 @@
             "uri" : "https://www.ixtheo.de/classification/S"
          }
       ],
+      "prefLabel" : {
+         "de" : "Kirchenrecht ; Anglikanische Kirche"
+      }
+   },
+   {
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
-      ]
-   },
-   {
-      "notation" : [
-         "SD"
       ],
       "uri" : "https://www.ixtheo.de/classification/SD",
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/S"
+         }
+      ],
       "prefLabel" : {
          "de" : "Kirchenrecht ; Evangelische Kirche"
       },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "notation" : [
+         "SD"
+      ]
+   },
+   {
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/S"
-         }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ]
-   },
-   {
-      "notation" : [
-         "SE"
-      ],
+      "uri" : "https://www.ixtheo.de/classification/SE",
       "prefLabel" : {
          "de" : "Kirchenrecht ; Orthodoxe Kirche"
       },
-      "uri" : "https://www.ixtheo.de/classification/SE",
-      "inScheme" : [
+      "broader" : [
          {
-            "uri" : "https://www.ixtheo.de/classification/"
+            "uri" : "https://www.ixtheo.de/classification/S"
          }
       ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/S"
-         }
+      "notation" : [
+         "SE"
       ]
    },
    {
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
+      "uri" : "https://www.ixtheo.de/classification/T",
       "prefLabel" : {
          "de" : "(Profan-) Geschichte"
       },
-      "uri" : "https://www.ixtheo.de/classification/T",
       "notation" : [
          "T"
       ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
-      "inScheme" : [
+      "topConceptOf" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ]
    },
    {
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/T"
-         }
-      ],
+      "uri" : "https://www.ixtheo.de/classification/TA",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "notation" : [
+         "TA"
       ],
       "prefLabel" : {
          "de" : "Geschichte"
       },
-      "uri" : "https://www.ixtheo.de/classification/TA",
-      "notation" : [
-         "TA"
-      ]
-   },
-   {
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/T"
          }
-      ],
-      "inScheme" : [
+      ]
+   },
+   {
+      "broader" : [
          {
-            "uri" : "https://www.ixtheo.de/classification/"
+            "uri" : "https://www.ixtheo.de/classification/T"
          }
       ],
       "prefLabel" : {
          "de" : "Antike"
       },
-      "uri" : "https://www.ixtheo.de/classification/TB",
-      "notation" : [
-         "TB"
-      ]
-   },
-   {
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/T"
-         }
-      ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
+      "notation" : [
+         "TB"
+      ],
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
+      "uri" : "https://www.ixtheo.de/classification/TB"
+   },
+   {
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
       "uri" : "https://www.ixtheo.de/classification/TC",
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/T"
+         }
+      ],
       "prefLabel" : {
          "de" : "Vorchristliche Zeit"
       },
       "notation" : [
          "TC"
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
       ]
    },
    {
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
+      "uri" : "https://www.ixtheo.de/classification/TD",
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/T"
+         }
+      ],
       "prefLabel" : {
          "de" : "Spätantike"
       },
-      "uri" : "https://www.ixtheo.de/classification/TD",
       "notation" : [
          "TD"
       ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/T"
-         }
-      ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
       ]
    },
    {
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/T"
-         }
-      ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
       "notation" : [
          "TE"
       ],
-      "uri" : "https://www.ixtheo.de/classification/TE",
       "prefLabel" : {
          "de" : "Mittelalter"
-      }
-   },
-   {
+      },
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/T"
+         }
+      ],
+      "uri" : "https://www.ixtheo.de/classification/TE",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "broader" : [
+      ]
+   },
+   {
+      "uri" : "https://www.ixtheo.de/classification/TF",
+      "inScheme" : [
          {
-            "uri" : "https://www.ixtheo.de/classification/T"
+            "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
       "notation" : [
          "TF"
       ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/T"
+         }
+      ],
       "prefLabel" : {
          "de" : "Frühmittelalter"
-      },
-      "uri" : "https://www.ixtheo.de/classification/TF"
+      }
    },
    {
-      "uri" : "https://www.ixtheo.de/classification/TG",
-      "prefLabel" : {
-         "de" : "Hochmittelalter"
-      },
       "notation" : [
          "TG"
       ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "prefLabel" : {
+         "de" : "Hochmittelalter"
+      },
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/T"
          }
       ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
+      "uri" : "https://www.ixtheo.de/classification/TG",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
@@ -3074,6 +3124,9 @@
       ]
    },
    {
+      "prefLabel" : {
+         "de" : "Spätmittelalter"
+      },
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/T"
@@ -3082,35 +3135,32 @@
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
-      "uri" : "https://www.ixtheo.de/classification/TH",
-      "prefLabel" : {
-         "de" : "Spätmittelalter"
-      },
       "notation" : [
          "TH"
-      ]
+      ],
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
+      "uri" : "https://www.ixtheo.de/classification/TH"
    },
    {
-      "prefLabel" : {
-         "de" : "Neuzeit"
-      },
-      "uri" : "https://www.ixtheo.de/classification/TJ",
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
       "notation" : [
          "TJ"
       ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
+      "prefLabel" : {
+         "de" : "Neuzeit"
+      },
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/T"
          }
       ],
+      "uri" : "https://www.ixtheo.de/classification/TJ",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
@@ -3118,29 +3168,29 @@
       ]
    },
    {
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/T"
          }
       ],
+      "prefLabel" : {
+         "de" : "Neueste Zeit"
+      },
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
       "notation" : [
          "TK"
       ],
-      "uri" : "https://www.ixtheo.de/classification/TK",
-      "prefLabel" : {
-         "de" : "Neueste Zeit"
-      }
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
+      "uri" : "https://www.ixtheo.de/classification/TK"
    },
    {
-      "inScheme" : [
+      "topConceptOf" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
@@ -3151,31 +3201,36 @@
       "notation" : [
          "V"
       ],
-      "uri" : "https://www.ixtheo.de/classification/V",
       "prefLabel" : {
          "de" : "Philosophie"
-      }
-   },
-   {
+      },
+      "uri" : "https://www.ixtheo.de/classification/V",
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
+      ]
+   },
+   {
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/V"
          }
       ],
-      "notation" : [
-         "VA"
-      ],
       "prefLabel" : {
          "de" : "Philosophie"
       },
+      "notation" : [
+         "VA"
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
       "uri" : "https://www.ixtheo.de/classification/VA"
    },
    {
@@ -3184,44 +3239,47 @@
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
+      "uri" : "https://www.ixtheo.de/classification/VB",
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/V"
          }
       ],
+      "prefLabel" : {
+         "de" : "Hermeneutik ; Philosophie"
+      },
+      "notation" : [
+         "VB"
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ]
+   },
+   {
+      "topConceptOf" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
       "notation" : [
-         "VB"
-      ],
-      "uri" : "https://www.ixtheo.de/classification/VB",
-      "prefLabel" : {
-         "de" : "Hermeneutik ; Philosophie"
-      }
-   },
-   {
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
+         "X"
       ],
       "prefLabel" : {
          "de" : "Recht allgemein"
       },
       "uri" : "https://www.ixtheo.de/classification/X",
-      "notation" : [
-         "X"
-      ]
-   },
-   {
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
+      ]
+   },
+   {
+      "notation" : [
+         "XA"
       ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
@@ -3231,41 +3289,24 @@
             "uri" : "https://www.ixtheo.de/classification/X"
          }
       ],
-      "notation" : [
-         "XA"
-      ],
       "prefLabel" : {
          "de" : "Recht"
       },
-      "uri" : "https://www.ixtheo.de/classification/XA"
+      "uri" : "https://www.ixtheo.de/classification/XA",
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ]
    },
    {
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
-      "uri" : "https://www.ixtheo.de/classification/Z",
-      "prefLabel" : {
-         "de" : "Sozialwissenschaften"
-      },
       "notation" : [
          "Z"
-      ]
-   },
-   {
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
       ],
-      "broader" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/Z"
-         }
-      ],
-      "inScheme" : [
+      "topConceptOf" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
@@ -3273,34 +3314,45 @@
       "prefLabel" : {
          "de" : "Sozialwissenschaften"
       },
-      "uri" : "https://www.ixtheo.de/classification/ZA",
-      "notation" : [
-         "ZA"
+      "uri" : "https://www.ixtheo.de/classification/Z",
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
       ]
    },
    {
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/Z"
+         }
+      ],
+      "prefLabel" : {
+         "de" : "Sozialwissenschaften"
+      },
+      "notation" : [
+         "ZA"
+      ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "broader" : [
+      "uri" : "https://www.ixtheo.de/classification/ZA"
+   },
+   {
+      "uri" : "https://www.ixtheo.de/classification/ZB",
+      "inScheme" : [
          {
-            "uri" : "https://www.ixtheo.de/classification/Z"
+            "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
       "notation" : [
          "ZB"
       ],
-      "prefLabel" : {
-         "de" : "Soziologie"
-      },
-      "uri" : "https://www.ixtheo.de/classification/ZB"
-   },
-   {
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
       ],
@@ -3309,62 +3361,75 @@
             "uri" : "https://www.ixtheo.de/classification/Z"
          }
       ],
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
+      "prefLabel" : {
+         "de" : "Soziologie"
+      }
+   },
+   {
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "notation" : [
+         "ZC"
       ],
       "prefLabel" : {
          "de" : "Politik allgemein"
       },
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/Z"
+         }
+      ],
       "uri" : "https://www.ixtheo.de/classification/ZC",
-      "notation" : [
-         "ZC"
-      ]
-   },
-   {
       "inScheme" : [
          {
             "uri" : "https://www.ixtheo.de/classification/"
          }
-      ],
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "broader" : [
+      ]
+   },
+   {
+      "uri" : "https://www.ixtheo.de/classification/ZD",
+      "inScheme" : [
          {
-            "uri" : "https://www.ixtheo.de/classification/Z"
+            "uri" : "https://www.ixtheo.de/classification/"
          }
       ],
       "notation" : [
          "ZD"
       ],
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
       "prefLabel" : {
          "de" : "Psychologie"
       },
-      "uri" : "https://www.ixtheo.de/classification/ZD"
+      "broader" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/Z"
+         }
+      ]
    },
    {
-      "notation" : [
-         "ZF"
-      ],
-      "uri" : "https://www.ixtheo.de/classification/ZF",
-      "prefLabel" : {
-         "de" : "Pädagogik"
-      },
-      "inScheme" : [
-         {
-            "uri" : "https://www.ixtheo.de/classification/"
-         }
-      ],
       "broader" : [
          {
             "uri" : "https://www.ixtheo.de/classification/Z"
          }
       ],
+      "prefLabel" : {
+         "de" : "Pädagogik"
+      },
+      "notation" : [
+         "ZF"
+      ],
       "type" : [
          "http://www.w3.org/2004/02/skos/core#Concept"
-      ]
+      ],
+      "inScheme" : [
+         {
+            "uri" : "https://www.ixtheo.de/classification/"
+         }
+      ],
+      "uri" : "https://www.ixtheo.de/classification/ZF"
    }
 ]
 
