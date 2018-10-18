@@ -1,3 +1,7 @@
+# jskos-data
+
+[![Build Status](https://travis-ci.com/gbv/jskos-data.svg?branch=master)](https://travis-ci.com/gbv/jskos-data)
+
 This repository contains a collection of **Knowledge Organization Systems (KOS)
 encoded in [JSKOS data format](https://gbv.github.io/jskos/)**. The collection
 is part of [project coli-conc](https://coli-conc.gbv.de/).
@@ -16,13 +20,13 @@ The files have partly been created with
 
 ## Contents
 
-* **jita** - JITA Classification System of Library and Information Science
 * **gnd** - Gemeinsame Normdatei
 * **fundertype** - Funding Bodies of the German ISIL Registry (from [vocabs])
 * **stocksize** - Stock Size Classification of the German ISIL Registry (from [vocabs])
 * **libtype** - Bibliothekstypen gemäß dem Sigelverzeichnis (from [vocabs])
 * **nwbib** - Raumsystematik der Nordrhein-Westfälischen Bibliographie (from [vocabs])
 * **bartoc-types** - BARTOC KOS types (from [BARTOC])
+* **ixtheo**
 
 [vocabs]: https://github.com/lobid/vocabs
 [BARTOC]: http://bartoc.org/
