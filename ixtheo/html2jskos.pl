@@ -25,6 +25,7 @@ while (<>) {
         notation  => [$notation],
         prefLabel => { $language => $label },
         inScheme  => [ { uri => $base } ],
+        type      => ["http://www.w3.org/2004/02/skos/core#Concept"],
     );
 
     if ( length $notation > 1 ) {
