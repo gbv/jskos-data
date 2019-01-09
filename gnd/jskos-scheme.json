@@ -24,5 +24,6 @@
    "type" : [
       "http://www.w3.org/2004/02/skos/core#ConceptScheme"
    ],
-   "uri" : "http://d-nb.info/gnd/7749153-1"
+   "uri" : "http://d-nb.info/gnd/7749153-1",
+   "languages": [ "de" ]
 }

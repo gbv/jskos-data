@@ -15,5 +15,6 @@
       "http://www.w3.org/2004/02/skos/core#ConceptScheme"
    ],
    "uri" : "http://bartoc.org/en/node/1787",
-   "url" : "http://numismatics.org/ocre/"
+   "url" : "http://numismatics.org/ocre/",
+   "languages": [ "en" ]
 }

@@ -57,6 +57,7 @@
    "type" : [
       "http://www.w3.org/2004/02/skos/core#ConceptScheme"
    ],
-   "uri" : "http://purl.org/lobid/nwbib-spatial"
+   "uri" : "http://purl.org/lobid/nwbib-spatial",
+   "languages": [ "de" ]
 }
 

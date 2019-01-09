@@ -29,11 +29,12 @@
       "prefLabel": {
         "de": "Index theologicus"
       }
-    } 
+    }
   ],
   "license": [
     { "uri": "http://creativecommons.org/publicdomain/zero/1.0/" }
   ],
   "url": "https://www.ixtheo.de/IxTheoClassification",
-  "type": [ "http://www.w3.org/2004/02/skos/core#ConceptScheme" ]
+  "type": [ "http://www.w3.org/2004/02/skos/core#ConceptScheme" ],
+  "languages": [ "de" ]
 }
