@@ -1,0 +1,5 @@
+*.gz
+*.xml
+*.breaker
+*.mcstats
+*.ndjson

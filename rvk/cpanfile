@@ -1,0 +1,3 @@
+requires 'Catmandu';
+requires 'Catmandu::MARC';
+requires 'Catmandu::Breaker';
