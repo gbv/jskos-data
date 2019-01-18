@@ -1,0 +1,34 @@
+{
+  "uri": "http://nomisma.org/id/",
+  "notation": [
+    "NOMISMA"
+  ],
+  "prefLabel": {
+    "en": "Nomisma"
+  },
+  "languages": [
+    "en"
+  ],
+  "identifier": [
+    "http://bartoc.org/en/node/1822",
+    "http://www.wikidata.org/entity/Q24578999"
+  ],
+  "license": [
+    {
+      "uri": "http://creativecommons.org/licenses/by/3.0/"
+    }
+  ],
+  "publisher": [
+    {
+      "prefLabel": {
+        "en": "Nomisma.org"
+      },
+      "altLabel": {
+        "en": [
+          "Nomisma"
+        ]
+      },
+      "url": "http://nomisma.org"
+    }
+  ]
+}
