@@ -1,0 +1,247 @@
+[
+   {
+      "inScheme" : [
+         "http://w3id.org/nkos/nkostype"
+      ],
+      "prefLabel" : {
+         "en" : "authority file"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://w3id.org/nkos/nkostype#authority_file"
+   },
+   {
+      "inScheme" : [
+         "http://w3id.org/nkos/nkostype"
+      ],
+      "prefLabel" : {
+         "en" : "categorization schema"
+      },
+      "scopeNote" : {
+         "en" : [
+            "schedule of concepts and pre-coordinated combinations of concepts, arranged by classification"
+         ]
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://w3id.org/nkos/nkostype#categorization_schema"
+   },
+   {
+      "inScheme" : [
+         "http://w3id.org/nkos/nkostype"
+      ],
+      "prefLabel" : {
+         "en" : "classification schema"
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://w3id.org/nkos/nkostype#classification_schema"
+   },
+   {
+      "inScheme" : [
+         "http://w3id.org/nkos/nkostype"
+      ],
+      "prefLabel" : {
+         "en" : "dictionary"
+      },
+      "scopeNote" : {
+         "en" : [
+            "a reference source containing words usually alphabetically arranged along with information about their forms, pronunciations, functions, etymologies, meanings, and syntactical and idiomatic uses"
+         ]
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://w3id.org/nkos/nkostype#dictionary"
+   },
+   {
+      "inScheme" : [
+         "http://w3id.org/nkos/nkostype"
+      ],
+      "prefLabel" : {
+         "en" : "gazetteer"
+      },
+      "scopeNote" : {
+         "en" : [
+            "geospatial dictionary of named and typed places"
+         ]
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://w3id.org/nkos/nkostype#gazetteer"
+   },
+   {
+      "inScheme" : [
+         "http://w3id.org/nkos/nkostype"
+      ],
+      "prefLabel" : {
+         "en" : "glossary"
+      },
+      "scopeNote" : {
+         "en" : [
+            "a collection of textual glosses or of specialized terms with their meanings"
+         ]
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://w3id.org/nkos/nkostype#glossary"
+   },
+   {
+      "inScheme" : [
+         "http://w3id.org/nkos/nkostype"
+      ],
+      "prefLabel" : {
+         "en" : "list"
+      },
+      "scopeNote" : {
+         "en" : [
+            "a limited set of terms arranged as a simple alphabetical list or in some other logically evident way; containing no relationships of any kind"
+         ]
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://w3id.org/nkos/nkostype#list"
+   },
+   {
+      "inScheme" : [
+         "http://w3id.org/nkos/nkostype"
+      ],
+      "prefLabel" : {
+         "en" : "name authority list"
+      },
+      "scopeNote" : {
+         "en" : [
+            "controlled vocabulary for use in naming particular entities consistently"
+         ]
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://w3id.org/nkos/nkostype#name_authority_list"
+   },
+   {
+      "inScheme" : [
+         "http://w3id.org/nkos/nkostype"
+      ],
+      "prefLabel" : {
+         "en" : "ontology"
+      },
+      "scopeNote" : {
+         "en" : [
+            "A formal model that allows knowledge to be represented for a specific domain. An ontology describes the types of things that exist (classes), the relationships between them (properties) and the logical ways those classes and properties can be used together (axioms)"
+         ]
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://w3id.org/nkos/nkostype#ontology"
+   },
+   {
+      "inScheme" : [
+         "http://w3id.org/nkos/nkostype"
+      ],
+      "prefLabel" : {
+         "en" : "semantic network"
+      },
+      "scopeNote" : {
+         "en" : [
+            "set of terms representing concepts, modeled as the nodes in a network of variable relationship types"
+         ]
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://w3id.org/nkos/nkostype#semantic_network"
+   },
+   {
+      "inScheme" : [
+         "http://w3id.org/nkos/nkostype"
+      ],
+      "prefLabel" : {
+         "en" : "subject heading scheme"
+      },
+      "scopeNote" : {
+         "en" : [
+            "structured vocabulary comprising terms available for subject indexing, plus rules for combining them into pre-coordinated strings of terms where necessary"
+         ]
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://w3id.org/nkos/nkostype#subject_heading_scheme"
+   },
+   {
+      "inScheme" : [
+         "http://w3id.org/nkos/nkostype"
+      ],
+      "prefLabel" : {
+         "en" : "synonym ring"
+      },
+      "scopeNote" : {
+         "en" : [
+            "set of synonymous or almost synonymous terms, any of which can be used to refer to a particular concept"
+         ]
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://w3id.org/nkos/nkostype#synonym_ring"
+   },
+   {
+      "inScheme" : [
+         "http://w3id.org/nkos/nkostype"
+      ],
+      "prefLabel" : {
+         "en" : "taxonomy"
+      },
+      "scopeNote" : {
+         "en" : [
+            "scheme of categories and subcategories that can be used to sort and otherwise organize items of knowledge or information"
+         ]
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://w3id.org/nkos/nkostype#taxonomy"
+   },
+   {
+      "inScheme" : [
+         "http://w3id.org/nkos/nkostype"
+      ],
+      "prefLabel" : {
+         "en" : "terminology"
+      },
+      "scopeNote" : {
+         "en" : [
+            "set of designations belonging to one special language [ISO 1087-1:2000, definition 3.5.1]"
+         ]
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://w3id.org/nkos/nkostype#terminology"
+   },
+   {
+      "inScheme" : [
+         "http://w3id.org/nkos/nkostype"
+      ],
+      "prefLabel" : {
+         "en" : "thesaurus"
+      },
+      "scopeNote" : {
+         "en" : [
+            "controlled and structured vocabulary in which concepts are represented by terms, organized so that relationships between concepts are made explicit, and preferred terms are accompanied by lead-in entries for synonyms or quasi-synonyms"
+         ]
+      },
+      "type" : [
+         "http://www.w3.org/2004/02/skos/core#Concept"
+      ],
+      "uri" : "http://w3id.org/nkos/nkostype#thesaurus"
+   }
+]
