@@ -1,19 +1,9 @@
 [
    {
       "inScheme" : [
-         "http://w3id.org/nkos/nkostype"
-      ],
-      "prefLabel" : {
-         "en" : "authority file"
-      },
-      "type" : [
-         "http://www.w3.org/2004/02/skos/core#Concept"
-      ],
-      "uri" : "http://w3id.org/nkos/nkostype#authority_file"
-   },
-   {
-      "inScheme" : [
-         "http://w3id.org/nkos/nkostype"
+         {
+            "uri" : "http://w3id.org/nkos/nkostype"
+         }
       ],
       "prefLabel" : {
          "en" : "categorization schema"
@@ -30,7 +20,9 @@
    },
    {
       "inScheme" : [
-         "http://w3id.org/nkos/nkostype"
+         {
+            "uri" : "http://w3id.org/nkos/nkostype"
+         }
       ],
       "prefLabel" : {
          "en" : "classification schema"
@@ -42,7 +34,9 @@
    },
    {
       "inScheme" : [
-         "http://w3id.org/nkos/nkostype"
+         {
+            "uri" : "http://w3id.org/nkos/nkostype"
+         }
       ],
       "prefLabel" : {
          "en" : "dictionary"
@@ -59,7 +53,9 @@
    },
    {
       "inScheme" : [
-         "http://w3id.org/nkos/nkostype"
+         {
+            "uri" : "http://w3id.org/nkos/nkostype"
+         }
       ],
       "prefLabel" : {
          "en" : "gazetteer"
@@ -76,7 +72,9 @@
    },
    {
       "inScheme" : [
-         "http://w3id.org/nkos/nkostype"
+         {
+            "uri" : "http://w3id.org/nkos/nkostype"
+         }
       ],
       "prefLabel" : {
          "en" : "glossary"
@@ -93,7 +91,9 @@
    },
    {
       "inScheme" : [
-         "http://w3id.org/nkos/nkostype"
+         {
+            "uri" : "http://w3id.org/nkos/nkostype"
+         }
       ],
       "prefLabel" : {
          "en" : "list"
@@ -110,7 +110,9 @@
    },
    {
       "inScheme" : [
-         "http://w3id.org/nkos/nkostype"
+         {
+            "uri" : "http://w3id.org/nkos/nkostype"
+         }
       ],
       "prefLabel" : {
          "en" : "name authority list"
@@ -127,7 +129,9 @@
    },
    {
       "inScheme" : [
-         "http://w3id.org/nkos/nkostype"
+         {
+            "uri" : "http://w3id.org/nkos/nkostype"
+         }
       ],
       "prefLabel" : {
          "en" : "ontology"
@@ -144,7 +148,9 @@
    },
    {
       "inScheme" : [
-         "http://w3id.org/nkos/nkostype"
+         {
+            "uri" : "http://w3id.org/nkos/nkostype"
+         }
       ],
       "prefLabel" : {
          "en" : "semantic network"
@@ -161,7 +167,9 @@
    },
    {
       "inScheme" : [
-         "http://w3id.org/nkos/nkostype"
+         {
+            "uri" : "http://w3id.org/nkos/nkostype"
+         }
       ],
       "prefLabel" : {
          "en" : "subject heading scheme"
@@ -178,7 +186,9 @@
    },
    {
       "inScheme" : [
-         "http://w3id.org/nkos/nkostype"
+         {
+            "uri" : "http://w3id.org/nkos/nkostype"
+         }
       ],
       "prefLabel" : {
          "en" : "synonym ring"
@@ -195,7 +205,9 @@
    },
    {
       "inScheme" : [
-         "http://w3id.org/nkos/nkostype"
+         {
+            "uri" : "http://w3id.org/nkos/nkostype"
+         }
       ],
       "prefLabel" : {
          "en" : "taxonomy"
@@ -212,7 +224,9 @@
    },
    {
       "inScheme" : [
-         "http://w3id.org/nkos/nkostype"
+         {
+            "uri" : "http://w3id.org/nkos/nkostype"
+         }
       ],
       "prefLabel" : {
          "en" : "terminology"
@@ -229,7 +243,9 @@
    },
    {
       "inScheme" : [
-         "http://w3id.org/nkos/nkostype"
+         {
+            "uri" : "http://w3id.org/nkos/nkostype"
+         }
       ],
       "prefLabel" : {
          "en" : "thesaurus"
