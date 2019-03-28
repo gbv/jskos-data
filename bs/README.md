@@ -19,3 +19,5 @@ Die Ausgangsdatei `sys.txt` wird zunächst in eine CSV-Datei folgender Form konv
 2,"all 066.1","Abkürzungsverzeichnisse aus verschiedenen Sprachen"
 ...
 ~~~
+
+> Anmerkung: das Fachgebiet "Kulturwissenschaften" konnte nicht erfasst werden, da es anscheinend aus vielen einzelnen Systematiken besteht. Erneute Überprüfung empfohlen.
