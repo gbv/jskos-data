@@ -15,6 +15,6 @@
   },
   "homepage": "https://github.com/gbv/jskos-data#readme",
   "devDependencies": {
-    "jskos-tools": "^0.1.14"
+    "jskos-tools": "^0.1.30"
   }
 }
