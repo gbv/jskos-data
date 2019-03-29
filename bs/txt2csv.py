@@ -1,5 +1,9 @@
+#!/usr/bin/env python3
+
 import re
 import csv
+from namedentities import unicode_entities
+
 record = {}
 
 csvfile = open('sys.csv', 'w', newline = '') 
@@ -19,7 +23,7 @@ with open("sys.txt", "r") as ins:
         match = re.search("^#([^:]+): (.+)", line)
         if (match):
             key = match.group(1) 
-            value = match.group(2) 
+            value = unicode_entities(match.group(2))
             record[key] = value 
         elif bool(re.findall("SET", line)):
             process_record()
