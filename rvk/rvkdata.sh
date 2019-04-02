@@ -37,7 +37,11 @@ if [[ "$DATE" =~ ^20[12][0-9]_[0-9]*$ ]]; then
     if isnewer "$JSKOSFILE" "$RAWNDJSONFILE"; then
         echo "$JSKOSFILE already exists"
     else
-        jq -c -f ../rvkadjust.jq "$RAWNDJSONFILE" > $JSKOSFILE
+        echo "Adjusting and extending to $JSKOSFILE"
+        TEMPFILE=$(mktemp)
+        jq -c -f ../rvkadjust.jq "$RAWNDJSONFILE" > "$TEMPFILE"
+        ../markCombinedConcepts.pl "$TEMPFILE" > "$JSKOSFILE"
+        rm "$TEMPFILE"
     fi
 
   # analyze MARCXML
