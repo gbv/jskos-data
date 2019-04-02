@@ -14,16 +14,17 @@ Das Bash-Skript `rvkdata.sh` enthalten die vollständigen Befehle für Download 
 
 Die Daten werden für jedes Datum in ein eigenes Unterverzeichnis mit geschrieben.
 
-## Konvertierung
+## Analyse der MARCXML-Dumps (optional)
 
-Zur Konvertierung wird [mc2skos](https://github.com/scriptotek/mc2skos) benötigt. Die in mc2skos festgelegte URI-Struktur der RVK ist jedoch veraltet, so dass anschließend mit eine [jq](https://stedolan.github.io/jq/)-Skript die JSKOS-Daten bereinigt werden. Beide Konvertierungsschritte lassen sich so aufrufen:
-
-    ./rvkdata.sh 2018_4 jskos
-
-## Datenanalyse
-
-Zur Kontrolle der MARCXML-Daten lässt sich mit Catmandu eine Statistik der tatsächlich verwendeten MARC-Felder und Unterfelder erstellen. Die dafür benötigten Perl-Module sind in `cpanfile` aufgeführt (`cpanm --installdeps .`):
+Zur Kontrolle der MARCXML-Daten lässt sich mit dem Datenverarbeitungs-Werkzeug [Catmandu](http://librecat.org/) eine Statistik der tatsächlich verwendeten MARC-Felder und Unterfelder erstellen. Die dafür benötigten Perl-Module sind in `cpanfile` aufgeführt (`cpanm --installdeps .`):
 
     ./rvkdata.sh 2018_4 mcstats
 
+## Konvertierung nach JSKOS
+
+Zur Konvertierung der MARCXML-Daten nach wird das Python-Programm [mc2skos](https://github.com/scriptotek/mc2skos) benötigt. Die Installation mit sollte mit `pip install --user mc2skos` gelingen.
+
+Die in mc2skos festgelegte URI-Struktur der RVK ist allerdings veraltet, so dass anschließend mit eine [jq](https://stedolan.github.io/jq/)-Skript die JSKOS-Daten bereinigt werden. Beide Konvertierungsschritte lassen sich so aufrufen:
+
+    ./rvkdata.sh 2018_4 jskos
 

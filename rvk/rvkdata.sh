@@ -14,7 +14,7 @@ function isnewer() {
 
 if [[ "$DATE" =~ ^20[12][0-9]_[0-9]*$ ]]; then
   [[ -d "$DATE" ]] || mkdir "$DATE"
-  pushd "$DATE"
+  pushd "$DATE" >/dev/null
 
   DUMPFILE=rvko_marcxml_$DATE.xml
   NAME=rvko_$DATE
@@ -32,7 +32,13 @@ if [[ "$DATE" =~ ^20[12][0-9]_[0-9]*$ ]]; then
     if isnewer "$RAWNDJSONFILE" "$XMLFILE"; then
         echo "$RAWNDJSONFILE already exists"
     else
-	    mc2skos --scheme rvk "$XMLFILE" "$RAWNDJSONFILE"
+        MC2SKOS=$(command -v mc2skos; exit 0)
+        MC2SKOS=${MC2SKOS:-~/.local/bin/mc2skos}
+        if [[ -x "$MC2SKOS" ]]; then
+            $MC2SKOS --scheme rvk "$XMLFILE" "$RAWNDJSONFILE"
+        else
+            echo "Please install mc2skos, try: pip install --user mc2skos"
+        fi
     fi
     if isnewer "$JSKOSFILE" "$RAWNDJSONFILE"; then
         echo "$JSKOSFILE already exists"
@@ -50,7 +56,7 @@ if [[ "$DATE" =~ ^20[12][0-9]_[0-9]*$ ]]; then
     STATS=$NAME.stats
 
     if isnewer "$XMLFILE" "$BREAKER"; then
-	    catmandu convert MARC --type XML to Breaker --handler marc < "$XMLFILE" > "$BREAKER"
+        catmandu convert MARC --type XML to Breaker --handler marc < "$XMLFILE" > "$BREAKER"
     fi
     if isnewer "$BREAKER" "$STATS"; then
         catmandu breaker $BREAKER > $NAME.mcstats
