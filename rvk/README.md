@@ -10,7 +10,7 @@ Der Datenbankdump enthält allerdings nicht die in der RVK-Druckversion angegebe
 
 Das Bash-Skript `rvkdata.sh` enthalten die vollständigen Befehle für Download und Konvertierung der RVK. Als erstes Kommandozeilenargument wird das Datum des jeweiligen Dumps in der Form `XXXX_X` angegeben (z.B. `2018_4`):
 
-    ./rvkdata.sh 2018_4
+    ./rvkdata.sh 2018_4 get
 
 Die Daten werden für jedes Datum in ein eigenes Unterverzeichnis mit geschrieben.
 
@@ -27,4 +27,11 @@ Zur Konvertierung der MARCXML-Daten nach wird das Python-Programm [mc2skos](http
 Die in mc2skos festgelegte URI-Struktur der RVK ist allerdings veraltet, so dass anschließend mit eine [jq](https://stedolan.github.io/jq/)-Skript die JSKOS-Daten bereinigt werden. Beide Konvertierungsschritte lassen sich so aufrufen:
 
     ./rvkdata.sh 2018_4 jskos
+
+## RVK-Statistik
+
+Mittels [jskos metrics](https://github.com/gbv/jskos-metrics) wird aus den JSKOS-Daten eine Statistik-Datei erstellt:
+
+    ./rvkdata.sh 2018_4 metrics
+
 

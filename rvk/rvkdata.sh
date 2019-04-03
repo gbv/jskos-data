@@ -20,10 +20,12 @@ if [[ "$DATE" =~ ^20[12][0-9]_[0-9]*$ ]]; then
   NAME=rvko_$DATE
   XMLFILE=$NAME.xml
 
-  # download and extract only if newer
-  wget -N https://rvk.uni-regensburg.de/downloads/$DUMPFILE.gz
-  [[ $DUMPFILE.gz -nt $NAME.xml ]] && \
-      gzip -vdk $DUMPFILE.gz && mv $DUMPFILE $XMLFILE
+  if [[ "$CMD" =~ ^jskos|mcstats|get$ ]]; then
+    # download and extract only if newer
+    wget -N https://rvk.uni-regensburg.de/downloads/$DUMPFILE.gz
+    [[ $DUMPFILE.gz -nt $NAME.xml ]] && \
+        gzip -vdk $DUMPFILE.gz && mv $DUMPFILE $XMLFILE
+  fi
 
   # convert to JSKOS
   if [[ "$CMD" = "jskos" ]]; then
@@ -61,14 +63,27 @@ if [[ "$DATE" =~ ^20[12][0-9]_[0-9]*$ ]]; then
     if isnewer "$BREAKER" "$STATS"; then
         catmandu breaker $BREAKER > $NAME.mcstats
     fi
+
+  # calculate scheme metrics
+  elif [[ "$CMD" = "metrics" ]]; then
+    JSKOSFILE=$NAME.ndjson
+    METRICSFILE=$NAME.metrics.json
+    SCHEMEMETRICS=../scheme-metrics.sh
+    if [[ -x "$SCHEMEMETRICS" ]]; then
+        $SCHEMEMETRICS "$JSKOSFILE" | jq . > "$METRICSFILE"
+    else
+        echo "Please create a symlink to scheme-metrics.sh"
+    fi 
   fi 
 
   popd >/dev/null
 else
   echo 'Expecting dump version such as "2018_4" as argument'
   echo
-  echo 'Second argument can be any of:'
-  echo '  jskos      convert to JSKOS'
+  echo 'Second argument should be one:'
+  echo '  get        download and extract MARCXML dump'
   echo '  mcstats    create MARC (sub)field statistics'
+  echo '  jskos      convert MARCXML to JSKOS'
+  echo '  metrics    calculate scheme metrics'
   exit 1
 fi
