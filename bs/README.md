@@ -42,12 +42,13 @@ Berücksichtigt werden bislang nur die Datenbankfelder:
 Die Ausgangsdatei `sys.txt` wird zunächst mit dem Python-Skript `txt2csv.py` in eine CSV-Datei folgender Form konvertiert (erfordert Python 3):
 
 ~~~
-0,"all 000","Allgemeines"
-1,"all 001","Allgemeines"
-1,"all 010","Allgemeine Enzyklopädien. Konversationslexika"
+0,"all","Allgemeines"
+1,"all 000","Allgemeines"
+2,"all 001","Allgemeines"
+2,"all 010","Allgemeine Enzyklopädien. Konversationslexika"
 ...
-1,"all 066","Abkürzungsverzeichnisse"
-2,"all 066.1","Abkürzungsverzeichnisse aus verschiedenen Sprachen"
+2,"all 066","Abkürzungsverzeichnisse"
+3,"all 066.1","Abkürzungsverzeichnisse aus verschiedenen Sprachen"
 ...
 ~~~
 
