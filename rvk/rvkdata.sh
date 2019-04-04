@@ -68,11 +68,11 @@ if [[ "$DATE" =~ ^20[12][0-9]_[0-9]*$ ]]; then
   elif [[ "$CMD" = "metrics" ]]; then
     JSKOSFILE=$NAME.ndjson
     METRICSFILE=$NAME.metrics.json
-    SCHEMEMETRICS=../scheme-metrics.sh
+    SCHEMEMETRICS=../../scheme-metrics.sh
     if [[ -x "$SCHEMEMETRICS" ]]; then
         $SCHEMEMETRICS "$JSKOSFILE" | jq . > "$METRICSFILE"
     else
-        echo "Please create a symlink to scheme-metrics.sh"
+        echo "Please create a symlink to ../scheme-metrics.sh"
     fi 
   fi 
 

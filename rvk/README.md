@@ -34,4 +34,3 @@ Mittels [jskos metrics](https://github.com/gbv/jskos-metrics) wird aus den JSKOS
 
     ./rvkdata.sh 2018_4 metrics
 
-
