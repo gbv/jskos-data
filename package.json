@@ -14,8 +14,9 @@
     "url": "https://github.com/gbv/jskos-data/issues"
   },
   "homepage": "https://github.com/gbv/jskos-data#readme",
-  "devDependencies": {
+  "dependencies": {
+    "jskos-cli": "^0.2.3",
+    "jskos-tools": "^0.2.0",
     "jskos-validate": "^0.2.1"
-  },
-  "dependencies": {}
+  }
 }
