@@ -9,4 +9,6 @@ if has("broader") then .broader[].uri |= gsub("_"; "%20") else . end |
 if has("broader") then .broader[].uri |= gsub("(?<a>[^\/]*)-(?<b>[^\/]*)$"; (.a)+"%20-%20"+(.b)) else . end |
 if .broader[0].uri == .uri then del(.broader[0]) else . end |
 if .broader[1].uri == .uri then del(.broader[1]) else . end |
-if .prefLabel.de|type == "array" then .prefLabel.de = (.prefLabel.de|join(" / ")) else  . end
+if .prefLabel.de|type == "array" then .prefLabel.de = (.prefLabel.de|join(" / ")) else  . end |
+if .scopeNote.de|type == "string" then .scopeNote.de = [.scopeNote.de] else . end |
+if .editorialNote.de|type == "string" then .editorialNote.de = [.editorialNote.de] else . end
