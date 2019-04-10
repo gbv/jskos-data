@@ -112,17 +112,19 @@ Promise.all(promises).then(results => {
         let concept = {
           uri: row.uri,
           notation: [row.uri.replace(uri, "")],
-          prefLabel: {
-            [language]: row.label
-          },
-          definition: {
-            [language]: [row.definition]
-          },
+          prefLabel: {},
+          definition: {},
           type: [
             "http://www.w3.org/2004/02/skos/core#Concept",
             row.type
           ],
           inScheme: [schemeShort],
+        }
+        if (row.label) {
+          concept.prefLabel[language] = row.label
+        }
+        if (row.definition) {
+          concept.definition[language] = [row.definition]
         }
         concepts.push(concept)
       }
@@ -130,7 +132,7 @@ Promise.all(promises).then(results => {
   }
 
   // Save scheme as scheme.json
-  fs.writeFileSync("nomisma-scheme.json", JSON.stringify(scheme, null, 2))
+  fs.writeFileSync("nomisma-scheme.json", JSON.stringify([scheme], null, 2))
   // Save as concepts.ndjson
   fs.writeFileSync("nomisma-concepts.ndjson", concepts.reduce((previous, current) => previous + JSON.stringify(current) + "\n", ""))
 
