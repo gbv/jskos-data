@@ -1,4 +1,4 @@
-{
+[{
    "definition" : {
       "-" : ["…"],
       "de" : ["Von der DNB in Kooperation mit den Verbundpartnern geführte gemeinsame Normdatei"],
@@ -26,4 +26,4 @@
    ],
    "uri" : "http://d-nb.info/gnd/7749153-1",
    "languages": [ "de" ]
-}
+}]

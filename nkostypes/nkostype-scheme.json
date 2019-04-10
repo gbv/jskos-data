@@ -1,4 +1,4 @@
-{
+[{
    "@context" : "https://gbv.github.io/jskos/context.json",
    "contributor" : [
       {
@@ -26,4 +26,4 @@
       "http://www.w3.org/2004/02/skos/core#ConceptScheme"
    ],
    "uri" : "http://w3id.org/nkos/nkostype"
-}
+}]

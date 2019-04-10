@@ -1,4 +1,4 @@
-{
+[{
   "uri": "https://www.ixtheo.de/classification/",
   "identifier": [
     "http://bartoc.org/en/node/18797",
@@ -37,4 +37,4 @@
   "url": "https://www.ixtheo.de/IxTheoClassification",
   "type": [ "http://www.w3.org/2004/02/skos/core#ConceptScheme" ],
   "languages": [ "de" ]
-}
+}]

@@ -1,4 +1,4 @@
-{
+[{
    "@context" : "https://gbv.github.io/jskos/context.json",
    "notation" : [
       "fundertype"
@@ -27,5 +27,4 @@
    ],
    "uri" : "http://purl.org/lobid/fundertype#scheme",
    "languages": [ "de", "en" ]
-}
-
+}]

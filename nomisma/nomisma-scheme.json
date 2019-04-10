@@ -1,4 +1,4 @@
-{
+[{
   "uri": "http://nomisma.org/id/",
   "notation": [
     "NOMISMA"
@@ -33,4 +33,4 @@
       "url": "http://nomisma.org"
     }
   ]
-}
+}]

@@ -1,4 +1,4 @@
-{
+[{
    "@context" : "https://gbv.github.io/jskos/context.json",
    "definition" : {
       "en" : [
@@ -17,4 +17,4 @@
    "uri" : "http://bartoc.org/en/node/1788",
    "url" : "http://numismatics.org/crro/",
    "languages": [ "en" ]
-}
+}]

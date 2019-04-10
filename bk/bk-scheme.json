@@ -1,4 +1,4 @@
-{
+[{
    "identifier" : [
       "http://bartoc.org/en/node/745",
       "http://www.wikidata.org/entity/Q810226",
@@ -20,4 +20,4 @@
    ],
    "uri" : "http://uri.gbv.de/terminology/bk",
    "languages": [ "de" ]
-}
+}]
