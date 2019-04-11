@@ -40,6 +40,7 @@ def process_record():
         record = {}       
 
 with open("sys.txt", "r") as ins:
+    csvwriter.writerow(("level","notation","prefLabel"))
     for line in ins:
         match = re.search("^#([^:]+): (.+)", line)
         if (match):
