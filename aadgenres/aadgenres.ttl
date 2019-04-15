@@ -1,0 +1,2680 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix mads: <http://www.loc.gov/mads/rdf/v1#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wd: <http://data.ub.uio.no/webdewey-terms#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<http://uri.gbv.de/terminology/aadgenres/096630701> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096630701" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Adressenverzeichnis in Buchform. Zu verwenden für Branchen-, Fach-, Stadtadressbücher und dergleichen"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Adressbuch"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/09663071X> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "09663071X" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Liturgisches Buch der evangelischen Kirchen, das die Ordnung des Gottesdienstes regelt"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Agende"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096632941> .
+
+<http://uri.gbv.de/terminology/aadgenres/096630728> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096630728" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096631805> ;
+    skos:definition "Die von einer Akademie der Wissenschaften herausgegebenen Schriften, dazu zählen Sitzungsberichte, akademische Preisaufgaben und Rezensionszeitschriften und dergleichen"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Akademieschrift"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096632801>,
+        <http://uri.gbv.de/terminology/aadgenres/096632917> .
+
+<http://uri.gbv.de/terminology/aadgenres/096630736> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096630736" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096632720> ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Akustik"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096630744> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096630744" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Im Unterschied zur späteren empirischen Chemie teils praktische, teils spekulative Beschäftigung mit chemischen Stoffen (Lehre von den Elementen, vom Goldmachen u.a.). Bis Ende des 17.Jh. wird Alchemie und Chemie synonym verwendet, dort sollte nach Einschätzung des Sachverhalts aus moderner Sicht über die Vergabe des Begriffes entschieden werden."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Alchemie"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631104> .
+
+<http://uri.gbv.de/terminology/aadgenres/096630752> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096630752" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für literarische (Musen)Almanache"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Almanach"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631945> .
+
+<http://uri.gbv.de/terminology/aadgenres/096630760> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096630760" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Literatur über Geschichte, Sitten, Mythen, Antiquaria des Altertums"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Altertumskunde"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096630868> .
+
+<http://uri.gbv.de/terminology/aadgenres/096630779> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096630779" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Amtliche Druckschrift"@de ;
+    skos:definition "Einmalig oder laufend erscheinende Druckwerke, die von Staatsorganen, Behörden oder sonstigen offiziellen Stellen ausgehen. Zu verwenden für Gesetze und Gesetzessammlungen, Verordnungen, Privilegien, Mandate, Edikte, Kapitulationen, Verträge und dergleichen"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Amtsdruckschrift"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096630787> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096630787" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "VD17"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Anatomie"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096630795> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096630795" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096631295> ;
+    skos:definition "Kurze Geschichte zur Charakterisierung eines Ereignisses, einer Zeit, einer Persönlichkeit"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Anekdote"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096630809> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096630809" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Einführung in eine spezifisch handwerkliche Tätigkeit"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Anleitung"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096632836> .
+
+<http://uri.gbv.de/terminology/aadgenres/096630817> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096630817" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Komplimentierbuch"@de,
+        "Tischzucht"@de ;
+    skos:definition "Anstandsliteratur lehrt die standes- oder klassenspezifisch geprägten Umgangsformen und Verhaltensmaßregeln gesitteten gesellschaftlichen Zusammenlebens vom äußerlich korrekten Benehmen (Etikette) bis zum feinsinnigen Verhalten (Takt). Zu verwenden für Tischzuchten und Komplimentierbücher"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Anstandsliteratur"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096630825> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096630825" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Chrestomatie"@de,
+        "Erzählsammlung"@de,
+        "Essay"@de,
+        "Exempelsammlung"@de,
+        "Florilegium"@de,
+        "Liedersammlung"@de ;
+    skos:definition "Sammlungen unter bestimmten Gesichtspunkten ausgewählter literarischer Stücke zur Charakterisierung einer Geistesepoche, Volksliteratur, Gattung, Entwicklung etc. Zu verwenden für Textsammlungen von mehreren Autoren, Florilegium oder Chrestomatie, Exempel und Historiensammlungen, Liedersammlungen. Nicht zu verwenden für Schulbücher"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Anthologie"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096632186> .
+
+<http://uri.gbv.de/terminology/aadgenres/096630833> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096630833" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/09663328X> ;
+    skos:definition "Gedrucktes Vertriebsmittel des Antiquariatsbuchhandels. Zu verwenden für Lagerkataloge und Sammler-Verkaufskataloge"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Antiquariatskatalog"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096630841> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096630841" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für jede Form von Anzeige oder Inserat; nicht beschränkt auf Bücher"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Anzeige"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/09663085X> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "09663085X" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Kurzer, prägnant formulierter Prosasatz zur Einkleidung eines eigenartigen persönlichen Gedankens, Werturteils, einer Augenblickserkenntnis oder Lebensweisheit, durch geistreichen Inhalt und individuellen Stil unterschieden vom Niveau des Sprichworts"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Aphorismus"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096633085>,
+        <http://uri.gbv.de/terminology/aadgenres/096633409> .
+
+<http://uri.gbv.de/terminology/aadgenres/096630868> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096630868" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Fachgruppenbezeichnung für alle Drucke über Kunst- und Baudenkmäler des Altertums bzw. deren Erforschung"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Archäologie"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096630760> .
+
+<http://uri.gbv.de/terminology/aadgenres/096630876> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096630876" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Architektur"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096630884> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096630884" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Erbauungs- und Trostschriften für Sterbende und deren Angehörige sowie für Seelsorger"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Ars moriendi"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096630892> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096630892" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Arzneibuch"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096632712> .
+
+<http://uri.gbv.de/terminology/aadgenres/096630906> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096630906" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Sterndeutung (Horoskop, Tierkreiszeichen)"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Astrologie"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096630914> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096630914" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "wissenschaftliche Sternkunde, Planeten- und Kometenforschung"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Astronomie"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096630922> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096630922" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Systematische Sammlung von Landkarten"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Atlas"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096630930> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096630930" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/09663328X> ;
+    skos:definition "Verzeichnis der bei einer Auktion angebotenen Objekte"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Auktionskatalog"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096630949> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096630949" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Memoiren"@de ;
+    skos:definition "Lebenserinnerungen, Darstellung selbsterlebter historischer Tatsachen."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Autobiographie"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096633174> .
+
+<http://uri.gbv.de/terminology/aadgenres/096630957> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096630957" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096632232> ;
+    skos:definition "Leicht singbare Erzähllieder"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Ballade"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096630965> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096630965" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Beichtspiegel"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096630973> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096630973" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Bergbau"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096630981> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096630981" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für Geschäfts-, Jahres- und Tätigkeitsberichte von Körperschaften. Nicht zu verwenden für Reisebericht"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Bericht"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096632887> .
+
+<http://uri.gbv.de/terminology/aadgenres/09663099X> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "09663099X" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Gedruckte Ausgaben des Alten und/oder Neuen Testaments"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Bibel"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631007> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631007" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für selbständige Bibliographien sowie Publikationen, die ein Literaturverzeichnis oder eine Bibliographie von nennenswertem Umfang enthalten"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Bibliographie"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631090> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631015> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631015" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/09663197X> ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Bibliothekskatalog"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631023> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631023" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Lebensbeschreibung"@de ;
+    skos:definition "Lebensbeschreibungen. Nicht zu verwenden für Viten von Heiligen, Bischöfen und dergleichen Personen"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Biographie"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096630949>,
+        <http://uri.gbv.de/terminology/aadgenres/096631872> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631031> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631031" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Pflanzenkunde"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Botanik"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096632704> .
+
+<http://uri.gbv.de/terminology/aadgenres/09663104X> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "09663104X" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Wiedergabe des liturgischen Stundengebets (Offizium). Nicht zu verwenden für Anthologien oder Ratgeberliteratur (Küchenbrevier und dergleichen)"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Brevier"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631058> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631058" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für einen oder zwei Briefe"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Brief"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631066> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631066" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für mehr als zwei Briefe"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Briefsammlung"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631074> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631074" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Anleitung zum Abfassen formvollendeter Briefe mit Musterbriefen für eine Vielzahl möglicher Anlässe"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Briefsteller"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631082> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631082" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/09663328X> ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Buchhandelskatalog"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631090> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631090" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096630841> ;
+    skos:definition "Jede Anzeige von lieferbarer Literatur durch einen Verleger, Drucker, Buchhändler oder Buchbinder"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Bücheranzeige"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631007>,
+        <http://uri.gbv.de/terminology/aadgenres/096633158> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631104> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631104" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Im Unterschied zur früheren Alchemie empirisch-wissenschaftliche Beschäftigung mit chemischen Stoffen"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Chemie"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096630744> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631112> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631112" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Kunst der Weissagung aus Formen u. Linien der Hand"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Chiromantie"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631120> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631120" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Heilung durch operative Eingriffe, chirurg. Instrumentenkunde"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Chirurgie"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631139> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631139" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Annalen"@de ;
+    skos:definition "Darstellung geschichtlicher Ereignisse lediglich nach ihrer zeitlichen Abfolge ohne Rücksicht auf sachliche Zusammenhänge, in Vers oder Prosa, lateinisch oder volkssprachlich. Zu verwenden für Annalen"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Chronik"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631147> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631147" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Disputation"@de ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096631880> ;
+    skos:definition "Auch zu verwenden für Disputation. Dissertationen, deren Fakultät nicht eindeutig zu bestimmen ist, sonst verwende Disseration:theol, med., jur. oder phil."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Dissertation"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631155> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631155" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Disputation"@de ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096631880> ;
+    skos:definition "Auch zu verwenden für Disputation. Disserationen der theol. Fakultät"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Dissertation:theol."@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631163> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631163" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Disputation"@de ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096631880> ;
+    skos:definition "Auch zu verwenden für Disputation. Disseratationen der phil. Fakultät. Zu dieser gehören auch die Mathematik, die Natur- und Sprachwissenschaften"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Dissertation:phil."@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631171> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631171" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Disputation"@de ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096631880> ;
+    skos:definition "Auch zu verwenden für Disputation. Disserationen der med. Fakultät"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Dissertation:med."@de .
+
+<http://uri.gbv.de/terminology/aadgenres/09663118X> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "09663118X" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Disputation"@de ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096631880> ;
+    skos:definition "Auch zu verwenden für Disputation. Disserationen der jur. Fakultät"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Dissertation:jur."@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631198> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631198" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096631880> ;
+    skos:definition "Zu verwenden für thematisch oder nach anderen Gesichtspunkten zusammengestellte Sammlungen von Disputationen oder Dissertationen, die als solche eine gewollte Publikationseinheit darstellen . Nicht zu verwenden für zufällige Konvolute und Bibliothekssammelbände"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Dissertationensammlung"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631201> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631201" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Theaterstück"@de ;
+    skos:definition "Zu verwenden für Theaterstück"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Drama"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/09663121X> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "09663121X" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096630779> ;
+    skos:definition "Form hoheitlicher Rechtssetzung"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Edikt"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631813> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631228> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631228" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Flugblatt"@de ;
+    skos:definition "Jeder Druck, der nur aus einem ungefalzten Bogen oder Teilbogen besteht und recto (engl.: broadside) oder recto und verso (engl.: broadsheet) bedruckt ist"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Einblattdruck"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631430>,
+        <http://uri.gbv.de/terminology/aadgenres/096632011>,
+        <http://uri.gbv.de/terminology/aadgenres/096633107>,
+        <http://uri.gbv.de/terminology/aadgenres/096633182> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631236> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631236" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Betont didaktische Darstellung für Anfänger, die nicht als Handbuch geeignet ist"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Einführung"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631856> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631244> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631244" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096632232> ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Elegie"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631252> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631252" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Sammlung von Emblemen als literarisch-graphische Mischform, deren einzelne Elemente jeweils aus drei Teilen bestehen: Überschrift(motto), Sinnbild (pictura), Text (subscriptio)"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Emblembuch"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631260> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631260" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Sammlung juristischer Entscheidungen"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Entscheidungssammlung"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631376>,
+        <http://uri.gbv.de/terminology/aadgenres/096632119> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631279> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631279" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Umfassende Darstellung des gesamten theoretischen wie praktischen Wissensstoffes einer Zeit (Universalenzyklopädie) oder eines einzelnen Fachgebietes"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Enzyklopädie"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096632194>,
+        <http://uri.gbv.de/terminology/aadgenres/096633379> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631287> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631287" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096632232> ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Epigramm"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631295> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631295" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Erzählende Dichtung in Versform oder in Prosa"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Epik"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631309> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631309" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096632232> ;
+    skos:definition "Schwermütiges Trauer-, Grab- und Trostgedicht"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Epikedeion"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631317> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631317" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096631295> ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Epos"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631325> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631325" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Schriften in volkstümlicher Sprache (oft Dialog- oder Briefform) zur privaten religiösen Erbauung und Glaubensstärkung, Anweisung zu rechtem christlichen Leben, Trost in Bedrängnis und Pflege innerlicher Religiosität"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Erbauungsliteratur"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631333> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631333" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Persönlich gefärbte Augenzeugenberichte, Eindrücke"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Erlebnisbericht"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096630949>,
+        <http://uri.gbv.de/terminology/aadgenres/096632887> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631341> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631341" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Erotische Literatur"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/09663135X> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "09663135X" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096631295> ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Erzählung"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631368> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631368" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096631295> ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Fabel"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631376> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631376" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Sammlungen juristischer Fälle"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Fallsammlung"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631260>,
+        <http://uri.gbv.de/terminology/aadgenres/096632119> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631384> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631384" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096631201> ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Fastnachtsspiel"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631392> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631392" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096633026> ;
+    skos:definition "ABC-Buch, erstes Lesebuch zum Lesenlernen"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Fibel"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631406> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631406" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Anleitungen und Dokumente zu höfischen Festen; nicht zu benutzen für Leichenpredigten"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Festbeschreibung"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631538>,
+        <http://uri.gbv.de/terminology/aadgenres/09663216X> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631414> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631414" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Fortifikation"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Festungsbau"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631422> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631422" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Bilderlyrik"@de ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096632232> ;
+    skos:definition "Zu verwenden für Bilderlyrik"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Figurengedicht"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631430> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631430" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Unaufwendig hergestellte Broschüre, in der Funktion dem Flugblatt vergleichbar, doch wegen des Textumfangs zu breiterer Information, Dokumentation und Agitation einsetzbar"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Flugschrift"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631228>,
+        <http://uri.gbv.de/terminology/aadgenres/096632011>,
+        <http://uri.gbv.de/terminology/aadgenres/096633107> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631449> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631449" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für Mustersammlungen, Musterverträge und dergleichen"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Formularsammlung"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631457> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631457" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Bücher, Monographien, Serien, Almanache, die ausdrücklich für Frauen verfaßt sind, von Frauen handeln bzw. deren zentrale Figuren Frauen sind, sowie Bücher, die von Frauen geschrieben wurden"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Frauenliteratur"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631465> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631465" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Fiktionale und nicht-fiktionale Literatur der Freimaurer"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Freimaurerliteratur"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631473> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631473" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Allgemeine Führer für Orte, Landschaften, Institutionen, Gärten, Museen etc."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Führer"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096632836> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631481> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631481" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Fürstenspiegel"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/09663149X> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "09663149X" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Gartenbau"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631503> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631503" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Gebet"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631511> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631511" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Andachtsbuch für den Laiengebrauch"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Gebetbuch"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/09663152X> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "09663152X" ;
+    dcterms:modified "2017-05-17"^^xsd:date ;
+    skos:altLabel "Münzwesen"@de,
+        "Numismatik"@de ;
+    skos:definition "Geld- Münzwesen, einschließlich der Numismatik"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Geldwesen"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631538> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631538" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Aus bestimmten äußeren Anlässen, teils auf Bestellung verfaßte Schriften. Zu verwenden für Kasualschrifttum. Nicht zu verwenden für Reden, Festspiele und Leichenpredigten. Verwende nach Möglichkeit SW mit Angabe des Anlasses, z.B. Gelegenheitsschrift: Geburt"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Gelegenheitsschrift"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631406> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631546> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631546" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für Kasualschrifttum. Nicht zu verwenden für Reden, Festspiele und Leichenpredigten."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Gelegenheitsschrift:Abschied"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631406> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631554> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631554" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für Kasualschrifttum. Nicht zu verwenden für Reden, Festspiele und Leichenpredigten."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Gelegenheitsschrift:Amtsantritt"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631406> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631562> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631562" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für Kasualschrifttum. Nicht zu verwenden für Reden, Festspiele und Leichenpredigten."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Gelegenheitsschrift:Begrüßung"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631406> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631570> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631570" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für Kasualschrifttum. Nicht zu verwenden für Reden, Festspiele und Leichenpredigten."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Gelegenheitsschrift:Einladung"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631406> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631589> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631589" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für Kasualschrifttum. Nicht zu verwenden für Reden, Festspiele und Leichenpredigten."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Gelegenheitsschrift:Einweihung"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631406> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631597> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631597" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für Kasualschrifttum. Nicht zu verwenden für Reden, Festspiele und Leichenpredigten."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Gelegenheitsschrift:Fest"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631406> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631600> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631600" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für Kasualschrifttum. Nicht zu verwenden für Reden, Festspiele und Leichenpredigten."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Gelegenheitsschrift:Friedensschluß"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631406> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631619> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631619" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für Kasualschrifttum. Nicht zu verwenden für Reden, Festspiele und Leichenpredigten."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Gelegenheitsschrift:Geburt"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631406> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631627> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631627" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für Kasualschrifttum. Nicht zu verwenden für Reden, Festspiele und Leichenpredigten."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Gelegenheitsschrift:Geburtstag"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631406> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631635> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631635" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für Kasualschrifttum. Nicht zu verwenden für Reden, Festspiele und Leichenpredigten."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Gelegenheitsschrift:Gedenken"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631406> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631643> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631643" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für Kasualschrifttum. Nicht zu verwenden für Reden, Festspiele und Leichenpredigten."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Gelegenheitsschrift:Hochzeit"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631406> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631651> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631651" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für Kasualschrifttum. Nicht zu verwenden für Reden, Festspiele und Leichenpredigten."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Gelegenheitsschrift:Jubiläum"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631406> .
+
+<http://uri.gbv.de/terminology/aadgenres/09663166X> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "09663166X" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für Kasualschrifttum. Nicht zu verwenden für Reden, Festspiele und Leichenpredigten."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Gelegenheitsschrift:Konversion"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631406> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631678> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631678" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für Kasualschrifttum. Nicht zu verwenden für Reden, Festspiele und Leichenpredigten."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Gelegenheitsschrift:Krönung"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631406> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631686> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631686" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für Kasualschrifttum. Nicht zu verwenden für Reden, Festspiele und Leichenpredigten."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Gelegenheitsschrift:Namenstag"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631406> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631694> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631694" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für Kasualschrifttum. Nicht zu verwenden für Reden, Festspiele und Leichenpredigten."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Gelegenheitsschrift:Neujahr"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631406> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631708> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631708" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für Kasualschrifttum. Nicht zu verwenden für Reden, Festspiele und Leichenpredigten."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Gelegenheitsschrift:Promotion"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631406> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631716> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631716" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für Kasualschrifttum. Nicht zu verwenden für Reden, Festspiele und Leichenpredigten."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Gelegenheitsschrift:Sieg"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631406> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631724> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631724" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für Kasualschrifttum. Nicht zu verwenden für Reden, Festspiele und Leichenpredigten."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Gelegenheitsschrift:Taufe"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631406> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631732> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631732" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für Kasualschrifttum. Nicht zu verwenden für Reden, Festspiele und Leichenpredigten."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Gelegenheitsschrift:Tod"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631406> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631740> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631740" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für Kasualschrifttum. Nicht zu verwenden für Reden, Festspiele und Leichenpredigten."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Gelegenheitsschrift:Visitation"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631406> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631759> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631759" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Genealogische Tafel"@de ;
+    skos:definition "Literatur über Vorfahren, Stammbaum"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Genealogie"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631767> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631767" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Beschreibung der Erde bzw. einzelner Länder"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Geographie"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096633212> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631775> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631775" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Beschreibungen von Aufbau, Zusammensetzung und Entwicklung der Erde (z.B. Vulkanismus)"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Geologie"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631783> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631783" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Geometrie"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631791> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631791" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Sammlung volkssprachlicher Kirchenlieder für den gottesdienstlichen oder privaten Gebrauch"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Gesangbuch"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631996> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631805> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631805" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Veröffentlichungen wissenschaftlicher Gesellschaften und Vereinigungen"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Gesellschaftsschrift"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631813> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631813" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096630779> ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Gesetz"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/09663121X>,
+        <http://uri.gbv.de/terminology/aadgenres/096632275>,
+        <http://uri.gbv.de/terminology/aadgenres/096633298> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631821> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631821" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096630779> ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Gesetzessammlung"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/09663183X> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "09663183X" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Grammatik"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096633026>,
+        <http://uri.gbv.de/terminology/aadgenres/096633077> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631848> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631848" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Frauenheil- und Geburtskunde"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Gynäkologie"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631856> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631856" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zusammenfassung der wichtigsten Realien eines Wissensgebietes. Nicht zu verwenden für Ratgeberliteratur"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Handbuch"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631236> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631864> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631864" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Praktische Anleitung zur Haus- und Grundverwaltung und Landwirtschaftslehre"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Hausväterliteratur"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096632836> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631872> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631872" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Vita"@de ;
+    skos:definition "Zu verwenden für religiöse Lebensbeschreibungen. Nicht zu verwenden für Biographie"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Heiligenvita"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631023> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631880> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631880" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Hochschulschrift"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631899> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631899" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für Straßen-, Wegedauer-, Stationsverzeichnisse; Meilenzeiger"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Itinerar"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631902> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631902" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096631201> ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Jesuitendrama"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096632534>,
+        <http://uri.gbv.de/terminology/aadgenres/096632690> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631910> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631910" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Judaicum"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631929> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631929" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Kinderbuch"@de ;
+    skos:definition "Auch zu verwenden für Kinderliteratur. Nicht zu Verwenden für Schulbücher"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Jugendbuch"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631937> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631937> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631937" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Kindersachbuch"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Jugendsachbuch"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631929>,
+        <http://uri.gbv.de/terminology/aadgenres/096633026> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631945> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631945" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Nicht zu verwenden für literarisch geprägte (Musen-)Almanache"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Kalender"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096630752>,
+        <http://uri.gbv.de/terminology/aadgenres/096632771> ,
+		<http://uri.gbv.de/terminology/aadgenres/096633336>.
+
+<http://uri.gbv.de/terminology/aadgenres/096631953> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631953" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096630779> ;
+    skos:definition "Schriftlicher, artikelweiser Vertrag, worin der zu Wählende seinen Wählern bestimmte Versprechungen macht; im eigentlichen Sinn Wahlkapitulation des Kaisers"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Kapitulation"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631961> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631961" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Landkarte"@de ;
+    skos:definition "Zu verwenden für Landkarte"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Karte"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096632747> .
+
+<http://uri.gbv.de/terminology/aadgenres/09663197X> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "09663197X" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für das Bestandsverzeichnis einer Sammlung (Bücher, Münzen, Kunstwerke, Naturalien etc.)"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Katalog"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/09663328X> .
+
+<http://uri.gbv.de/terminology/aadgenres/096631988> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631988" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Religiöse Unterweisungsschrift, meist in Dialogform"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Katechismus"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096631996> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096631996" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096632216> ;
+    skos:definition "Für den gottesdienstlichen Gebrauch als Gemeindegesang bestimmtes volkssprachliches und geistliches Strophenlied"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Kirchenlied"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631791> .
+
+<http://uri.gbv.de/terminology/aadgenres/096632003> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632003" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Tafelbuch"@de ;
+    skos:definition "Zu verwenden für Tafelbuch"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Kochbuch"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632011> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632011" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096633255> ;
+    skos:definition "Meist anonyme, auf billige Spannung und Sensation berechnete, literarisch wertlose Massenprodukte der Trivialliteratur, die durch Hausierer an anspruchsloses Publikum verkauft wurden. Zu verwenden für sensationistische Nachrichten über Katastrophen, Verbrecher und deren Hinrichtung, Wunderzeichen am Himmel und dergleichen; meistens von geringem Umfang"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Kolportageliteratur"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631228>,
+        <http://uri.gbv.de/terminology/aadgenres/096631430>,
+        <http://uri.gbv.de/terminology/aadgenres/096633107>,
+        <http://uri.gbv.de/terminology/aadgenres/096633336> .
+
+<http://uri.gbv.de/terminology/aadgenres/09663202X> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "09663202X" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Sachliche und sprachliche Erläuterung eines Textes. Verwende nach Möglichkeit SW mit Angabe der Art des Kommentars, s. Kommentar: jur., : lit.,: theol.,: hist.,: polit. :"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Kommentar"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632038> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632038" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Sachliche und sprachliche Erläuterung eines juristischen Textes."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Kommentar: jur."@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632046> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632046" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Sachliche und sprachliche Erläuterung eines literarischen Textes."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Kommentar: lit."@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632054> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632054" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Sachliche und sprachliche Erläuterung eines theologischen Textes."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Kommentar: theol."@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632062> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632062" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Sachliche und sprachliche Erläuterung eines historischen Textes."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Kommentar: hist."@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632070> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632070" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Sachliche und sprachliche Erläuterung eines politischen Textes."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Kommentar: polit."@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632089> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632089" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096631201> ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Komödie"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632100> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632100" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zusammenstellungen aller in einem Schriftwerk oder bei einem Schriftsteller vorkommenden Wörter und Ausdrücke (Verbalkommentar) oder Sachen und Begriffe (Realkommentar} mit Stellenbeleg"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Konkordanz"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096633379> .
+
+<http://uri.gbv.de/terminology/aadgenres/096632119> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632119" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für eine Sammlung von Rechtsgutachten (teilweise auch Gerichtsentscheidungen enthaltend)"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Konsiliensammlung"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631260>,
+        <http://uri.gbv.de/terminology/aadgenres/096631376> .
+
+<http://uri.gbv.de/terminology/aadgenres/096632127> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632127" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Rechtsgutachten"@de ;
+    skos:definition "Zu verwenden für Rechtsgutachten"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Konsilium"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632135> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632135" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Kriegskunde"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632143> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632143" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Landwirtschaft"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632151> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632151" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Legende"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/09663216X> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "09663216X" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Nicht zu verwenden für Gelegenheitsschrift"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Leichenpredigt"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632178> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632178" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Nicht zu verwenden für zufällige Konvolute"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Leichenpredigtsammlung"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632186> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632186" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096633026> ;
+    skos:definition "Zu verwenden für Schullesebuch"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Lesebuch"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096630825> .
+
+<http://uri.gbv.de/terminology/aadgenres/096632194> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632194" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Reallexikon"@de ;
+    skos:definition "Zu verwenden für Fachlexika und Reallexika. Nicht zu verwenden für Enzyklopädien und Sprachlexika"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Lexikon"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631279>,
+        <http://uri.gbv.de/terminology/aadgenres/096633379> .
+
+<http://uri.gbv.de/terminology/aadgenres/096632208> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632208" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Oper"@de,
+        "Operette"@de,
+        "Oratorium"@de,
+        "Singspiel"@de,
+        "Textbuch"@de ;
+    skos:definition "Textbuch für Oper, Operette, Singspiel, Oratorium, Kantate etc."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Libretto"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632216> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632216" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096632232> ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Lied"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632224> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632224" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Liedersammlung"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096630825> .
+
+<http://uri.gbv.de/terminology/aadgenres/096632232> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632232" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Gedicht"@de,
+        "Gedichtsammlung"@de,
+        "Versdichtung"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Lyrik"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632240> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632240" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096632720> ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Magnetismus"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632259> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632259" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Märchen"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632267> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632267" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096631201> ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Märtyrerdrama"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632275> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632275" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096630779> ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Mandat"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631813> .
+
+<http://uri.gbv.de/terminology/aadgenres/096632283> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632283" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Mathematik"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096632844> .
+
+<http://uri.gbv.de/terminology/aadgenres/096632291> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632291" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096631880> ;
+    skos:definition "Verzeichnis der Namen und Personalangaben der Studierenden einer Universität"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Matrikel"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632305> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632305" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096632720> ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Mechanik"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632313> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632313" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Medizin"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096633050> .
+
+<http://uri.gbv.de/terminology/aadgenres/096632321> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632321" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/09663328X> ;
+    skos:definition "Verzeichnis aller auf einer Buchmesse angebotenen buchhändlerischen Neuerscheinungen"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Meßkatalog"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/09663233X> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "09663233X" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "gedrucktes Nachrichtenperiodikum, das regelmäßig zu den Handelsmessen (Frankfurt, Köln, Leipzig etc.) erschien; zeitgenöss. Terminologie: Relatio historica semestralis; historicae relationis continuatio etc."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Meßrelation"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632348> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632348" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Mineralogie"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632356> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632356" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Meßbuch mit den für die Messe vorgeschriebenen Gebeten sowie Lesungen und Gesängen für das Kirchenjahr"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Missale"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632364> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632364" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Namentliche Verzeichnung der Mitglieder von Vereinen, Gesellschaften etc. Zu verwenden für Regimentslisten und dergleichen"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Mitgliederverzeichnis"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632372> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632372" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096633387> ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Moralische Wochenschrift"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632380> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632380" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Musikbuch"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632399> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632399" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für beigedruckte Notenbeispiele von nennenswertem Umfang"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Musiknoten"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632402> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632402" ;
+    dcterms:modified "2014-07-30"^^xsd:date ;
+    skos:definition "Vorlagebücher für die verschiedensten Kunstgewerbe. Zu verwenden für Drucktypenmuster, Webmuster und dergleichen"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Musterbuch"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096633018>,
+        <http://uri.gbv.de/terminology/aadgenres/892917954> .
+
+<http://uri.gbv.de/terminology/aadgenres/096632410> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632410" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096631295> ;
+    skos:definition "Kürzere Vers- oder Prosaerzählung einer neuen, unerhörten, im Gegensatz zum Märchen tatsächlichen oder möglichen Begebenheit"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Novelle"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632429> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632429" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096632720> ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Optik"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632437> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632437" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Ordensliteratur"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632445> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632445" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Ordensliteratur:Augustiner"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632453> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632453" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Ordensliteratur:Augustiner-Barfüßer"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632461> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632461" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Ordensliteratur:Augustiner-Chorherren"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/09663247X> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "09663247X" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Ordensliteratur:Augustiner-Eremiten"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632488> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632488" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Ordensliteratur:Paulaner"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Ordensliteratur:Barnabiten"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632496> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632496" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Ordensliteratur:Benediktiner"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/09663250X> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "09663250X" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Ordensliteratur:Chorherren"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632518> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632518" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Ordensliteratur:Dominikaner"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632526> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632526" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Ordensliteratur:Alcantariner"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Ordensliteratur:Franziskaner"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632534> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632534" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Ordensliteratur:Jesuiten"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632542> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632542" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Ordensliteratur:Kapuziner"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632550> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632550" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Ordensliteratur:Karmeliter"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632569> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632569" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Ordensliteratur:Kartäuser"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632577> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632577" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Ordensliteratur:Paulaner-Minimen"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Ordensliteratur:Minimen"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632585> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632585" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Ordensliteratur:Konventualen"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Ordensliteratur:Minoriten"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632593> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632593" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Ordensliteratur:Oratorianer"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632607> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632607" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Ordensliteratur:Norbertiner"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Ordensliteratur:Prämonstratenser"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632615> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632615" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Ordensliteratur:Terziaren"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632623> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632623" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Ordensliteratur:Theatiner"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632631> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632631" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Ordensliteratur:Unbeschuhte Karmeliter"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/09663264X> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "09663264X" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Ordensliteratur:Zisterzienser"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632658> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632658" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Omamentstich"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632666> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632666" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Ortsverzeichnis"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096633212> .
+
+<http://uri.gbv.de/terminology/aadgenres/096632674> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632674" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "VD17"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Pädagogik"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632682> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632682" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Lobrede"@de ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096632852> ;
+    skos:definition "Lobrede"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Panegyrikos"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632690> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632690" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Programmheft mit deutscher Inhaltsangabe eines (lateinischen) Jesuitendramas"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Perioche"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631902>,
+        <http://uri.gbv.de/terminology/aadgenres/096633182> .
+
+<http://uri.gbv.de/terminology/aadgenres/096632704> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632704" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Flora"@de,
+        "Herbarium"@de,
+        "Kräuterbuch"@de ;
+    skos:definition "Zu verwenden für Kräuterbuch, Flora und Herbarium"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Pflanzenbuch"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632712> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632712" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für amtliche Arzneimittelverzeichnisse"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Pharmakopöe"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096630892> .
+
+<http://uri.gbv.de/terminology/aadgenres/096632720> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632720" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "VD17"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Physik"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632739> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632739" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "VD17"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Physiognomie"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632747> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632747" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für graphische Darstellungen"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Plan"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631961> .
+
+<http://uri.gbv.de/terminology/aadgenres/096632755> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632755" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Lehre von Wesen, Gattungen und Formen der Dichtung sowie den ihnen eigenen Gehalten, Techniken, Strukturen und Darstellungsmitteln"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Poetik"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632763> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632763" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für biographische Werke mit hohem Anteil an Porträtabbildungen der biographierten Personen"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Porträtwerk"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632771> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632771" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Prognostikon"@de ;
+    skos:definition "Bezeichnung für die seit Ende des 15. Jahrhunderts aufkommenden Anhänge zu Kalendern mit Wetterregeln, Heilvorschriften, astrologischen und anderen Prophezeiungen; später auch selbständige und verbreitete Literaturgattung für untere Volksschichten. Zu verwenden auch für Prognostikon."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Praktik"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631945> .
+
+<http://uri.gbv.de/terminology/aadgenres/09663278X> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "09663278X" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Predigt"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632798> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632798" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Predigtensammlung"@de ;
+    skos:definition "Nicht zu verwenden für zufällige Konvolute"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Predigtsammlung"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632801> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632801" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Schrift, die von einer Institution im Zuge einer gestellten Preisaufgabe prämiert wurde"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Preisschrift"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096630728> .
+
+<http://uri.gbv.de/terminology/aadgenres/09663281X> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "09663281X" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096630779> ;
+    skos:definition "Nicht zu verwenden für beigedruckte Drucker- oder Verlegerprivilegien"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Privileg"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632828> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632828" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Psalter"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632836> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632836" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für praxisbezogene Einführung für Laien, soweit nicht als spezifisch handwerkliche Anleitung zu bezeichnen"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Ratgeber"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096630809>,
+        <http://uri.gbv.de/terminology/aadgenres/096631074>,
+        <http://uri.gbv.de/terminology/aadgenres/096631473>,
+        <http://uri.gbv.de/terminology/aadgenres/096631864> .
+
+<http://uri.gbv.de/terminology/aadgenres/096632844> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632844" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "VD17"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Rechenbuch"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096632283>,
+        <http://uri.gbv.de/terminology/aadgenres/096633026> .
+
+<http://uri.gbv.de/terminology/aadgenres/096632852> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632852" ;
+    dcterms:modified "2016-11-24"^^xsd:date ;
+    skos:altLabel "Ansprache"@de,
+        "Vortrag"@de ;
+    skos:definition "Zu verwenden für Reden, Ansprachen, Vorträge und dergleichen"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Rede"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096633344> .
+
+<http://uri.gbv.de/terminology/aadgenres/096632860> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632860" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Spielregeln"@de ;
+    skos:definition "Zu verwenden für Spielanleitungen"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Regelsammlung"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632879> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632879" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Regesten"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096633271> .
+
+<http://uri.gbv.de/terminology/aadgenres/096632887> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632887" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Reisebeschreibung"@de ;
+    skos:definition "Zu verwenden für Reisebeschreibung"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Reisebericht"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631333> .
+
+<http://uri.gbv.de/terminology/aadgenres/096632895> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632895" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Kunstführer"@de ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096631473> ;
+    skos:definition "Zu verwenden auch für Kunstführer"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Reiseführer"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632909> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632909" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Rezension"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096632917> .
+
+<http://uri.gbv.de/terminology/aadgenres/096632917> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632917" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096633387> ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Rezensionszeitschrift"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096630728> .
+
+<http://uri.gbv.de/terminology/aadgenres/096632925> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632925" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Rhetorik"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632933> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632933" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für alle (Sammlungen von) Vorschriften, Regeln und Richtlinien, die nicht Gesetzescharakter haben (Dienstvorschriften, Exerzierreglements und dergleichen)"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Richtlinie"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631821>,
+        <http://uri.gbv.de/terminology/aadgenres/096632860> .
+
+<http://uri.gbv.de/terminology/aadgenres/096632941> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632941" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Liturgisches Buch der römisch-katholischen Kirche, das die Ordnungen und die Texte für Gottesdienste (außer der Messe) enthält"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Rituale"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/09663071X> .
+
+<http://uri.gbv.de/terminology/aadgenres/09663295X> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "09663295X" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096631295> ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Roman"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632968> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632968" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096631295> ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Sage"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632976> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632976" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Parodie"@de,
+        "Travestie"@de ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096631295> ;
+    skos:definition "Sowohl in Versform als auch in Prosa. Zu verwenden auch für Parodie und Travestie"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Satire"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096633107> .
+
+<http://uri.gbv.de/terminology/aadgenres/096632984> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632984" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Statut"@de ;
+    skos:definition "Schriftlich niedergelegte Grundordnung (Verfassung) eines rechtlichen Zusammenschlusses.Zu verwenden für Statuten, Satzungen, Grundordnungen von Vereinen, Gesellschaften etc."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Satzung"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096632992> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096632992" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Schäferdichtung"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/09663300X> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "09663300X" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096631201> ;
+    skos:definition "Im eigentlichen Sinn Zwischenform von Trauer- und Lustspiel, die unter Wahrung der ernsten Grundstimmung zur friedlichen Überwindung des Konflikts führt"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Schauspiel"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096633018> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633018" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für Anleitungen zur Schreibkunst"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Schreibmeisterbuch"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096632402> .
+
+<http://uri.gbv.de/terminology/aadgenres/096633026> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633026" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für Schriften, die auf die Vermittlung von Wissen in einem"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Schulbuch"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/09663183X>,
+        <http://uri.gbv.de/terminology/aadgenres/096631929>,
+        <http://uri.gbv.de/terminology/aadgenres/096631937>,
+        <http://uri.gbv.de/terminology/aadgenres/096632844>,
+        <http://uri.gbv.de/terminology/aadgenres/096633379> .
+
+<http://uri.gbv.de/terminology/aadgenres/096633034> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633034" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für jede Art von Schulschrift"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Schulprogramm"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096633042> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633042" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096631201> ;
+    skos:definition "zeitgenöss. Begriff z.B. Iocosa"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Schwank"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096633050> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633050" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "monographisch gefasste Werke, die den 'gemeinen Mann' über Natur und Kur von häufiger auftretenden und weiter verbreiteten Krankheiten belehrten; hier auch: Pestschriften"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Seuchenschrift"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096632313> .
+
+<http://uri.gbv.de/terminology/aadgenres/096633069> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633069" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Gesellschafts-, Gesprächs-, Karten-, Schachspiel"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Spiel"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096633077> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633077" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Anleitung und Handreichung zur Konversation in einer fremden Sprache, in der Sätze aus dem Alltagsleben nicht nach grammatikalischen, sondern nach Gesichtspunkten des täglichen Gebrauchs zusammengestellt sind Zu verwenden für Gesprächsbüchlein"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Sprachführer"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/09663183X>,
+        <http://uri.gbv.de/terminology/aadgenres/096633379> .
+
+<http://uri.gbv.de/terminology/aadgenres/096633085> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633085" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Sprichwortsammlung"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/09663085X>,
+        <http://uri.gbv.de/terminology/aadgenres/096633409> .
+
+<http://uri.gbv.de/terminology/aadgenres/096633093> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633093" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Statistik"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096633107> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633107" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Libell"@de,
+        "Pamphlet"@de,
+        "Pasquill"@de ;
+    skos:definition "Kampfschrift zum schriftlichen Austrag von Meinungsverschiedenheiten in weltanschaulichen, religiösen, politischen, ethische, wissenschaftliche, kulturellen und anderen Fragen. Zu verwenden für Pamphlet, Libell, Pasquill etc."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Streitschrift"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631228>,
+        <http://uri.gbv.de/terminology/aadgenres/096631430>,
+        <http://uri.gbv.de/terminology/aadgenres/096632011>,
+        <http://uri.gbv.de/terminology/aadgenres/096632976> .
+
+<http://uri.gbv.de/terminology/aadgenres/096633115> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633115" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Libell"@de,
+        "Pamphlet"@de,
+        "Pasquill"@de ;
+    skos:definition "Kampfschrift zum schriftlichen Austrag von politischen Meinungsverschiedenheiten in weltanschaulichen, religiösen, politischen, ethischen, wissenschaftlichen, kulturellen und anderen Fragen. Zu verwenden für Pamphlet, Libell, Pasquill etc."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Streitschrift:polit."@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631430> .
+
+<http://uri.gbv.de/terminology/aadgenres/096633123> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633123" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Libell"@de,
+        "Pamphlet"@de,
+        "Pasquill"@de ;
+    skos:definition "Kampfschrift zum schriftlichen Austrag von juristischen Meinungsverschiedenheiten in weltanschaulichen, religiösen, politischen, ethischen, wissenschaftlichen kulturellen und anderen Fragen. Zu verwenden für Pamphlet, Libell, Pasquill etc."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Streitschrift:jur."@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631430> .
+
+<http://uri.gbv.de/terminology/aadgenres/096633131> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633131" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Libell"@de,
+        "Pamphlet"@de,
+        "Pasquill"@de ;
+    skos:definition "Kampfschrift zum schriftlichen Austrag von theologischen Meinungsverschiedenheiten in weltanschaulichen, religiösen, politischen, ethischen, wissenschaftlichen, kulturellen und anderen Fragen. Zu verwenden für Pamphlet, Libell, Pasquill etc."@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Streitschrift:theol."@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631430> .
+
+<http://uri.gbv.de/terminology/aadgenres/09663314X> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "09663314X" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Pränumerantenliste"@de ;
+    skos:definition "Zu verwenden für Pränumerantenliste"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Subskribentenliste"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096633158> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633158" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096630841> ;
+    skos:definition "Zu verwenden für jegliche Art von gedruckter Aufforderung zur Subskription, unabhängig davon, ob als solche selbständig erschienen oder einem anderen Werk beigedruckt"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Subskriptionsanzeige"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631090> .
+
+<http://uri.gbv.de/terminology/aadgenres/096633166> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633166" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für tabellarische, listenartige Darstellungen oder Publikationen in dieser Form (Münz- und Währungstabellen, Logarithmentafeln und dergleichen)"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Tabelle"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096633174> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633174" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Tagebuch"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096630949> .
+
+<http://uri.gbv.de/terminology/aadgenres/096633182> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633182" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Blätter mit sachlichen Angaben über inhalt und Form einer Bühnenaufführung. Nicht zu verwenden für deutschsprachige Inhaltsangaben lateinischer Jesuitendramen"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Theaterzettel"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631228>,
+        <http://uri.gbv.de/terminology/aadgenres/096632690> .
+
+<http://uri.gbv.de/terminology/aadgenres/096633190> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633190" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Fauna"@de ;
+    skos:definition "Zu verwenden für Fauna"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Tierbuch"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096633204> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633204" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Tiermedizin"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096633212> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633212" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Landeskunde"@de ;
+    skos:definition "Orts- und Landesbeschreibung. Zu verwenden für historisch-statistische Nachrichten, Landeskunde"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Topographie"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631767>,
+        <http://uri.gbv.de/terminology/aadgenres/096632666> .
+
+<http://uri.gbv.de/terminology/aadgenres/096633220> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633220" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "literarische und künstlerische Darstellung der Macht und Allgegenwart des Todes"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Totentanz"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096633239> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633239" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Trauerspiel"@de ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096631201> ;
+    skos:definition "Zu verwenden für Trauerspiel"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Tragödie"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096633247> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633247" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Abhandlung über ein philosophisches, geistiges, kulturelles, politisches, wissenschaftliches Problem; monologisch-systematische Darlegung eines Sachverhalts in didaktisch-dogmatischer Absicht ohne den ästhetischen Anspruch des Essays"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Traktat"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096633255> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633255" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Trivialliteratur"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096633263> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633263" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096631880> ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Universitätsprogramm"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096633271> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633271" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Urkundenbuch"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096632879> .
+
+<http://uri.gbv.de/terminology/aadgenres/09663328X> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "09663328X" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Verkaufskatalog"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/09663197X> .
+
+<http://uri.gbv.de/terminology/aadgenres/096633298> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633298" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096630779> ;
+    skos:definition "Hoheitliche Regelung der vollziehenden Gewalt"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Verordnung"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631813> .
+
+<http://uri.gbv.de/terminology/aadgenres/096633301> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633301" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096631295> ;
+    skos:definition "Sammelbezeichnung für alle Formen kürzerer epischer Versdichtung"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Verserzählung"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/09663331X> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "09663331X" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096630779> ;
+    skos:definition "Zu verwenden für völkerrechtliche Verträge. Nicht zu verwenden für Verträge zwischen Privatpersonen"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Vertrag"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096633328> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633328" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096633336> ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Volksbuch"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096633336> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633336" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Volkstümliche Schriften schöngeistigen oder populärwissenschaftlichen Inhalts zur Belehrung und Unterhaltung weitester Volkskreise"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Volksschrifttum"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631945>,
+        <http://uri.gbv.de/terminology/aadgenres/096632011> .
+
+<http://uri.gbv.de/terminology/aadgenres/096633344> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633344" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096631880> ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Vorlesung"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096632852> .
+
+<http://uri.gbv.de/terminology/aadgenres/096633352> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633352" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:broader <http://uri.gbv.de/terminology/aadgenres/096631880> ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Vorlesungsverzeichnis"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096633360> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633360" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Wappenbuch"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096633379> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633379" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Zu verwenden für Sprachwörterbücher im werten Sinn (Fremdsprachenwörterbuch, etymologisches Wörterbuch, Idiotikon, Glossar etc.). Nicht zu verwenden für Sachwörterbücher, Fachlexika und dergleichen"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Wörterbuch"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096631279>,
+        <http://uri.gbv.de/terminology/aadgenres/096632100>,
+        <http://uri.gbv.de/terminology/aadgenres/096632194>,
+        <http://uri.gbv.de/terminology/aadgenres/096633026>,
+        <http://uri.gbv.de/terminology/aadgenres/096633077> .
+
+<http://uri.gbv.de/terminology/aadgenres/096633387> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633387" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Zeitschrift"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096633395> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633395" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Relation"@de ;
+    skos:definition "Zu verwenden für Relation"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Zeitung"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/096633409> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633409" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Apophtegmata"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Zitatensammlung"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/09663085X>,
+        <http://uri.gbv.de/terminology/aadgenres/096633085> .
+
+<http://uri.gbv.de/terminology/aadgenres/096633417> a skos:Concept ;
+    dcterms:created "2006-09-04"^^xsd:date ;
+    dcterms:identifier "096633417" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:definition "Tierkunde"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Zoologie"@de ;
+    skos:related <http://uri.gbv.de/terminology/aadgenres/096633190> .
+
+<http://uri.gbv.de/terminology/aadgenres/559766955> a skos:Concept ;
+    dcterms:created "2008-03-12"^^xsd:date ;
+    dcterms:identifier "559766955" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Jagdliteratur"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/663316782> a skos:Concept ;
+    dcterms:created "2011-06-29"^^xsd:date ;
+    dcterms:identifier "663316782" ;
+    dcterms:modified "2012-10-11"^^xsd:date ;
+    skos:altLabel "Nachricht an den Buchbinder"@de ;
+    skos:definition "Zu verwenden für Nachricht an den Buchbinder, Avis au Relieur, Binding direction"@de ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Buchbinderanweisung"@de .
+
+<http://uri.gbv.de/terminology/aadgenres/892917954> a skos:Concept ;
+    dcterms:created "2017-07-06"^^xsd:date ;
+    dcterms:identifier "892917954" ;
+    dcterms:modified "2017-07-06"^^xsd:date ;
+    skos:editorialNote "Gattungsbegriff ausschließlich für alte Drucke mit Erscheinungsjahr vor 1850"@de ;
+    skos:inScheme <http://uri.gbv.de/terminology/aadgenres/> ;
+    skos:prefLabel "Ornamentstich"@de .
