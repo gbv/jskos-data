@@ -4,24 +4,13 @@ import re
 import csv
 from namedentities import unicode_entities
 
-#Liest die top.csv aus und gibt sie als Dictionary wieder
-top = {}
-
-with open('top.csv', 'r') as csvfile:
-    reader = csv.reader(csvfile, delimiter=',')
-    for row in reader:
-        notation = row[0]
-        label = row[1]
-        top[notation] = label
-        
-
-#Die Ausgangsdatei sys.txt wird mit Skript in eine CSV-Datei konvertiert
-#Sonderfälle werden bestimmt
-record = {}
-
+# Öffne sys.txt zum Schreiben
 csvfile = open('sys.csv', 'w', newline = '') 
 csvwriter = csv.writer(csvfile)
+csvwriter.writerow(("level","notation","prefLabel"))
 
+# Gibt einen Datensatz als CSV aus
+record = {}
 def process_record():
     global record
     global csvwriter
@@ -39,8 +28,17 @@ def process_record():
             csvwriter.writerow(row)
         record = {}       
 
+# Liest top.csv in ein dictionary
+top = {}
+with open('top.csv', 'r') as csvfile:
+    reader = csv.reader(csvfile, delimiter=',')
+    for row in reader:
+        notation = row[0]
+        label = row[1]
+        top[notation] = label
+
+# Konvertierung
 with open("sys.txt", "r") as ins:
-    csvwriter.writerow(("level","notation","prefLabel"))
     for line in ins:
         match = re.search("^#([^:]+): (.+)", line)
         if (match):
@@ -50,6 +48,6 @@ with open("sys.txt", "r") as ins:
         elif bool(re.findall("SET", line)):
             process_record()
 
+# Letzten Datensatz ebenfalls ausgeben
 process_record()
-
 csvfile.close()
