@@ -29,7 +29,7 @@ OBJ| 244    |
 owner| 2843|
 vww | 2870 | Verweise    
 
-Die Notationen sollten dem regularen Ausdruck `^[a-z]{3} [0-9]{3}(\.[0-9]+)?( [a-z]+)?$` entsprechend (abgesehen von einigen zu ikorrigierenden Fehlern).
+Die Notationen sollten dem regularen Ausdruck `^[a-z]{3} [0-9]{3}(\.[0-9]+)?( [a-z]+)?$` entsprechend (abgesehen von einigen zu korrigierenden Fehlern).
 
 ## Konvertierung
 

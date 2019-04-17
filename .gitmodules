@@ -1,0 +1,3 @@
+[submodule "kos-registry"]
+	path = kos-registry
+	url = https://github.com/gbv/kos-registry.git
