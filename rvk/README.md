@@ -34,3 +34,10 @@ Mittels [jskos metrics](https://github.com/gbv/jskos-metrics) wird aus den JSKOS
 
     ./rvkdata.sh 2018_4 metrics
 
+## Reduktion auf RVK-Basisklassen
+
+Zur Reduktion des MARCXML-Dumps auf die RVK-Basisklassen (Klassen die nicht mit Hilfe eines RVK-Schlüssels gebildet wurden) dient das Script `reduceMarcxml.py`. Dazu muss eine Liste der IDs (MARC-Feld 001) bereitgestellt werden, deren Datensätze behalten werden sollen:
+	
+    ./reduceMarcxml.py keep-ids.txt < 2019_1/rvko_2019_1.xml > 2019_1/rvko_2019_1.reduced.xml
+    
+Oder anstatt `keep-ids.txt`irgendein anderer Filename, so wie die oben erwähnte Listen-Datei heißt.
