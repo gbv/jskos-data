@@ -35,7 +35,5 @@ while (<>) {
         $concept{topConceptOf} = $concept{inScheme};
     }
 
-    push @concepts, \%concept;
+    say JSON->new->encode( \%concept );
 }
-
-say JSON->new->pretty->encode( \@concepts );
