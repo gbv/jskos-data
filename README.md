@@ -16,7 +16,7 @@ files, all of them given in *canonical JSKOS*:
 * `...-mappings.json` 
 
 The files have partly been created with
-[skos2jskos](https://metacpan.org/pod/skos2jskos).
+[skos2jskos](https://metacpan.org/pod/skos2jskos) and other tools.
 
 ## Contents
 
@@ -27,9 +27,25 @@ The files have partly been created with
 * **nwbib** - Raumsystematik der Nordrhein-Westfälischen Bibliographie (from [vocabs])
 * **bartoc-types** - BARTOC KOS types (from [BARTOC])
 * **ixtheo**
+* ...
 
 [vocabs]: https://github.com/lobid/vocabs
 [BARTOC]: http://bartoc.org/
+
+## Requirements
+
+* jq
+* node
+
+Install dependencies:
+
+    npm install
+
+Clone and update kos-registry:
+
+    npm run kos-registry
+
+Specific instructions are located in each directorie's `README.md`.
 
 ## License
 

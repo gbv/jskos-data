@@ -2,7 +2,9 @@
   "name": "jskos-data",
   "version": "0.0.0",
   "scripts": {
-    "test": "./test.sh"
+    "test": "./test.sh",
+    "convert": "jskos-convert",
+    "kos-registry": "git clone https://github.com/gbv/kos-registry.git; cd kos-registry; npm install; npm run all"
   },
   "repository": {
     "type": "git",
