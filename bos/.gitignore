@@ -1,1 +1,3 @@
 sys.csv
+*.json
+*.ndjson

@@ -54,3 +54,7 @@ Die Ausgangsdatei `sys.txt` wird zunächst mit dem Python-Skript `txt2csv.py` in
 
 Die Oberklassen sind nicht in `syt.txt` enthalten. Daher wurde per Hand die CSV-Datei `top.csv` erstellt. Das Fachgebiet "Kulturwissenschaften" ist davon ausgenommen, da es eine eigene Systematik verwendet, die aus einzelnen Klassen der gesamten Systematik zusammengesetzt ist.
 
+Anschließend kann `sys.csv` mit `jskos-convert` nach NDJSON konvertiert werden. Der Aufruf dazu befindet sich in `Makefile`:
+
+    make
+
