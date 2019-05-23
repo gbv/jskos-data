@@ -1,0 +1,74 @@
+## Konvertierung des CERL-Thesaurus
+
+Die JSONLD-Daten des [CERL-Thesaurus](https://thesaurus.cerl.org/) enthalten folgende Felder mit ihren Entsprechungen in [JSKOS](https://gbv.github.io/jskos/):
+
+- "@id" = `uri`
+- "rdf:type" = `type`
+- "skos:note" = `note`
+- "rdaGr2:variantNameForTheCorporateBody" = `altLabel`
+- "rdaGr2:nameOfTheCorporateBody" = `prefLabel`
+- "rdaGr2:nameOfThePerson" = `prefLabel`
+- "ct:hasPredecessor" = `previous`
+- "ct:hasSuccessor" = `next`
+- "rdaRelGr2:predecessor" = `previous`
+- "rdaRelGr2:successor" = `next`
+- "rel:ancestorOf" = `ancestors`
+- "ct:collaborator" = `prefLabel`
+- "rdaRelGr2:relatedPerson" = `related`
+- "rdaRelGr2:relatedCorporateBody" = `related`
+- "ct:relatedCorporateBody" = `related`
+- "ct:relatedImprintName" = `related`
+- "ct:relatedPerson" = `related`
+- "ct:dateOfBirthOrFoundation" = `startDate`
+- "ct:dateOfDeathOrDissolution" = `endDate`
+- "rdaGr2:dateOfBirth" = `startDate`
+- "rdaGr2:dateOfDeath" = `endDate`
+- "rdaGr2:dateOfEstablishment" = `startDate`
+- "rdaGr2:dateOfTermination" = `endDate`
+- "foaf:isPrimaryTopicOf" = `topConceptOf`
+- "rel:antagonistOf" = `related`
+- "rel:childOf" = `related`
+- "rel:collaboratesWith" = `related`
+- "rel:descendantOf" = `related`
+- "rel:employedBy" = `related`
+- "rel:employerOf" = `related`
+- "rel:engagedTo" = `related`
+-  "rel:friendOf" = `related`
+-  "rel:grandchildOf" = `related`
+-  "rel:grandparentOf" = `related`
+-  "rel:parentOf" = `related`
+-  "rel:siblingOf" = `related`
+-  "rel:spouseOf" = `related`
+
+- "ct:activityNote",
+- "ct:biographicalInformation",
+- "ct:datesOfActivity",
+- "ct:endingDateOfActivity",
+- "ct:ficticiousImprintName",
+- "ct:ficticiousNameForTheCorporateBody",
+- "ct:ficticiousNameForThePerson",
+- "ct:ficticiousNameForThePlace",
+- "ct:geographicNote",
+- "ct:imprintName",
+- "ct:locationOfActivity",
+- "ct:signOrDevice",
+- "ct:startingDateOfActivity",
+- "ct:variantImprintName",
+- "gn:countryCode",
+- "gnd:publicationOfThePerson",
+- "owl:sameAs",
+- "rdaGr2:biographicalInformation",
+- "rdaGr2:corporateHistory",
+- "rdaGr2:fieldOfActivityOfTheCorporateBody",
+- "rdaGr2:fieldOfActivityOfThePerson",
+- "rdaGr2:gender",
+- "rdaGr2:periodOfActivityOfThePerson",
+- "rdaGr2:variantNameForThePerson",
+- "rdaGr3:nameOfThePlace",
+- "rdaGr3:variantNameForThePlace",
+- "rdaRelGr2:hierarchicalSuperior",
+- "rdaGr2:placeAssociatedWithTheCorporateBody",
+-  "wgs84_pos:lat",
+-  "wgs84_pos:long"
+
+Die Konvertierung der `.ndjson` Dateien wird mit [jq](https://stedolan.github.io/jq/) im Skript `cerl2jskos.jq` implementiert.
