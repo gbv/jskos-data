@@ -1,8 +1,6 @@
 # Nur Inhalt von @graph verarbeiten
 .["@graph"][]
-
 | select(."@id"|startswith("http://thesaurus.cerl.org/record/"))
-
 |
 
 # JSON Concept

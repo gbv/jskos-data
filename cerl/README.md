@@ -1,6 +1,6 @@
 ## Konvertierung des CERL-Thesaurus
 
-Die JSONLD-Daten des [CERL-Thesaurus](https://thesaurus.cerl.org/) enthalten folgende Felder mit ihren Entsprechungen in [JSKOS](https://gbv.github.io/jskos/):
+Die JSONLD-Daten des [CERL-Thesaurus](https://thesaurus.cerl.org/) enthalten folgende Felder mit ihren Entsprechungen in [JSKOS](https://gbv.github.io/jskos/). Noch sind nicht alle Felder umgesetzt:
 
 - "@id" = `uri`
 - "rdf:type" = `type`
@@ -71,4 +71,6 @@ Die JSONLD-Daten des [CERL-Thesaurus](https://thesaurus.cerl.org/) enthalten fol
 -  "wgs84_pos:lat",
 -  "wgs84_pos:long"
 
-Die Konvertierung der `.ndjson` Dateien wird mit [jq](https://stedolan.github.io/jq/) im Skript `cerl2jskos.jq` implementiert.
+Die Konvertierung der `.ndjson` Dateien wird mit [jq](https://stedolan.github.io/jq/) im Skript `cerl2jskos.jq` implementiert:
+
+    jq -cf cerl2jskos.jq jsonld/*.ndjson > cerl-concepts.ndjson
