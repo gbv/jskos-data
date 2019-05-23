@@ -74,3 +74,8 @@ Die JSONLD-Daten des [CERL-Thesaurus](https://thesaurus.cerl.org/) enthalten fol
 Die Konvertierung der `.ndjson` Dateien wird mit [jq](https://stedolan.github.io/jq/) im Skript `cerl2jskos.jq` implementiert:
 
     jq -cf cerl2jskos.jq jsonld/*.ndjson > cerl-concepts.ndjson
+
+Zur Analyse kann das Skript `cerlcore.jq` verwendet werden:
+
+    jq -f cerlcore.jq jsonld/*.ndjson
+
