@@ -1,3 +1,5 @@
+#jq -f cerl2jskos.jq jsonld/cerl_thesaurus_0.ndjson 
+
 # Nur Inhalt von @graph verarbeiten
 .["@graph"][]
 | select(."@id"|startswith("http://thesaurus.cerl.org/record/"))
@@ -46,5 +48,18 @@ def linkedItems:
       ."ct:relatedPerson"[]? 
     ] | linkedItems
   ),
-  type: ["http://www.w3.org/2004/02/skos/core#Concept", (."rdf:type"[]?."@id")] 
+  type: ["http://www.w3.org/2004/02/skos/core#Concept", (."rdf:type"[]?."@id")] ,
+  ancestors: [ ."rel:ancestorOf"[]? ],
+  previous: (
+    [ 
+	  ."rdaRelGr2:predecessor"[]?,
+	  ."ct:hasPredecessor"[]?
+    ]
+),
+  next: (
+    [ 
+	  ."rdaRelGr2:successor"[]?,
+	  ."ct:hasSuccessor"[]?
+    ]
+)
 }
