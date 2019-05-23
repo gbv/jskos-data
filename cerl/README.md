@@ -2,23 +2,21 @@
 
 Die JSONLD-Daten des [CERL-Thesaurus](https://thesaurus.cerl.org/) enthalten folgende Felder mit ihren Entsprechungen in [JSKOS](https://gbv.github.io/jskos/). Noch sind nicht alle Felder umgesetzt:
 
+### Alle geadded (in cerl2jskos.jq)
 - "@id" = `uri`
 - "rdf:type" = `type`
 - "skos:note" = `note`
-- "rdaGr2:variantNameForTheCorporateBody" = `altLabel`
 - "rdaGr2:nameOfTheCorporateBody" = `prefLabel`
 - "rdaGr2:nameOfThePerson" = `prefLabel`
+- "rdaGr3:nameOfThePlace" = `prefLabel`
+- "rdaGr2:variantNameForTheCorporateBody" = `altLabel`
 - "ct:hasPredecessor" = `previous`
 - "ct:hasSuccessor" = `next`
 - "rdaRelGr2:predecessor" = `previous`
 - "rdaRelGr2:successor" = `next`
 - "rel:ancestorOf" = `ancestors`
-- "ct:collaborator" = `prefLabel`
-- "rdaRelGr2:relatedPerson" = `related`
-- "rdaRelGr2:relatedCorporateBody" = `related`
-- "ct:relatedCorporateBody" = `related`
-- "ct:relatedImprintName" = `related`
-- "ct:relatedPerson" = `related`
+
+### Noch nicht geadded (in cerl2jskos.jq)
 - "ct:dateOfBirthOrFoundation" = `startDate`
 - "ct:dateOfDeathOrDissolution" = `endDate`
 - "rdaGr2:dateOfBirth" = `startDate`
@@ -26,6 +24,13 @@ Die JSONLD-Daten des [CERL-Thesaurus](https://thesaurus.cerl.org/) enthalten fol
 - "rdaGr2:dateOfEstablishment" = `startDate`
 - "rdaGr2:dateOfTermination" = `endDate`
 - "foaf:isPrimaryTopicOf" = `topConceptOf`
+
+### Related nicht so wichtig
+- "rdaRelGr2:relatedPerson" = `related`
+- "rdaRelGr2:relatedCorporateBody" = `related`
+- "ct:relatedCorporateBody" = `related`
+- "ct:relatedImprintName" = `related`
+- "ct:relatedPerson" = `related`
 - "rel:antagonistOf" = `related`
 - "rel:childOf" = `related`
 - "rel:collaboratesWith" = `related`
@@ -40,8 +45,10 @@ Die JSONLD-Daten des [CERL-Thesaurus](https://thesaurus.cerl.org/) enthalten fol
 -  "rel:siblingOf" = `related`
 -  "rel:spouseOf" = `related`
 
+### (Noch) keine JSKOS-Korrespondent gefunden
 - "ct:activityNote",
 - "ct:biographicalInformation",
+- "ct:collaborator",
 - "ct:datesOfActivity",
 - "ct:endingDateOfActivity",
 - "ct:ficticiousImprintName",
@@ -64,7 +71,6 @@ Die JSONLD-Daten des [CERL-Thesaurus](https://thesaurus.cerl.org/) enthalten fol
 - "rdaGr2:gender",
 - "rdaGr2:periodOfActivityOfThePerson",
 - "rdaGr2:variantNameForThePerson",
-- "rdaGr3:nameOfThePlace",
 - "rdaGr3:variantNameForThePlace",
 - "rdaRelGr2:hierarchicalSuperior",
 - "rdaGr2:placeAssociatedWithTheCorporateBody",
@@ -79,3 +85,4 @@ Zur Analyse kann das Skript `cerlcore.jq` verwendet werden:
 
     jq -f cerlcore.jq jsonld/*.ndjson
 
+Wenn man einzelne Datensätze bearbeiten will, kann man [hier](https://data.cerl.org/thesaurus/_search) die JSON-LD Datensätze herunterladen.
