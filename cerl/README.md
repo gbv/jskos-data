@@ -1,5 +1,23 @@
 ## Konvertierung des CERL-Thesaurus
 
+## Voraussetzungen
+
+* Die [CERL-Thesaurus-Daten](https://data.cerl.org/thesaurus/) müssen als JSON-LD im Verzeichnis `jsonld` abgelegt sein. Einzelne Datensätze können direkt heruntergeladen werden, einen vollen Datenabzug gibt es auf Anfrage.
+
+* Zur Konvertierung der `.ndjson` Dateien muss [jq](https://stedolan.github.io/jq/) installiert sein.
+
+## Usage
+
+Die Konvertierung ist im Skript `cerl2jskos.jq` implementiert:
+
+    make
+
+Zur Analyse kann das Skript `records.jq` verwendet werden, z.B.
+
+    make records | jq -r keys[] 
+
+## Mapping
+
 Die JSONLD-Daten des [CERL-Thesaurus](https://thesaurus.cerl.org/) enthalten folgende Felder mit ihren Entsprechungen in [JSKOS](https://gbv.github.io/jskos/). Noch sind nicht alle Felder umgesetzt:
 
 ### Alle geadded (in cerl2jskos.jq)
@@ -77,12 +95,4 @@ Die JSONLD-Daten des [CERL-Thesaurus](https://thesaurus.cerl.org/) enthalten fol
 -  "wgs84_pos:lat",
 -  "wgs84_pos:long"
 
-Die Konvertierung der `.ndjson` Dateien wird mit [jq](https://stedolan.github.io/jq/) im Skript `cerl2jskos.jq` implementiert:
 
-    jq -cf cerl2jskos.jq jsonld/*.ndjson > cerl-concepts.ndjson
-
-Zur Analyse kann das Skript `cerlcore.jq` verwendet werden:
-
-    jq -f cerlcore.jq jsonld/*.ndjson
-
-Wenn man einzelne Datensätze bearbeiten will, kann man [hier](https://data.cerl.org/thesaurus/_search) die JSON-LD Datensätze herunterladen.

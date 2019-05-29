@@ -7,59 +7,75 @@
 
 # Utility functions
 
-## convert an array of strings with language to a language map
-def languageMap:
-  [ .[]? | { key:."@language", value: ."@value" } ] | from_entries
+def languageEntry:
+  { key:(."@language"//"und"), value: ."@value" } 
 ;
 
 def languageMapOfLists:
-  languageMap | map_values([.])
+  reduce (.[]? | languageEntry) as $p (
+    {}; .[$p.key] += [$p.value]
+  )
 ;
 
-def prefLabel:
-  { und: .[0]["@value"] }
+def languageMapOfStrings:
+  [ . | languageEntry ] | from_entries
 ;
 
-def altLabel:
-  { und: [.[]?["@value"]] }
+def useId:
+  select(."@id") | { uri: ."@id" }
 ;
 
-def linkedItems:
-  [ .[]? | select(."@id") | { uri: ."@id" } ]
+def simpleField($field; $content):
+  if ($content|length>0) then
+    { ($field): $content }
+  else 
+    {}
+  end 
+;
+
+def arrayField($field; elements):
+  [ elements ] as $array |
+  if ($array|length>0) then
+    { ($field): $array }
+  else 
+    {}
+  end 
 ;
 
 # JSON Concept
 {
   uri: ."@id",
-  prefLabel: (
-    [ 
-      ."rdaGr2:nameOfTheCorporateBody"[]?, 
-      ."rdaGr2:nameOfThePerson"[]?,
-      ."rdaGr3:nameOfThePlace"[]?,
-      ."ct:imprintName"[]?
-    ] | prefLabel
-  ),
-  altLabel: (
-    ."rdaGr2:variantNameForTheCorporateBody"
-  ) | altLabel,
-  note: ."skos:note" | languageMapOfLists,
-  related: (
-    [ 
-      ."ct:relatedPerson"[]? 
-    ] | linkedItems
-  ),
-  type: ["http://www.w3.org/2004/02/skos/core#Concept", (."rdf:type"[]?."@id")] ,
-  ancestors: [ ."rel:ancestorOf"[]? ],
-  previous: (
-    [ 
-	  ."rdaRelGr2:predecessor"[]?,
-	  ."ct:hasPredecessor"[]?
-    ]
-),
-  next: (
-    [ 
-	  ."rdaRelGr2:successor"[]?,
-	  ."ct:hasSuccessor"[]?
-    ]
-)
+  type: [
+    "http://www.w3.org/2004/02/skos/core#Concept",
+    ."rdf:type"[]?."@id"
+  ]
 }
++ simpleField("prefLabel"; (
+    ."rdaGr2:nameOfTheCorporateBody"[]?, 
+    ."rdaGr2:nameOfThePerson"[]?,
+    ."rdaGr3:nameOfThePlace"[]?,
+    ."ct:imprintName"[]?
+    ) | languageMapOfStrings
+)
++ simpleField("altLabel"; (
+    ."rdaGr2:variantNameForTheCorporateBody"
+    ) | languageMapOfLists
+)
++ simpleField("note"; 
+    ."skos:note" | languageMapOfLists 
+)
++ arrayField("related";
+    ."ct:relatedPerson"[]? 
+    | useId
+)
++ arrayField("ancestors";
+    ."rel:ancestorOf"[]?
+)
++ arrayField("previous";
+    ."rdaRelGr2:predecessor"[]?,
+	."ct:hasPredecessor"[]?
+)
++ arrayField("next";
+    ."rdaRelGr2:successor"[]?,
+    ."ct:hasSuccessor"[]?
+)
