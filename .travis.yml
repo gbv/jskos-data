@@ -14,6 +14,7 @@ before_install:
 - sudo pip3 install namedentities
 install:
 - npm install
+- npm run kos-registry
 script:
 - ./convert.sh
 - npm test
