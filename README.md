@@ -41,7 +41,7 @@ Install dependencies:
 
     npm install
 
-Clone and update kos-registry:
+Download current [kos-registry](https://github.com/gbv/kos-registry):
 
     npm run kos-registry
 

@@ -4,7 +4,7 @@
   "scripts": {
     "test": "./test.sh",
     "convert": "jskos-convert",
-    "kos-registry": "git clone https://github.com/gbv/kos-registry.git; cd kos-registry; npm install; npm run all"
+    "kos-registry": "wget -N $(curl -s https://api.github.com/repos/gbv/kos-registry/releases/latest | jq -r .assets[].browser_download_url)"
   },
   "repository": {
     "type": "git",
