@@ -1,11 +1,9 @@
 /**
  * Script to download and convert the nomisma vocabulary.
  *
- * Before running: `npm i`
- *
  * Run with: `node convert.js`
  *
- * Output files: scheme.json, concepts.ndjson.
+ * Output files: nomisma-scheme.json, nomisma-concepts.ndjson.
  */
 
 const csv = require("csvtojson")
@@ -137,5 +135,4 @@ Promise.all(promises).then(results => {
   fs.writeFileSync("nomisma-concepts.ndjson", concepts.reduce((previous, current) => previous + JSON.stringify(current) + "\n", ""))
 
   console.log(`${concepts.length} concepts converted and saved.`)
-
 })
