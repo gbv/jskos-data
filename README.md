@@ -1,7 +1,7 @@
 # jskos-data
 
 [![Build Status](https://travis-ci.com/gbv/jskos-data.svg?branch=master)](https://travis-ci.com/gbv/jskos-data)
-![License](https://img.shields.io/github/license/gbv/kos-registry.svg)
+![License](https://img.shields.io/github/license/gbv/jskos-data.svg)
 
 This repository contains a collection of **Knowledge Organization Systems (KOS)
 encoded in [JSKOS data format](https://gbv.github.io/jskos/)**. The collection
@@ -25,7 +25,11 @@ The files have partly been created with
 
 * [jq](https://stedolan.github.io/jq/)
 * node and some npm modules (run `npm install`)
-* make
+
+And for some vocabularies:
+
+* [skos2jskos](https://metacpan.org/pod/App::skos2jskos)
+* rapper (included in Debian package `raptor-utils`)
 
 Download current [kos-registry](https://github.com/gbv/kos-registry):
 
