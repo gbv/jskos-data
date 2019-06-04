@@ -1,8 +1,13 @@
 #!/bin/bash
 
-git ls-files | grep Makefile | while read line; do
+errors=0
+
+while read line; do
   dir=$(dirname $line)
   echo
   echo "## $dir"
   make -C "$dir"
-done
+  errors=$((errors + $?))
+done < <(git ls-files | grep Makefile)
+
+exit $errors
