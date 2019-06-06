@@ -1,9 +1,17 @@
 language: node_js
 node_js:
 - node
+addons:
+  apt:
+    packages:
+    - librdf-query-perl
+    - librdf-query-client-perl 
+    - cpanminus
+    - raptor-utils
+    - python3-pip
 before_install:
-- sudo apt-get install librdf-query-perl librdf-query-client-perl raptor-utils cpanminus
 - sudo cpanm --sudo --notest --skip-satisfied App::skos2jskos
+- sudo pip3 install namedentities
 install:
 - npm install
 script:
