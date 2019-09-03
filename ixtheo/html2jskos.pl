@@ -1,7 +1,8 @@
 #!/usr/bin/env perl
 use v5.14;
-use JSON;
+use JSON::PP;
 
+my $JSON = JSON::PP->new->canonical;
 my @concepts;
 my $base     = "https://www.ixtheo.de/classification/";
 my $language = "de";
@@ -35,5 +36,5 @@ while (<>) {
         $concept{topConceptOf} = $concept{inScheme};
     }
 
-    say JSON->new->encode( \%concept );
+    say $JSON->encode( \%concept );
 }
