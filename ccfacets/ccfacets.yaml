@@ -1,0 +1,54 @@
+---
+- uri: http://uri.gbv.de/taxonomy/ccfacets/P
+  notation:
+    - P
+    - ","
+  prefLabel:
+    en: personality
+
+- uri: http://uri.gbv.de/taxonomy/ccfacets/M
+  notation:
+    - M
+  prefLabel:
+    en: matter
+  narrower:
+  - uri: http://uri.gbv.de/taxonomy/ccfacets/M-P
+  - uri: http://uri.gbv.de/taxonomy/ccfacets/M-M
+  - uri: http://uri.gbv.de/taxonomy/ccfacets/M-Mt
+
+- uri: http://uri.gbv.de/taxonomy/ccfacets/M-P
+  notation:
+    - M-P
+  prefLabel:
+    en: matter-property
+
+- uri: http://uri.gbv.de/taxonomy/ccfacets/M-M
+  notation:
+    - M-M
+  prefLabel:
+    en: matter-method
+
+- uri: http://uri.gbv.de/taxonomy/ccfacets/M-Mt
+  notation:
+    - M-Mt
+  prefLabel:
+    en: matter-material
+
+- uri: http://uri.gbv.de/taxonomy/ccfacets/E
+  notation:
+    - E
+  prefLabel:
+    en: energy
+
+- uri: http://uri.gbv.de/taxonomy/ccfacets/S
+  notation:
+    - S
+  prefLabel:
+    en: space
+
+- uri: http://uri.gbv.de/taxonomy/ccfacets/T
+  notation:
+    - T
+  prefLabel:
+    en: time
+
