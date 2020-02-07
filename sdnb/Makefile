@@ -1,2 +1,2 @@
-sdnb-concepts.ndjson: concepts.csv ../kos-registry.json
-	jskos-convert concepts -l de -r ../kos-registry.json -s SDNB $< > $@
+sdnb-concepts.ndjson: sdnb.ttl
+	skos2jskos -n sdnb $<
