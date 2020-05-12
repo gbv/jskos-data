@@ -4,6 +4,7 @@ URL=https://www.editeur.org/files/Thema/1.4/Thema_v1.4_de/$(FILE)
 
 thema-concepts.ndjson: $(FILE)
 	jq -c -f thema2jskos.jq $< > $@
+	jskos-validate --verbose concepts $@
 	cp $@ thema-concepts-$(VERSION).ndjson
 
 download: $(FILE)

@@ -9,13 +9,24 @@
   "1.4": "2020-04"
 } as $VERSIONS |
 
+# IssueNumber and Modified may contain dates or version numbers
+def dateValue:
+  if match("^\\d\\.\\d") then
+    $VERSIONS[.[0:3]]
+  elif match("^2\\d\\d\\d\\d\\d$") then
+    .[0:4]+"-"+.[4:6]
+  else
+    null
+  end
+;
+
 .CodeList.ThemaCodes.Code[] |
 {
   uri: ($BASE + "/" + .CodeValue),
   notation: [.CodeValue],
   prefLabel: { de: .CodeDescription },
   inScheme: [ { uri: $BASE } ],
-  issued: $VERSIONS[.IssueNumber|.[0:3]]
+  issued: .IssueNumber|dateValue
 }
 +
 if .CodeNotes then 
@@ -31,9 +42,7 @@ else
 end
 +
 if .Modified then
-  {
-    modified: $VERSIONS[.Modified|.[0:3]]
-  }
+  { modified: .Modified|dateValue }
 else
   {}
 end
