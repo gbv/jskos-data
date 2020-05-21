@@ -1,0 +1,18 @@
+---
+msc2010:
+  prefLabel:
+    en: Mathematics Subject Classification 2010
+  uri: http://msc2010.org/resources/MSC/2010/msc2010/
+  identifier:
+  - http://bartoc.org/en/node/474
+  - http://id.loc.gov/vocabulary/classSchemes/msc
+  CQLKEY: MSC
+  type:
+  - http://w3id.org/nkos/nkostype#classification_schema
+  notation:
+  - MSC
+  notationPattern: '[0-9]{2}(-XX|-[0-9]{2}|[A-Z](xx|[0-9]{2}))'
+  namespace: http://msc2010.org/resources/MSC/2010/msc2010/ 
+  license:
+  - uri: http://creativecommons.org/licenses/by-nc/3.0/
+  MARCSPEC: 080{$2=MSC}

@@ -3,6 +3,8 @@
   "version": "0.0.0",
   "scripts": {
     "test": "./test.sh",
+    "jskos-convert": "jskos-convert",
+    "jskos-validate": "jskos-validate",
     "convert": "jskos-convert",
     "kos-registry": "wget -N $(curl -s https://api.github.com/repos/gbv/kos-registry/releases/latest | jq -r .assets[].browser_download_url)"
   },
@@ -17,7 +19,7 @@
   },
   "homepage": "https://github.com/gbv/jskos-data#readme",
   "dependencies": {
-    "jskos-cli": "^0.4.1",
+    "jskos-cli": "^0.4.2",
     "jskos-tools": "^1.0.7",
     "jskos-validate": "^0.3.2",
     "axios": "^0.19.2",
