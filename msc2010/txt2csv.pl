@@ -15,10 +15,9 @@ while (<>) {
     $label =~ s/\s+$//g;
     $label =~ s/\s+/ /g;
 
-    my $level = 3;
+    my $level = 2;
     $level = 0 if $notation =~ /-XX$/;
-    $level = 1 if $notation =~ /-[0-9]{2}$/;
-    $level = 2 if $notation =~ /[A-Z]xx$/;
+    $level = 1 if $notation =~ /(-[0-9]{2}|[A-Z]xx)$/;
 
     my $notes = join '; ', grep { $_ } ( $text =~ /$notesPattern/g );
     say join ',', map { "\"$_\"" } $level, $notation, $label, $notes;
