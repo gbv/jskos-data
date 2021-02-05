@@ -5,4 +5,4 @@ faechersystematik.scheme.ndjson:
 		| jq -c '.[]|.uri="http://w3id.org/class/hochschulfaechersystematik/scheme"' > $@
 
 faechersystematik.concepts.ndjson: faechersystematik.csv faechersystematik.scheme.ndjson
-	npm run --silent jskos-convert -- -v -m -s faechersystematik.scheme.ndjson $< > $@ 
+	npm run --silent jskos-convert -- -v -m -s $(CURDIR)/faechersystematik.scheme.ndjson $(CURDIR)/$< > $(CURDIR)/$@ 
