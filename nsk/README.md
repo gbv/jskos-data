@@ -11,7 +11,7 @@ Außerdem liegen Normdatensätzen zu einzelnen Klassen vor. Im PICA-Katalog der 
 Für die Darstellung ins JSKOS bzw. RDF werden die Notationen bzw. Identifier von Konzepten der NSK-Facetten gebildet aus:
 
 * Den Systemstellen der Fachgruppen (fangen immer mit einem Großbuchstaben an)
-* Den Sachschlüsseln (fangen immer mit einer Ziffer an)
+* Den Sachschlüsseln (fangen immer mit einer Ziffer außer Null an)
 * Sprachkürzel (Bestehen immer aus Kleinbuchstaben)
 * Namen (in um Sonderzeichen bereinigter Form)
 

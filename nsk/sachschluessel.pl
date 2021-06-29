@@ -4,7 +4,7 @@ use v5.14.1;
 # USAGE: ./sachschluessel.pl < NSK_Sachkatalogschlüssel.csv > sachschluessel.csv
 
 say "level,notation,prefLabel";
-say "0,sach,Sachkatalogschlüssel";
+say "0,0,Sachkatalogschlüssel";
 
 my $level;
 
