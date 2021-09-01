@@ -1,14 +1,16 @@
+JSKOS_CONVERT=npm run --silent jskos-convert --
+
 vocabulary.ndjson:
-	curl http://bartoc.org/en/node/20298?format=json | jq .[] -c -S > $@
+	curl --silent http://bartoc.org/en/node/20298?format=json | jq .[] -c -S > $@
 
 fachgruppen.ndjson: fachgruppen.csv vocabulary.ndjson
-	jskos-convert --scheme vocabulary.ndjson --validate --marktop fachgruppen.csv > $@
+	${JSKOS_CONVERT} --scheme vocabulary.ndjson --validate --marktop fachgruppen.csv > $@
 
 fachgruppen.csv: NSK_Fachgruppenkatalog.csv
 	./fachgruppen.pl < $< > $@
 
 sachschluessel.ndjson: sachschluessel.csv vocabulary.ndjson
-	jskos-convert --scheme vocabulary.ndjson --validate --marktop sachschluessel.csv > $@
+	${JSKOS_CONVERT} --scheme vocabulary.ndjson --validate --marktop sachschluessel.csv > $@
 
 sachschluessel.csv: NSK_Sachkatalogschlüssel.csv
 	./sachschluessel.pl < $< > $@

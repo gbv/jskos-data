@@ -3,9 +3,8 @@
   "version": "0.0.0",
   "scripts": {
     "test": "./test.sh",
-    "jskos-convert": "jskos-convert",
-    "jskos-validate": "jskos-validate",
-    "convert": "jskos-convert",
+    "jskos-convert": "cd $INIT_CWD; jskos-convert",
+    "jskos-validate": "cd $INIT_CWD; jskos-validate",
     "kos-registry": "wget -N $(curl -s https://api.github.com/repos/gbv/kos-registry/releases/latest | jq -r .assets[].browser_download_url)"
   },
   "repository": {
