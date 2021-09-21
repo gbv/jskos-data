@@ -1,0 +1,28 @@
+{
+  "uri": "http://bartoc.org/en/node/1042",
+  "identifier": [
+    "http://www.wikidata.org/entity/Q631890"
+  ],
+  "publisher": [
+    {
+      "prefLabel": {
+        "en": "Organisation for Economic Co-operation and Development (OECD)"
+      },
+      "uri": "http://viaf.org/viaf/149776292"
+    }
+  ],
+  "notation": [
+    "FOS"
+  ],
+  "prefLabel": {
+    "en": "Field of Science and Technology Classification",
+    "und": "Revised Field of Science and Technology (FOS) Classification in the Frascati Manual"
+  },
+  "altLabel": {
+    "en": [
+      "FOS Classification",
+      "OECD FOS Classification"
+    ]
+  },
+  "namespace": "http://bartoc.org/en/node/1042/"
+}

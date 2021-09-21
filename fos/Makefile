@@ -3,4 +3,4 @@ fos-concepts.ndjson: fos-concepts.csv fos-scheme.json
 
 fos-scheme.json:
 	curl -s http://bartoc.org/api/data?uri=http://bartoc.org/en/node/1042 \
-		| jq '.[]|{uri,namespace}' > $@
+		| jq '.[]|{uri,identifier,publisher,notation,prefLabel,altLabel,namespace}' > $@
