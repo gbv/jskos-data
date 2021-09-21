@@ -1,0 +1,311 @@
+fromNotation,fromLabel,toNotation,toLabel
+101,Ancient Cultures,6.1,History and archaeology
+101,Ancient Cultures,6.2,Languages and literature
+101-01,Prehistory,6.1,History and archaeology
+101-02,Classical Philology,6.2,Languages and literature
+101-03,Ancient History,6.1,History and archaeology
+101-04,Classical Archaeology,6.1,History and archaeology
+101-05,Egyptology and Ancient Near Eastern Studies,6.1,History and archaeology
+102,History,6.1,History and archaeology
+102-01,Medieval History,6.1,History and archaeology
+102-02,Early Modern History,6.1,History and archaeology
+102-03,Modern and Current History,6.1,History and archaeology
+102-04,History of Science,6.3,"Philosophy, ethics and religion"
+103,"Fine Arts, Music, Theatre and Media Studies",6.4,"Art (arts, history of arts, performing arts, music)"
+103-01,Art History,6.4,"Art (arts, history of arts, performing arts, music)"
+103-02,Musicology,6.4,"Art (arts, history of arts, performing arts, music)"
+103-03,Theatre and Media Studies,6.4,"Art (arts, history of arts, performing arts, music)"
+104,Linguistics,6.2,Languages and literature
+104-01,General and Applied Linguistics,6.2,Languages and literature
+104-02,Individual Linguistics,6.2,Languages and literature
+104-03,"Typology, NonEuropean Languages, Historical Linguistics",6.2,Languages and literature
+105,Literary Studies,6.2,Languages and literature
+105-01,Medieval German Literature,6.2,Languages and literature
+105-02,Modern German Literature,6.2,Languages and literature
+105-03,European and American Literature,6.2,Languages and literature
+105-04,General and Comparative Literature and Cultural Studies,6.2,Languages and literature
+106,"NonEuropean Languages and Cultures, Social and Cultural Anthropology, Jewish Studies and Religious Studies",6.3,"Philosophy, ethics and religion"
+106,"NonEuropean Languages and Cultures, Social and Cultural Anthropology, Jewish Studies and Religious Studies",5.4,Sociology
+106,"NonEuropean Languages and Cultures, Social and Cultural Anthropology, Jewish Studies and Religious Studies",6.2,Languages and literature
+106-01,Social and Cultural Anthropology and Ethnology/Folklore,5.4,Sociology
+106-02,Asian Studies,6.5,Other humanities
+106-02,Asian Studies,6.2,Languages and literature
+106-02,Asian Studies,5.4,Sociology
+106-03,"African, American and Oceania Studies",6.5,Other humanities
+106-03,"African, American and Oceania Studies",6.2,Languages and literature
+106-03,"African, American and Oceania Studies",5.4,Sociology
+106-04,"Islamic Studies, Arabian Studies, Semitic Studies",6.3,"Philosophy, ethics and religion"
+106-04,"Islamic Studies, Arabian Studies, Semitic Studies",6.2,Languages and literature
+106-04,"Islamic Studies, Arabian Studies, Semitic Studies",5.4,Sociology
+106-05,Religious Studies and Jewish Studies,6.3,"Philosophy, ethics and religion"
+106-05,Religious Studies and Jewish Studies,6.2,Languages and literature
+106-05,Religious Studies and Jewish Studies,5.4,Sociology
+107,Theology,6.3,"Philosophy, ethics and religion"
+107-01,Protestant Theology,6.3,"Philosophy, ethics and religion"
+107-02,Roman Catholic Theology,6.3,"Philosophy, ethics and religion"
+108,Philosophy,6.3,"Philosophy, ethics and religion"
+108-01,History of Philosophy,6.3,"Philosophy, ethics and religion"
+108-02,Theoretical Philosophy,6.3,"Philosophy, ethics and religion"
+108-03,Practical Philosophy,6.3,"Philosophy, ethics and religion"
+109,Education Sciences,5.3,Educational sciences
+109-01,General Education and History of Education,5.3,Educational sciences
+109-02,"Research on Teaching, Learning, and Training",5.3,Educational sciences
+109-03,Research on Socialization and Educational Institutions and Professions,5.3,Educational sciences
+110,Psychology,5.1,Psychology
+110-01,"General, Biological and Mathematical Psychology",5.1,Psychology
+110-02,Developmental and Educational Psychology,5.1,Psychology
+110-02,Developmental and Educational Psychology,5.3,Educational sciences
+110-03,"Social Psychology, Industrial and Organisational Psychology",5.1,Psychology
+110-04,"Differential Psychology, Clinical Psychology, Medical Psychology, Methodology",5.1,Psychology
+111,Social Sciences,5,Social sciences 
+111-01,Sociological Theory,5.4,Sociology
+111-02,Empirical Social Research,5.4,Sociology
+111-02,Empirical Social Research,5.9,Other social sciences
+111-03,Communication Sciences,5.8,Media and communications
+111-04,Political Science,5.6,Political Science
+112,Economics,5.2,Economics and business
+112-01,Economic Theory,5.2,Economics and business
+112-02,Economic and Social Policy,5.2,Economics and business
+112-03,Public Finance,5.6,Political Science
+112-03,Public Finance,5.2,Economics and business
+112-04,Business Administration,5.2,Economics and business
+112-05,Statistics and Econometrics,5.2,Economics and business
+112-06,Economic and Social History,5.2,Economics and business
+113,Jurisprudence,5.5,Law
+113-01,"Legal and Political Philosophy, Legal History, Legal Theory",5.5,Law
+113-02,Private Law,5.5,Law
+113-03,Public Law,5.5,Law
+113-04,Criminal Law and Law of Criminal Procedure,5.5,Law
+113-05,Criminology,5.5,Law
+201,Basic Biological and Medical Research,1.6,Biological sciences
+201-01,Biochemistry,1.6,Biological sciences
+201-02,Biophysics,1.6,Biological sciences
+201-03,Cell Biology,1.6,Biological sciences
+201-04,Structural Biology,1.6,Biological sciences
+201-05,General Genetics,1.6,Biological sciences
+201-06,Developmental Biology,1.6,Biological sciences
+201-07,Bioinformatics and Theoretical Biology,1.6,Biological sciences
+201-07,Bioinformatics and Theoretical Biology,1.2,Computer and information sciences
+201-08,Anatomy,1.6,Biological sciences
+201-08,Anatomy,3.1,Basic medicine
+202,Plant Sciences,1.6,Biological sciences
+202-01,Plant Systematics and Evolution,1.6,Biological sciences
+202-02,Plant Ecology and Ecosystem Analysis,1.6,Biological sciences
+202-03,Interorganismic Interactions of Plants,1.6,Biological sciences
+202-04,Plant Physiology,1.6,Biological sciences
+202-05,Plant Biochemistry and Biophysics,1.6,Biological sciences
+202-06,Plant Cell and Developmental Biology,1.6,Biological sciences
+202-07,Â Plant Genetics,1.6,Biological sciences
+203,Zoology,1.6,Biological sciences
+203-01,Systematics and Morphology,1.6,Biological sciences
+203-02,"Evolution, Anthropology",1.6,Biological sciences
+203-03,"Animal Ecology, Biodiversity and Ecosystem Research",1.6,Biological sciences
+203-04,Sensory and Behavioural Biology,1.6,Biological sciences
+203-05,Biochemistry and Animal Physiology,1.6,Biological sciences
+203-06,"Animal Genetics, Cell and Developmental Biology",1.6,Biological sciences
+204,"Microbiology, Virology and Immunology",1.6,Biological sciences
+204,"Microbiology, Virology and Immunology",3.1,Basic medicine
+204,"Microbiology, Virology and Immunology",3.3,Health sciences
+204-01,"Metabolism, Biochemistry and Genetics of Microorganisms",1.6,Biological sciences
+204-02,Microbial Ecology and Applied Microbiology,1.6,Biological sciences
+204-03,"Medical Microbiology, Molecular Infection Biology",3.1,Basic medicine
+204-03,"Medical Microbiology, Molecular Infection Biology",1.6,Biological sciences
+204-04,Virology,1.6,Biological sciences
+204-05,Immunology,3.1,Basic medicine
+205,Medicine,3.1,Basic medicine
+205,Medicine,1.6,Biological sciences
+205-01,"Epidemiology, Medical Biometry, Medical Informatics",3.3,Health sciences
+205-01,"Epidemiology, Medical Biometry, Medical Informatics",1.2,Computer and information sciences
+205-02,"Public Health, Health Services Research, Social Medicine",3.3,Health sciences
+205-03,Human Genetics,1.6,Biological sciences
+205-03,Human Genetics,3.1,Basic medicine
+205-04,Physiology,3.1,Basic medicine
+205-05,Nutritional Sciences,3.3,Health sciences
+205-06,Pathology and Forensic Medicine,3.1,Basic medicine
+205-06,Pathology and Forensic Medicine,3.5,Other medical sciences
+205-07,Clinical Chemistry and Pathobiochemistry,3.1,Basic medicine
+205-07,Clinical Chemistry and Pathobiochemistry,2.6,Medical engineering
+205-08,Pharmacy,3.1,Basic medicine
+205-09,Pharmacology,3.1,Basic medicine
+205-10,Toxicology and Occupational Medicine,3.1,Basic medicine
+205-11,Anaesthesiology,3.2,Clinical medicine
+205-12,"Cardiology, Angiology",3.2,Clinical medicine
+205-13,"Pneumology, Clinical Infectiology, Intensive Care Medicine",3.2,Clinical medicine
+205-14,"Hematology, Oncology, Transfusion Medicine",3.2,Clinical medicine
+205-15,"Gastroenterology, Metabolism",3.2,Clinical medicine
+205-16,Nephrology,3.2,Clinical medicine
+205-17,"Endocrinology, Diabetology",3.2,Clinical medicine
+205-18,"Rheumatology, Clinical Immunology, Allergology",3.2,Clinical medicine
+205-19,Dermatology,3.2,Clinical medicine
+205-20,Pediatric and Adolescent Medicine,3.2,Clinical medicine
+205-21,Gynaecology and Obstetrics,3.2,Clinical medicine
+205-22,Reproductive Medicine/Biology,3.2,Clinical medicine
+205-22,Reproductive Medicine/Biology,1.6,Biological sciences
+205-23,Urology,3.2,Clinical medicine
+205-24,Gerontology and Geriatric Medicine,3.2,Clinical medicine
+205-25,Vascular and Visceral Surgery,3.2,Clinical medicine
+205-26,Cardiothoracic Surgery,3.2,Clinical medicine
+205-27,Traumatology and Orthopaedics,3.2,Clinical medicine
+205-28,"Dentistry, Oral Surgery",3.2,Clinical medicine
+205-29,Otolaryngology,3.2,Clinical medicine
+205-30,Radiology and Nuclear Medicine,3.2,Clinical medicine
+205-31,Radiation Oncology and Radiobiology,3.2,Clinical medicine
+205-32,Biomedical Technology and Medical Physics,3.4,Health biotechnology
+206,Neurosciences,3.1,Basic medicine
+206,Neurosciences,1.6,Biological sciences
+206-01,Molecular Neuroscience and Neurogenetics,3.1,Basic medicine
+206-01,Molecular Neuroscience and Neurogenetics,1.6,Biological sciences
+206-02,Cellular Neuroscience,3.1,Basic medicine
+206-02,Cellular Neuroscience,1.6,Biological sciences
+206-03,Developmental Neurobiology,1.6,Biological sciences
+206-04,"Systemic Neuroscience, Computational Neuroscience, Behaviour",1.6,Biological sciences
+206-04,"Systemic Neuroscience, Computational Neuroscience, Behaviour",3.1,Basic medicine
+206-04,"Systemic Neuroscience, Computational Neuroscience, Behaviour",1.2,Computer and information sciences 
+206-05,Comparative Neurobiology,1.6,Biological sciences
+206-05,Comparative Neurobiology,3.1,Basic medicine
+206-06,Cognitive Neuroscience and Neuroimaging,3.1,Basic medicine
+206-06,Cognitive Neuroscience and Neuroimaging,1.6,Biological sciences
+206-06,Cognitive Neuroscience and Neuroimaging,3.2,Clinical medicine
+206-07,Molecular Neurology,3.2,Clinical medicine
+206-07,Molecular Neurology,1.6,Biological sciences
+206-08,"Clinical Neurosciences I Neurology, Neurosurgery",3.2,Clinical medicine
+206-09,Biological Psychiatry,3.2,Clinical medicine
+206-09,Biological Psychiatry,3.1,Basic medicine
+206-10,"Clinical Neurosciences II Psychiatry, Psychotherapy, Psychosomatic Medicine",3.2,Clinical medicine
+206-11,Clinical Neurosciences III Ophthalmology,3.2,Clinical medicine
+207,"Agriculture, Forestry, Horticulture and Veterinary Medicine",4.1,"Agriculture, forestry, and fisheries"
+207-01,Soil Sciences,4.1,"Agriculture, forestry, and fisheries"
+207-02,Plant Cultivation,4.1,"Agriculture, forestry, and fisheries"
+207-03,Plant Nutrition,4.1,"Agriculture, forestry, and fisheries"
+207-04,Ecology of Agricultural Landscapes,4.5,Other agricultural sciences
+207-05,Plant Breeding,4.1,"Agriculture, forestry, and fisheries"
+207-06,Phytomedicine,3.1,Basic medicine
+207-07,Agricultural and Food Process Engineering,2.11,Other engineering and technologies
+207-08,Agricultural Economics and Sociology,4.5,Other agricultural sciences
+207-09,"Inventory, Control and Use of Forest Resources",4.1,"Agriculture, forestry, and fisheries"
+207-10,Basic Forest Research,4.1,"Agriculture, forestry, and fisheries"
+207-11,"Animal Husbandry, Breeding and Hygiene",4.2,Animal and dairy science
+207-12,Animal Nutrition and Nutrition Physiology,4.2,Animal and dairy science
+207-13,Basic Veterinary Medical Science,4.3,Veterinary science
+207-14,"Basic Research on Pathogenesis, Diagnostics and Therapy and Clinical Veterinary Medicine",4.3,Veterinary science
+301,Molecular Chemistry,1.4,Chemical sciences
+301-01,Inorganic Molecular Chemistry,1.4,Chemical sciences
+301-02,Organic Molecular Chemistry,1.4,Chemical sciences
+302,Chemical Solid State and Surface Research,1.4,Chemical sciences
+302-01,"Solid State and Surface Chemistry, Material Synthesis",1.4,Chemical sciences
+302-01,"Solid State and Surface Chemistry, Material Synthesis",2.4,Chemical engineering
+302-02,"Physical Chemistry of Solids and Surfaces, Material Characterisation",1.4,Chemical sciences
+302-03,Theory and Modelling,1.4,Chemical sciences
+303,Physical and Theoretical Chemistry,1.4,Chemical sciences
+303-01,"Physical Chemistry of Molecules, Interfaces and Liquids Spectroscopy, Kinetics",1.4,Chemical sciences
+303-02,General Theoretical Chemistry,1.4,Chemical sciences
+304,"Analytical Chemistry, Method Development (Chemistry)",1.4,Chemical sciences
+304-01,"Analytical Chemistry, Method Development (Chemistry)",1.4,Chemical sciences
+305,Biological Chemistry and Food Chemistry,1.4,Chemical sciences
+305,Biological Chemistry and Food Chemistry,1.6,Biological sciences
+305-01,Biological and Biomimetic Chemistry,1.4,Chemical sciences
+305-01,Biological and Biomimetic Chemistry,1.6,Biological sciences
+305-02,Food Chemistry,1.4,Chemical sciences
+305-02,Food Chemistry,1.6,Biological sciences
+306,Polymer Research,1.4,Chemical sciences
+306-01,Preparatory and Physical Chemistry of Polymers,1.4,Chemical sciences
+306-02,Experimental and Theoretical Physics of Polymers,1.4,Chemical sciences
+306-03,Polymer Materials,2.5,Materials engineering
+306-03,Polymer Materials,1.4,Chemical sciences
+307,Condensed Matter Physics,1.3,Physical sciences
+307-01,Experimental Condensed Matter Physics,1.3,Physical sciences
+307-02,Theoretical Condensed Matter Physics,1.3,Physical sciences
+308,"Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas",1.3,Physical sciences
+308-01,"Optics, Quantum Optics, Atoms, Molecules, Plasmas",1.3,Physical sciences
+309,"Particles, Nuclei and Fields",1.3,Physical sciences
+309-01,"Particles, Nuclei and Fields",1.3,Physical sciences
+310,"Statistical Physics, Soft Matter, Biological Physics, Nonlinear Dynamics",1.3,Physical sciences
+310,"Statistical Physics, Soft Matter, Biological Physics, Nonlinear Dynamics",1.4,Chemical sciences
+310-01,"Statistical Physics, Soft Matter, Biological Physics, Nonlinear Dynamics",1.3,Physical sciences
+310-01,"Statistical Physics, Soft Matter, Biological Physics, Nonlinear Dynamics",1.4,Chemical sciences
+311,Astrophysics and Astronomy,1.3,Physical sciences
+311-01,Astrophysics and Astronomy,1.3,Physical sciences
+312,Mathematics,1.1,Mathematics
+312-01,Mathematics,1.1,Mathematics
+313,Atmospheric Science and Oceanography,1.5,Earth and related environmental sciences
+313-01,Atmospheric Science,1.5,Earth and related environmental sciences
+313-02,Oceanography,1.5,Earth and related environmental sciences
+314,Geology and Palaeontology,1.5,Earth and related environmental sciences
+314-01,Geology and Palaeontology,1.5,Earth and related environmental sciences
+315,Geophysics and Geodesy,1.5,Earth and related environmental sciences
+315-01,Geophysics,1.5,Earth and related environmental sciences
+315-02,"Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartography",1.5,Earth and related environmental sciences
+315-02,"Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartography",2.7,Environmental engineering
+315-02,"Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartography",1.2,Computer and information sciences
+316,"Geochemistry, Mineralogy and Crystallography",1.5,Earth and related environmental sciences
+316-01,"Geochemistry, Mineralogy and Crystallography",1.5,Earth and related environmental sciences
+317,Geography,1.5,Earth and related environmental sciences
+317,Geography,5.7,Social and economic geography
+317-01,Physical Geography,1.5,Earth and related environmental sciences
+317-02,Human Geography,5.7,Social and economic geography
+318,Water Research,1.5,Earth and related environmental sciences
+318-01,"Hydrogeology, Hydrology, Limnology, Urban Water Management, Water Chemistry, Integrated Water Resources",1.5,Earth and related environmental sciences
+401,Production Technology,2.3,Mechanical engineering
+401,Production Technology,2.5,Materials engineering
+401-01,MetalCutting Manufacturing Engineering,2.3,Mechanical engineering
+401-02,Primary Shaping and Reshaping Technology,2.3,Mechanical engineering
+401-03,"Micro, Precision, Mounting, Joining, Separation Technology",2.3,Mechanical engineering
+401-04,Plastics Engineering,2.5,Materials engineering
+401-05,"Production Automation, Factory Operation, Operations Management",2.3,Mechanical engineering
+401-05,"Production Automation, Factory Operation, Operations Management",2.2,"Electrical engineering, Electronic engineering, Information engineering"
+402,Mechanics and Constructive Mechanical Engineering,2.3,Mechanical engineering
+402-01,"Construction, Machine Elements",2.3,Mechanical engineering
+402-02,Mechanics,2.3,Mechanical engineering
+402-03,"Lightweight Construction, Textile Technology",2.5,Materials engineering
+402-04,Acoustics,2.3,Mechanical engineering
+402-04,Acoustics,1.3,Physical sciences
+403,"Process Engineering, Technical Chemistry",2.4,Chemical engineering
+403-01,Chemical and Thermal Process Engineering,2.3,Mechanical engineering
+403-01,Chemical and Thermal Process Engineering,2.4,Chemical engineering
+403-02,Technical Chemistry,2.4,Chemical engineering
+403-03,Mechanical Process Engineering,2.3,Mechanical engineering
+403-04,Biological Process Engineering,2.9,Industrial biotechnology
+404,"Heat Energy Technology, Thermal Machines, Fluid Mechanics",2.3,Mechanical engineering
+404-01,Energy Process Engineering,2.3,Mechanical engineering
+404-02,Technical Thermodynamics,2.3,Mechanical engineering
+404-03,Fluid Mechanics,2.3,Mechanical engineering
+404-04,Hydraulic and Turbo Engines and Piston Engines,2.3,Mechanical engineering
+405,Materials Engineering,2.5,Materials engineering
+405-01,"Metallurgical and Thermal Processes, Thermomechanical Treatment of Materials",2.5,Materials engineering
+405-02,Sintered Metallic and Ceramic Materials,2.5,Materials engineering
+405-03,Composite Materials,2.5,Materials engineering
+405-04,Mechanical Behaviour of Construction Materials,2.5,Materials engineering
+405-05,Coating and Surface Technology,2.5,Materials engineering
+406,Materials Science,2.5,Materials engineering
+406-01,Thermodynamics and Kinetics of Materials,2.5,Materials engineering
+406-02,Synthesis and Properties of Functional Materials,2.5,Materials engineering
+406-03,Microstructural Mechanical Properties of Materials,2.5,Materials engineering
+406-04,Structuring and Functionalisation,2.5,Materials engineering
+406-05,Biomaterials,2.9,Industrial Biotechnology
+407,Systems Engineering,2.2,"Electrical engineering, electronic engineering, information engineering"
+407-01,"Automation, Control Systems, Robotics, Mechatronics",2.2,"Electrical engineering, electronic engineering, information engineering"
+407-02,Measurement Systems,2.2,"Electrical engineering, electronic engineering, information engineering"
+407-03,Microsystems,2.2,"Electrical engineering, electronic engineering, information engineering"
+407-04,"Traffic and Transport Systems, Logistics",2.1,Civil engineering
+407-04,"Traffic and Transport Systems, Logistics",2.2,"Electrical engineering, electronic engineering, information engineering"
+407-05,"Human Factors, Ergonomics, HumanMachine Systems",2.2,"Electrical engineering, electronic engineering, information engineering"
+408,Electrical Engineering,2.2,"Electrical engineering, electronic engineering, information engineering"
+408-01,"Electronic Semiconductors, Components, Circuits, Systems",2.2,"Electrical engineering, electronic engineering, information engineering"
+408-02,"Communications, HighFrequency and Network Technology, Theoretical Electrical Engineering",2.2,"Electrical engineering, electronic engineering, information engineering"
+408-03,"Electrical Energy Generation, Distribution, Application",2.2,"Electrical engineering, electronic engineering, information engineering"
+409,Computer Science,1.2,Computer and information sciences
+409,Computer Science,2.2,"Electrical engineering, electronic engineering, information engineering"
+409-01,Theoretical Computer Science,1.2,Computer and information sciences
+409-02,Software Technology,1.2,Computer and information sciences
+409-03,"Operating, Communication and Information Systems",1.2,Computer and information sciences
+409-04,"Artificial Intelligence, Image and Language Processing",1.2,Computer and information sciences
+409-05,Computer Architecture and Embedded Systems,2.2,"Electrical engineering, electronic engineering, information engineering"
+410,Construction Engineering and Architecture,2.1,Civil engineering
+410-01,"Architecture, Building and Construction History, Sustainable Building Technology, Building Design",2.1,Civil engineering
+410-02,"Urbanism, Spatial Planning, Transportation and Infrastructure Planning, Landscape Planning",2.7,Environmental engineering
+410-02,"Urbanism, Spatial Planning, Transportation and Infrastructure Planning, Landscape Planning",5.7,Social and economic geography
+410-03,"Construction Material Sciences, Chemistry, Building Physics",2.1,Civil engineering
+410-03,"Construction Material Sciences, Chemistry, Building Physics",2.5,Materials engineering
+410-04,"Structural Engineering, Building Informatics, Construction Operation",2.1,Civil engineering
+410-05,"Applied Mechanics, Statics and Dynamics",2.1,Civil engineering
+410-06,"Geotechnics, Hydraulic Engineering",2.7,Environmental engineering
