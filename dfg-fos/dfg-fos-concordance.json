@@ -1,0 +1,10 @@
+{
+  "created": "2021",
+  "creator": [ { "prefLabel": "PID Forum" } ],
+  "fromScheme": {
+		"uri": "http://bartoc.org/en/node/520"
+  },
+  "toScheme": {
+    "uri": "http://bartoc.org/en/node/1042"
+  }
+}
