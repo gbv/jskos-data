@@ -42,3 +42,10 @@ Zur Reduktion des MARCXML-Dumps auf die RVK-Basisklassen (Klassen die nicht mit 
 
 Das Python-Skript benötigt Python 3 und das Modul [pymarc](http://python.org/pypi/pymarc) (`pip install --user pymarc`).
 
+## Englische Übersetzung
+
+Eine Englische Übersetzung der RVK Oberklassen befindet sich in der Datei `rvk-top-en.csv`. Zur Konvertierung nach JSKOS:
+
+    jskos-convert -l en -s <(curl -s http://bartoc.org/api/data?uri=http://bartoc.org/en/node/533) rvk-top-en.csv
+
+Quelle: <https://rvk.uni-regensburg.de/2-uncategorised/148-uebersetzungen> und eigene Ergänzungen
