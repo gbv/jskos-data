@@ -1,0 +1,50 @@
+# Convert DDC from MARC21 Classification format in XML to JSKOS
+# without table entries
+
+select marc_match(LDR/6, "w")       # record type must be classification
+reject marc_match(008/8, "[de]")    # skip deprecated classes
+
+reject marc_match(153$z, ".")       # skip tables (file does not include hierarchy?!)
+
+# notation
+marc_map(153$ac, notation.0, join: "-")
+
+# URI 
+copy_field(notation.0, uri)
+prepend(uri, "http://dewey.info/class/")
+append(uri,"/e23/")
+
+# broader and topConceptOf
+marc_map(153$ef, parent, join: "-")
+if exists(parent)
+  prepend(parent, "http://dewey.info/class/")
+  append(parent,"/e23/")
+  move_field(parent, broader.0.uri)
+else
+  if all_match(notation.0, '^[0-9]$')
+    add_field(topConceptOf.0.uri, "http://dewey.info/scheme/edition/e23/")
+  end
+end
+
+add_field(inScheme.0.uri, "http://dewey.info/scheme/edition/e23/")
+
+# labels
+marc_map(153$j, prefLabel.en)
+marc_map(700$a,altLabel.en.$append)
+marc_map(710$a,altLabel.en.$append)
+marc_map(711$a,altLabel.en.$append)
+marc_map(730$a,altLabel.en.$append)
+marc_map(748$a,altLabel.en.$append)
+marc_map(750$a,altLabel.en.$append)
+marc_map(751$a,altLabel.en.$append)
+marc_map(753$a,altLabel.en.$append)
+
+unless exists(prefLabel)
+  if exists(altLabel)
+    move_field(altLabel.en.$first, prefLabel.en)
+  end
+end
+
+# cleanup
+rm(record)
+rm(_id)

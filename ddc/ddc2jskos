@@ -1,0 +1,2 @@
+#!/bin/bash
+catmandu convert marcxml to ndjson --fix ddc2jskos.fix < $1

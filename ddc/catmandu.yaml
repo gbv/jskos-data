@@ -1,0 +1,12 @@
+---
+importer:
+  marcxml:
+    package: MARC
+    options:
+      type: XML
+
+exporter:
+  ndjson:
+    package: JSON
+    options:
+      line_delimited: 1
