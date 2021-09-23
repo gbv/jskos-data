@@ -1,0 +1,279 @@
+level,notation,prefLabel
+0,1,Geistes- und Sozialwissenschaften
+1,11,Geisteswissenschaften
+2,101,Alte Kulturen
+3,101-01,Ur- und Frühgeschichte (weltweit)
+3,101-02,Klassische Philologie
+3,101-03,Alte Geschichte
+3,101-04,Klassische Archäologie
+3,101-05,"Ägyptische und Vorderasiatische Altertumswissenschaften"
+2,102,Geschichtswissenschaften
+3,102-01,Mittelalterliche Geschichte
+3,102-02,Frühneuzeitliche Geschichte
+3,102-03,"Neuere und Neueste Geschichte (einschl. Europäische Geschichte der Neuzeit und Außereuropäische Geschichte)"
+3,102-04,Wissenschaftsgeschichte
+2,103,"Kunst-, Musik-, Theater- und Medienwissenschaften"
+3,103-01,Kunstgeschichte
+3,103-02,Musikwissenschaften
+3,103-03,Theater- und Medienwissenschaften
+2,104,Sprachwissenschaften
+3,104-01,"Allgemeine und Vergleichende Sprachwissenschaft, Typologie, Außereuropäische Sprachen"
+3,104-02,Einzelsprachwissenschaften
+3,104-03,Historische Linguistik
+3,104-04,"Angewandte Sprachwissenschaften, Experimentelle Linguistik, Computerlinguistik"
+2,105,Literaturwissenschaft
+3,105-01,"Ältere deutsche Literatur"
+3,105-02,Neuere deutsche Literatur
+3,105-03,Europäische und Amerikanische Literaturen
+3,105-04,Allgemeine und vergleichende Literaturwissenschaft; Kulturwissenschaft
+2,106,"Sozial- und Kulturanthropologie, Außereuropäische Kulturen, Judaistik und Religionswissenschaft"
+3,106-01,Ethnologie und Europäische Ethnologie
+3,106-02,Asienbezogene Wissenschaften
+3,106-03,"Afrika-, Amerika- und Ozeanienbezogene Wissenschaften"
+3,106-04,"Islamwissenschaften, Arabistik, Semitistik"
+3,106-05,Religionswissenschaft und Judaistik
+2,107,Theologie
+3,107-01,Evangelische Theologie
+3,107-02,Katholische Theologie
+2,108,Philosophie
+3,108-01,Geschichte der Philosophie
+3,108-02,Theoretische Philosophie
+3,108-03,Praktische Philosophie
+1,12,Sozial- und Verhaltenswissenschaften
+2,109,Erziehungswissenschaft und Bildungsforschung
+3,109-01,Allgemeine und Historische Erziehungswissenschaft
+3,109-02,Allgemeines und fachbezogenes Lehren und Lernen
+3,109-03,Bildungssysteme und Bildungsinstitutionen
+3,109-04,Erziehungswissenschaftliche Sozialisations- und Professionalitätsforschung
+2,110,Psychologie
+3,110-01,"Allgemeine, Kognitive und Mathematische Psychologie"
+3,110-02,Biologische Psychologie und Kognitive Neurowissenschaften
+3,110-03,Entwicklungspsychologie und Pädagogische Psychologie
+3,110-04,Sozialpsychologie und Arbeits- und Organisationspsychologie
+3,110-05,"Differentielle, Klinische und Medizinische Psychologie, Methoden"
+2,111,Sozialwissenschaften
+3,111-01,Soziologische Theorie
+3,111-02,Empirische Sozialforschung
+3,111-03,Publizistik und Kommunikationswissenschaft
+3,111-04,Politikwissenschaft
+2,112,Wirtschaftswissenschaften
+3,112-01,Wirtschaftstheorie
+3,112-02,"Wirtschaftspolitik, Angewandte Volkswirtschaftlehre"
+3,112-03,Betriebswirtschaftslehre
+3,112-04,"Statistik und Ökonometrie"
+3,112-05,Wirtschafts- und Sozialgeschichte
+2,113,Rechtswissenschaften
+3,113-01,Grundlagen des Rechts und der Rechtswissenschaft
+3,113-02,Privatrecht
+3,113-03,"Öffentliches Recht"
+3,113-04,Strafrecht
+3,113-05,Kriminologie
+0,2,Lebenswissenschaften
+1,21,Biologie
+2,201,Grundlagen der Biologie und Medizin
+3,201-01,Biochemie
+3,201-02,Biophysik
+3,201-03,Zellbiologie
+3,201-04,Strukturbiologie
+3,201-05,Allgemeine Genetik und funktionelle Genomforschung
+3,201-06,Entwicklungsbiologie
+3,201-07,Bioinformatik und Theoretische Biologie
+2,202,Pflanzenwissenschaften
+3,202-01,Evolution und Systematik der Pflanzen und Pilze
+3,202-02,"Ökologie und Biodiversität der Pflanzen und Ökosysteme"
+3,202-03,"Organismische Interaktionen, chemische Ökologie und Mikrobiome pflanzlicher Systeme"
+3,202-04,Pflanzenphysiologie
+3,202-05,Biochemie und Biophysik der Pflanzen
+3,202-06,Zell- und Entwicklungsbiologie der Pflanzen
+3,202-07,Genetik der Pflanzen
+2,203,Zoologie
+3,203-01,Systematik und Morphologie der Tiere
+3,203-02,"Evolution, Anthropologie"
+3,203-03,"Ökologie und Biodiversität der Tiere und Ökosysteme, Organismische Interaktionen"
+3,203-04,Biologie des Verhaltens und der Sinne
+3,203-05,Biochemie und Physiologie der Tiere
+3,203-06,Evolutionäre Zell- und Entwicklungsbiologie der Tiere
+2,204,"Mikrobiologie, Virologie und Immunologie"
+3,204-01,"Stoffwechselphysiologie, Biochemie und Genetik der Mikroorganismen"
+3,204-02,"Mikrobielle Ökologie und Angewandte Mikrobiologie"
+3,204-03,"Medizinische Mikrobiologie und Mykologie, Hygiene, Molekulare Infektionsbiologie"
+3,204-04,Virologie
+3,204-05,Immunologie
+3,204-06,Parasitologie und Biologie der Erreger tropischer Infektionskrankheiten
+1,22,Medizin
+2,205,Medizin
+3,205-01,Epidemiologie und Medizinische Biometrie/Statistik
+3,205-02,"Public Health, medizinische Versorgungsforschung, Sozialmedizin"
+3,205-03,Humangenetik
+3,205-04,Physiologie
+3,205-05,Ernährungswissenschaften
+3,205-06,Pathologie
+3,205-07,Medizininformatik und medizinische Bioinformatik
+3,205-08,Pharmazie
+3,205-09,Pharmakologie
+3,205-10,"Toxikologie, Arbeitsmedizin, Klinische Chemie"
+3,205-11,Anästhesiologie
+3,205-12,"Kardiologie, Angiologie"
+3,205-13,"Pneumologie, Thoraxchirurgie"
+3,205-14,"Hämatologie, Onkologie"
+3,205-15,Gastroenterologie
+3,205-16,Nephrologie
+3,205-17,"Endokrinologie, Diabetologie, Metabolismus"
+3,205-18,Rheumatologie
+3,205-19,Dermatologie
+3,205-20,Kinder- und Jugendmedizin
+3,205-21,Gynäkologie und Geburtshilfe
+3,205-22,Klinische Immunologie und Allergologie
+3,205-23,"Reproduktionsmedizin, Urologie"
+3,205-24,Gerontobiologie und Geriatrie
+3,205-25,Allgemein- und Viszeralchirurgie
+3,205-26,"Herz- und Gefäßchirurgie"
+3,205-27,"Orthopädie, Unfallchirurgie, rekonstruktive Chirurgie"
+3,205-28,"Zahnheilkunde; Mund-, Kiefer- und Gesichtschirurgie"
+3,205-29,Hals-Nasen-Ohrenheilkunde
+3,205-30,"Radiologie, Nuklearmedizin, Strahlentherapie, Strahlenbiologie"
+3,205-31,Klinische Infektiologie und Tropenmedizin
+3,205-32,"Medizinische Physik, Biomedizinische Technik"
+3,205-33,Anatomie
+2,206,Neurowissenschaften
+3,206-01,Entwicklungsneurobiologie
+3,206-02,Molekulare Biologie und Physiologie von Nerven- und Gliazellen
+3,206-03,Experimentelle und theoretische Netzwerk-Neurowissenschaften
+3,206-04,"Kognitive, systemische und Verhaltensneurobiologie"
+3,206-05,Experimentelle Modelle zum Verständnis von Erkrankungen des Nervensystems
+3,206-06,Molekulare und zelluläre Neurologie und Neuropathologie
+3,206-07,Klinische Neurologie; Neurochirurgie und Neuroradiologie
+3,206-08,Kognitive und systemische Humanneurowissenschaften
+3,206-09,Biologische Psychiatrie
+3,206-10,"Klinische Psychiatrie, Psychotherapie und Kinder- und Jugendpsychiatrie"
+3,206-11,Augenheilkunde
+1,23,"Agrar-, Forstwissenschaften und Tiermedizin"
+2,207,"Agrar-, Forstwissenschaften und Tiermedizin"
+3,207-01,Bodenwissenschaften
+3,207-02,"Pflanzenzüchtung, Pflanzenpathologie"
+3,207-03,"Pflanzenbau, Pflanzenernährung, Agrartechnik"
+3,207-04,"Ökologie der Landnutzung"
+3,207-05,"Agrarökonomie, Agrarpolitik, Agrarsoziologie"
+3,207-06,Forstwissenschaften
+3,207-07,"Tierzucht, Tierernährung, Tierhaltung"
+3,207-08,Tiermedizin
+0,3,Naturwissenschaften
+1,31,Chemie
+2,321,Molekülchemie
+3,321-01,"Anorganische Molekülchemie - Synthese, Charakterisierung"
+3,321-02,"Organische Molekülchemie- Synthese, Charakterisierung"
+2,322,Chemische Festkörper- und Oberflächenforschung
+3,322-01,"Festkörper- und Oberflächenchemie, Materialsynthese"
+3,322-02,"Physikalische Chemie von Festkörpern und Oberflächen, Materialcharakterisierung"
+2,323,Physikalische Chemie
+3,323-01,"Physikalische Chemie von Molekülen, Flüssigkeiten und Grenzflächen, Biophysikalische Chemie"
+2,324,Analytische Chemie
+3,324-01,Analytische Chemie
+2,325,Biologische Chemie und Lebensmittelchemie
+3,325-01,Biologische und Biomimetische Chemie
+3,325-02,Lebensmittelchemie
+2,326,Polymerforschung
+3,326-01,Präparative und Physikalische Chemie von Polymeren
+3,326-02,Experimentelle und Theoretische Polymerphysik
+3,326-03,Polymermaterialien
+2,327,Theoretische Chemie
+3,327-01,"Theoretische Chemie: Elektronenstruktur, Dynamik, Simulation"
+3,327-02,"Theoretische Chemie: Moleküle, Materialien, Oberflächen"
+1,32,Physik
+2,307,Physik der kondensierten Materie
+3,307-01,Experimentelle Physik der kondensierten Materie
+3,307-02,Theoretische Physik der kondensierten Materie
+2,308,"Optik, Quantenoptik und Physik der Atome, Moleküle und Plasmen"
+3,308-01,"Optik, Quantenoptik, Physik der Atome, Moleküle und Plasmen"
+2,309,"Teilchen, Kerne und Felder"
+3,309-01,"Kern- und Elementarteilchenphysik, Quantenmechanik, Relativitätstheorie, Felder"
+2,310,"Statistische Physik, Weiche Materie, Biologische Physik, Nichtlineare Dynamik"
+3,310-01,"Statistische Physik, Weiche Materie, Biologische Physik, Nichtlineare Dynamik"
+2,311,Astrophysik und Astronomie
+3,311-01,Astrophysik und Astronomie
+1,33,Mathematik
+2,312,Mathematik
+3,312-01,Mathematik
+1,34,Geowissenschaften
+2,313,"Atmosphären-, Meeres- und Klimaforschung"
+3,313-01,Physik und Chemie der Atmosphäre
+3,313-02,"Physik, Chemie und Biologie des Meeres"
+2,314,Geologie und Paläontologie
+3,314-01,"Geologie, Ingenieurgeologie, Paläontologie"
+2,315,Geophysik und Geodäsie
+3,315-01,Physik des Erdkörpers
+3,315-02,"Geodäsie, Photogrammetrie, Fernerkundung, Geoinformatik, Kartographie"
+2,316,"Mineralogie, Petrologie und Geochemie"
+3,316-01,"Mineralogie, Petrologie und Geochemie"
+2,317,Geographie
+3,317-01,Physische Geographie
+3,317-02,Humangeographie
+2,318,Wasserforschung
+3,318-01,"Hydrogeologie, Hydrologie, Limnologie, Siedlungswasserwirtschaft, Wasserchemie, Integrierte Wasser-Ressourcen Bewirtschaftung"
+0,4,Ingenieurwissenschaften
+1,41,Maschinenbau und Produktionstechnik
+2,401,Produktionstechnik
+3,401-01,Spanende und abtragende Fertigungstechnik
+3,401-02,"Ur- und Umformtechnik, Additive Fertigungsverfahren"
+3,401-03,Fügetechnik und Trenntechnik
+3,401-04,Kunststofftechnik
+3,401-05,"Produktionssystematik, Betriebswissenschaften, Qualitätsmanagement und Fabrikplanung"
+3,401-06,Produktionsautomatisierung
+2,402,Mechanik und Konstruktiver Maschinenbau
+3,402-01,"Konstruktion, Maschinenelemente, Produktentwicklung"
+3,402-02,Mechanik
+3,402-03,"Leichtbau, Textiltechnik"
+3,402-04,Akustik
+1,42,Wärmetechnik/Verfahrenstechnik
+2,403,"Verfahrenstechnik, Technische Chemie"
+3,403-01,Chemische und Thermische Verfahrenstechnik
+3,403-02,Technische Chemie
+3,403-03,Mechanische Verfahrenstechnik
+3,403-04,Bioverfahrenstechnik
+2,404,"Strömungsmechanik, Technische Thermodynamik und Thermische Energietechnik"
+3,404-01,Energieverfahrenstechnik
+3,404-02,Technische Thermodynamik
+3,404-03,Strömungsmechanik
+3,404-04,Strömungs- und Kolbenmaschinen
+1,43,Materialwissenschaft und Werkstofftechnik
+2,405,Werkstofftechnik
+3,405-01,"Metallurgische, thermische und thermomechanische Behandlung von Werkstoffen"
+3,405-02,Materialien und Werkstoffe der Sinterprozesse und der generativen Fertigungsverfahren
+3,405-03,Beschichtungs- und Oberflächentechnik
+3,405-04,Mechanische Eigenschaften von metallischen Werkstoffen und ihre mikrostrukturellen Ursachen
+3,405-05,Glas und Keramik und darauf basierende Verbundwerkstoffe
+3,405-06,Polymere und biogene Werkstoffe und darauf basierende Verbundstoffe
+2,406,Materialwissenschaft
+3,406-01,Herstellung und Eigenschaften von Funktionsmaterialien
+3,406-02,Biomaterialien
+3,406-03,Thermodynamik und Kinetik sowie Eigenschaften der Phasen und Gefüge von Werkstoffen
+3,406-04,Computergestütztes Werkstoffdesign und Simulation von Werkstoffverhalten von atomistischer bis mikroskopischer Skala
+1,44,"Informatik, System- und Elektrotechnik"
+2,407,Systemtechnik
+3,407-01,"Automatisierungstechnik, Regelungssysteme, Robotik, Mechatronik, Cyber Physical Systems"
+3,407-02,Messsysteme
+3,407-03,Mikrosysteme
+3,407-04,"Verkehrs- und Transportsysteme, Intelligenter und automatisierter Verkehr"
+3,407-05,"Arbeitswissenschaft, Ergonomie, Mensch-Maschine-Systeme"
+3,407-06,Biomedizinische Systemtechnik
+2,408,Elektrotechnik und Informationstechnik
+3,408-01,"Elektronische Halbleiter, Bauelemente und Schaltungen, Integrierte Systeme"
+3,408-02,"Nachrichten- und Hochfrequenztechnik, Kommunikationstechnik und -netze, Theoretische Elektrotechnik"
+3,408-03,"Elektrische Energieerzeugung, -übertragung, -verteilung und -anwendung"
+2,409,Informatik
+3,409-01,Theoretische Informatik
+3,409-02,Softwaretechnik und Programmiersprachen
+3,409-03,Sicherheit und Verlässlichkeit
+3,409-04,"Betriebs-, Kommunikations-, Datenbank- und verteilte Systeme"
+3,409-05,"Interaktive und intelligente Systeme, Bild- und Sprachverarbeitung, Computergraphik und Visualisierung"
+3,409-06,"Informationssysteme, Prozess- und Wissensmanagement"
+3,409-07,Rechnerarchitekturen und eingebettete Systeme
+3,409-08,Massiv parallele und datenintensive Systeme
+1,45,Bauwesen und Architektur
+2,410,Bauwesen und Architektur
+3,410-01,"Architektur, Bau- und Konstruktionsgeschichte, Bauforschung, Ressourcenökonomie im Bauwesen"
+3,410-02,"Städtebau/Stadtentwicklung, Raumplanung, Verkehrs- und Infrastrukturplanung, Landschaftsplanung"
+3,410-03,"Baustoffwissenschaften, Bauchemie, Bauphysik"
+3,410-04,"Konstruktiver Ingenieurbau, Bauinformatik und Baubetrieb"
+3,410-05,"Angewandte Mechanik, Statik und Dynamik"
+3,410-06,"Geotechnik, Wasserbau"
