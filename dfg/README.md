@@ -4,6 +4,6 @@ The [DFG-Fachsystematik der Wissenschaftsbereiche, Fachgebiete, Fachkollegien un
 
 The classification is revised every four years. Current data includes:
 
-* 2016-2019: `dfg-2016-de.concepts.csv` (German)
-* 2020-2024: `dfg-2020-de.concepts.csv` (German)
+* 2016-2019: `dfg-2016.concepts.csv` (German)
+* 2020-2024: `dfg-2020.concepts.csv` (German and English)
 
