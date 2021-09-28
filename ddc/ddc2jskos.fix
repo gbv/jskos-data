@@ -42,12 +42,12 @@ if exists(parent)
   end
   prepend(parent, "http://dewey.info/class/")
   append(parent,"/e23/")
-  move_field(parent, broader.0.uri)
+  move(parent, broader.0.uri)
 else
 
   # topConceptOf
   if all_match(notation.0,'^([0-9]|T.[A-C]?--0)$')
-    copy_field(inScheme,topConceptOf)  
+    copy(inScheme,topConceptOf)  
   end
 
   # TODO: table records lack broader information in the MARC data
@@ -55,25 +55,40 @@ else
 end
 
 # internal record identifier (001)
-mv(_id, identifier.0)
+move(_id, identifier.0)
 
 # labels (FIXME: this also includes mappings)
 # See <https://github.com/LibreCat/Catmandu-MARC/issues/107>.
-marc_map(153$j, prefLabel.en)
-marc_map(700$a,altLabel.en.$append)
-marc_map(710$a,altLabel.en.$append)
-marc_map(711$a,altLabel.en.$append)
-marc_map(730$a,altLabel.en.$append)
-marc_map(748$a,altLabel.en.$append)
-marc_map(750$a,altLabel.en.$append)
-marc_map(751$a,altLabel.en.$append)
-marc_map(753$a,altLabel.en.$append)
+marc_map(153$j, prefLabel)
+marc_map(700$a,altLabel.$append)
+marc_map(710$a,altLabel.$append)
+marc_map(711$a,altLabel.$append)
+marc_map(730$a,altLabel.$append)
+marc_map(748$a,altLabel.$append)
+marc_map(750$a,altLabel.$append)
+marc_map(751$a,altLabel.$append)
+marc_map(753$a,altLabel.$append)
 
 unless exists(prefLabel)
   if exists(altLabel)
-    mv(altLabel.en.$first, prefLabel.en)
+    move(altLabel.$first, prefLabel)
   end
+end
+
+if exists(prefLabel)
+  move(prefLabel,prefLabel.1)
+  copy(language, prefLabel.0)
+  hash(prefLabel)
+end
+
+if exists(altLabel.0)
+  move(altLabel,altLabel.1)
+  copy(language, altLabel.0)
+  hash(altLabel)
+else
+  rm(altLabel)
 end
 
 rm(table)
 rm(record)
+rm(language)
