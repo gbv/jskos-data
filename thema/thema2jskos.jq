@@ -1,7 +1,7 @@
 "http://uri.gbv.de/terminology/thema" as $BASE |
 
 # date of publication as found at EDItEUR website
-{ 
+{
   "1.0": "2013",
   "1.1": "2015",
   "1.2": "2016-05",
@@ -29,13 +29,13 @@ def dateValue:
   issued: .IssueNumber|dateValue
 }
 +
-if .CodeNotes then 
-  { scopeNote: { en: [.CodeNotes] } } 
-else 
-  { } 
+if .CodeNotes | length > 0 then
+  { scopeNote: { de: [.CodeNotes] } }
+else
+  { }
 end
-+ 
-if .CodeParent then 
++
+if .CodeParent then
   { broader: [ { uri: ($BASE + "/" + .CodeParent) } ] }
 else
   { topConceptOf: [ { uri: $BASE } ] }
