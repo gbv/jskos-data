@@ -2,6 +2,8 @@
 
 The Dewey Decimal Classificatiion (DDC) is managed by OCLC with software by Pansoft. The DDC data is only made available internally in [MARC 21 Classification format](http://www.loc.gov/marc/classification/) as MARC/XML. The command line tool [mc2skos](https://pypi.org/project/mc2skos/) was created to convert this format to SKOS. Limited export to JSKOS is also supported.
 
+This directory further contains Catmandu script `ddc2jskos.fix` to directly convert DDC in MARC/XML to JSKOS.
+
 ## Installation
 
 Install mc2skos
