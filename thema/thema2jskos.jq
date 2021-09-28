@@ -24,13 +24,13 @@ def dateValue:
 {
   uri: ($BASE + "/" + .CodeValue),
   notation: [.CodeValue],
-  prefLabel: { de: .CodeDescription },
+  prefLabel: { LANGUAGE: .CodeDescription },
   inScheme: [ { uri: $BASE } ],
   issued: .IssueNumber|dateValue
 }
 +
 if .CodeNotes | length > 0 then
-  { scopeNote: { de: [.CodeNotes] } }
+  { scopeNote: { LANGUAGE: [.CodeNotes] } }
 else
   { }
 end
