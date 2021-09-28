@@ -41,7 +41,7 @@ else
   { topConceptOf: [ { uri: $BASE } ] }
 end
 +
-if .Modified then
+if .Modified | length > 0 then
   { modified: .Modified|dateValue }
 else
   {}

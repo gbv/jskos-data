@@ -15,11 +15,12 @@ URL_EN=https://www.editeur.org/files/Thema/1.4/Thema_1.4_en/$(FILE_EN)
 VALIDATE=../node_modules/jskos-cli/bin/jskos-validate
 
 # Make sure to do all languages by default
-default: de en
+default: de en merge
 
 de: thema-concepts-$(VERSION)-de.ndjson
 thema-concepts-$(VERSION)-de.ndjson: $(FILE_DE)
 	jq -c -f thema2jskos.jq $< > $@
+	wc -l $@
 	sed "s/\"LANGUAGE\"/\"de\"/g" $@ > $@.temp
 	mv $@.temp $@
 	$(VALIDATE) --verbose concepts $@
@@ -27,6 +28,7 @@ thema-concepts-$(VERSION)-de.ndjson: $(FILE_DE)
 en: thema-concepts-$(VERSION)-en.ndjson
 thema-concepts-$(VERSION)-en.ndjson: $(FILE_EN)
 	jq -c -f thema2jskos.jq $< > $@
+	wc -l $@
 	sed "s/\"LANGUAGE\"/\"en\"/g" $@ > $@.temp
 	mv $@.temp $@
 	$(VALIDATE) --verbose concepts $@
@@ -35,5 +37,8 @@ $(FILE_DE):
 	wget -N $(URL_DE)
 $(FILE_EN):
 	wget -N $(URL_EN)
+
+merge: de en
+	../merge.js thema-concepts-$(VERSION)-de.ndjson thema-concepts-$(VERSION)-en.ndjson > thema-concepts-$(VERSION).ndjson
 
 download: $(FILE_DE) $(FILE_EN)
