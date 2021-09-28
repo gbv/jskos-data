@@ -1,8 +1,9 @@
 # Convert DDC in MARC21 Classification format to JSKOS
 
-# Usage: catmandu convert marcxml --fix ddc-labels.fix to ndjson < ddc23en.xml > ddc23en-labels.ndjson
+# Usage: catmandu convert marcxml --fix ddc2jskos.fix to ndjson < ddc23en.xml > ddc23en.ndjson
 
 select marc_match(LDR/6, "w")   # record type == classification
+select marc_match(008/8, "a")	# valid records only
 
 # notation and uri
 marc_map(153$ac, uri, join: "-")
@@ -45,13 +46,16 @@ if exists(parent)
 else
 
   # topConceptOf
-  if all_match(notation.0,'^[0-9]$')
-      copy_field(inScheme,topConceptOf)  
+  if all_match(notation.0,'^([0-9]|T.[A-C]?--0)$')
+    copy_field(inScheme,topConceptOf)  
   end
 
   # TODO: table records lack broader information in the MARC data
 
 end
+
+# internal record identifier (001)
+mv(_id, identifier.0)
 
 # labels (FIXME: this also includes mappings)
 # See <https://github.com/LibreCat/Catmandu-MARC/issues/107>.
@@ -73,4 +77,3 @@ end
 
 rm(table)
 rm(record)
-rm(_id)
