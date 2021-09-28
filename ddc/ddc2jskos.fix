@@ -25,7 +25,15 @@ replace_all(created, '(\d\d)(\d\d)(\d\d)', '20$1-$2-$3')
 marc_map(005/0-7, modified)
 replace_all(modified, '(\d\d\d\d)(\d\d)(\d\d)', '$1-$2-$3')
 
-# broader
+# inScheme
+add_field(inScheme.0.uri,"http://dewey.info/scheme/edition/e23/")
+if exists(table)
+  add_field(inScheme.1.uri, "http://dewey.info/table/")
+  paste(inScheme.1.uri,inScheme.1.uri,table,join_char:"")
+  append(inScheme.1.uri,"/e23/")
+end
+
+# broader and topConceptOf
 marc_map(153$ef, parent, join: "-")
 if exists(parent)
   if exists(table)
@@ -34,6 +42,15 @@ if exists(parent)
   prepend(parent, "http://dewey.info/class/")
   append(parent,"/e23/")
   move_field(parent, broader.0.uri)
+else
+
+  # topConceptOf
+  if all_match(notation.0,'^[0-9]$')
+      copy_field(inScheme,topConceptOf)  
+  end
+
+  # TODO: table records lack broader information in the MARC data
+
 end
 
 # labels (FIXME: this also includes mappings)
