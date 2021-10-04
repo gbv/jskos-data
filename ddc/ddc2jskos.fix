@@ -1,24 +1,25 @@
 # Convert DDC in MARC21 Classification format to JSKOS
 
-# Usage: catmandu convert marcxml --fix ddc2jskos.fix to ndjson < ddc23en.xml > ddc23en.ndjson
+# Usage: catmandu convert marcxml --fix 'add_field(language,en)' --fix ddc2jskos.fix to ndjson < ddc23en.xml > ddc23en.ndjson
 
-select marc_match(LDR/6, "w")   # record type == classification
-select marc_match(008/8, "a")	# valid records only
+select marc_match(LDR/6, 'w')   # record type == classification
+select marc_match(008/8, 'a')	# valid records only
 
 # notation and uri
-marc_map(153$ac, uri, join: "-")
+marc_map(153$ac, uri, join:'-')
+replace_all(uri,'([^-]+)-([^-]+)-(.+)','$1-$2:$3')
 if marc_has(153$z[0])
   # table record
   marc_spec(153$z[0],table)
-  paste(uri,table,uri,join_char:"--")
+  paste(uri,table,uri,join_char:'--')
   cp(uri,notation.0)
-  prepend(notation.0,"T")
+  prepend(notation.0,'T')
 else  
   # main schedule record
   cp(uri,notation.0)
 end
-prepend(uri,"http://dewey.info/class/")
-append(uri,"/e23/")
+prepend(uri,'http://dewey.info/class/')
+append(uri,'/e23/')
 
 # created and modified
 marc_map(008/0-5, created)
@@ -27,37 +28,35 @@ marc_map(005/0-7, modified)
 replace_all(modified, '(\d\d\d\d)(\d\d)(\d\d)', '$1-$2-$3')
 
 # inScheme
-add_field(inScheme.0.uri,"http://dewey.info/scheme/edition/e23/")
+add_field(inScheme.0.uri,'http://dewey.info/scheme/edition/e23/')
 if exists(table)
-  add_field(inScheme.1.uri, "http://dewey.info/table/")
-  paste(inScheme.1.uri,inScheme.1.uri,table,join_char:"")
-  append(inScheme.1.uri,"/e23/")
+  add_field(inScheme.1.uri, 'http://dewey.info/table/')
+  paste(inScheme.1.uri,inScheme.1.uri,table,join_char:'')
+  append(inScheme.1.uri,'/e23/')
 end
 
 # broader and topConceptOf
-marc_map(153$ef, parent, join: "-")
+marc_map(153$ef, parent, join: '-')
+replace_all(parent,'([^-]+)-([^-]+)-(.+)','$1-$2:$3')
 if exists(parent)
   if exists(table)
-    paste(parent,table,parent,join_char:"--")
+    paste(parent,table,parent,join_char:'--')
   end
-  prepend(parent, "http://dewey.info/class/")
-  append(parent,"/e23/")
+  prepend(parent, 'http://dewey.info/class/')
+  append(parent,'/e23/')
   move(parent, broader.0.uri)
 else
-
   # topConceptOf
   if all_match(notation.0,'^([0-9]|T.[A-C]?--0)$')
-    copy(inScheme,topConceptOf)  
+    copy(inScheme,topConceptOf)
   end
-
-  # TODO: table records lack broader information in the MARC data
-
 end
 
 # internal record identifier (001)
-move(_id, identifier.0)
+# move(_id, identifier.0)
+rm(_id)
 
-# labels (FIXME: this also includes mappings)
+# labels (FIXME: this may also include mappings)
 # See <https://github.com/LibreCat/Catmandu-MARC/issues/107>.
 marc_map(153$j, prefLabel)
 marc_map(700$a,altLabel.$append)
