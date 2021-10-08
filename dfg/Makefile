@@ -1,8 +1,10 @@
-dfg-2016-de.concepts.ndjson: dfg-2016-de.concepts.csv
+default: dfg-2016.concepts.ndjson dfg-2020.concepts.ndjson
+
+dfg-2016.concepts.ndjson: dfg-2016.concepts.csv
 	npm run --silent jskos-convert -- concepts \
 		-v -s ${CURDIR}/dfg.scheme.ndjson ${CURDIR}/$< > $@
 
-dfg-2020-de.concepts.ndjson: dfg-2020-de.concepts.csv
+dfg-2020.concepts.ndjson: dfg-2020.concepts.csv
 	npm run --silent jskos-convert -- concepts \
 		-v -s ${CURDIR}/dfg.scheme.ndjson ${CURDIR}/$< > $@
 
