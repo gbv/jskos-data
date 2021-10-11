@@ -35,7 +35,7 @@ else
   { }
 end
 +
-if .CodeParent then
+if .CodeParent | length > 0 then
   { broader: [ { uri: ($BASE + "/" + .CodeParent) } ] }
 else
   { topConceptOf: [ { uri: $BASE } ] }
