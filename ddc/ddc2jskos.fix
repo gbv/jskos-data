@@ -70,7 +70,7 @@ marc_map(753$ax,altLabel.$append,join:'--')
 
 unless exists(prefLabel)
   if exists(altLabel)
-    move(altLabel.$first, prefLabel)
+    copy(altLabel.$first, prefLabel)
   end
 end
 
