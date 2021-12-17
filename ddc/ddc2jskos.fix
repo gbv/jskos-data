@@ -14,7 +14,7 @@ if marc_has(153$z[0])
   paste(uri,table,uri,join_char:'--')
   cp(uri,notation.0)
   prepend(notation.0,'T')
-else  
+else
   # main schedule record
   cp(uri,notation.0)
 end
@@ -59,14 +59,14 @@ rm(_id)
 # labels (FIXME: this may also include mappings)
 # See <https://github.com/LibreCat/Catmandu-MARC/issues/107>.
 marc_map(153$j, prefLabel)
-marc_map(700$a,altLabel.$append)
-marc_map(710$a,altLabel.$append)
-marc_map(711$a,altLabel.$append)
-marc_map(730$a,altLabel.$append)
-marc_map(748$a,altLabel.$append)
-marc_map(750$a,altLabel.$append)
-marc_map(751$a,altLabel.$append)
-marc_map(753$a,altLabel.$append)
+marc_map(700$ax,altLabel.$append,join:'--')
+marc_map(710$ax,altLabel.$append,join:'--')
+marc_map(711$ax,altLabel.$append,join:'--')
+marc_map(730$ax,altLabel.$append,join:'--')
+marc_map(748$ax,altLabel.$append,join:'--')
+marc_map(750$ax,altLabel.$append,join:'--')
+marc_map(751$ax,altLabel.$append,join:'--')
+marc_map(753$ax,altLabel.$append,join:'--')
 
 unless exists(prefLabel)
   if exists(altLabel)
