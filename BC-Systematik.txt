@@ -1,0 +1,390 @@
+﻿level,notation,prefLabel
+0,A,"Bibliographie, Dokumentation, Allgemeines Schrifttum"
+1,A.1,"Bibliographie, Dokumentation, Allgemeines Schrifttum"
+1,A.2,"Bibliographien, Kataloge"
+1,A.3,"Dokumentation, Klassifikation"
+1,A.4,"Gesamtdarstellungen der Kartographie, Sammelwerke"
+1,A.5,Periodika
+0,B,Geschichte der Kartographie
+1,B.1,Geschichte der Kartographie / Allgemeines
+1,B.2,Regionale Geschichte der Kartographie
+2,B.2.a,Regionale Geschichte der Kartographie / Welt
+2,B.2.b,Regionale Geschichte der Kartographie / Ozeane und Meere
+2,B.2.c,Regionale Geschichte der Kartographie / Afrika
+2,B.2.d,Regionale Geschichte der Kartographie / Amerika
+2,B.2.e,Regionale Geschichte der Kartographie / Asien
+2,B.2.f,Regionale Geschichte der Kartographie / Australien und Ozeanien
+2,B.2.g,Regionale Geschichte der Kartographie / Europa
+2,B.2.h,Regionale Geschichte der Kartographie / Polargebiete
+2,B.2.i,Regionale Geschichte der Kartographie / Weltraum
+1,B.3,Epochen der Geschichte der Kartographie
+2,B.3.a,Epochen der Geschichte der Kartographie / Allgemeines
+2,B.3.b,Antike
+2,B.3.c,Mittelalter
+2,B.3.d,Renaissance
+2,B.3.e,Barock
+2,B.3.f,Moderne
+0,C,Persönlichkeiten der Kartographie
+1,C.z,Biographie, Persönliches
+0,D,Organisationen und Institutionen der Kartographie
+1,D.1,Organisation und Institutionen der Kartographie / Allgemeines
+1,D.2,Kartographische Gesellschaften
+1,D.3,Institutionen der Lehre und Forschung
+1,D.4,Kartographische Ausbildung
+1,D.5,Kartenhersteller
+1,D.6,Kartensammlungen
+1,D.7,"Veranstaltungen, Tagungen, Ausstellungen"
+1,D.8,"Rechtsfragen, Urheberrecht"
+0,E,Theoretische Kartographie
+1,E.1,Wesen der Kartographie
+1,E.2,Kartographische Terminologie
+1,E.3,Theoretische Grundlagen der Kartographie
+1,E.4,Graphische Grundlagen der Kartographie
+1,E.5,Kartendaten
+2,E.5.a,"Geodäsie, Vermessung, Topographie"
+2,E.5.b,"Photogrammetrie, Fernerkundung"
+2,E.5.c,Thematische Kartendaten
+1,E.6,Kartenentwurf und Kartengestaltung
+2,E.6.a,Kartenredaktion
+2,E.6.b,"Kartentypen, Kartographische Methoden"
+2,E.6.c,"Kartenmaßstab, Blattschnitt, Blattbezeichnung"
+2,E.6.d,"Kartennetzentwurf, mathematische Kartographie"
+2,E.6.e,"Legende, Zeichenvorschriften, Musterblätter, Signaturenmaßstab"
+2,E.6.f,Generalisierung
+2,E.6.g,"Namenschreibung, Ortsnamenkunde"
+1,E.7,Kartenaktualisierung
+0,F,"Kartenherstellung, Praktische Kartographie"
+1,F.1,"Kartenherstellung, Praktische Kartographie / Allgemeines"
+1,F.2,Herkömmliche Zeichen- und Reproduktionsverfahren
+2,F.2.a,Zeichen- und Reproduktionsverfahren / Allgemeines
+2,F.2.b,"Zeichenverfahren, Gravurverfahren"
+2,F.2.c,Kartenbeschriftungsverfahren
+2,F.2.d,Photographische Reproduktionsverfahren
+2,F.2.e,Nichtphotographische Reproduktionsverfahren
+2,F.2.f,"Vervielfältigungsverfahren, Druckverfahren"
+1,F.3,Rechnergestützte Kartentechnik
+2,F.3.a,Rechnergestützte Kartentechnik / Allgemeines
+2,F.3.b,Verfahren der Datenerfassung und Datenspeicherung
+2,F.3.c,"Verfahren der Datenaufbereitung, digitale Generalisierung"
+2,F.3.d,Digitale Geländemodelle
+2,F.3.e,Verfahren der Datenausgabe
+0,G,Raumbezogene Informationssysteme
+1,G.1,"Raumbezogene Informationssysteme / Allgemeines, graphische Datenbanken"
+1,G.2,Geographische Informationssysteme (GIS)
+1,G.3,Landinformationssysteme (LIS)
+0,H,Topographische Kartographie
+1,H.1,Topographische Kartographie / Allgemeines, Zeichenvorschriften
+1,H.2,Topographische Kartographie / Maßstabsbestimmte Kartengruppen
+2,H.2.a,Topographische Kartographie / Karten bis 1:10000
+2,H.2.b,Topographische Kartographie / Karten von 1:10000 bis 1:300000
+2,H.2.c,Topographische Kartographie / Karten kleiner als 1:300000
+1,H.3,Inhaltselemente topographischer Karten
+2,H.3.a,Situation
+2,H.3.b,Gelände
+0,I,Thematische Kartographie
+1,I.1,Thematische Kartographie / Allgemeines, Zeichenvorschriften
+1,I.2,Thematische Kartographie / Karten in verschiedenen Maßstäben
+2,I.2.a,Thematische Kartographie / Karten bis 1:10000
+2,I.2.b,Thematische Kartographie / Karten von 1:10000 bis 1:300000
+2,I.2.c,Thematische Kartographie / Karten kleiner als 1:300000
+1,I.3,Inhaltsbestimmte Kartengruppen
+2,I.3.Architektur,Architektur
+2,I.3.Archäologie,Archäologie
+2,I.3.Astronomie,Astronomie
+2,I.3.Bergbau,Bergbau
+2,I.3.Biologie,Biologie
+2,I.3.Bodenschätze,Bodenschätze
+2,I.3.Demographie,Demographie
+2,I.3.Ethnographie,Ethnographie
+2,I.3.Forstwirtschaft,Forstwirtschaft
+2,I.3.Geochemie,Geochemie
+2,I.3.Geologie,Geologie
+2,I.3.Geomorphologie,Geomorphologie
+2,I.3.Geophysik,Geophysik
+2,I.3.Geowissenschaften,Geowissenschaften
+2,I.3.Geschichte,Geschichte
+2,I.3.Glaziologie,Glaziologie
+2,I.3.Hydrographie,Hydrographie
+2,I.3.Industrie,Industrie
+2,I.3.Infrastruktur,Infrastruktur
+2,I.3.Klimatologie und Meteorologie,Klimatologie und Meteorologie
+2,I.3.Kultur,Kultur
+2,I.3.Landnutzung,Landnutzung
+2,I.3.Landschaft,Landschaft
+2,I.3.Landwirtschaft,Landwirtschaft
+2,I.3.Luftfahrt,Luftfahrt
+2,I.3.Medizin,Medizin
+2,I.3.Militärkartographie,Militärkartographie
+2,I.3.Musik,Musik
+2,I.3.Ozeanographie,Ozeanographie
+2,I.3.Pedologie,Pedologie
+2,I.3.Planung,Planung
+2,I.3.Politik,Politik
+2,I.3.Recht,Recht
+2,I.3.Religion,Religion
+2,I.3.Siedlung,Siedlung
+2,I.3.Soziologie,Soziologie
+2,I.3.Sprache,Sprache
+2,I.3.Statistik,Statistik
+2,I.3.Tourismus,Tourismus
+2,I.3.Transport,Transport
+2,I.3.Umwelt,Umwelt
+2,I.3.Vegetation,Vegetation
+2,I.3.Verkehr,Verkehr
+2,I.3.Verwaltung,Verwaltung
+2,I.3.Wirtschaft,Wirtschaft
+2,I.3.Ökologie,Ökologie
+0,J,Atlaskartographie
+1,J.1,Atlaskartographie / Allgemeines
+1,J.2,Weltatlanten
+1,J.3,Topographische Atlanten
+1,J.4,"Thematische Atlanten, Planungsatlanten"
+1,J.5,Schulatlanten
+1,J.6,Regionalatlanten
+1,J.7,Luft- und Satellitenbildatlanten
+0,K,"Taktile Karten, Blindenkarten"
+1,K.z,Taktile Karten, Blindenkarten
+0,L,Film- und Bildschirmkarten
+1,L.z,Film- und Bildschirmkarten
+0,M,Kartenverwandte Darstellungen
+1,M.1,Kartenverwandte Darstellungen / Allgemeines
+1,M.2,Dreidimensionale Darstellungen
+1,M.3,Zweidimensionale Darstellungen
+0,N,Kartennutzung
+1,N.1,Kartennutzung / Allgemeines, Hilfsmittel des Kartengebrauchs
+1,N.2,"Wahrnehmung, Kognitive Karten"
+1,N.3,"Kartenlesen, Karteninterpretation, Kartometrie"
+1,N.4,Funktionsbereiche der Kartographie
+2,N.4.Katasterkartographie,Katasterkartographie
+2,N.4.Kolonialkartographie,Kolonialkartographie
+2,N.4.Medienkartographie,Medienkartographie
+2,N.4.Militärkartographie,Militärkartographie
+2,N.4.Navigationskartographie,Navigationskartographie
+2,N.4.Planungskartographie,Planungskartographie
+2,N.4.Schulkartographie,Schulkartographie
+2,N.4.Simulationssysteme,Simulationssysteme
+2,N.4.Tourismuskartographie,Tourismuskartographie
+1,N.5,Karten auf anderen Medien
+1,N.6,Kartographie in Beziehung zu anderen Wissenschaften
+0,O,Regionale Kartographie
+1,O.1,Regionale Kartographie / Allgemeines
+1,O.2,Regionale Kartographie / Alle Regionen
+2,O.2.a,Regionen / Welt
+2,O.2.b,Regionen / Ozeane und Meere
+2,O.2.c,Regionen / Afrika
+3,O.2.c.Algerien,Algerien
+3,O.2.c.Angola,Angola
+3,O.2.c.Benin,Benin
+3,O.2.c.Botswana,Botswana
+3,O.2.c.Burkina Faso,Burkina Faso
+3,O.2.c.Burundi,Burundi
+3,O.2.c.Demokratische Republik Kongo,Demokratische Republik Kongo
+3,O.2.c.Dschibuti,Dschibuti
+3,O.2.c.Elfenbeinküste,Elfenbeinküste
+3,O.2.c.Eritrea,Eritrea
+3,O.2.c.Gabun,Gabun
+3,O.2.c.Gambia,Gambia
+3,O.2.c.Ghana,Ghana
+3,O.2.c.Guinea-Bissau,Guinea-Bissau
+3,O.2.c.Kamerun,Kamerun
+3,O.2.c.Kapverdische Republik,Kapverdische Republik
+3,O.2.c.Kenia,Kenia
+3,O.2.c.Lesotho,Lesotho
+3,O.2.c.Liberia,Liberia
+3,O.2.c.Libyen,Libyen
+3,O.2.c.Madagaskar,Madagaskar
+3,O.2.c.Mali,Mali
+3,O.2.c.Marokko,Marokko
+3,O.2.c.Mauretanien,Mauretanien
+3,O.2.c.Mosambik,Mosambik
+3,O.2.c.Namibia,Namibia
+3,O.2.c.Niger,Niger
+3,O.2.c.Nigeria,Nigeria
+3,O.2.c.Ostafrika,Ostafrika
+3,O.2.c.Republik Kongo,Republik Kongo
+3,O.2.c.Ruanda,Ruanda
+3,O.2.c.Sambia,Sambia
+3,O.2.c.Senegal,Senegal
+3,O.2.c.Seychellen,Seychellen
+3,O.2.c.Simbabwe,Simbabwe
+3,O.2.c.Somalia,Somalia
+3,O.2.c.Sudan,Sudan
+3,O.2.c.Swasiland,Swasiland
+3,O.2.c.Südafrika,Südafrika
+3,O.2.c.Südliches Afrika,Südliches Afrika
+3,O.2.c.Tansania,Tansania
+3,O.2.c.Togo,Togo
+3,O.2.c.Tschad,Tschad
+3,O.2.c.Tunesien,Tunesien
+3,O.2.c.Uganda,Uganda
+3,O.2.c.Zaire,Zaire
+3,O.2.c.Zentralafrikanische Republik,Zentralafrikanische Republik
+3,O.2.c.Ägypten,Ägypten
+3,O.2.c.Äthiopien,Äthiopien
+2,O.2.d,Regionen / Amerika
+3,O.2.d.Amerika,Amerika
+3,O.2.d.Amerikanische Jungferninseln,Amerikanische Jungferninseln
+3,O.2.d.Argentinien,Argentinien
+3,O.2.d.Aruba,Aruba
+3,O.2.d.Bahamas,Bahamas
+3,O.2.d.Barbados,Barbados
+3,O.2.d.7.Belize,Belize
+3,O.2.d.Bolivien,Bolivien
+3,O.2.d.Brasilien,Brasilien
+3,O.2.d.Chile,Chile
+3,O.2.d.Costa Rica,Costa Rica
+3,O.2.d.Curaçao,Curaçao
+3,O.2.d.Dominica,Dominica
+3,O.2.d.Dominikanische Republik,Dominikanische Republik
+3,O.2.d.Ecuador,Ecuador
+3,O.2.d.El Salvador,El Salvador
+3,O.2.d.Französisch-Guayana,Französisch-Guayana
+3,O.2.d.Grönland,Grönland
+3,O.2.d.Guatemala,Guatemala
+3,O.2.d.Guyana,Guyana
+3,O.2.d.Haiti,Haiti
+3,O.2.d.Honduras,Honduras
+3,O.2.d.Iberoamerika,Iberoamerika
+3,O.2.d.Jamaika,Jamaika
+3,O.2.d.Kanada,Kanada
+3,O.2.d.Kolumbien,Kolumbien
+3,O.2.d.Kuba,Kuba
+3,O.2.d.Mexiko,Mexiko
+3,O.2.d.Mittelamerika,Mittelamerika
+3,O.2.d.Nicaragua,Nicaragua
+3,O.2.d.Panama,Panama
+3,O.2.d.Paraguay,Paraguay
+3,O.2.d.Peru,Peru
+3,O.2.d.Saint Kitts und Nevis,Saint Kitts und Nevis
+3,O.2.d.Sint Maarten,Sint Maarten
+3,O.2.d.Suriname,Suriname
+3,O.2.d.Südamerika,Südamerika
+3,O.2.d.Trinidad und Tobago,Trinidad und Tobago
+3,O.2.d.USA,USA
+3,O.2.d.Uruguay,Uruguay
+3,O.2.d.Venezuela,Venezuela
+3,O.2.d.Westindische Inseln,Westindische Inseln
+2,O.2.e,Regionen / Asien
+3,O.2.e.Afghanistan,Afghanistan
+3,O.2.e.Arabische Halbinsel,Arabische Halbinsel
+3,O.2.e.Armenien,Armenien
+3,O.2.e.Aserbaidschan,Aserbaidschan
+3,O.2.e.Bahrain,Bahrain
+3,O.2.e.Bangladesch,Bangladesch
+3,O.2.e.Bhutan,Bhutan
+3,O.2.e.China,China
+3,O.2.e.GUS (asiatischer Teil),GUS (asiatischer Teil)
+3,O.2.e.Georgien,Georgien
+3,O.2.e.Hongkong,Hongkong
+3,O.2.e.Indien,Indien
+3,O.2.e.Indonesien,Indonesien
+3,O.2.e.Irak,Irak
+3,O.2.e.Iran,Iran
+3,O.2.e.Israel,Israel
+3,O.2.e.Japan,Japan
+3,O.2.e.Jemen,Jemen
+3,O.2.e.Jordanien,Jordanien
+3,O.2.e.Kambodscha,Kambodscha
+3,O.2.e.Kasachstan,Kasachstan
+3,O.2.e.Katar,Katar
+3,O.2.e.Kirgisistan,Kirgisistan
+3,O.2.e.Korea,Korea
+3,O.2.e.Kuwait,Kuwait
+3,O.2.e.Laos,Laos
+3,O.2.e.Libanon,Libanon
+3,O.2.e.Macau,Macau
+3,O.2.e.Malaysia,Malaysia
+3,O.2.e.Mongolei,Mongolei
+3,O.2.e.Myanmar,Myanmar
+3,O.2.e.Nepal,Nepal
+3,O.2.e.Oman,Oman
+3,O.2.e.Pakistan,Pakistan
+3,O.2.e.Palästina,Palästina
+3,O.2.e.Philippinen,Philippinen
+3,O.2.e.Russische Föderation (asiatischer Teil),Russische Föderation (asiatischer Teil)
+3,O.2.e.Russland (asiatischer Teil),Russland (asiatischer Teil)
+3,O.2.e.Saudi-Arabien,Saudi-Arabien
+3,O.2.e.Singapur,Singapur
+3,O.2.e.Sri Lanka,Sri Lanka
+3,O.2.e.Syrien,Syrien
+3,O.2.e.Südostasien,Südostasien
+3,O.2.e.Tadschikistan,Tadschikistan
+3,O.2.e.Taiwan,Taiwan
+3,O.2.e.Thailand,Thailand
+3,O.2.e.Tibet,Tibet
+3,O.2.e.Türkei,Türkei
+3,O.2.e.UdSSR (asiatischer Teil),UdSSR (asiatischer Teil)
+3,O.2.e.Usbekistan,Usbekistan
+3,O.2.e.Vereinigte Arabische Emirate,Vereinigte Arabische Emirate
+3,O.2.e.Vietnam,Vietnam
+2,O.2.f,Regionen / Australien, Ozeanien
+3,O.2.f.Australien,Australien
+3,O.2.f.Fidschi,Fidschi
+3,O.2.f.Marshallinseln,Marshallinseln
+3,O.2.f.Neu-Kaledonien,Neu-Kaledonien
+3,O.2.f.Neuguinea,Neuguinea
+3,O.2.f.Neuseeland,Neuseeland
+3,O.2.f.Ozeanien,Ozeanien
+3,O.2.f.Papua-Neuguinea,Papua-Neuguinea
+3,O.2.f.Salomonen,Salomonen
+3,O.2.f.Samoa,Samoa
+3,O.2.f.Vanuatu,Vanuatu
+2,O.2.g,Regionen / Europa
+3,O.2.g.Albanien,Albanien
+3,O.2.g.Andorra,Andorra
+3,O.2.g.Balkan,Balkan
+3,O.2.g.Baltikum,Baltikum
+3,O.2.g.Belgien,Belgien
+3,O.2.g.Bosnien- und Herzegowina,Bosnien und Herzegowina
+3,O.2.g.Bulgarien,Bulgarien
+3,O.2.g.Deutschland,Deutschland
+3,O.2.g.Deutschland, Bundesrepublik,"Deutschland, Bundesrepublik"
+3,O.2.g.Deutschland, Deutsche Demokratische Republik,"Deutschland, Deutsche Demokratische Republik"
+3,O.2.g.Dänemark,Dänemark
+3,O.2.g.Estland,Estland
+3,O.2.g.Finnland,Finnland
+3,O.2.g.Frankreich,Frankreich
+3,O.2.g.GUS (europäischer Teil),GUS (europäischer Teil)
+3,O.2.g.Griechenland,Griechenland
+3,O.2.g.Großbritannien,Großbritannien
+3,O.2.g.Grönland,Grönland
+3,O.2.g.Irland,Irland
+3,O.2.g.Island,Island
+3,O.2.g.Italien,Italien
+3,O.2.g.Jugoslawien,Jugoslawien
+3,O.2.g.Kroatien,Kroatien
+3,O.2.g.Lettland,Lettland
+3,O.2.g.Liechtenstein,Liechtenstein
+3,O.2.g.Litauen,Litauen
+3,O.2.g.Luxemburg,Luxemburg
+3,O.2.g.Malta,Malta
+3,O.2.g.Mazedonien,Mazedonien
+3,O.2.g.Mitteleuropa,Mitteleuropa
+3,O.2.g.Moldawien,Moldawien
+3,O.2.g.Monaco,Monaco
+3,O.2.g.Niederlande,Niederlande
+3,O.2.g.Norwegen,Norwegen
+3,O.2.g.Polen,Polen
+3,O.2.g.Portugal,Portugal
+3,O.2.g.Rumänien,Rumänien
+3,O.2.g.Russische Föderation (europäischer Teil),Russische Föderation (europäischer Teil)
+3,O.2.g.Russland (europäischer Teil),Russland (europäischer Teil)
+3,O.2.g.Schweden,Schweden
+3,O.2.g.Schweiz,Schweiz
+3,O.2.g.Serbien,Serbien
+3,O.2.g.Slowakei,Slowakei
+3,O.2.g.Slowenien,Slowenien
+3,O.2.g.Spanien,Spanien
+3,O.2.g.Tschechische Republik,Tschechische Republik
+3,O.2.g.Tschechoslowakei,Tschechoslowakei
+3,O.2.g.Türkei,Türkei
+3,O.2.g.UdSSR (europäischer Teil),UdSSR (europäischer Teil)
+3,O.2.g.Ukraine,Ukraine
+3,O.2.g.Ungarn,Ungarn
+3,O.2.g.Weißrussland,Weißrussland
+3,O.2.g.Zypern,Zypern
+3,O.2.g.Österreich,Österreich
+2,O.2.h,Regionen / Polargebiete
+3,O.2.h.Antarktis,Antarktis
+3,O.2.h.Arktis,Arktis
+2,O.2.i,Weltraum
