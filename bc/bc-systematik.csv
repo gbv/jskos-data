@@ -1,4 +1,4 @@
-﻿level,notation,prefLabel
+level,notation,prefLabel
 0,A,"Bibliographie, Dokumentation, Allgemeines Schrifttum"
 1,A.1,"Bibliographie, Dokumentation, Allgemeines Schrifttum"
 1,A.2,"Bibliographien, Kataloge"
@@ -25,7 +25,7 @@
 2,B.3.e,Barock
 2,B.3.f,Moderne
 0,C,Persönlichkeiten der Kartographie
-1,C.z,Biographie, Persönliches
+1,C.z,"Biographie, Persönliches"
 0,D,Organisationen und Institutionen der Kartographie
 1,D.1,Organisation und Institutionen der Kartographie / Allgemeines
 1,D.2,Kartographische Gesellschaften
@@ -73,20 +73,20 @@
 1,G.2,Geographische Informationssysteme (GIS)
 1,G.3,Landinformationssysteme (LIS)
 0,H,Topographische Kartographie
-1,H.1,Topographische Kartographie / Allgemeines, Zeichenvorschriften
-1,H.2,Topographische Kartographie / Maßstabsbestimmte Kartengruppen
-2,H.2.a,Topographische Kartographie / Karten bis 1:10000
-2,H.2.b,Topographische Kartographie / Karten von 1:10000 bis 1:300000
-2,H.2.c,Topographische Kartographie / Karten kleiner als 1:300000
+1,H.1,"Topographische Kartographie / Allgemeines, Zeichenvorschriften"
+1,H.2,"Topographische Kartographie / Maßstabsbestimmte Kartengruppen"
+2,H.2.a,"Topographische Kartographie / Karten bis 1:10000"
+2,H.2.b,"Topographische Kartographie / Karten von 1:10000 bis 1:300000"
+2,H.2.c,"Topographische Kartographie / Karten kleiner als 1:300000"
 1,H.3,Inhaltselemente topographischer Karten
 2,H.3.a,Situation
 2,H.3.b,Gelände
 0,I,Thematische Kartographie
-1,I.1,Thematische Kartographie / Allgemeines, Zeichenvorschriften
-1,I.2,Thematische Kartographie / Karten in verschiedenen Maßstäben
-2,I.2.a,Thematische Kartographie / Karten bis 1:10000
-2,I.2.b,Thematische Kartographie / Karten von 1:10000 bis 1:300000
-2,I.2.c,Thematische Kartographie / Karten kleiner als 1:300000
+1,I.1,"Thematische Kartographie / Allgemeines, Zeichenvorschriften"
+1,I.2,"Thematische Kartographie / Karten in verschiedenen Maßstäben"
+2,I.2.a,"Thematische Kartographie / Karten bis 1:10000"
+2,I.2.b,"Thematische Kartographie / Karten von 1:10000 bis 1:300000"
+2,I.2.c,"Thematische Kartographie / Karten kleiner als 1:300000"
 1,I.3,Inhaltsbestimmte Kartengruppen
 2,I.3.Architektur,Architektur
 2,I.3.Archäologie,Archäologie
@@ -135,7 +135,7 @@
 2,I.3.Wirtschaft,Wirtschaft
 2,I.3.Ökologie,Ökologie
 0,J,Atlaskartographie
-1,J.1,Atlaskartographie / Allgemeines
+1,J.1,"Atlaskartographie / Allgemeines"
 1,J.2,Weltatlanten
 1,J.3,Topographische Atlanten
 1,J.4,"Thematische Atlanten, Planungsatlanten"
@@ -143,15 +143,15 @@
 1,J.6,Regionalatlanten
 1,J.7,Luft- und Satellitenbildatlanten
 0,K,"Taktile Karten, Blindenkarten"
-1,K.z,Taktile Karten, Blindenkarten
+1,K.z,"Taktile Karten, Blindenkarten"
 0,L,Film- und Bildschirmkarten
 1,L.z,Film- und Bildschirmkarten
 0,M,Kartenverwandte Darstellungen
-1,M.1,Kartenverwandte Darstellungen / Allgemeines
+1,M.1,"Kartenverwandte Darstellungen / Allgemeines"
 1,M.2,Dreidimensionale Darstellungen
 1,M.3,Zweidimensionale Darstellungen
 0,N,Kartennutzung
-1,N.1,Kartennutzung / Allgemeines, Hilfsmittel des Kartengebrauchs
+1,N.1,"Kartennutzung / Allgemeines, Hilfsmittel des Kartengebrauchs"
 1,N.2,"Wahrnehmung, Kognitive Karten"
 1,N.3,"Kartenlesen, Karteninterpretation, Kartometrie"
 1,N.4,Funktionsbereiche der Kartographie
@@ -167,11 +167,11 @@
 1,N.5,Karten auf anderen Medien
 1,N.6,Kartographie in Beziehung zu anderen Wissenschaften
 0,O,Regionale Kartographie
-1,O.1,Regionale Kartographie / Allgemeines
-1,O.2,Regionale Kartographie / Alle Regionen
-2,O.2.a,Regionen / Welt
-2,O.2.b,Regionen / Ozeane und Meere
-2,O.2.c,Regionen / Afrika
+1,O.1,"Regionale Kartographie / Allgemeines"
+1,O.2,"Regionale Kartographie / Alle Regionen"
+2,O.2.a,"Regionen / Welt"
+2,O.2.b,"Regionen / Ozeane und Meere"
+2,O.2.c,"Regionen / Afrika"
 3,O.2.c.Algerien,Algerien
 3,O.2.c.Angola,Angola
 3,O.2.c.Benin,Benin
@@ -221,7 +221,7 @@
 3,O.2.c.Zentralafrikanische Republik,Zentralafrikanische Republik
 3,O.2.c.Ägypten,Ägypten
 3,O.2.c.Äthiopien,Äthiopien
-2,O.2.d,Regionen / Amerika
+2,O.2.d,"Regionen / Amerika"
 3,O.2.d.Amerika,Amerika
 3,O.2.d.Amerikanische Jungferninseln,Amerikanische Jungferninseln
 3,O.2.d.Argentinien,Argentinien
@@ -264,7 +264,7 @@
 3,O.2.d.Uruguay,Uruguay
 3,O.2.d.Venezuela,Venezuela
 3,O.2.d.Westindische Inseln,Westindische Inseln
-2,O.2.e,Regionen / Asien
+2,O.2.e,"Regionen / Asien"
 3,O.2.e.Afghanistan,Afghanistan
 3,O.2.e.Arabische Halbinsel,Arabische Halbinsel
 3,O.2.e.Armenien,Armenien
@@ -317,7 +317,7 @@
 3,O.2.e.Usbekistan,Usbekistan
 3,O.2.e.Vereinigte Arabische Emirate,Vereinigte Arabische Emirate
 3,O.2.e.Vietnam,Vietnam
-2,O.2.f,Regionen / Australien, Ozeanien
+2,O.2.f,"Regionen / Australien, Ozeanien"
 3,O.2.f.Australien,Australien
 3,O.2.f.Fidschi,Fidschi
 3,O.2.f.Marshallinseln,Marshallinseln
@@ -329,7 +329,7 @@
 3,O.2.f.Salomonen,Salomonen
 3,O.2.f.Samoa,Samoa
 3,O.2.f.Vanuatu,Vanuatu
-2,O.2.g,Regionen / Europa
+2,O.2.g,"Regionen / Europa"
 3,O.2.g.Albanien,Albanien
 3,O.2.g.Andorra,Andorra
 3,O.2.g.Balkan,Balkan
@@ -338,8 +338,8 @@
 3,O.2.g.Bosnien- und Herzegowina,Bosnien und Herzegowina
 3,O.2.g.Bulgarien,Bulgarien
 3,O.2.g.Deutschland,Deutschland
-3,O.2.g.Deutschland, Bundesrepublik,"Deutschland, Bundesrepublik"
-3,O.2.g.Deutschland, Deutsche Demokratische Republik,"Deutschland, Deutsche Demokratische Republik"
+3,"O.2.g.Deutschland, Bundesrepublik","Deutschland, Bundesrepublik"
+3,"O.2.g.Deutschland, Deutsche Demokratische Republik","Deutschland, Deutsche Demokratische Republik"
 3,O.2.g.Dänemark,Dänemark
 3,O.2.g.Estland,Estland
 3,O.2.g.Finnland,Finnland
@@ -384,7 +384,7 @@
 3,O.2.g.Weißrussland,Weißrussland
 3,O.2.g.Zypern,Zypern
 3,O.2.g.Österreich,Österreich
-2,O.2.h,Regionen / Polargebiete
+2,O.2.h,"Regionen / Polargebiete"
 3,O.2.h.Antarktis,Antarktis
 3,O.2.h.Arktis,Arktis
 2,O.2.i,Weltraum
