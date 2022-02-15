@@ -1,135 +1,27 @@
-[
-  {
-    "@context": "https://gbv.github.io/jskos/context.json",
-    "ADDRESS": {
-      "code": "10117",
-      "country": "Germany",
-      "locality": "Berlin",
-      "region": "Berlin",
-      "street": "Unter den Linden 8"
-    },
-    "API": [],
-    "CONTACT": "bc@sbb.spk-berlin.de",
-    "FORMAT": [
-      {
-        "uri": "http://bartoc.org/en/Format/Online"
-      }
-    ],
-    "definition": {
-      "en": [
-        "This classification scheme structures a collection of cartographic contents. The database consists of 62.000 titles."
-      ],
-      "und": [
-        "\"Die BC ist eine Datenbank zur wissenschaftlichen Literatur der Kartographie, Geoinformation und Geschichte der Kartographie aller Zeiten und Sprachen. Unter den mittlerweile über 62.000 nachgewiesenen Titeln befinden sich zunehmend auch online frei zugängliche Publikationen.\""
-      ]
-    },
-    "identifier": [
-      "http://uri.gbv.de/terminology/bc"
-    ],
-    "languages": [
-      "de"
-    ],
-    "license": [
-      {
-        "uri": "http://rightsstatements.org/vocab/InC/1.0/"
-      }
-    ],
-    "modified": "2022-02-11T09:35:43.753Z",
-    "namespace": "http://uri.gbv.de/terminology/bc/",
-    "notationPattern": "[A-Z]([.](.+)?)?",
-    "prefLabel": {
-      "de": "Systematik der Bibliographia Cartographia",
-      "en": "Classification scheme of the Bibliographia Cartographia"
-    },
-    "publisher": [
-      {
-        "prefLabel": {
-          "en": "Staatsbibliothek zu Berlin – Preußischer Kulturbesitz"
-        },
-        "uri": "http://viaf.org/viaf/157207056"
-      }
-    ],
-    "subject": [
-      {
-        "uri": "http://dewey.info/class/5/e23/",
-        "inScheme": [
-          {
-            "uri": "http://bartoc.org/en/node/241"
-          }
-        ],
-        "notation": [
-          "5"
-        ]
+{
+  "identifier": [
+    "http://uri.gbv.de/terminology/bc"
+  ],
+  "namespace": "http://uri.gbv.de/terminology/bc/",
+  "notation": [
+    "BC"
+  ],
+  "notationPattern": "[A-Z]([.](.+)?)?",
+  "prefLabel": {
+    "de": "Systematik der Bibliographia Cartographia",
+    "en": "Classification scheme of the Bibliographia Cartographia"
+  },
+  "publisher": [
+    {
+      "prefLabel": {
+        "en": "Staatsbibliothek zu Berlin – Preußischer Kulturbesitz"
       },
-      {
-        "uri": "http://dewey.info/class/509/e23/",
-        "inScheme": [
-          {
-            "uri": "http://bartoc.org/en/node/241"
-          }
-        ],
-        "notation": [
-          "509"
-        ]
-      },
-      {
-        "uri": "http://dewey.info/class/9/e23/",
-        "inScheme": [
-          {
-            "uri": "http://bartoc.org/en/node/241"
-          }
-        ],
-        "notation": [
-          "9"
-        ]
-      },
-      {
-        "uri": "http://dewey.info/class/910/e23/",
-        "inScheme": [
-          {
-            "uri": "http://bartoc.org/en/node/241"
-          }
-        ],
-        "notation": [
-          "910"
-        ]
-      }
-    ],
-    "subjectOf": [
-      {
-        "url": "https://kxpt.k10plus.de/DB=1.67/START_SYSTEMATIK"
-      }
-    ],
-    "type": [
-      "http://www.w3.org/2004/02/skos/core#ConceptScheme",
-      "http://w3id.org/nkos/nkostype#classification_schema"
-    ],
-    "uri": "http://bartoc.org/en/node/20400",
-    "url": "https://bc.staatsbibliothek-berlin.de/classification?locale=de",
-    "creator": [
-      {
-        "uri": "https://coli-conc.gbv.de/login/users/eccf8bf8-8194-4496-a9af-36f781688e6b",
-        "prefLabel": {
-          "en": "David-Benjamin Rohrer"
-        }
-      }
-    ],
-    "contributor": [
-      {
-        "uri": "https://coli-conc.gbv.de/login/users/3a1bb23f-8d60-4b7a-8bec-cc419d7f6ab6",
-        "prefLabel": {
-          "en": "JakobVoss"
-        }
-      },
-      {
-        "uri": "https://coli-conc.gbv.de/login/users/eccf8bf8-8194-4496-a9af-36f781688e6b",
-        "prefLabel": {
-          "en": "David-Benjamin Rohrer"
-        }
-      }
-    ],
-    "created": "2022-01-19T16:32:43.495Z",
-    "concepts": [],
-    "topConcepts": []
-  }
-]
+      "uri": "http://viaf.org/viaf/157207056"
+    }
+  ],
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+    "http://w3id.org/nkos/nkostype#classification_schema"
+  ],
+  "uri": "http://bartoc.org/en/node/20400"
+}
