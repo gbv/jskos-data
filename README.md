@@ -28,6 +28,7 @@ Scripts are only testet on Linux. Specific requirements to generate JSKOS files 
 And for some vocabularies:
 
 * [skos2jskos](https://metacpan.org/pod/App::skos2jskos)
+* Python 3
 
 ## Usage
 

@@ -1,8 +1,18 @@
 {
-  "uri": "http://bartoc.org/en/node/1042",
-  "identifier": [
-    "http://www.wikidata.org/entity/Q631890"
+  "altLabel": {
+    "en": [
+      "Revised Field of Science and Technology (FOS) Classification in the Frascati Manual",
+      "FOS Classification",
+      "OECD FOS Classification"
+    ]
+  },
+  "namespace": "http://bartoc.org/en/node/1042/",
+  "notation": [
+    "FOS"
   ],
+  "prefLabel": {
+    "en": "Field of Science and Technology Classification"
+  },
   "publisher": [
     {
       "prefLabel": {
@@ -11,18 +21,5 @@
       "uri": "http://viaf.org/viaf/149776292"
     }
   ],
-  "notation": [
-    "FOS"
-  ],
-  "prefLabel": {
-    "en": "Field of Science and Technology Classification",
-    "und": "Revised Field of Science and Technology (FOS) Classification in the Frascati Manual"
-  },
-  "altLabel": {
-    "en": [
-      "FOS Classification",
-      "OECD FOS Classification"
-    ]
-  },
-  "namespace": "http://bartoc.org/en/node/1042/"
+  "uri": "http://bartoc.org/en/node/1042"
 }

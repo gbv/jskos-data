@@ -1,0 +1,103 @@
+{
+  "@context": "https://gbv.github.io/jskos/context.json",
+  "ACCESS": [
+    {
+      "uri": "http://bartoc.org/en/Access/Free"
+    }
+  ],
+  "API": [],
+  "FORMAT": [
+    {
+      "uri": "http://bartoc.org/en/Format/CSV"
+    },
+    {
+      "uri": "http://bartoc.org/en/Format/Online"
+    }
+  ],
+  "MARCSPEC": "080{$2=fid}",
+  "altLabel": {
+    "de": [
+      "FID-Klassifikation"
+    ]
+  },
+  "concepts": [],
+  "contributor": [
+    {
+      "prefLabel": {
+        "en": "JakobVoss"
+      },
+      "uri": "https://coli-conc.gbv.de/login/users/3a1bb23f-8d60-4b7a-8bec-cc419d7f6ab6"
+    },
+    {
+      "prefLabel": {
+        "en": "Stefan Peters"
+      },
+      "uri": "https://coli-conc.gbv.de/login/users/c0c1914a-f9d6-4b92-a624-bf44118b6619"
+    },
+    {
+      "prefLabel": {
+        "en": "Sabrina Gaab"
+      },
+      "uri": "https://coli-conc.gbv.de/login/users/2062a0cd-5f05-400e-898a-124c0c96767c"
+    }
+  ],
+  "created": "2019-10-21T08:59:00Z",
+  "creator": [
+    {
+      "prefLabel": {
+        "en": "Sabrina Gaab"
+      },
+      "uri": "https://coli-conc.gbv.de/login/users/2062a0cd-5f05-400e-898a-124c0c96767c"
+    }
+  ],
+  "definition": {
+    "en": [
+      "The FID classification replaced the Sondersammelgebiets-Nummer (SSG) in 2016"
+    ]
+  },
+  "extent": "37",
+  "identifier": [
+    "http://www.wikidata.org/entity/Q71787657",
+    "http://id.loc.gov/vocabulary/classSchemes/fid",
+    "http://uri.gbv.de/terminology/fid/"
+  ],
+  "languages": [
+    "de"
+  ],
+  "modified": "2021-09-06T21:21:44.184Z",
+  "namespace": "http://uri.gbv.de/terminology/fid/",
+  "notation": [
+    "FID"
+  ],
+  "notationPattern": "FID-[A-Z]+",
+  "partOf": [
+    {
+      "uri": "http://bartoc.org/en/node/18926"
+    }
+  ],
+  "prefLabel": {
+    "de": "Fachinformationsdienste für die Wissenschaft",
+    "en": "FID classification"
+  },
+  "startDate": "2016",
+  "subject": [
+    {
+      "inScheme": [
+        {
+          "uri": "http://bartoc.org/en/node/241"
+        }
+      ],
+      "notation": [
+        "0"
+      ],
+      "uri": "http://dewey.info/class/0/e23/"
+    }
+  ],
+  "topConcepts": [],
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+    "http://w3id.org/nkos/nkostype#classification_schema"
+  ],
+  "uri": "http://bartoc.org/en/node/18929",
+  "url": "https://www.zeitschriftendatenbank.de/suche/fachgebiete/"
+}

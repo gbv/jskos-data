@@ -1,0 +1,24 @@
+{
+  "namespace": "http://uri.gbv.de/terminology/bos/",
+  "notation": [
+    "BOS"
+  ],
+  "notationPattern": "[a-z]{3}( [0-9]{3}(\\.[0-9]+)?( [a-z]+)?)?",
+  "prefLabel": {
+    "de": "Bremer Online Systematik",
+    "en": "Bremer Online Systematics"
+  },
+  "publisher": [
+    {
+      "prefLabel": {
+        "en": "Staats- und Universitätsbibliothek Bremen"
+      },
+      "uri": "http://viaf.org/viaf/147181689"
+    }
+  ],
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+    "http://w3id.org/nkos/nkostype#classification_schema"
+  ],
+  "uri": "http://bartoc.org/en/node/730"
+}

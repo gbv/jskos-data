@@ -1,4 +1,6 @@
-Konvertierung der Bremer Systematik nach JSKOS.
+# Bremer Systematik
+
+Konvertierung der Bremer Systematik (https://bartoc.org/en/node/730) nach JSKOS.
 
 ## Ausgangsdaten
 
@@ -39,7 +41,7 @@ Berücksichtigt werden bislang nur die Datenbankfelder:
 * `syn` Klassenbenennung
 * `hie` Hierarchiestufe
 
-Die Ausgangsdatei `sys.txt` wird zunächst mit dem Python-Skript `txt2csv.py` in eine CSV-Datei folgender Form konvertiert (erfordert Python 3):
+Die Ausgangsdatei `sys.txt` wird zunächst mit dem Python-Skript `txt2csv.py` in eine CSV-Datei folgender Form konvertiert (erfordert Python 3 und `pip3 install namedentities`):
 
 ~~~
 0,"all","Allgemeines"
