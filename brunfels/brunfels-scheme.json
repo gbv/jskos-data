@@ -1,0 +1,27 @@
+{
+  "identifier": [
+    "http://uri.gbv.de/terminology/brunfels"
+  ],
+  "namespace": "http://uri.gbv.de/terminology/brunfels/",
+  "notation": [
+    "brunfels"
+  ],
+  "notationPattern": "[A-Z][a-z]*([0-9]*.*)*",
+  "prefLabel": {
+    "en": "Theses or loci communes of the whole medical field",
+    "la": "Theses seu communes loci, totius rei medicae"
+  },
+  "publisher": [
+    {
+      "prefLabel": {
+        "en": "Otto Brundfelds"
+      },
+      "uri": "http://viaf.org/viaf/34489382"
+    }
+  ],
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+    "http://w3id.org/nkos/nkostype#list"
+  ],
+  "uri": "http://bartoc.org/en/node/20406"
+}

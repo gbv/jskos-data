@@ -1,0 +1,27 @@
+{
+  "identifier": [
+    "http://uri.gbv.de/terminology/gessner"
+  ],
+  "namespace": "http://uri.gbv.de/terminology/gessner/",
+  "notation": [
+    "gessner"
+  ],
+  "notationPattern": "[A-Z][a-z]*([0-9]*.*)*",
+  "prefLabel": {
+    "en": "21 Books of Universal Knowledge or Universal Partitioning",
+    "la": "Pandectarum sive Partitionum universalium libri XXI"
+  },
+  "publisher": [
+    {
+      "prefLabel": {
+        "en": "Conrad Gessner"
+      },
+      "uri": "http://viaf.org/viaf/49226033"
+    }
+  ],
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+    "http://w3id.org/nkos/nkostype#taxonomy"
+  ],
+  "uri": "http://bartoc.org/en/node/20405"
+}

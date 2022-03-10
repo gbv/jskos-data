@@ -1,0 +1,27 @@
+{
+  "identifier": [
+    "http://uri.gbv.de/terminology/hartwig"
+  ],
+  "namespace": "http://uri.gbv.de/terminology/hartwig/",
+  "notation": [
+    "hartwig"
+  ],
+  "notationPattern": "[A-Z]+(_[A-Z][a-z]*)*(.[0-9]+)*",
+  "prefLabel": {
+    "de": "Retrospektive Erschließung medizinischer, naturwissenschaftlicher, juristischer und theologischer Drucke",
+    "en": "Retrospective classification of medical, scientific, legal and theological prints"
+  },
+  "publisher": [
+    {
+      "prefLabel": {
+        "en": "Herzog August Bibliothek Wolfenbüttel"
+      },
+      "uri": "http://viaf.org/viaf/125059269"
+    }
+  ],
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+    "http://w3id.org/nkos/nkostype#classification_schema"
+  ],
+  "uri": "http://bartoc.org/en/node/20404"
+}
