@@ -1,12 +1,12 @@
 {
   "identifier": [
-    "http://uri.gbv.de/terminology/hartwig"
+    "http://uri.gbv.de/terminology/retrohab"
   ],
-  "namespace": "http://uri.gbv.de/terminology/hartwig/",
+  "namespace": "http://uri.gbv.de/terminology/retrohab/",
   "notation": [
-    "hartwig"
+    "retrohab"
   ],
-  "notationPattern": "[A-Z]+(_[A-Z][a-z]*)*(.[0-9]+)*",
+  "notationPattern": "[A-Z]+( [A-Z][a-z]*)*(.[0-9]+)*",
   "prefLabel": {
     "de": "Retrospektive Erschließung medizinischer, naturwissenschaftlicher, juristischer und theologischer Drucke",
     "en": "Retrospective classification of medical, scientific, legal and theological prints"
