@@ -2,4 +2,4 @@
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
 
 <http://uri.gbv.de/terminology/aadgenres/> a skos:ConceptScheme ;
-  dcterms:title "AAD Gattungsgenres" .
+  dcterms:title "AAD Gattungsgenres"@de .
