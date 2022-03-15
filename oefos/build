@@ -1,10 +1,3 @@
 #!/bin/bash
 
-wget -N https://raw.githubusercontent.com/openeduhub/oeh-metadata-vocabs-playground/main/oefos2skos_oefos.ttl
-skos2jskos oefos2skos_oefos.ttl
-mv concepts.ndjson oefos.concepts.ndjson
-wget -N -O bartoc.json 'http://bartoc.org/api/data?uri=http://bartoc.org/en/node/1094'
-jq -c -s '.[0][0]*.[1]' bartoc.json <(jq '{topConcepts}' scheme.json) > oefos.scheme.ndjson
-jskos-validate scheme oefos.scheme.ndjson
-jskos-validate concepts oefos.concepts.ndjson
-rm scheme.json
+
