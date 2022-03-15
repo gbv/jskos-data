@@ -12,9 +12,13 @@ error() {
     echo "📕 $@"
 }    
 
+dirstatus() {
+    dir="$1"
 
-for dir in */; do
-    [ "$dir" == "node_modules/" ] && continue
+    if [ ! -d "$dir" ]; then
+        error "Not a directory: $dir"
+        return
+    fi
 
     id=${dir%/}
     echo "📘 $dir"
@@ -41,12 +45,27 @@ for dir in */; do
     if [ -f "$CONCEPTS" ]; then
         ok `wc -l "$CONCEPTS"`
     else
-        warn "Missing $CONCEPTS"
+        IGNORED=$(git check-ignore $CONCEPTS)
+        if [ -z "$IGNORED" ]; then
+            warn "Missing $CONCEPTS"
+        else
+            ok "$CONCEPTS is not stored in jskos-data"
+        fi
     fi
 
     # TODO: move to another repository?
     ls $dir$id-mappings.ndjson $dir$id-concordance.json 2> /dev/null
 
     echo
-done
+}
 
+if [ $# -eq 0 ]; then
+    for dir in */; do
+        [ "$dir" == "node_modules/" ] && continue
+        dirstatus "$dir"
+    done
+else
+    for arg in "$@"; do
+        dirstatus "$arg"
+    done    
+fi
