@@ -1,0 +1,36 @@
+{
+  "altLabel": {
+    "de": [
+      "Hochschulfächersystematik"
+    ],
+    "und": [
+      "OEFOS"
+    ]
+  },
+  "identifier": [
+    "http://w3id.org/openeduhub/vocabs-playground/OEAA/OEFOS/",
+    "https://vocabs.acdh.oeaw.ac.at/oefosdisciplines/Schema"
+  ],
+  "namespace": "https://w3id.org/openeduhub/vocabs-playground/OEAA/OEFOS/",
+  "notation": [
+    "ÖFOS"
+  ],
+  "prefLabel": {
+    "de": "Österreichische Systematik der Wissenschaftszweige",
+    "en": "Austrian system of the scientific branches",
+    "und": "ÖFOS 2012"
+  },
+  "publisher": [
+    {
+      "prefLabel": {
+        "en": "Statistik Österreich"
+      },
+      "uri": "http://viaf.org/viaf/135300676"
+    }
+  ],
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+    "http://w3id.org/nkos/nkostype#classification_schema"
+  ],
+  "uri": "http://bartoc.org/en/node/1094"
+}
