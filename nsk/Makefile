@@ -1,3 +1,5 @@
+BARTOC=http://bartoc.org/en/node/20298
+
 JSKOS_CONVERT=npm run --silent jskos-convert --
 
 all: vocabulary.ndjson fachgruppen.ndjson sachschluessel.ndjson

@@ -1,3 +1,5 @@
+BARTOC=http://bartoc.org/en/node/474
+
 msc2010.ndjson: msc2010.csv
 	npm run jskos-convert -- concepts \
 		--scheme ${CURDIR}/msc2010.scheme.ndjson ${CURDIR}/$< \

@@ -1,3 +1,5 @@
+BARTOC=http://bartoc.org/en/node/1043
+
 # All languages: make
 # Single language: make de
 # TODO: This can be made WAY more efficient if you know how to write Makefiles...

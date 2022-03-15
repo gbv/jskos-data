@@ -1,3 +1,5 @@
+BARTOC=http://bartoc.org/en/node/20396
+
 msc2020-concepts.ndjson: msc2020.csv
 	jskos-convert -f csv -t ndjson -s msc2020-scheme.json -l en -m $< > $@
 

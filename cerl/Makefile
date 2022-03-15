@@ -1,3 +1,5 @@
+BARTOC=http://bartoc.org/en/node/1413
+
 cerl-concepts.ndjson: jsonld/*.ndjson
 	jq -c -f cerl2jskos.jq $? > $@
 

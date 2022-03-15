@@ -1,3 +1,5 @@
+BARTOC=http://bartoc.org/en/node/1042
+
 SCHEME_FIELDS=uri,identifier,publisher,notation,prefLabel,altLabel,namespace
 
 # TODO: take URIs from concordance file

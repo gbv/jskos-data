@@ -1,3 +1,5 @@
+BARTOC=http://bartoc.org/en/node/1665
+
 nkostype-concepts.json: nkostype.ttl
 	skos2jskos -n nkostype $<
 
