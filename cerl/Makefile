@@ -1,6 +1,7 @@
 BARTOC=http://bartoc.org/en/node/1413
+include ../Makefile
 
-cerl-concepts.ndjson: jsonld/*.ndjson
+$(CONCEPTS): jsonld/*.ndjson
 	jq -c -f cerl2jskos.jq $? > $@
 
 records: jsonld/*.ndjson
