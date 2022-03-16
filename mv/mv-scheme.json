@@ -1,0 +1,110 @@
+{
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "ACCESS": [
+      {
+        "uri": "http://bartoc.org/en/Access/Free"
+      }
+    ],
+    "ADDRESS": {
+      "code": "19053",
+      "country": "Germany",
+      "locality": "Schwerin",
+      "street": "Johannes-Stelling-Str. 29"
+    },
+    "API": [],
+    "FORMAT": [
+      {
+        "uri": "http://bartoc.org/en/Format/Online"
+      }
+    ],
+    "definition": {
+      "de": [
+        "\"Systematik der Landesbibliothek Mecklenburg-Vorpommern mit einer Verknüpfung zu dem Bibliothekskatalog.\""
+      ],
+      "en": [
+        "\"System of the Landesbibliothek Mecklenburg-Vorpommern with a link to the library catalog.\""
+      ]
+    },
+    "extent": "775000 units (2017-03)",
+    "identifier": [
+      "http://uri.gbv.de/terminology/mv"
+    ],
+    "languages": [
+      "de"
+    ],
+    "modified": "2022-03-04T08:14:43.198Z",
+    "namespace": "http://uri.gbv.de/terminology/mv/",
+    "notationPattern": "[0-9]+.+",
+    "prefLabel": {
+      "de": "Systematik der Mecklenburg-Vorpommerschen Bibliographie",
+      "en": "Systematics of the Mecklenburg-Vorpommern bibliography"
+    },
+    "publisher": [
+      {
+        "prefLabel": {
+          "en": "Landesbibliothek Mecklenburg-Vorpommern"
+        },
+        "uri": "http://viaf.org/viaf/142540993"
+      }
+    ],
+    "subject": [
+      {
+        "uri": "http://dewey.info/class/0/e23/",
+        "inScheme": [
+          {
+            "uri": "http://bartoc.org/en/node/241"
+          }
+        ],
+        "notation": [
+          "0"
+        ]
+      },
+      {
+        "uri": "http://dewey.info/class/001/e23/",
+        "inScheme": [
+          {
+            "uri": "http://bartoc.org/en/node/241"
+          }
+        ],
+        "notation": [
+          "001"
+        ]
+      },
+      {
+        "uri": "http://eurovoc.europa.eu/5730",
+        "inScheme": [
+          {
+            "uri": "http://eurovoc.europa.eu/100141"
+          }
+        ],
+        "notation": [
+          "5730"
+        ]
+      }
+    ],
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+      "http://w3id.org/nkos/nkostype#classification_schema"
+    ],
+    "uri": "http://bartoc.org/en/node/1986",
+    "url": "http://lhwis.gbv.de/DB=2.1/SET=1/TTL=1/LBSSYST",
+    "creator": [
+      {
+        "uri": "https://coli-conc.gbv.de/login/users/eccf8bf8-8194-4496-a9af-36f781688e6b",
+        "prefLabel": {
+          "en": "David-Benjamin Rohrer"
+        }
+      }
+    ],
+    "contributor": [
+      {
+        "uri": "https://coli-conc.gbv.de/login/users/eccf8bf8-8194-4496-a9af-36f781688e6b",
+        "prefLabel": {
+          "en": "David-Benjamin Rohrer"
+        }
+      }
+    ],
+    "created": "2016-04-05T16:51:00Z",
+    "concepts": [],
+    "topConcepts": []
+  }

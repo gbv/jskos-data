@@ -1,0 +1,1258 @@
+level,notation,prefLabel
+0,1.,Allgemeines
+1,1.1.,Bibliographien
+1,1.2.,Zeitschriften
+1,1.3.,Zeitungen
+2,1.3.1.,Tageszeitungen
+2,1.3.2.,Wochenzeitungen
+2,1.3.3.,Amtsblätter
+1,1.4.,Jahrbücher
+1,1.5.,Kalender
+1,1.6.,"Adressbücher. Ortsverzeichnisse"
+1,1.7.,Statistik
+0,2.,Landeskunde
+1,2.1.,Allgemeine Darstellungen
+2,2.1.1.,Allgemeine Landesbeschreibung
+2,2.1.2.,"Reiseberichte. Literarische Darstellungen"
+2,2.1.3.,Reiseführer
+2,2.1.4.,Bildliche Darstellungen
+2,2.1.5.,Audio-visuelle Materialien
+1,2.2.,Ostseeküste
+2,2.2.1.,Mecklenburgische Küste
+3,2.2.1.1.,Nordwestmecklenburgische Küste
+3,2.2.1.2.,Insel Poel und Wismarer Bucht
+3,2.2.1.3.,Warnowküste
+2,2.2.2.,Vorpommersche Küste mit Hinterland
+3,2.2.2.1.,"Fischland. Darß. Zingst"
+3,2.2.2.2.,Insel Rügen
+3,2.2.2.3.,Nordvorpommersche Sundküste mit Hinterland
+3,2.2.2.4.,Ostvorpommersche Boddenküste mit Hinterland
+3,2.2.2.5.,Insel Usedom
+3,2.2.2.6.,Haffküste mit Hinterland
+1,2.3.,Binnenland
+2,2.3.1.,Westmecklenburgisches Binnenland
+3,2.3.1.1.,Westmecklenburgisches Seen- und Hügelland
+3,2.3.1.2.,Schweriner Seenlandschaft
+3,2.3.1.3.,Warnow-Seenland
+3,2.3.1.4.,Südwestmecklenburg
+3,2.3.1.5.,Südmecklenburgisches Hügelland
+2,2.3.2.,Ostmecklenburgisches Binnenland
+3,2.3.2.1.,Mecklenburgische Schweiz
+3,2.3.2.2.,Tollensebecken
+3,2.3.2.3.,Feldberg-Woldegker Seen- und Hügelland
+3,2.3.2.4.,Mecklenburgische Großseenplatte
+3,2.3.2.5.,Strelitzer Kleinseenplatte
+0,3.,Natur
+1,3.1.,Allgemeines
+2,3.1.1.,Bibliographien
+2,3.1.2.,Zeitschriften
+2,3.1.4.,Jahrbücher
+2,3.1.5.,Kalender
+2,3.1.8.,"Einrichtungen. Sammlungen. Vereine"
+2,3.1.9.,Naturwissenschaftler
+1,3.2.,Allgemeine Darstellungen
+1,3.3.,Geowissenschaften
+2,3.3.1.,"Geodäsie.  Kartographie"
+3,3.3.1.1.,Allgemeines
+4,3.3.1.1.1.,Bibliographie
+4,3.3.1.1.2.,Zeitschriften
+4,3.3.1.1.4.,Jahrbücher
+4,3.3.1.1.8.,"Einrichtungen. Sammlungen. Vereine"
+4,3.3.1.1.9.,"Kartographen. Vermessungsingenieure"
+3,3.3.1.2.,Allgemeine Darstellungen
+3,3.3.1.3.,Geschichte der Kartographie
+3,3.3.1.4.,Geodäsie
+3,3.3.1.5.,Karten
+4,3.3.1.5.1.,Historische Karten
+4,3.3.1.5.2.,Topographische Karten
+4,3.3.1.5.3.,Straßenkarten
+4,3.3.1.5.4.,Wanderkarten
+4,3.3.1.5.5.,Thematische Karten
+2,3.3.2.,Geophysik
+2,3.3.3.,Hydrologie
+3,3.3.3.1.,Allgemeines
+4,3.3.3.1.1.,Bibliographie
+4,3.3.3.1.2.,Zeitschriften
+4,3.3.3.1.4.,Jahrbücher
+4,3.3.3.1.8.,"Einrichtungen. Sammlungen. Vereine"
+4,3.3.3.1.9.,"Meereskundler. Ozeanologen"
+3,3.3.3.2.,Allgemeine Darstellungen
+3,3.3.3.3.,Gewässer
+4,3.3.3.3.1.,Küstengewässer
+4,3.3.3.3.2.,Boddengewässer
+4,3.3.3.3.3.,Seen
+4,3.3.3.3.4.,Flüsse
+4,3.3.3.3.5.,Kleingewässer
+2,3.3.4.,"Meteorologie. Klimatologie"
+3,3.3.4.1.,Allgemeines
+4,3.3.4.1.1.,Bibliographien
+4,3.3.4.1.2.,Zeitschriften
+4,3.3.4.1.4.,Jahrbücher
+4,3.3.4.1.8.,"Einrichtungen. Sammlungen. Vereine"
+4,3.3.4.1.9.,Meteorologen
+3,3.3.4.2.,Allgemeine Darstellungen
+3,3.3.4.3.,Atmosphärische Elektrizität
+3,3.3.4.4.,"Atmosphärischer Druck. Luftströmung"
+3,3.3.4.5.,Lufttemperatur
+3,3.3.4.6.,Luftfeuchtigkeit
+3,3.3.4.7.,Dynamische Meteorologie
+3,3.3.4.8.,Klimatologie
+2,3.3.5.,Geologie
+3,3.3.5.1.,Allgemeines
+4,3.3.5.1.1.,Bibliographien
+4,3.3.5.1.2.,Zeitschriften
+4,3.3.5.1.4.,Jahrbücher
+4,3.3.5.1.8.,"Einrichtungen. Sammlungen. Vereine"
+4,3.3.5.1.9.,Geologen
+3,3.3.5.2.,Allgemeine Darstellungen
+3,3.3.5.3.,Regionale Geologie
+3,3.3.5.4.,Geochemie
+3,3.3.5.5.,Mineralogie
+3,3.3.5.6.,Petrographie
+3,3.3.5.7.,Tektonik
+3,3.3.5.8.,Historische Geologie
+4,3.3.5.8.1.,Präkambrium
+4,3.3.5.8.2.,Paläozoikum
+4,3.3.5.8.3.,Mesozoikum
+4,3.3.5.8.4.,Neozoikum
+3,3.3.5.9.,Geologische Erkundung
+2,3.3.6.,Paläontologie
+3,3.3.6.1.,Allgemeines
+3,3.3.6.2.,Allgemeine Darstellungen
+3,3.3.6.3.,Paläobotanik
+3,3.3.6.4.,Paläozoologie
+2,3.3.7.,Geographie
+3,3.3.7.1.,Allgemeines
+4,3.3.7.1.1.,Bibliographien
+4,3.3.7.1.2.,Zeitschriften
+4,3.3.7.1.4.,Jahrbücher
+4,3.3.7.1.8.,"Einrichtungen. Sammlungen. Vereine"
+4,3.3.7.1.9.,Geographen
+3,3.3.7.2.,Allgemeine Darstellungen
+3,3.3.7.3.,Physische Geographie
+3,3.3.7.4.,Geoökologie
+3,3.3.7.5.,Geomorphologie
+1,3.4.,Biowissenschaften
+2,3.4.1.,Hydrobiologie
+3,3.4.1.1.,Allgemeines
+4,3.4.1.1.1.,Bibliographien
+4,3.4.1.1.2.,Zeitschriften
+4,3.4.1.1.4.,Jahrbücher
+4,3.4.1.1.8.,"Einrichtungen. Sammlungen. Vereine"
+4,3.4.1.1.9.,Hydrobiologen
+3,3.4.1.2.,Allgemeine Darstellungen
+3,3.4.1.3.,Meeresökologie
+4,3.4.1.3.1.,Plankton
+4,3.4.1.3.2.,Benthos
+4,3.4.1.3.3.,Litoralorganismen
+4,3.4.1.3.4.,Hydrobotanik
+4,3.4.1.3.5.,Hydrozoologie
+2,3.4.2.,Botanik
+3,3.4.2.1.,Allgemeines
+4,3.4.2.1.1.,Bibliographien
+4,3.4.2.1.2.,Zeitschriften
+4,3.4.2.1.4.,Jahrbücher
+4,3.4.2.1.8.,"Einrichtungen. Sammlungen. Vereine"
+4,3.4.2.1.9.,Botaniker
+3,3.4.2.2.,Allgemeine Darstellungen
+3,3.4.2.3.,Pflanzenwelt
+3,3.4.2.4.,Vegetation
+3,3.4.2.5.,Pflanzenarten
+4,3.4.2.5.1.,Algen
+4,3.4.2.5.2.,Pilze
+4,3.4.2.5.3.,Flechten
+4,3.4.2.5.4.,Moose
+4,3.4.2.5.5.,Farne
+4,3.4.2.5.6.,Samenpflanzen
+3,3.4.2.6.,Gefährdete Pflanzen
+3,3.4.2.7.,Parasitenflora
+3,3.4.2.8.,Ruderalflora
+2,3.4.3.,Zoologie
+3,3.4.3.1.,Allgemeines
+4,3.4.3.1.1.,Bibliographien
+4,3.4.3.1.2.,Zeitschriften
+4,3.4.3.1.4.,Jahrbücher
+4,3.4.3.1.8.,"Einrichtungen. Sammlungen. Vereine"
+4,3.4.3.1.9.,Zoologen
+3,3.4.3.2.,Allgemeine Darstellungen
+3,3.4.3.3.,Tierwelt
+3,3.4.3.4.,Tierarten
+4,3.4.3.4.1.,"Einzeller. Hohltiere. Gliedertiere. Würmer"
+4,3.4.3.4.2.,Weichtiere
+4,3.4.3.4.3.,Insekten
+4,3.4.3.4.4.,Fische
+4,3.4.3.4.5.,"Lurche. Kriechtiere"
+4,3.4.3.4.6.,Vögel
+4,3.4.3.4.7.,Säugetiere
+3,3.4.3.5.,Parasitenfauna
+1,3.5.,"Landeskultur. Umweltschutz. Naturschutz"
+2,3.5.1.,Allgemeines
+3,3.5.1.1.,Bibliographien
+3,3.5.1.2.,Zeitschriften
+3,3.5.1.4.,Jahrbücher
+3,3.5.1.7.,Statistik
+3,3.5.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,3.5.1.9.,"Umweltschützer. Naturschutzbeauftragter"
+2,3.5.2.,Allgemeine Darstellungen
+2,3.5.3.,Kulturlandschaft
+2,3.5.4.,Umweltschutz
+2,3.5.5.,Naturschutz
+2,3.5.6.,Gewässerschutz
+2,3.5.7.,Küstenschutz
+2,3.5.8.,Schutzgebiete
+3,3.5.8.1.,Biosphärenreservate
+3,3.5.8.2.,Nationalparks
+3,3.5.8.3.,Naturparks
+3,3.5.8.4.,Landschaftsschutzgebiete
+3,3.5.8.5.,Naturschutzgebiete
+3,3.5.8.6.,Naturdenkmale
+3,3.5.8.7.,Flächennaturdenkmale
+3,3.5.8.8.,Naturlehrpfade
+2,3.5.9.,Tierschutz
+1,3.6.,Astronomie
+2,3.6.1.,"Astronomie/Allgemeines"
+2,3.6.2.,"Astronomie/Allgemeine Darstellungen"
+0,4.,Wirtschaft
+1,4.1.,Allgemeines
+2,4.1.1.,Bibliographien
+2,4.1.2.,Zeitschriften
+2,4.1.4.,Jahrbücher
+2,4.1.6.,Branchenbücher
+2,4.1.7.,Statistik
+2,4.1.8.,"Einrichtungen. Sammlungen. Vereine"
+1,4.2.,Allgemeine Darstellungen
+2,4.2.3.,Wirtschaftsgeschichte
+3,4.2.3.1.,Wirtschaftsgeschichte bis 1945
+3,4.2.3.2.,Wirtschaftsgeschichte 1945-1989
+3,4.2.3.3.,Wirtschaftliche Entwicklung seit 1990
+4,4.2.3.3.1.,Wirtschaftspolitik
+4,4.2.3.3.2.,Arbeitsmarkt
+4,4.2.3.3.3.,Marktwirtschaft
+4,4.2.3.3.4.,Wirtschaftsstruktur
+4,4.2.3.3.5.,Wirtschaftswachstum
+4,4.2.3.3.6.,Wettbewerb
+4,4.2.3.3.7.,Konjunktur
+2,4.2.4.,Wirtschaftswissenschaftler
+2,4.2.5.,Wirtschaftsgeographie
+1,4.3.,"Landwirtschaft. Forstwirtschaft.Fischwirtschaft"
+2,4.3.1.,Landwirtschaft
+3,4.3.1.1.,Allgemeines
+4,4.3.1.1.1.,Bibliographien
+4,4.3.1.1.2.,Zeitschriften
+4,4.3.1.1.4.,Jahrbücher
+4,4.3.1.1.7.,Statistik
+4,4.3.1.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,4.3.1.2.,Allgemeine Darstellungen
+3,4.3.1.3.,Agrargeschichte
+4,4.3.1.3.1.,Agrargeschichte bis 1945
+4,4.3.1.3.2.,Agrargeschichte 1945-1989
+4,4.3.1.3.3.,Landwirtschaftliche Entwicklung seit 1990
+3,4.3.1.4.,"Agrarwissenschaftler. Gutsbesitzer. Landwirte"
+3,4.3.1.5.,Bodenkunde
+4,4.3.1.5.1.,Bodenuntersuchungen
+4,4.3.1.5.2.,Bodenbildung
+4,4.3.1.5.3.,Bodenbewertung
+4,4.3.1.5.4.,Bodenfruchtbarkeit
+4,4.3.1.5.5.,Bodennutzung
+4,4.3.1.5.6.,Bodenbearbeitung
+4,4.3.1.5.7.,Bodenverbesserung
+3,4.3.1.6.,Pflanzenproduktion
+4,4.3.1.6.1.,Pflanzenbau
+4,4.3.1.6.2.,Pflanzenarten
+5,4.3.1.6.2.1.,Getreide
+5,4.3.1.6.2.2.,Hackfrüchte
+5,4.3.1.6.2.3.,Ölfrüchte
+5,4.3.1.6.2.4.,Hülsenfrüchte
+5,4.3.1.6.2.5.,Futterbau
+5,4.3.1.6.2.6.,Sonderkulturen
+5,4.3.1.6.2.7.,Gartenbau
+5,4.3.1.6.2.8.,"Obstbau. Gemüsebau"
+5,4.3.1.6.2.9.,Zierpflanzenbau
+4,4.3.1.6.3.,"Phytopathologie. Pflanzenschutz"
+3,4.3.1.7.,Tierproduktion
+4,4.3.1.7.1.,Nutztierhaltung
+4,4.3.1.7.2.,Nutztierarten
+5,4.3.1.7.2.1.,Pferde
+5,4.3.1.7.2.2.,Rinder
+5,4.3.1.7.2.3.,Schweine
+5,4.3.1.7.2.4.,Schafe
+5,4.3.1.7.2.5.,Ziegen
+5,4.3.1.7.2.6.,Geflügel
+5,4.3.1.7.2.7.,Pelztiere
+5,4.3.1.7.2.8.,Bienen
+3,4.3.1.8.,Veterinärwesen
+4,4.3.1.8.1.,Allgemeines
+4,4.3.1.8.2.,Allgemeine Darstellungen
+4,4.3.1.8.3.,Geschichte des Veterinärwesens
+4,4.3.1.8.4.,Tierkliniken
+4,4.3.1.8.5.,Veterinärmediziner
+4,4.3.1.8.6.,Veterinärhygiene
+4,4.3.1.8.7.,Infektionskrankheiten
+4,4.3.1.8.8.,Krankheiten einzelner Tiere
+2,4.3.2.,Forstwirtschaft
+3,4.3.2.1.,Allgemeines
+4,4.3.2.1.1.,Bibliographien
+4,4.3.2.1.2.,Zeitschriften
+4,4.3.2.1.4.,Jahrbücher
+4,4.3.2.1.7.,Statistik
+4,4.3.2.1.8.,"Einrichtungen. Sammlungen. Vereine"
+4,4.3.2.2.1.,Allgemeine Darstellungen
+3,4.3.2.3.,Geschichte der Forstwirtschaft
+3,4.3.2.4.,"Forstwirte. Forstwissenschaftler"
+3,4.3.2.5.,Standortkunde
+3,4.3.2.6.,Waldbau
+3,4.3.2.7.,Forstnutzung
+3,4.3.2.8.,Forstschutz
+2,4.3.3.,Jagd
+3,4.3.3.1.,Allgemeines
+4,4.3.3.1.1.,Bibliographien
+4,4.3.3.1.2.,Zeitschriften
+4,4.3.3.1.4.,Jahrbücher
+4,4.3.3.1.7.,Statistik
+4,4.3.3.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,4.3.3.2.,Allgemeine Darstellungen
+3,4.3.3.3.,Geschichte der Jagd
+3,4.3.3.4.,Jäger
+3,4.3.3.5.,Wildbestand
+3,4.3.3.6.,Wildarten
+4,4.3.3.6.1.,Haarwild
+5,4.3.3.6.1.1.,Rotwild
+5,4.3.3.6.1.2.,Damwild
+5,4.3.3.6.1.3.,Rehwild
+5,4.3.3.6.1.4.,Muffelwild
+5,4.3.3.6.1.5.,Schwarzwild
+5,4.3.3.6.1.6.,Hasen
+4,4.3.3.6.2.,Federwild
+3,4.3.3.7.,Wildschäden
+3,4.3.3.8.,Wildkrankheiten
+2,4.3.4.,Fischwirtschaft
+3,4.3.4.1.,Allgemeines
+4,4.3.4.1.1.,Bibliographien
+4,4.3.4.1.2.,Zeitschriften
+4,4.3.4.1.4.,Jahrbücher
+4,4.3.4.1.7.,Statistik
+4,4.3.4.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,4.3.4.2.,Allgemeine Darstellungen
+3,4.3.4.3.,Geschichte der Fischwirtschaft
+3,4.3.4.4.,Fischer
+3,4.3.4.5.,"Seefischerei. Küstenfischerei"
+3,4.3.4.6.,Binnenfischerei
+3,4.3.4.7.,Fischarten
+3,4.3.4.8.,Fischkrankheiten
+1,4.4.,"Bergbau. Rohstoffgewinnung"
+2,4.4.1.,Allgemeines
+3,4.4.1.1.,Bibliographien
+3,4.4.1.2.,Zeitschriften
+3,4.4.1.4.,Jahrbücher
+3,4.4.1.7.,Statistik
+3,4.4.1.8.,"Einrichtungen. Sammlungen. Vereine"
+2,4.4.2.,Allgemeine Darstellungen
+2,4.4.3.,Geschichte des Bergbaus
+2,4.4.4.,Rohstoffe
+1,4.5.,"Industrie. Bauwesen"
+2,4.5.1.,Allgemeines
+3,4.5.1.1.,Bibliographien
+3,4.5.1.2.,Zeitschriften
+3,4.5.1.4.,Jahrbücher
+3,4.5.1.7.,Statistik
+3,4.5.1.8.,"Einrichtungen. Sammlungen. Vereine"
+2,4.5.2.,Allgemeine Darstellungen
+2,4.5.3.,Geschichte der Industrie und Technik
+2,4.5.4.,"Unternehmer. Ingenieure. Erfinder"
+2,4.5.5.,Industriezweige
+3,4.5.5.1.,Metallverarbeitende Industrie
+4,4.5.5.1.1.,Maschinenbau
+4,4.5.5.1.2.,Apparatebau
+4,4.5.5.1.3.,Fahrzeugbau
+3,4.5.5.2.,Elektroindustrie
+3,4.5.5.3.,Chemische Industrie
+3,4.5.5.4.,Textilindustrie
+3,4.5.5.5.,Lebensmittelindustrie
+3,4.5.5.6.,Holzindustrie
+3,4.5.5.7.,Papierindustrie
+3,4.5.5.8.,"Glas. Keramik. Steine. Erden"
+2,4.5.6.,Bauwesen
+3,4.5.6.1.,Allgemeines
+4,4.5.6.1.1.,Bibliographien
+4,4.5.6.1.2.,Zeitschriften
+4,4.5.6.1.4.,Jahrbücher
+4,4.5.6.1.7.,Statistik
+4,4.5.6.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,4.5.6.2.,Allgemeine Darstellungen
+3,4.5.6.3.,Geschichte des Bauwesens
+3,4.5.6.4.,Industriebau
+3,4.5.6.5.,Gesellschaftsbau
+3,4.5.6.6.,Wohnungsbau
+1,4.6.,"Handwerk. Gewerbe"
+2,4.6.1.,Allgemeines
+3,4.6.1.1.,Bibliographien
+3,4.6.1.2.,Zeitschriften
+3,4.6.1.4.,Jahrbücher
+3,4.6.1.7.,Statistik
+3,4.6.1.8.,"Einrichtungen. Sammlungen. Vereine"
+2,4.6.2.,Allgemeine Darstellungen
+2,4.6.3.,Geschichte des Handwerks
+2,4.6.4.,Handwerkliche Gewerbe
+1,4.7.,Versorgungswirtschaft
+2,4.7.1.,Allgemeines
+2,4.7.2.,Allgemeine Darstellungen
+2,4.7.3.,Wasserwirtschaft
+3,4.7.3.1.,Allgemeines
+4,4.7.3.1.1.,Bibliographien
+4,4.7.3.1.2.,Zeitschriften
+4,4.7.3.1.4.,Jahrbücher
+4,4.7.3.1.7.,Statistik
+4,4.7.3.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,4.7.3.2.,Allgemeine Darstellungen
+3,4.7.3.3.,Geschichte der Wasserwirtschaft
+3,4.7.3.4.,Wasserversorgung
+3,4.7.3.5.,Abwasserbeseitigung
+2,4.7.4.,Energiewirtschaft
+3,4.7.4.1.,Allgemeines
+4,4.7.4.1.1.,Bibliographien
+4,4.7.4.1.2.,Zeitschriften
+4,4.7.4.1.4.,Jahrbuch
+4,4.7.4.1.7.,Statistik
+4,4.7.4.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,4.7.4.2.,Allgemeine Darstellungen
+3,4.7.4.3.,Geschichte der Energiewirtschaft
+3,4.7.4.4.,Energieversorgung
+3,4.7.4.5.,Energieerzeugung
+2,4.7.5.,Abfallwirtschaft
+3,4.7.5.1.,Allgemeines
+4,4.7.5.1.1.,Bibliographien
+4,4.7.5.1.2.,Zeitschriften
+4,4.7.5.1.4.,Jahrbücher
+4,4.7.5.1.7.,Statistik
+4,4.7.5.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,4.7.5.2.,Allgemeine Darstellungen
+3,4.7.5.3.,Geschichte der Abfallwirtschaft
+3,4.7.5.4.,Abfallbeseitigung
+3,4.7.5.5.,Abfallverwertung
+2,4.7.6.,Dienstleistungsgewerbe
+2,4.7.7.,"Gaststättengewerbe. Hotelgewerbe"
+3,4.7.7.1.,Allgemeines
+4,4.7.7.1.1.,Bibliographie
+4,4.7.7.1.2.,Zeitschriften
+4,4.7.7.1.4.,Jahrbücher
+4,4.7.7.1.7.,Statistik
+4,4.7.7.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,4.7.7.2.,Allgemeine Darstellungen
+3,4.7.7.3.,Geschichte des Gaststättengewerbes und Hotelgewerbes
+3,4.7.7.4.,"Gaststätten. Hotels"
+2,4.7.8.,Handel
+3,4.7.8.1.,Allgemeines
+4,4.7.8.1.1.,Bibliographien
+4,4.7.8.1.2.,Zeitschriften
+4,4.7.8.1.4.,Jahrbücher
+4,4.7.8.1.7.,Statistik
+4,4.7.8.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,4.7.8.2.,Allgemeine Darstellungen
+3,4.7.8.3.,Geschichte des Handels
+3,4.7.8.4.,Kaufleute
+3,4.7.8.5.,Großhandelsbetriebe
+3,4.7.8.6.,Einzelhandelsbetriebe
+3,4.7.8.7.,"Messen. Märkte"
+1,4.8.,"Verkehrswesen. Transportwesen"
+2,4.8.1.,Allgemeines
+3,4.8.1.1.,Bibliographien
+3,4.8.1.2.,Zeitschriften
+3,4.8.1.4.,Jahrbücher
+3,4.8.1.7.,Statistik
+3,4.8.1.8.,"Einrichtungen. Sammlungen. Vereine"
+2,4.8.2.,Allgemeine Darstellungen
+2,4.8.3.,Geschichte des Verkehrswesens
+2,4.8.4.,Straßenverkehr
+3,4.8.4.1.,Allgemeines
+4,4.8.4.1.2.,Zeitschriften
+4,4.8.4.1.4.,Jahrbücher
+4,4.8.4.1.7.,Statistik
+4,4.8.4.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,4.8.4.2.,Allgemeine Darstellungen
+3,4.8.4.3.,Geschichte des Straßenverkehrs
+3,4.8.4.4.,Straßenbau
+3,4.8.4.5.,Brückenbau
+3,4.8.4.6.,Wasserbau
+2,4.8.5.,Schienenverkehr
+3,4.8.5.1.,Allgemeines
+4,4.8.5.1.1.,Bibliographie
+4,4.8.5.1.2.,Zeitschriften
+4,4.8.5.1.4.,Jahrbücher
+4,4.8.5.1.5.,Kalender
+4,4.8.5.1.7.,Statistik
+4,4.8.5.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,4.8.5.2.,Allgemeine Darstellungen
+3,4.8.5.3.,Geschichte des Schienenverkehrs
+3,4.8.5.4.,Eisenbahner
+3,4.8.5.5.,Eisenbahnbau
+3,4.8.5.6.,Schienenfahrzeuge
+3,4.8.5.7.,Eisenbahnlinien
+3,4.8.5.8.,"Bahnhöfe. Bahnbetriebswerke"
+3,4.8.5.9.,Straßenbahnen
+2,4.8.6.,Schiffsverkehr
+3,4.8.6.1.,Allgemeines
+4,4.8.6.1.1.,Bibliographien
+4,4.8.6.1.2.,Zeitschriften
+4,4.8.6.1.4.,Jahrbücher
+4,4.8.6.1.7.,Statistik
+4,4.8.6.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,4.8.6.2.,Allgemeine Darstellungen
+3,4.8.6.3.,Geschichte der Schiffahrt
+3,4.8.6.4.,"Seefahrer. Reeder. Schiffbauer"
+3,4.8.6.5.,Schiffbau
+3,4.8.6.6.,Seeschiffahrt
+4,4.8.6.6.1.,Schiffahrtslinien
+4,4.8.6.6.2.,Fährverkehr
+4,4.8.6.6.3.,Schiffe
+4,4.8.6.6.4.,"Seenot. Schiffsunfälle"
+4,4.8.6.6.5.,Lotsendienst
+4,4.8.6.6.6.,Seezeichen
+3,4.8.6.7.,Binnenschiffahrt
+3,4.8.6.8.,Hafenwirtschaft
+2,4.8.7.,Luftverkehr
+3,4.8.7.1.,Allgemeines
+4,4.8.7.1.1.,Bibliographien
+4,4.8.7.1.2.,Zeitschriften
+4,4.8.7.1.4.,Jahrbücher
+4,4.8.7.1.7.,Statistik
+4,4.8.7.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,4.8.7.2.,Allgemeine Darstellungen
+3,4.8.7.3.,Geschichte der Luftfahrt
+3,4.8.7.4.,"Flugpioniere. Piloten"
+3,4.8.7.5.,Flugzeugbau
+3,4.8.7.6.,Flughäfen
+2,4.8.8.,Post
+3,4.8.8.1.,Allgemeines
+4,4.8.8.1.1.,Bibliographien
+4,4.8.8.1.2.,Zeitschriften
+4,4.8.8.1.4.,Jahrbücher
+4,4.8.8.1.7.,Statistik
+4,4.8.8.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,4.8.8.2.,Allgemeine Darstellungen
+3,4.8.8.3.,Geschichte des Postwesens
+3,4.8.8.4.,"Postämter. Poststationen"
+3,4.8.8.5.,"Postbeamte. Philatelisten"
+3,4.8.8.6.,Meilensteine
+3,4.8.8.7.,Philatelie
+3,4.8.8.8.,Poststempel
+2,4.8.9.,Nachrichtenwesen
+3,4.8.9.1.,Allgemeines
+4,4.8.9.1.1.,Bibliographien
+4,4.8.9.1.2.,Zeitschriften
+4,4.8.9.1.4.,Jahrbücher
+4,4.8.9.1.7.,Statistik
+4,4.8.9.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,4.8.9.2.,Allgemeine Darstellungen
+3,4.8.9.3.,Geschichte des Nachrichtenwesens
+3,4.8.9.4.,Fernmeldeanlagen
+3,4.8.9.5.,Fernsprechbücher
+1,4.9.,Finanzwesen
+2,4.9.1.,Allgemeines
+3,4.9.1.1.,Bibliographien
+3,4.9.1.2.,Zeitschriften
+3,4.9.1.4.,Jahrbücher
+3,4.9.1.7.,Statistik
+3,4.9.1.8.,"Einrichtungen. Sammlungen. Vereine"
+2,4.9.2.,Allgemeine Darstellungen
+2,4.9.3.,Geschichte der Finanzwirtschaft
+2,4.9.4.,"Finanzbeamter. Bankbeamte. Versicherungsbeamte"
+2,4.9.5.,"Banken. Sparkassen"
+2,4.9.6.,Versicherungswesen
+0,5.,Geschichte
+1,5.1.,Allgemeines
+2,5.1.1.,Bibliographien
+2,5.1.2.,Zeitschriften
+2,5.1.4.,Jahrbücher
+2,5.1.7.,Geschichtsforschung
+2,5.1.8.,"Einrichtungen. Sammlungen. Vereine"
+2,5.1.9.,Historiker
+1,5.2.,Allgemeine Darstellungen
+2,5.2.1.,Landesteil Mecklenburg
+3,5.2.1.1.,Länder
+3,5.2.1.2.,Grafschaften
+3,5.2.1.3.,Herrschaften vor 1701
+3,5.2.1.4.,"Mecklenburg-Schwerin <1701-1933>"
+3,5.2.1.5.,"Mecklenburg-Strelitz <1701-1933>"
+3,5.2.1.6.,"Land Mecklenburg <1934-1945>"
+2,5.2.2.,Landesteil Vorpommern
+3,5.2.2.1.,"Herzogtum Pommern <1124-1637>"
+3,5.2.2.2.,"Schwedisch-Pommern <1648-1815>"
+3,5.2.2.3.,"Provinz Pommern <1815-1945>"
+3,5.2.2.4.,"Fürstentum Rügen <1168-1325>"
+2,5.2.3.,Mecklenburg-Vorpommern
+2,5.2.4.,Geschichte des Mecklenburgischen Fürstenhauses
+3,5.2.4.1.,Genealogie des Mecklenburgischen Fürstenhauses
+3,5.2.4.2.,Verwandtschaften des Mecklenburgischen Fürstenhauses
+3,5.2.4.3.,Mehrere Glieder des Mecklenburgischen Fürstenhauses
+3,5.2.4.4.,Einzelne Glieder des Mecklenburgischen Fürstenhauses
+2,5.2.5.,Geschichte des Pommerschen Fürstenhauses
+3,5.2.5.1.,Genealogie des Pommerschen Fürstenhauses
+3,5.2.5.2.,Verwandtschaften des Pommerschen Fürstenhauses
+3,5.2.5.3.,Mehrere Glieder des Pommerschen Fürstenhauses
+3,5.2.5.4.,Einzelne Glieder des Pommerschen Fürstenhauses
+1,5.3.,Historische Hilfswissenschaften
+2,5.3.1.,Diplomatik
+2,5.3.2.,Sphragistik
+2,5.3.3.,Heraldik
+2,5.3.4.,Numismatik
+3,5.3.4.1.,Allgemeines
+4,5.3.4.1.1.,Bibliographie
+4,5.3.4.1.2.,Zeitschriften
+4,5.3.4.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,5.3.4.2.,Allgemeine Darstellungen
+3,5.3.4.3.,Geschichte des Münzwesens
+3,5.3.4.4.,"Münzmeister. Medailleure. Numismatiker"
+3,5.3.4.5.,"Münzen. Medaillen. Orden"
+3,5.3.4.6.,Münzfunde
+2,5.3.5.,Metrologie
+2,5.3.6.,Quellenkunde
+2,5.3.7.,Epigraphik
+2,5.3.8.,Historische Geographie
+2,5.3.9.,Siedlungsgeschichte
+1,5.4.,"Archäologie. Vor- und Frühgeschichte"
+2,5.4.1.,Allgemeines
+3,5.4.1.1.,Bibliographien
+3,5.4.1.2.,Zeitschriften
+3,5.4.1.4.,Jahrbücher
+3,5.4.1.5.,Kalender
+3,5.4.1.7.,"Forschungstätigkeit. Bodendenkmalpflege"
+3,5.4.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,5.4.1.9.,"Archäologen. Bodendenkmalpfleger"
+2,5.4.2.,Allgemeine Darstellungen
+2,5.4.3.,Epochen
+3,5.4.3.1.,"Steinzeit <10000-1600 v.u.Z.>"
+3,5.4.3.2.,"Bronzezeit <1600-600 v.u.Z.>"
+3,5.4.3.3.,"Vorrömische Eisenzeit <600 v.u.Z.-Beginn u.Z.>"
+3,5.4.3.4.,Römische Kaiserzeit
+3,5.4.3.5.,"Völkerwanderungszeit <375-600>"
+3,5.4.3.6.,"Slawische Zeit <600-1160>"
+3,5.4.3.7.,Frühdeutsche Zeit
+2,5.4.4.,Archäologische Funde
+2,5.4.5.,Bodendenkmale
+1,5.5.,"Mittelalter und Frühe Neuzeit <1200-1520>"
+1,5.6.,Neuere Zeit vom Ausgang des Mittelalters bis 1919
+2,5.6.1.,"Zeit der Reformation und des Dreißigjährigen Krieges <1520-1650>"
+2,5.6.2.,"Nach dem Dreißigjährigen Krieg bis zu den Befreiungskriegen <1650-1815>"
+2,5.6.3.,"Vom Wiener Kongreß bis zum Ende der Monarchie <1815-1919>"
+1,5.7.,"Von der Weimarer Republik bis zum Ende des Dritten Reiches <1919-1945>"
+2,5.7.1.,"Weimarer Republik <1919-1932>"
+2,5.7.2.,"Drittes Reich <1932-1945>"
+1,5.8.,Von der Nachkriegszeit bis zur Gegenwart
+2,5.8.1.,"Nachkriegszeit bis zum Zusammenbruch der DDR <1945-1989>"
+2,5.8.2.,Seit der Länderneubildung
+0,6.,"Arbeiterbewegung. Parteien. Organisationen"
+1,6.1.,Arbeiterbewegung
+2,6.1.1.,Allgemeines
+3,6.1.1.1.,Bibliographie
+3,6.1.1.2.,Zeitschrift
+3,6.1.1.4.,Jahrbuch
+3,6.1.1.7.,Statistik
+3,6.1.1.8.,"Einrichtungen. Sammlungen. Vereine"
+2,6.1.2.,Allgemeine Darstellungen
+2,6.1.3.,Geschichte der Arbeiterbewegung
+2,6.1.4.,"Arbeitervereine. Gewerkschaft"
+2,6.1.5.,"Arbeiterführer.  Gewerkschaftsführer. Widerstandskämpfer"
+1,6.2.,Politische Parteien
+2,6.2.1.,Allgemeines
+3,6.2.1.1.,Bibliographien
+3,6.2.1.2.,Zeitschriften
+3,6.2.1.4.,Jahrbuch
+3,6.2.1.7.,Statistik
+3,6.2.1.8.,"Einrichtungen. Sammlungen"
+2,6.2.2.,Allgemeine Darstellungen
+2,6.2.3.,Geschichte der Politischen Parteien
+2,6.2.4.,Politische Parteien
+2,6.2.5.,Parteifunktionäre
+1,6.3.,Gesellschaftliche Organisationen
+2,6.3.1.,Allgemeines
+3,6.3.1.1.,Bibliographien
+3,6.3.1.2.,Zeitschriften
+3,6.3.1.4.,Jahrbuch
+2,6.3.2.,Allgemeine Darstellungen
+2,6.3.3.,Geschichte der Massenorganisationen
+2,6.3.4.,Massenorganisationen
+2,6.3.5.,Funktionäre von Massenorganisationen
+1,6.4.,Vereinsleben
+2,6.4.1.,Allgemeines
+3,6.4.1.1.,Bibliographie
+3,6.4.1.2.,Zeitschrift
+3,6.4.1.4.,Jahrbuch
+3,6.4.1.7.,Statistik
+3,6.4.1.8.,"Einrichtungen. Sammlungen"
+2,6.4.2.,Allgemeine Darstellungen
+2,6.4.3.,Geschichte des Vereinslebens
+2,6.4.4.,Vereine
+2,6.4.5.,Funktionäre von Vereinen
+0,7.,"Staat. Recht"
+1,7.1.,Staatswesen
+2,7.1.1.,Allgemeines
+3,7.1.1.1.,Bibliographien
+3,7.1.1.2.,Zeitschriften
+3,7.1.1.4.,Jahrbücher
+3,7.1.1.7.,Statistik
+3,7.1.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,7.1.1.9.,"Staatsmänner. Politiker. Parlamentarier"
+2,7.1.2.,Allgemeine Darstellungen
+2,7.1.3.,Staatsgebiet
+2,7.1.4.,Verfassung
+2,7.1.5.,Regierung
+2,7.1.6.,"Parlament. Wahlen"
+2,7.1.7.,Verwaltung
+3,7.1.7.1.,Allgemeines
+3,7.1.7.2.,Allgemeine Darstellungen
+3,7.1.7.3.,Verwaltungsgeschichte
+3,7.1.7.4.,"Verwaltungsbeamte. Bürgermeister"
+3,7.1.7.5.,Landesverwaltung
+3,7.1.7.6.,Kreisverwaltung
+3,7.1.7.7.,Kommunalverwaltung
+2,7.1.8.,"Sicherheit. Ordnung"
+3,7.1.8.1.,Staatsschutz
+3,7.1.8.2.,Datenschutz
+3,7.1.8.3.,Polizei
+3,7.1.8.4.,Brandschutz
+1,7.2.,Rechtswesen
+2,7.2.1.,Allgemeines
+3,7.2.1.1.,Bibliographien
+3,7.2.1.2.,Zeitschriften
+3,7.2.1.4.,Jahrbücher
+3,7.2.1.7.,Statistik
+3,7.2.1.8.,"Einrichtungen. Sammlungen. Vereine"
+2,7.2.2.,Allgemeine Darstellungen
+2,7.2.3.,Rechtsgeschichte
+2,7.2.4.,Juristen
+2,7.2.5.,Gesetzessammlungen
+2,7.2.6.,Privatrecht
+2,7.2.7.,Arbeitsrecht
+2,7.2.8.,Öffentliches Recht
+2,7.2.9.,Strafrecht
+1,7.3.,Militärwesen
+2,7.3.1.,Allgemeines
+3,7.3.1.1.,Bibliographien
+3,7.3.1.2.,Zeitschriften
+3,7.3.1.4.,Jahrbücher
+3,7.3.1.7.,Statistik
+3,7.3.1.8.,"Einrichtungen. Sammlungen. Vereine"
+2,7.3.2.,Allgemeine Darstellungen
+2,7.3.3.,Militärgeschichte
+2,7.3.4.,Regimenter
+2,7.3.5.,Militärs
+2,7.3.6.,Uniformen
+2,7.3.7.,Militärische Anlagen
+0,8.,"Bevölkerung. Gesundheitswesen. Sozialwesen"
+1,8.1.,Bevölkerung
+2,8.1.1.,Allgemeines
+3,8.1.1.1.,Bibliographien
+3,8.1.1.2.,Zeitschriften
+3,8.1.1.4.,Jahrbücher
+3,8.1.1.7.,Statistik
+3,8.1.1.8.,"Einrichtungen. Sammlungen. Vereine"
+2,8.1.2.,Allgemeine Darstellungen
+2,8.1.3.,Bevölkerungsgeschichte
+2,8.1.4.,Bevölkerungsgruppen
+1,8.2.,Sozialwesen
+2,8.2.1.,Allgemeines
+3,8.2.1.1.,Bibliographien
+3,8.2.1.2.,Zeitschriften
+3,8.2.1.4.,Jahrbücher
+3,8.2.1.7.,Statistik
+3,8.2.1.8.,"Einrichtungen. Sammlungen. Vereine"
+2,8.2.2.,Allgemeine Darstellungen
+2,8.2.3.,Sozialgeschichte
+2,8.2.4.,Sozialstruktur
+2,8.2.5.,Soziale Gruppen
+2,8.2.6.,Soziale Probleme
+2,8.2.7.,Sozialpolitik
+2,8.2.8.,Sozialarbeit
+1,8.3.,Gesundheitswesen
+2,8.3.1.,Allgemeines
+3,8.3.1.1.,Bibliographien
+3,8.3.1.2.,Zeitschriften
+3,8.3.1.4.,Jahrbücher
+3,8.3.1.7.,Statistik
+3,8.3.1.8.,"Einrichtungen. Sammlungen. Vereine"
+2,8.3.2.,Allgemeine Darstellungen
+2,8.3.3.,Geschichte des Gesundheitswesens
+2,8.3.4.,Kliniken
+2,8.3.5.,Mediziner
+2,8.3.6.,Krankheiten
+2,8.3.7.,Gesundheitsschutz
+2,8.3.8.,Hygiene
+1,8.4.,Apothekenwesen
+2,8.4.1.,Allgemeines
+3,8.4.1.1.,Bibliographien
+3,8.4.1.2.,Zeitschriften
+3,8.4.1.4.,Jahrbücher
+3,8.4.1.7.,Statistik
+3,8.4.1.8.,"Einrichtungen. Sammlungen. Vereine"
+2,8.4.2.,Allgemeine Darstellungen
+2,8.4.3.,Geschichte der Pharmazie
+2,8.4.4.,Apotheken
+2,8.4.5.,Apotheker
+1,8.5.,"Sport. Erholung. Freizeit. Tourismus"
+2,8.5.1.,Sport
+3,8.5.1.1.,Allgemeines
+4,8.5.1.1.1.,Bibliographien
+4,8.5.1.1.2.,Zeitschriften
+4,8.5.1.1.4.,Jahrbücher
+3,8.5.1.1.5,"Sport/Kalender"
+4,8.5.1.1.7.,Statistik
+4,8.5.1.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,8.5.1.2.,Allgemeine Darstellungen
+3,8.5.1.3.,Geschichte des Sports
+3,8.5.1.4.,Sportstätten
+3,8.5.1.5.,"Sportler. Sportfunktionäre"
+3,8.5.1.6.,Sportarten
+3,8.5.1.7.,Spiele
+2,8.5.2.,"Erholung. Freizeit"
+3,8.5.2.1.,Allgemeines
+4,8.5.2.1.1.,Bibliographien
+4,8.5.2.1.2.,Zeitschriften
+4,8.5.2.1.4.,Jahrbücher
+4,8.5.2.1.7.,Statistik
+4,8.5.2.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,8.5.2.2.,Allgemeine Darstellungen
+3,8.5.2.3.,Geschichte des Erholungswesens
+3,8.5.2.4.,Camping
+3,8.5.2.5.,"Wandern. Radwandern. Wasserwandern"
+3,8.5.2.6.,Badewesen
+3,8.5.2.7.,Freizeitgestaltung
+2,8.5.3.,Tourismus
+3,8.5.3.1.,Allgemeines
+4,8.5.3.1.1.,Bibliographie
+4,8.5.3.1.2.,Zeitschriften
+4,8.5.3.1.4.,Jahrbücher
+4,8.5.3.1.7.,Statistik
+4,8.5.3.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,8.5.3.2.,Allgemeine Darstellungen
+3,8.5.3.3.,Geschichte des Tourismus
+3,8.5.3.4.,Touristenunterkünfte
+0,9.,"Kultur. Wissenschaft. Bildung. Literatur. Kunst"
+1,9.1.,Kultur
+2,9.1.1.,Allgemeines
+3,9.1.1.1.,Bibliographien
+3,9.1.1.2.,Zeitschriften
+3,9.1.1.4.,Jahrbücher
+3,9.1.1.7.,Statistik
+3,9.1.1.8.,"Einrichtungen. Sammlungen. Vereine"
+2,9.1.2.,Allgemeine Darstellungen
+2,9.1.3.,Kulturpolitik
+2,9.1.4.,Kulturhäuser
+2,9.1.5.,Kulturfunktionäre
+2,9.1.6.,Kulturelles Leben
+2,9.1.7.,Kulturelle Veranstaltungen
+1,9.2.,"Wissenschaft. Bildung"
+2,9.2.1.,Archivwesen
+3,9.2.1.1.,Allgemeines
+4,9.2.1.1.1.,Bibliographien
+4,9.2.1.1.2.,Zeitschriften
+4,9.2.1.1.4.,Jahrbücher
+4,9.2.1.1.7.,Statistik
+4,9.2.1.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,9.2.1.2.,Allgemeine Darstellungen
+3,9.2.1.3.,Geschichte des Archivwesens
+3,9.2.1.4.,Archive
+3,9.2.1.5.,Archivare
+2,9.2.2.,Bibliothekswesen
+3,9.2.2.1.,Allgemeines
+4,9.2.2.1.1.,Bibliographien
+4,9.2.2.1.2.,Zeitschriften
+4,9.2.2.1.4.,Jahrbücher
+4,9.2.2.1.7.,Statistik
+4,9.2.2.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,9.2.2.2.,Allgemeine Darstellungen
+3,9.2.2.3.,Geschichte des Bibliothekswesens
+3,9.2.2.4.,Bibliotheken
+3,9.2.2.5.,Bibliothekare
+2,9.2.3.,"Buchwesen. Verlagswesen"
+3,9.2.3.1.,Buchwesen
+4,9.2.3.1.1.,Allgemeines
+5,9.2.3.1.1.1.,Bibliographien
+5,9.2.3.1.1.2.,Zeitschriften
+5,9.2.3.1.1.4.,Jahrbücher
+5,9.2.3.1.1.7.,Statistik
+5,9.2.3.1.1.8.,"Einrichtungen. Sammlungen. Vereine"
+4,9.2.3.1.2.,Allgemeine Darstellungen
+4,9.2.3.1.3.,Geschichte des Buchwesens
+4,9.2.3.1.4.,"Buchdruckereien. Buchbindereien"
+4,9.2.3.1.5.,"Buchdrucker. Buchbinder"
+3,9.2.3.2.,Verlagswesen
+4,9.2.3.2.1.,Allgemeines
+5,9.2.3.2.1.2.,Zeitschriften
+5,9.2.3.2.1.4.,Jahrbuch
+5,9.2.3.2.1.7.,Statistik
+5,9.2.3.2.1.8.,"Einrichtungen. Sammlungen. Vereine"
+4,9.2.3.2.2.,Allgemeine Darstellungen
+4,9.2.3.2.3.,Geschichte des Verlagswesens
+4,9.2.3.2.4.,Verlage
+4,9.2.3.2.5.,Verleger
+2,9.2.4.,"Pressewesen. Rundfunk. Fernsehen"
+3,9.2.4.1.,Pressewesen
+4,9.2.4.1.1.,Allgemeines
+5,9.2.4.1.1.1.,Bibliographien
+5,9.2.4.1.1.2.,Zeitschriften
+5,9.2.4.1.1.7.,Statistik
+5,9.2.4.1.1.8.,"Einrichtungen. Sammlungen. Vereine"
+4,9.2.4.1.2.,Allgemeine Darstellungen
+4,9.2.4.1.3.,Geschichte der Presse
+4,9.2.4.1.4.,"Zeitungen. Zeitschriften"
+4,9.2.4.1.5.,"Journalisten. Redakteure"
+3,9.2.4.2.,Rundfunk
+4,9.2.4.2.1.,Allgemeines
+5,9.2.4.2.1.1.,Bibliographie
+5,9.2.4.2.1.2.,Zeitschrift
+5,9.2.4.2.1.3.,Jahrbuch
+5,9.2.4.2.1.7.,Statistik
+5,9.2.4.2.1.8.,"Einrichtungen. Sammlungen. Vereine"
+4,9.2.4.2.2.,Allgemeine Darstellungen
+4,9.2.4.2.3.,Geschichte des Rundfunks
+4,9.2.4.2.4.,Rundfunksender
+4,9.2.4.2.5.,"Reporter. Moderatoren"
+3,9.2.4.3.,Fernsehen
+4,9.2.4.3.1.,Allgemeines
+5,9.2.4.3.1.1.,Bibliographie
+5,9.2.4.3.1.2.,Zeitschriften
+5,9.2.4.3.1.4.,Jahrbücher
+5,9.2.4.3.1.7.,Statistik
+5,9.2.4.3.1.8.,"Einrichtungen. Sammlungen. Vereine"
+4,9.2.4.3.2.,Allgemeine Darstellungen
+4,9.2.4.3.3.,Geschichte des Fernsehens
+4,9.2.4.3.4.,Fernsehsender
+4,9.2.4.3.5.,"Reporter. Moderatoren"
+2,9.2.5.,Museumswesen
+3,9.2.5.1.,Allgemeines
+4,9.2.5.1.1.,Bibliographien
+4,9.2.5.1.2.,Zeitschriften
+4,9.2.5.1.4.,Jahrbücher
+4,9.2.5.1.7.,Statistik
+4,9.2.5.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,9.2.5.2.,Allgemeine Darstellungen
+3,9.2.5.3.,Geschichte des Museumswesen
+3,9.2.5.4.,"Museen. Gedenkstätten"
+3,9.2.5.5.,Museumsleiter
+3,9.2.5.6.,Denkmale
+2,9.2.6.,Bildungswesen
+3,9.2.6.1.,Allgemeines
+4,9.2.6.1.1.,Bibliographien
+4,9.2.6.1.2.,Zeitschriften
+4,9.2.6.1.4.,Jahrbücher
+4,9.2.6.1.7.,Statistik
+4,9.2.6.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,9.2.6.2.,Allgemeine Darstellungen
+3,9.2.6.3.,Geschichte des Bildungswesens
+3,9.2.6.4.,Hochschulbildung
+4,9.2.6.4.1.,Allgemeines
+5,9.2.6.4.1.1.,Bibliographie
+5,9.2.6.4.1.2.,Zeitschriften
+5,9.2.6.4.1.4.,Jahrbücher
+5,9.2.6.4.1.7.,Statistik
+5,9.2.6.4.1.8.,"Einrichtungen. Sammlungen. Vereine"
+4,9.2.6.4.2.,Allgemeine Darstellungen
+4,9.2.6.4.3.,Geschichte der Hochschulbildung
+4,9.2.6.4.4.,"Universitäten. Hochschulen"
+4,9.2.6.4.5.,Hochschullehrer
+3,9.2.6.5.,Berufs- und Erwachsenenbildung
+4,9.2.6.5.1.,Allgemeines
+5,9.2.6.5.1.1.,Bibliographien
+5,9.2.6.5.1.2.,Zeitschriften
+5,9.2.6.5.1.4.,Jahrbücher
+5,9.2.6.5.1.7.,Statistik
+5,9.2.6.5.1.8.,"Einrichtungen. Sammlungen. Vereine"
+4,9.2.6.5.2.,Allgemeine Darstellungen
+4,9.2.6.5.3.,Geschichte der Berufsbildung
+4,9.2.6.5.4.,"Berufsschulen. Volkshochschulen"
+4,9.2.6.5.5.,Berufsschullehrer
+3,9.2.6.6.,Schulbildung
+4,9.2.6.6.1.,Allgemeines
+5,9.2.6.6.1.1.,Bibliographien
+5,9.2.6.6.1.2.,Zeitschriften
+5,9.2.6.6.1.4.,Jahrbücher
+5,9.2.6.6.1.7.,Statistik
+5,9.2.6.6.1.8.,"Einrichtungen. Sammlungen. Vereine"
+4,9.2.6.6.2.,Allgemeine Darstellungen
+4,9.2.6.6.3.,Geschichte des Schulwesens
+4,9.2.6.6.4.,Schulen
+4,9.2.6.6.5.,Pädagogen
+4,9.2.6.6.6.,Unterrichtsfächer
+4,9.2.6.6.7.,Außerschulische Bildung
+4,9.2.6.6.8.,Lehrerbildung
+2,9.2.7.,"Wissenschaft. Forschung"
+3,9.2.7.1.,"Wissenschaft/Allgemeines"
+4,9.2.7.1.1.,"Wissenschaft/Bibliographien"
+4,9.2.7.1.2.,"Wissenschaft/Zeitschriften"
+4,9.2.7.1.4.,"Wissenschaft/Jahrbücher"
+4,9.2.7.1.7.,"Wissenschaft/Statistik"
+4,9.2.7.1.8.,"Wissenschaft/Einrichtungen. Sammlungen. Vereine"
+4,9.2.7.1.9.,"Wissenschaftler. Forscher"
+3,9.2.7.2.,"Wissenschaft/Allgemeine Darstellungen"
+3,9.2.7.3.,Geschichte der Wissenschaft
+1,9.3.,Literatur
+2,9.3.1.,Allgemeines
+3,9.3.1.1.,Bibliographien
+3,9.3.1.2.,Zeitschriften
+3,9.3.1.4.,Jahrbücher
+3,9.3.1.7.,Statistik
+3,9.3.1.8.,"Einrichtungen. Sammlungen. Vereine"
+2,9.3.2.,Allgemeine Darstellungen
+2,9.3.3.,Literaturgeschichte
+2,9.3.4.,"Schriftsteller. Philologen"
+2,9.3.5.,Literarische Abhandlungen
+2,9.3.6.,Literarische Sammlungen
+2,9.3.7.,Mundartliteratur
+2,9.3.8.,Mundartdichter
+2,9.3.9.,Werke einzelner Mundartdichter
+1,9.4.,Bildende Künste
+2,9.4.1.,Bildende Kunst
+3,9.4.1.1.,Allgemeines
+4,9.4.1.1.1.,Bibliographien
+4,9.4.1.1.2.,Zeitschriften
+4,9.4.1.1.4.,Jahrbücher
+4,9.4.1.1.8.,"Einrichtungen. Vereine"
+3,9.4.1.2.,Allgemeine Darstellungen
+3,9.4.1.3.,Geschichte der Bildenden Kunst
+3,9.4.1.4.,"Kunsthistoriker. Denkmalpfleger. Restaurator"
+3,9.4.1.5.,"Kunstmuseen. Kunstsammlungen"
+3,9.4.1.6.,Kunstausstellungen
+3,9.4.1.7.,Künstlerkolonien
+3,9.4.1.8.,Denkmalpflege
+2,9.4.2.,"Architektur. Städtebau"
+3,9.4.2.1.,Allgemeines
+4,9.4.2.1.1.,Bibliographien
+4,9.4.2.1.2.,Zeitschriften
+4,9.4.2.1.4.,Jahrbücher
+4,9.4.2.1.7.,Statistik
+4,9.4.2.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,9.4.2.2.,Allgemeine Darstellungen
+3,9.4.2.3.,Geschichte der Baukunst
+3,9.4.2.4.,"Baudenkmale. Kunstdenkmale"
+4,9.4.2.4.1.,Sakralbauten
+4,9.4.2.4.2.,Öffentliche Bauten
+3,9.4.2.5.,"Architekten. Baumeister"
+2,9.4.3.,Landschaftsarchitektur
+3,9.4.3.1.,Allgemeines
+4,9.4.3.1.1.,Bibliographien
+4,9.4.3.1.2.,Zeitschriften
+4,9.4.3.1.4.,Jahrbücher
+4,9.4.3.1.7.,Statistik
+4,9.4.3.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,9.4.3.2.,Allgemeine Darstellungen
+3,9.4.3.3.,Geschichte der Landschaftsarchitektur
+3,9.4.3.4.,Gartenanlagen
+3,9.4.3.5.,Landschaftsarchitekten
+2,9.4.4.,Plastik
+3,9.4.4.1.,Allgemeines
+4,9.4.4.1.1.,Bibliographien
+4,9.4.4.1.2.,Zeitschriften
+4,9.4.4.1.4.,Jahrbücher
+4,9.4.4.1.7.,Statistik
+4,9.4.4.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,9.4.4.2.,Allgemeine Darstellungen
+3,9.4.4.3.,Geschichte der Bildhauerkunst
+3,9.4.4.4.,Bildwerke
+3,9.4.4.5.,Bildhauer
+2,9.4.5.,"Malerei. Grafik"
+3,9.4.5.1.,Allgemeines
+4,9.4.5.1.1.,Bibliographien
+4,9.4.5.1.2.,Zeitschriften
+4,9.4.5.1.4.,Jahrbücher
+4,9.4.5.1.5.,Kalender
+4,9.4.5.1.7.,Statistik
+4,9.4.5.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,9.4.5.2.,Allgemeine Darstellungen
+3,9.4.5.3.,Geschichte der Malerei und Grafik
+3,9.4.5.4.,Techniken der Malerei und Grafik
+3,9.4.5.5.,"Maler. Grafiker"
+2,9.4.6.,"Kunsthandwerk. Volkskunst"
+3,9.4.6.1.,Allgemeines
+4,9.4.6.1.1.,Bibliographien
+4,9.4.6.1.2.,Zeitschriften
+4,9.4.6.1.4.,Jahrbücher
+4,9.4.6.1.4.,Statistik
+4,9.4.6.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,9.4.6.2.,Allgemeine Darstellungen
+3,9.4.6.3.,Geschichte des Kunsthandwerks
+3,9.4.6.4.,Kunsthandwerkliche Techniken
+3,9.4.6.5.,"Kunsthandwerker. Volkskünstler"
+3,9.4.6.6.,Designer
+2,9.4.7.,Fotografie
+3,9.4.7.1.,Allgemeines
+4,9.4.7.1.1.,Bibliographien
+4,9.4.7.1.2.,Zeitschriften
+4,9.4.7.1.4.,Jahrbuch
+4,9.4.7.1.7.,Statistik
+4,9.4.7.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,9.4.7.2.,Allgemeine Darstellungen
+3,9.4.7.3.,Geschichte der Fotografie
+3,9.4.7.4.,Fotoateliers
+3,9.4.7.5.,Fotografen
+1,9.5.,Musik
+2,9.5.1.,Allgemeines
+3,9.5.1.1.,Bibliographie
+3,9.5.1.2.,Zeitschriften
+3,9.5.1.4.,Jahrbücher
+3,9.5.1.7.,Statistik
+3,9.5.1.8.,"Einrichtungen. Sammlungen. Vereine"
+2,9.5.2.,Allgemeine Darstellungen
+2,9.5.3.,Geschichte der Musik
+2,9.5.4.,"Musikstätten. Klangkörper"
+2,9.5.5.,"Musiker. Sänger. Musikwissenschaftler"
+2,9.5.6.,Musikinstrumente
+2,9.5.7.,Musikgattungen
+1,9.6.,Darstellende Künste
+2,9.6.1.,Darstellende Kunst
+3,9.6.1.1.,Allgemeines
+3,9.6.1.2.,Allgemeine Darstellungen
+3,9.6.1.3.,Geschichte der Darstellenden Kunst
+2,9.6.2.,Theater
+3,9.6.2.1.,Allgemeines
+4,9.6.2.1.1.,Bibliographie
+4,9.6.2.1.2.,Zeitschrift
+4,9.6.2.1.4.,Jahrbücher
+4,9.6.2.1.7.,Statistik
+4,9.6.2.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,9.6.2.2.,Allgemeine Darstellungen
+3,9.6.2.3.,Geschichte des Theaters
+3,9.6.2.4.,Theaterensemble
+3,9.6.2.5.,"Bühnenkünstler. Theaterintendanten"
+2,9.6.3.,Tanz
+3,9.6.3.1.,Allgemeines
+4,9.6.3.1.1.,Bibliographien
+4,9.6.3.1.2.,Zeitschriften
+4,9.6.3.1.4.,Jahrbücher
+4,9.6.3.1.5.,"Tanz/Kalender"
+4,9.6.3.1.7.,Statistik
+4,9.6.3.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,9.6.3.2.,Allgemeine Darstellungen
+3,9.6.3.3.,Geschichte des Tanzes
+3,9.6.3.4.,Tanzensemble
+3,9.6.3.5.,Tanzkünstler
+2,9.6.4.,Film
+3,9.6.4.1.,Allgemeines
+4,9.6.4.1.2.,Bibliographie
+4,9.6.4.1.2.,Zeitschriften
+4,9.6.4.1.4.,Jahrbücher
+4,9.6.4.1.7.,Statistik
+4,9.6.4.1.8.,"Einrichtungen. Sammlungen. Vereine"
+3,9.6.4.2.,Allgemeine Darstellungen
+3,9.6.4.3.,Geschichte der Filmkunst
+3,9.6.4.4.,Filmtheater
+3,9.6.4.5.,Filmkünstler
+2,9.6.5.,"Kabarett. Zirkus. Kleinkunst"
+3,9.6.5.1.,Kabarett
+3,9.6.5.2.,Zirkus
+3,9.6.5.3.,Kleinkunst
+0,10.,Volkskunde
+1,10.1.,Allgemeines
+2,10.1.1.,Bibliographien
+2,10.1.2.,Zeitschriften
+2,10.1.4.,Jahrbücher
+2,10.1.5.,Kalender
+2,10.1.6.,"Lexika. Wörterbücher"
+2,10.1.7.,Forschungstätigkeit
+2,10.1.8.,"Einrichtungen. Sammlungen. Vereine"
+2,10.1.9.,"Volkskundler. Heimatforscher"
+1,10.2.,Allgemeine Darstellungen
+1,10.3.,"Sprache. Mundart"
+2,10.3.1.,Allgemeines
+3,10.3.1.1.,Bibliographien
+3,10.3.1.2.,Zeitschriften
+3,10.3.1.4.,Jahrbücher
+3,10.3.1.6.,Wörterbücher
+3,10.3.1.8.,"Einrichtungen. Sammlungen. Vereine"
+2,10.3.2.,Allgemeine Darstellungen
+2,10.3.3.,Geschichte der Sprache
+2,10.3.4.,Sprachwissenschaftler
+2,10.3.5.,Niederdeutsch
+2,10.3.6.,Namenkunde
+3,10.3.6.1.,Ländernamen
+3,10.3.6.2.,Ortsnamen
+3,10.3.6.3.,Flurnamen
+3,10.3.6.4.,"Straßennamen. Häusernamen"
+3,10.3.6.5.,Gewässernamen
+3,10.3.6.6.,"Tiernamen. Pflanzennamen"
+3,10.3.6.7.,Personennamen
+3,10.3.6.8.,Völkernamen
+1,10.4.,Volksliteratur
+2,10.4.1.,Allgemeines
+2,10.4.2.,Allgemeine Darstellungen
+2,10.4.3.,Textsammlungen
+3,10.4.3.1.,"Sagen. Märchen"
+3,10.4.3.2.,Volksschwänke
+3,10.4.3.3.,"Anekdoten. Witze"
+3,10.4.3.4.,Reime
+3,10.4.3.5.,"Sprichwörter. Redensarten. Sagwörter"
+3,10.4.3.6.,Volksrätsel
+3,10.4.3.7.,Volkslieder
+3,10.4.3.8.,Volkstänze
+3,10.4.3.9.,Kinderspiele
+1,10.5.,Volksglaube
+1,10.6.,Volksbräuche
+2,10.6.1.,Allgemeines
+3,10.6.1.1.,Bibliographien
+3,10.6.1.2.,Zeitschriften
+3,10.6.1.4.,Jahrbücher
+3,10.6.1.8.,"Einrichtungen.Sammlungen. Vereine"
+2,10.6.2.,Allgemeine Darstellungen
+2,10.6.3.,"Arbeit. Lebensweise"
+2,10.6.4.,"Feste. Feiern"
+3,10.6.4.1.,Kirchenfeste
+3,10.6.4.2.,Volksfeste
+3,10.6.4.3.,Familienfeste
+2,10.6.5.,"Essen. Trinken"
+1,10.7.,"Volkstrachten. Kleidung"
+1,10.8.,"Bauten. Geräte"
+1,10.9.,Volkscharakter
+0,11.,"Kirche. Religion"
+1,11.1.,Allgemeines
+2,11.1.1.,Bibliographien
+2,11.1.2.,Zeitschriften
+2,11.1.4.,Jahrbuch
+2,11.1.5.,Kalender
+2,11.1.7.,"Kirche/Statistik"
+2,11.1.8.,"Einrichtungen. Sammlungen. Vereine"
+1,11.2.,Allgemeine Darstellungen
+1,11.3.,Kirchengeschichte
+2,11.3.1.,Kirchengeschichte bis zur Reformation
+3,11.3.1.1.,Bistümer
+3,11.3.1.2.,"Orden. Klöster. Bruderschaften"
+2,11.3.2.,Reformation
+2,11.3.3.,Kirchengeschichte seit der Reformation
+1,11.4.,"Theologen. Geistliche"
+1,11.5.,Praktische Theologie
+2,11.5.1.,Kirchenorganisation
+2,11.5.2.,Seelsorge
+2,11.5.3.,Liturgie
+2,11.5.4.,Mission
+2,11.5.5.,Diakonie
+2,11.5.6.,Kirchliches Leben
+1,11.6.,Sonstige Glaubensgemeinschaften und Weltanschauungen
+2,11.6.1.,Christliche Glaubensgemeinschaften
+2,11.6.2.,Nichtchristliche Glaubensgemeinschaften
+2,11.6.3.,Freie Weltanschauungen
+1,11.7.,Judentum
+2,11.7.1.,Allgemeines
+3,11.7.1.1.,Bibliographien
+3,11.7.1.2.,Zeitschriften
+3,11.7.1.4.,Jahrbücher
+3,11.7.1.8.,"Einrichtungen. Sammlungen. Vereine"
+2,11.7.2.,Allgemeine Darstellungen
+2,11.7.3.,Geschichte der Juden
+2,11.7.4.,"Synagogen. Jüdische Friedhöfe. Jüdische Gedenkstätten"
+2,11.7.5.,Juden
+2,11.7.6.,Jüdische Gemeinden
+0,12.,Ortsgeschichte
+1,12.1.,Kreise
+1,12.2.,Ämter
+1,12.3.,Orte
+0,13.,Personengeschichte
+1,13.1.,Genealogie
+2,13.1.1.,Allgemeines
+3,13.1.1.1.,Bibliographien
+3,13.1.1.2.,Zeitschriften
+3,13.1.1.4.,Jahrbücher
+3,13.1.1.7.,Familienforschung
+3,13.1.1.8.,"Einrichtungen. Sammlungen.Vereine"
+3,13.1.1.9.,Genealogen
+2,13.1.2.,Allgemeine Darstellungen
+2,13.1.3.,Genealogische Quellen
+2,13.1.4.,Adelskunde
+1,13.2.,Sammelbiographien
