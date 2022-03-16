@@ -10,5 +10,5 @@ scheme-fields=uri,type,notation,prefLabel,identifier,publisher,altLabel,namespac
 # download scheme file from BARTOC by default, reduce fields and validate
 $(NAME)-scheme.json: 
 	[ -z "$(BARTOC)" ] || curl --silent https://bartoc.org/api/data?uri=$(BARTOC) \
-		| jq -S '.[0]|{$(scheme-fields)}|del(..|nulls)' \
+		| jq -eS '.[0]|{$(scheme-fields)}|del(..|nulls)|if length>0 then . else false end' \
 		> $@ && $(jskos-validate) scheme $@
