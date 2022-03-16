@@ -1,4 +1,4 @@
-BARTOC=https://bartoc.org/en/node/1986
+BARTOC=http://bartoc.org/en/node/1986
 
 mv-concepts.ndjson: mv-scheme.json mv-concepts.csv
 	$(jskos-convert) concepts -m -s mv-scheme.json -l de mv-concepts.csv > $@
