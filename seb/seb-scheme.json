@@ -1,0 +1,25 @@
+{
+  "namespace": "http://uri.gbv.de/terminology/seb/",
+  "notation": [
+    "SEB"
+  ],
+  "notationPattern": "([A-Z1-2]([a-z\\.]([1-2 ]([0-9]+)?)?)?)?",
+  "prefLabel": {
+    "de": "Systematik für Evangelische Büchereien",
+    "en": "Systematics for Protestant libraries",
+    "und": "SEB"
+  },
+  "publisher": [
+    {
+      "prefLabel": {
+        "en": "Evangelisches Literaturportal e.V."
+      },
+      "uri": "http://viaf.org/viaf/147315842"
+    }
+  ],
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+    "http://w3id.org/nkos/nkostype#classification_schema"
+  ],
+  "uri": "http://bartoc.org/en/node/1324"
+}

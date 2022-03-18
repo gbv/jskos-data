@@ -1,0 +1,211 @@
+level,notation,prefLabel
+0,1,Medien für Erwachsene
+1,1.1,Sachliteratur
+2,A,"Allgemeines, allgemeine Nachschlagewerke, Jahrbücher"
+3,Aa,"Allgemeine Nachschlagewerke, Zeitschriften"
+3,Ab,"Sammelwerke aus verschiedenen Sachgebieten, Jahrbücher"
+3,Ac,"Medien und Methoden der Informationsvermittlung (Presse, Buch- und Bibliothekswesen, audio-visuelle Medien u. a.)"
+3,Ad,Allgemeine Wissenschaftskunde
+3,Az,Verschiedenes
+2,B,"Biographien, Briefe, Tagebücher"
+3,Ba,"Sammelbiographien, Briefsammlungen"
+3,Bb,"Einzel- und Familienbiographien sowie Briefe und Tagebücher einzelner Personen aus allen Sachgebieten (alphabetisch nach deren Namen geordnet)"
+2,C,"Christlicher Glaube, Religionen, religiöse Weltanschauungen"
+3,Ca,"Allgemeines, Religionswissenschaft"
+4,Ca 1,"Allgemeines, themenübergreifende Nachschlagewerke, Zeitschriften, Sammelbände"
+4,Ca 2,"Religionswissenschaft (Religionsphilosophie, -phänomenologie, -psychologie, -soziologie), Religionsgeschichte, mehrere Weltreligionen"
+3,Cb,"Die Bibel: Ausgaben, Bücher zu ihrem Verständnis, Nachschlagewerke, Auslegungen"
+4,Cb 1,Ausgaben
+4,Cb 2,"Bücher zu ihrem Verständnis, Nachschlagewerke (Bibelkunde, Konkordanz u.a.)"
+4,Cb 3,Auslegungen
+3,Cc,"Kirchengeschichte, Theologiegeschichte, Mission, Ökumene"
+4,Cc 1,"Kirchengeschichte, Theologiegeschichte"
+4,Cc 2,Mission
+4,Cc 3,Ökumene und weltweite Verantwortung der Kirche
+3,Cd,"Glaubenslehre, Konfessionskunde, Sektenkunde"
+4,Cd 1,Evangelische Glaubenslehre
+4,Cd 2,"andere christliche Konfessionen (z.B. katholische Kirche, orthodoxe Kirchen, Freikirchen) und Bewegungen (z.B. Kommunitäten, charismatische und fundamentalistische Gruppierungen)"
+4,Cd 3,"Sekten, Sondergemeinschaften, Weltanschauliches"
+3,Ce,"Ethik, Lebensgestaltung"
+3,Cf,Gemeinde- und Kirchenstruktur
+3,Cg,"Kirche und Gesellschaft (auch Diakonie, Sozialarbeit, Werke und Einrichtungen, Öffentlichkeitsarbeit, Bildungsarbeit)"
+3,Ch,Gemeindearbeit
+4,Ch 1,"Gottesdienst (Predigt, Amtshandlungen, Sakramente), Kirchenjahr, Kirchenmusik"
+4,Ch 2,"Formen der Gemeindearbeit (Einzelveranstaltungen, Seminare, Gemeindegruppen, Kreise u. a.)"
+4,Ch 3,Katechetik
+4,Ch 4,Arbeitshilfen
+4,Ch 5,Evangelisation
+3,Ci,"Geistliches Leben (u.a. Andachten, Gebete, Meditationen)"
+3,Ck,Judentum (Jüdisch-christliches Gespräch)
+3,Cl,Weitere Religionen
+4,Cl 1,Islam
+4,Cl 2,Buddhismus
+4,Cl 3,Hinduismus
+4,Cl 4,Sonstige
+3,Cm,"Glaube und Theologie im Gespräch (z.B. Auseinandersetzung mit Wissenschaften, Religionen und Weltanschauungen)"
+3,Cn,Seelsorge
+3,Co,Theologische und kirchliche Strömungen der Gegenwart
+3,Cp,"Persönliche Glaubenserfahrungen (auch Erbauungsschriften, Missionserzählungen)"
+3,Cz,Verschiedenes
+2,E,"Erd-, Länder- und Völkerkunde, Reisen"
+3,Ea,"Allgemeines, Einführungen, Weltatlanten, Gesamtdarstellungen (z.B. allgemeine Fragen des Reisens), themen- und länderübergreifende Nachschlagewerke, Zeitschriften"
+3,Eb,"Weltreisen, Entdeckungen, Darstellungen aus mehreren Erdteilen"
+3,Ec,Deutschland
+4,Ec 1,Allgemeines
+4,Ec 2,Heimatkunde (Heimatort und Heimatregion)
+4,Ec 3,"Norddeutschland (Schleswig-Holstein, Niedersachsen, Hamburg, Bremen)"
+4,Ec 4,"Ostdeutschland (Mecklenburg-Vorpommern, Berlin, Brandenburg, Sachsen-Anhalt, Thüringen, Sachsen)"
+4,Ec 5,"Westdeutschland (Nordrhein-Westfalen, Hessen, Rheinland-Pfalz, Saarland)"
+4,Ec 6,"Süddeutschland (Bayern, Baden-Württemberg)"
+3,Ed,Europa (einschl. Russland und Türkei)
+3,Ee,Asien
+3,Ef,Afrika
+3,Eg,Amerika
+4,Eg 1,Allgemeines
+4,Eg 2,Nordamerika
+4,Eg 3,Mittelamerika und westindische Inseln
+4,Eg 4,Südamerika
+3,Eh,"Australien, Ozeanien, Neuseeland"
+3,Ei,Polargebiete (einschl. Grönland und Spitzbergen)
+3,Ek,Völkerkunde
+3,Ez,"Spezialgebiete, Verschiedenes"
+2,F,"Familie, Ehe, Lebensfragen"
+3,Fa,"Allgemeines, themenübergreifende Nachschlagewerke, Zeitschriften, Sammelbände"
+3,Fb,"Ehe, Partnerschaft"
+3,Fc,Familie
+3,Fd,Lebenssituationen und Lebensfragen
+3,Fz,Verschiedenes
+2,G,"Geschichte (einschl. Kulturgeschichte), Zeitgeschichte"
+3,Ga,"Allgemeines, Einführungen, Historische Hilfswissenschaften (z.B. Münzkunde, Genealogie, Volkskunde, Archäologie), themenübergreifende Nachschlagewerke, Zeitschriften"
+3,Gb,"Weltgeschichte, Darstellungen mehrerer Epochen, Staaten und Länder"
+3,Gc,Epochen übergreifende Behandlung von Einzelthemen
+3,Gd,Geschichte einzelner Staaten und Länder (Gesamtdarstellungen)
+3,Ge,Von der Urzeit bis zum Ende des Mittelalters
+3,Gf,Neuzeit (ab 16. Jahrhundert)
+3,Gg,Geschichte des 20. Jahrhunderts
+3,Gh,Geschichte des 21. Jahrhunderts
+3,Gz,Verschiedenes
+2,K,"Kunst, Bildende"
+3,Ka,"Allgemeines, Kunstführer, Museen, Sammlungen, themenübergreifende Nachschlagewerke, Zeitschriften"
+3,Kb,Kunstgeschichte (Gesamt- und Einzeldarstellungen)
+3,Kc,"Kunstgattungen, Stilkunde, Kunstbetrachtungen"
+3,Kd,Cartoons
+3,Ke,Fotokunst
+3,Kf,"Angewandte Kunst, Kunstgewerbe"
+3,Kz,Verschiedenes
+2,L,"Literaturkunde, Sprache"
+3,La,"Allgemeines, themenübergreifende Nachschlagewerke, Zeitschriften"
+3,Lb,Literaturgeschichte (Gesamt- und Einzeldarstellungen)
+3,Lc,"Literaturwissenschaft, Literaturgattungen, Interpretationen, Literaturkritik"
+3,Ld,"Sprachwissenschaften, Wörterbücher Sprachkurse"
+3,Lz,Verschiedenes
+2,M,"Musik, Theater, Film, Hörfunk, Fernsehen"
+3,Ma,"Allgemeines, themenübergreifende Nachschlagewerke, Zeitschriften"
+3,Mb,"Musik (Geschichte, Einzeldarstellungen, Liederbücher)"
+3,Mc,"Theater, Tanz (Geschichte, Einzeldarstellungen)"
+3,Md,"Film, Hörfunk, Fernsehen, Video (Geschichte, Einzeldarstellungen)"
+3,Me,Andere Darstellungskünste
+3,Mf,Musik auf Tonträgern und Noten
+4,Mf 1,Instrumentalmusik
+4,Mf 2,Vokalmusik
+4,Mf 3,"Film-, Fernseh-, Hörspielmusik"
+4,Mf 4,"Musikdramatische Werke (Oper, Operette, Musical)"
+4,Mf 5,Volksmusik
+4,Mf 6,Jazz
+4,Mf 7,"Chansons, Folksongs, Liedermacher, Complets u. a."
+4,Mf 8,"Popmusik, Rockmusik, Unterhaltungsmusik"
+4,Mf 9,Umfassende Sammelprogramme
+3,Mz,Verschiedenes
+2,N,"Naturwissenschaften, Medizin, Mathematik"
+3,Na,"Allgemeines, Geschichte der Naturwissenschaften, themenübergreifende Nachschlagewerke, Zeitschriften"
+3,Nb,Mathematik
+3,Nc,"Astronomie, Astrophysik"
+3,Nd,Physik
+3,Ne,Chemie
+3,Nf,"Geologie (einschl. Gesteinskunde, Bodenschätze), Geophysik (einschl. Wetterkunde, Meereskunde)"
+3,Ng,Biologie
+4,Ng 1,Allgemeine Biologie
+4,Ng 2,Botanik (Pflanzenkunde)
+4,Ng 3,Zoologie (Tierkunde)
+3,Nh,Verhaltensforschung
+3,Ni,"Naturbeobachtungen, Tiererlebnisse"
+3,Nk,"Naturschutz, Umweltschutz"
+3,Nl,Naturwissenschaftliche Anthropologie (Menschenkunde)
+3,Nm,"Medizin, Gesundheitspflege"
+3,Nn,Kybernetik
+3,No,Bionik
+3,Nz,Verschiedenes
+2,P,"Philosophie, Psychologie, Pädagogik"
+3,Pa,Philosophie
+4,Pa 1,"Allgemeines, Einführungen, Nachschlagewerke, Zeitschriften"
+4,Pa 2,Geschichte der Philosophie
+4,Pa 3,"Einzelne Richtungen, Einzelfragen"
+3,Pb,Psychologie
+4,Pb 1,"Allgemeines, Einführung und Nachschlagewerke, Zeitschriften"
+4,Pb 2,Geschichte der Psychologie
+4,Pb 3,"Arbeitsgebiete und Richtungen, Einzelfragen"
+4,Pb 4,"Parapsychologie (Telepathie, Hellsehen, Magie, Okkultismus u. a.)"
+3,Pc,Pädagogik
+4,Pc 1,"Allgemeines, Einführungen, Nachschlagewerke, Zeitschriften"
+4,Pc 2,Außerschulische Kinder- und Jugenderziehung
+4,Pc 3,"Kinderkrippe, Kindergarten, Vorschulerziehung"
+4,Pc 4,Schule und Hochschule
+4,Pc 5,Sexualpädagogik
+4,Pc 6,Religiöse Erziehung
+4,Pc 7,Sonderpädagogik
+4,Pc 8,Berufskunde und Berufserziehung
+4,Pc 9,Erwachsenenbildung
+4,Pc 10,"Einzelfragen, weitere Richtungen (Sozialpädagogik, Freizeitpädagogik, Medienpädagogik)"
+2,R,"Rund um Hobby, Haus und Garten, Sport und Spiel"
+3,Ra,Praktische Ratgeber
+4,Ra 1,Haus und Garten
+4,Ra 2,Kochen und Backen
+4,Ra 3,Haustierhaltung
+4,Ra 4,Sonstiges
+3,Rb,Sport
+3,Rc,Spiele
+3,Rd,"Basteln, Handarbeiten, Werken, Kunsthandwerk"
+3,Re,Sonstige Freizeitbeschäftigungen
+2,S,"Sozialwissenschaften (Staat, Politik, Recht, Wirtschaft)"
+3,Sa,"Staat, Politik"
+3,Sb,"Soziologie, gesellschaftliche Gruppen, soziale Fragen"
+3,Sc,"Recht, Kriminologie"
+3,Sd,"Wirtschafts- und Finanzwesen, Arbeitswelt"
+3,Se,Zeitkritik und Zukunftsfragen
+2,T,Technik
+3,Ta,"Allgemeines, themenübergreifende Nachschlagewerke, Zeitschriften, Sammelbände"
+3,Tb,Einzelne Gebiete der Technik
+4,Tb 1,"Technische Geräte und Systeme (Radio, Fernsehen, Film, Foto)"
+4,Tb 2,"Produktionstechnik (Industrie, Handwerk), Bauwesen"
+4,Tb 3,"Verkehrstechnik (Straßenverkehr, Eisenbahn, Schifffahrt, Luftfahrt)"
+4,Tb 4,"Raumfahrt, Weltraumtechnik"
+4,Tb 5,"Computertechnik, Elektronik"
+4,Tb 6,Technik der Energiegewinnung
+4,Tb 7,Umwelttechnik
+4,Tb 8,"Mikrotechnik, Nanotechnik"
+3,Tz,Verschiedenes
+1,1.2,Erzählende Literatur
+2,,"Romane, Erzählungen, Dramen, Lyrik"
+0,2,Medien für Kinder und Jugendliche
+1,2.1,Sachliteratur
+2,Ja,"Allgemeines, allgemeine Nachschlagewerke"
+2,Jb,"Biographien, Briefe, Tagebücher"
+2,Jc,"Christlicher Glaube, Religionen, religiöse Weltanschauungen"
+2,Je,"Erd-, Länder- und Völkerkunde, Reisen"
+2,Jf,"Familie, Lebensfragen"
+2,Jg,"Geschichte (einschl. Kulturgeschichte), Zeitgeschichte"
+2,Jk,"Kunst, Bildende"
+2,Jl,"Literaturkunde, Sprache"
+2,Jm,"Musik, Theater, Film, Hörfunk, Fernsehen"
+2,Jn,"Naturwissenschaften, Medizin, Mathematik"
+2,Jp,"Philosophie, Psychologie, Pädagogik"
+2,Jr,"Rund um Hobby, Haus und Garten, Sport und Spiel"
+2,Js,"Sozialwissenschaften (Staat, Politik, Recht, Wirtschaft)"
+2,Jt,Technik
+1,2.2,Erzählende Literatur
+2,Jm 1,Bilderbücher (einschl. Märchen- u. Sachbilderbücher)
+2,Jm 2,Märchen
+2,Jm 3,"Sagen, Fabeln, Schwänke, Legenden"
+2,Ju 1,Erzählungen (6-8 Jahre)
+2,Ju 2,Erzählungen (9-12 Jahre)
+2,Ju 3,Erzählungen (ab 13 Jahre)
