@@ -1,4 +1,5 @@
 BARTOC=http://bartoc.org/en/node/20049
+include ../Makefile
 
-sdnb-concepts.ndjson: sdnb.ttl
+$(CONCEPTS): $(SCHEME) sdnb.ttl
 	skos2jskos -n sdnb $<
