@@ -1,0 +1,24 @@
+{
+  "namespace": "http://uri.gbv.de/terminology/skj/",
+  "notation": [
+    "SKJ"
+  ],
+  "notationPattern": "[1-7]+(.[1-3])?",
+  "prefLabel": {
+    "de": "Systematik für Kinder- und Jugendbibliotheken",
+    "en": "Systematics for children's and youth libraries"
+  },
+  "publisher": [
+    {
+      "prefLabel": {
+        "en": "Verein der Bibliothekare an Öffentlichen Bibliotheken"
+      },
+      "uri": "http://viaf.org/viaf/154802200"
+    }
+  ],
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+    "http://w3id.org/nkos/nkostype#classification_schema"
+  ],
+  "uri": "http://bartoc.org/en/node/1050"
+}
