@@ -11,8 +11,6 @@ Each KOS data is located in a subdirectory `$ID` (lowercase short name or acrony
 
 * `$ID-scheme.json`
 * `$ID-concepts.ndjson`
-* `$ID-mappings.ndjson` 
-* `$ID-concordance.json`
 
 The files should be generated automatically via a `Makefile`. Its sources such as CSV files should be included as well. Each directory should further contain a brief `README.md` giving a title and links to sources and additional resources such as instructions how to update the data.
 
