@@ -1,0 +1,27 @@
+{
+  "identifier": [
+    "http://www.wikidata.org/entity/Q305980"
+  ],
+  "namespace": "http://uri.gbv.de/terminology/oesoeb/",
+  "notation": [
+    "ÖSÖB"
+  ],
+  "notationPattern": "[A-Z]{1,2}(\\.([A-Z0-9]{1,3}(\\.[0-9A-Z]{1,3})?)?)?",
+  "prefLabel": {
+    "de": "Österreichische Systematik für Öffentliche Bibliotheken",
+    "en": "Austrian classification for public libraries"
+  },
+  "publisher": [
+    {
+      "prefLabel": {
+        "en": "Büchereiverband Österreichs"
+      },
+      "uri": "http://viaf.org/viaf/137684607"
+    }
+  ],
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+    "http://w3id.org/nkos/nkostype#classification_schema"
+  ],
+  "uri": "http://bartoc.org/en/node/742"
+}

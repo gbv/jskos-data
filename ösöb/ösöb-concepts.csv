@@ -1,0 +1,2833 @@
+level,notation,prefLabel
+0,A,Allgemeines
+1,AN,Allgemeine Nachschlagewerke
+2,AN.A,Allgemeine Lexika und Enzyklopädien
+2,AN.B,Allgemeine Bibliographien
+2,AN.E,Allgemeine Adress- und Telefonverzeichnisse
+2,AN.F,Fahrpläne
+2,AN.I,Allgemeine Handbücher des Wissens
+2,AN.J,Allgemeine Jahrbücher und Kalender
+2,AN.K,Allgemeine Abkürzungsverzeichnisse
+2,AN.V,Weitere allgemeine Nachschlagewerke und Verzeichnisse
+1,AS,Vermischte allgemeine Schriften
+0,B,Biographisches
+1,BA,Allgemeine Sammelbiographien
+2,BA.SYS,Allgemeine Sammelbiographien aus einzelnen Themenbereichen
+1,BB,"Briefe, Tagebücher"
+2,BB.SYS,"Briefe, Tagebücher aus einzelnen Themenbereichen"
+1,BI,Einzelbiographien
+2,BI.SYS,Einzelbiographien aus einzelnen Themenbereichen
+1,BL,Allgemeine Bildnissammlungen
+2,BL.SYS,Allgemeine Bildnissammlungen aus einzelnen Themenbereichen
+1,BO,Erfahrungsberichte und Lebensbilder
+2,BO.SYS,Erfahrungsberichte und Lebensbilder aus einzelnen Themenbereichen
+0,D,Belletristik
+1,DA,Gattungsübergreifende Anthologien
+2,DA.D,Deutscher Sprachraum
+2,DA.O,Österreich
+2,DA.P,Europa
+2,DA.S,Außereuropa
+2,DA.T,Themenkreise
+1,DC,"Comics und Graphic Novels (für Erwachsene)"
+2,DC.C,Comics
+2,DC.G,Graphic Novels
+2,DC.K,"Cartoons, Karikaturen"
+2,DC.M,Mangas
+2,DC.S,Sachcomics
+1,DD,"Epen, Märchen, epische Kleinformen"
+2,DD.E,"Epen, Verserzählungen"
+2,DD.M,"Märchen, Sagen, Volksbücher, Schwänke, Legenden, Fabeln"
+2,DD.P,"Anekdoten, Witze, Aphorismen"
+1,DG,Gesammelte Werke einzelner Schriftsteller
+2,DG.D,Deutscher Sprachraum
+2,DG.O,Österreich
+2,DG.P,Europa
+2,DG.S,Außereuropa
+2,DG.T,Themenkreise
+1,DL,Lyrik
+2,DL.A,Lyrikanthologien
+3,DL.AD,Deutscher Sprachraum
+3,DL.AO,Österreich
+3,DL.AP,Europa
+3,DL.AS,Außereuropa
+3,DL.AT,Themenkreise
+1,DR,"Romane, Erzählungen und Novellen"
+2,DR.A,Prosaanthologien
+3,DR.AD,Deutscher Sprachraum
+3,DR.AO,Österreich
+3,DR.AP,Europa
+3,DR.AS,Außereuropa
+3,DR.AT,Themenkreise
+2,DR.B,"Bauern-, Heimat-, Natur- und Dorfromane"
+2,DR.D,Kriminalromane
+3,DR.DH,Historische Kriminalromane
+3,DR.DR,Regionalkrimis
+2,DR.E,"Thriller, Spannungs- und Agentenromane"
+2,DR.F,"Fantasyromane, Phantastische Romane"
+2,DR.G,"Gesellschafts-, Liebes-, erotische und Eheromane"
+2,DR.H,Historische Romane
+2,DR.I,Kindheit und Jugend im Roman
+2,DR.J,"Romane, Erzählungen und Novellen für Jugendliche"
+3,DR.JA,Anthologien
+3,DR.JD,Kriminalromane für Jugendliche
+3,DR.JE,Spannungs- und Agentenromane für Jugendliche
+3,DR.JF,Fantasy-Romane für Jugendliche
+3,DR.JG,Gesellschafts- und Liebesromane für Jugendliche
+3,DR.JH,Historische Romane für Jugendliche
+3,DR.JK,Kriegs- und Antikriegsromane für Jugendliche
+3,DR.JL,"Heitere Romane, Humor und Satiren für Jugendliche"
+3,DR.JR,Reiseromane für Jugendliche
+3,DR.JS,Horror- und Gespenstergeschichten und Schauerromane für Jugendliche
+3,DR.JT,Tierromane für Jugendliche
+3,DR.JU,Science Fiction-Romane für Jugendliche
+3,DR.JV,Abenteuerromane für Jugendliche
+3,DR.JW,"Bildungs-, Entwicklungs- und Erziehungsromane für Jugendliche"
+3,DR.JZ,Politische und sozialkritische Romane für Jugendliche
+2,DR.K,Kriegs- und Antikriegsromane
+2,DR.L,"Heitere Romane, Humor und Satiren"
+2,DR.N,Romane über Homosexualität und Diversität
+2,DR.O,Romane: Einzelne Kulturen und Länder
+2,DR.R,Reiseromane
+2,DR.S,Horror- und Schauerromane
+2,DR.T,Tier- und Jagdromane
+2,DR.U,Science Fiction-Romane und Utopische Romane
+2,DR.V,Abenteuerromane
+2,DR.W,"Bildungs-, Entwicklungs- und Erziehungsromane"
+3,DR.WB,Biographische und autobiographische Romane
+3,DR.WK,Künstlerromane
+3,DR.WP,"Ideenromane, Philosophische und Religiöse Romane"
+2,DR.Y,"Leichte Sprache / leicht lesbare Texte"
+2,DR.Z,Politische und sozialkritische Romane
+3,DR.ZA,Romane aus der Arbeitswelt
+3,DR.ZM,Romane zum Thema Migration
+3,DR.ZT,"Romane aus der Welt der Wissenschaft, Forschung und Technik"
+3,DR.ZU,Romane zum Thema Umweltschutz und Ökologie
+3,DR.ZW,"Romane aus der Welt der Wirtschaft, Medien und Justiz"
+1,DT,Dramatik
+2,DT.D,Bühnendramatik
+3,DT.DA,Anthologien
+2,DT.H,Hörspiele
+3,DT.HA,Hörspielanthologien
+2,DT.K,Kabarett-Texte
+0,E,"Reisen, regionale Geographie, Landeskunde"
+1,EH,Österreich
+2,EH.A,Allgemeine und einführende Schriften
+3,EH.AK,Atlanten
+3,EH.AR,Geographie
+3,EH.AV,Brauchtum
+3,EH.AX,Sportreiseführer
+3,EH.AY,Reiseberichte
+2,EH.B,Burgenland
+3,EH.BX,Sportreiseführer
+3,EH.BY,Reiseberichte
+2,EH.K,Kärnten
+3,EH.KX,Sportreiseführer
+3,EH.KY,Reiseberichte
+2,EH.M,Steiermark
+3,EH.MX,Sportreiseführer
+3,EH.MY,Reiseberichte
+2,EH.N,Niederösterreich
+3,EH.NX,Sportreiseführer
+3,EH.NY,Reiseberichte
+2,EH.O,Oberösterreich
+3,EH.OX,Sportreiseführer
+3,EH.OY,Reiseberichte
+2,EH.Q,"Biographisches, Sekundärliteratur"
+3,EH.QS,"Sammelbiographien, Sammeldarstellungen"
+3,EH.QW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+2,EH.S,Salzburg
+3,EH.SX,Sportreiseführer
+3,EH.SY,Reiseberichte
+2,EH.T,Tirol
+3,EH.TX,Sportreiseführer
+3,EH.TY,Reiseberichte
+2,EH.V,Vorarlberg
+3,EH.VX,Sportreiseführer
+3,EH.VY,Reiseberichte
+2,EH.W,Wien
+3,EH.WB,Wiener Bezirke
+4,EH.WBA,Innere Stadt
+4,EH.WBB,Leopoldstadt
+4,EH.WBC,Landstraße
+4,EH.WBD,Wieden
+4,EH.WBE,Margareten
+4,EH.WBF,Mariahilf
+4,EH.WBG,Neubau
+4,EH.WBH,Josefstadt
+4,EH.WBI,Alsergrund
+4,EH.WBK,Favoriten
+4,EH.WBL,Simmering
+4,EH.WBM,Meidling
+4,EH.WBN,Hietzing
+4,EH.WBO,Penzing
+4,EH.WBP,Rudolfsheim-Fünfhaus
+4,EH.WBR,Ottakring
+4,EH.WBS,Hernals
+4,EH.WBT,Währing
+4,EH.WBU,Döbling
+4,EH.WBV,Brigittenau
+4,EH.WBW,Floridsdorf
+4,EH.WBY,Donaustadt
+4,EH.WBZ,Liesing
+3,EH.WX,Sportreiseführer
+3,EH.WY,Reiseberichte
+1,EL,"Reisen, regionale Geographie, Landeskunde"
+2,EL.A,Allgemeine und einführende Schriften
+3,EL.AG,Geschichte des Reisens
+3,EL.AK,"Atlanten, Kartographie"
+3,EL.AR,Ratgeber Reisevorbereitung
+2,EL.E,Europa
+3,EL.EB,Südosteuropa
+4,EL.EBC,Zypern
+4,EL.EBG,"Griechenland (Festland)"
+4,EL.EBI,"Griechenland (Inseln)"
+4,EL.EBN,"Slowenien, Kroatien"
+4,EL.EBR,"Rumänien, Bulgarien, Moldawien"
+4,EL.EBS,"Serbien, Bosnien-Herzegowina, Montenegro, Makedonien, Albanien"
+4,EL.EBX,Sportreiseführer
+4,EL.EBY,Reiseberichte
+3,EL.EC,"Schweiz, Liechtenstein"
+4,EL.ECX,Sportreiseführer
+4,EL.ECY,Reiseberichte
+3,EL.ED,Deutschland
+4,EL.EDN,Norddeutschland
+4,EL.EDO,Ostdeutschland
+4,EL.EDS,Süddeutschland
+4,EL.EDW,Westdeutschland
+4,EL.EDX,Sportreiseführer
+4,EL.EDY,Reiseberichte
+3,EL.EF,Frankreich
+4,EL.EFC,Zentralfrankreich
+4,EL.EFO,Nordostfrankreich
+4,EL.EFS,Südfrankreich
+4,EL.EFW,Westfrankreich
+4,EL.EFX,Sportreiseführer
+4,EL.EFY,Reiseberichte
+3,EL.EG,"Großbritannien, Irland"
+4,EL.EGE,"England, Wales, Nordirland"
+4,EL.EGI,Irland
+4,EL.EGS,Schottland
+4,EL.EGX,Sportreiseführer
+4,EL.EGY,Reiseberichte
+3,EL.EH,"Niederlande, Belgien, Luxemburg"
+4,EL.EHX,Sportreiseführer
+4,EL.EHY,Reiseberichte
+3,EL.EI,"Italien, Malta"
+4,EL.EIA,Malta
+4,EL.EIM,Mittelitalien
+4,EL.EIN,Norditalien
+4,EL.EIS,Süditalien
+4,EL.EIX,Sportreiseführer
+4,EL.EIY,Reiseberichte
+3,EL.EN,Nordeuropa
+4,EL.END,Dänemark
+4,EL.ENF,Finnland
+4,EL.ENI,Island
+4,EL.ENN,Norwegen
+4,EL.ENS,Schweden
+4,EL.ENX,Sportreiseführer
+4,EL.ENY,Reiseberichte
+3,EL.EO,"Russland, Baltikum, Ukraine, Weißrussland"
+4,EL.EOB,Baltikum
+4,EL.EOK,Ukraine
+4,EL.EOX,Sportreiseführer
+4,EL.EOY,Reiseberichte
+3,EL.EP,Polen
+4,EL.EPX,Sportreiseführer
+4,EL.EPY,Reiseberichte
+3,EL.ES,Spanien und Portugal
+4,EL.ESI,"Balearen, Kanarische Inseln"
+4,EL.ESP,Portugal
+4,EL.ESS,"Spanien (Festland)"
+4,EL.ESX,Sportreiseführer
+4,EL.ESY,Reiseberichte
+3,EL.ET,"Tschechien, Slowakei"
+4,EL.ETX,Sportreiseführer
+4,EL.ETY,Reiseberichte
+3,EL.EU,Ungarn
+4,EL.EUX,Sportreiseführer
+4,EL.EUY,Reiseberichte
+3,EL.EX,Sportreiseführer
+3,EL.EY,Reiseberichte
+2,EL.F,Afrika
+3,EL.FI,Afrikanische Inseln
+3,EL.FM,"West-, Zentral-, Ostafrika"
+4,EL.FMO,Ostafrika
+4,EL.FMW,Westafrika
+4,EL.FMZ,Zentralafrika
+3,EL.FN,Nordafrika
+3,EL.FS,Südliches Afrika
+3,EL.FX,Sportreiseführer
+3,EL.FY,Reiseberichte
+2,EL.M,Amerika
+3,EL.MK,Kanada
+3,EL.MM,Mittelamerika
+3,EL.MS,Südamerika
+3,EL.MU,USA
+3,EL.MX,Sportreiseführer
+3,EL.MY,Reiseberichte
+2,EL.P,Polargebiete
+2,EL.S,Asien
+3,EL.SM,Zentral- und Ostasien
+4,EL.SMC,China
+4,EL.SMJ,Japan
+3,EL.SO,Südostasien
+3,EL.SS,Südasien
+3,EL.SV,Vorderasien
+4,EL.SVA,"Syrien, Libanon, Jordanien, Palästina, Irak, Saudi-Arabien, Jemen, Oman, Dubai, Katar"
+4,EL.SVE,"Iran, Afghanistan, Armenien, Aserbaidschan, Georgien"
+4,EL.SVI,Israel
+4,EL.SVT,Türkei
+3,EL.SX,Sportreiseführer
+3,EL.SY,Reiseberichte
+2,EL.U,"Australien, Neuseeland, Ozeanien"
+3,EL.UA,Australien
+3,EL.UN,Neuseeland
+3,EL.UO,Ozeanien
+3,EL.UX,Sportreiseführer
+3,EL.UY,Reiseberichte
+2,EL.W,"Weltreisen, Reisen über mehrere Kontinente"
+3,EL.WX,Sportreiseführer
+3,EL.WY,Reiseberichte
+1,ER,Historische Reiseberichte
+2,ER.E,Europa
+2,ER.F,Afrika
+2,ER.M,Amerika
+2,ER.P,Polargebiete
+2,ER.Q,"Biographisches, Sekundärliteratur"
+3,ER.QS,"Sammelbiographien, Sammeldarstellungen"
+2,ER.S,Asien
+2,ER.U,"Australien, Neuseeland, Ozeanien"
+2,ER.W,Weltreisen
+0,F,Fremdsprachige Schriften
+1,FS,Einzelne Sprachen
+2,FS.E,Englische Schriften
+3,FS.EE,Lesetexte zum Spracherwerb
+3,FS.EZ,Mehrsprachige Ausgaben
+2,FS.G,Schriften in alten Sprachen der klassischen Antike
+3,FS.GG,Altgriechische Schriften
+4,FS.GGE,Lesetexte zum Spracherwerb
+4,FS.GGZ,Mehrsprachige Ausgaben
+3,FS.GL,Lateinische Schriften
+4,FS.GLE,Lesetexte zum Spracherwerb
+4,FS.GLZ,Mehrsprachige Ausgaben
+2,FS.K,Schriften in skandinavischen Sprachen
+3,FS.KD,Dänische Schriften
+4,FS.KDE,Lesetexte zum Spracherwerb
+4,FS.KDZ,Mehrsprachige Ausgaben
+3,FS.KI,Isländische Schriften
+4,FS.KIE,Lesetexte zum Spracherwerb
+4,FS.KIZ,Mehrsprachige Ausgaben
+3,FS.KN,Norwegische Schriften
+4,FS.KNE,Lesetexte zum Spracherwerb
+4,FS.KNZ,Mehrsprachige Ausgaben
+3,FS.KS,Schwedische Schriften
+4,FS.KSE,Lesetexte zum Spracherwerb
+4,FS.KSZ,Mehrsprachige Ausgaben
+2,FS.R,Schriften in romanischen Sprachen
+3,FS.RF,Französische Schriften
+4,FS.RFE,Lesetexte zum Spracherwerb
+4,FS.RFZ,Mehrsprachige Ausgaben
+3,FS.RI,Italienische Schriften
+4,FS.RIE,Lesetexte zum Spracherwerb
+4,FS.RIZ,Mehrsprachige Ausgaben
+3,FS.RP,Portugiesische Schriften
+4,FS.RPE,Lesetexte zum Spracherwerb
+4,FS.RPZ,Mehrsprachige Ausgaben
+3,FS.RS,Spanische Schriften
+4,FS.RSE,Lesetexte zum Spracherwerb
+4,FS.RSZ,Mehrsprachige Ausgaben
+2,FS.S,Schriften in slawischen Sprachen
+3,FS.SA,Slowakische Schriften
+4,FS.SAE,Lesetexte zum Spracherwerb
+4,FS.SAZ,Mehrsprachige Ausgaben
+3,FS.SK,Kroatische Schriften
+4,FS.SKE,Lesetexte zum Spracherwerb
+4,FS.SKZ,Mehrsprachige Ausgaben
+3,FS.SO,Slowenische Schriften
+4,FS.SOE,Lesetexte zum Spracherwerb
+4,FS.SOZ,Mehrsprachige Ausgaben
+3,FS.SP,Polnische Schriften
+4,FS.SPE,Lesetexte zum Spracherwerb
+4,FS.SPZ,Mehrsprachige Ausgaben
+3,FS.SR,Russische Schriften
+4,FS.SRE,Lesetexte zum Spracherwerb
+4,FS.SRZ,Mehrsprachige Ausgaben
+3,FS.SS,Serbische Schriften
+4,FS.SSE,Lesetexte zum Spracherwerb
+4,FS.SSZ,Mehrsprachige Ausgaben
+3,FS.ST,Tschechische Schriften
+4,FS.STE,Lesetexte zum Spracherwerb
+4,FS.STZ,Mehrsprachige Ausgaben
+2,FS.T,Schriften in weiteren europäischen Sprachen
+3,FS.TG,Neugriechische Schriften
+4,FS.TGE,Lesetexte zum Spracherwerb
+4,FS.TGZ,Mehrsprachige Ausgaben
+3,FS.TI,Holländische Schriften
+4,FS.TIE,Lesetexte zum Spracherwerb
+4,FS.TIZ,Mehrsprachige Ausgaben
+3,FS.TU,Ungarische Schriften
+4,FS.TUE,Lesetexte zum Spracherwerb
+4,FS.TUZ,Mehrsprachige Ausgaben
+2,FS.U,Schriften in außereuropäischen Sprachen
+3,FS.UA,Arabische Schriften
+4,FS.UAE,Lesetexte zum Spracherwerb
+4,FS.UAZ,Mehrsprachige Ausgaben
+3,FS.UC,Chinesische Schriften
+4,FS.UCE,Lesetexte zum Spracherwerb
+4,FS.UCZ,Mehrsprachige Ausgaben
+3,FS.UF,Schriften in afrikanischen Sprachen
+4,FS.UFE,Lesetexte zum Spracherwerb
+4,FS.UFZ,Mehrsprachige Ausgaben
+3,FS.UH,Hebräische und jiddische Schriften
+4,FS.UHE,Lesetexte zum Spracherwerb
+4,FS.UHZ,Mehrsprachige Ausgaben
+3,FS.UJ,Japanische Schriften
+4,FS.UJE,Lesetexte zum Spracherwerb
+4,FS.UJZ,Mehrsprachige Ausgaben
+3,FS.UP,Persische Schriften
+4,FS.UPE,Lesetexte zum Spracherwerb
+4,FS.UPZ,Mehrsprachige Ausgaben
+3,FS.UT,Türkische Schriften
+4,FS.UTE,Lesetexte zum Spracherwerb
+4,FS.UTZ,Mehrsprachige Ausgaben
+2,FS.V,Mehrsprachige Anthologien
+0,G,Geschichte. Gesellschaft. Politik. Medien. Recht. Wirtschaft
+1,GE,Geschichte
+2,GE.A,"Einführende Schriften, Theorie und Grundlagen"
+3,GE.AA,"Historische Atlanten, Zeittafeln"
+3,GE.AG,Einzelthemen der Geschichtswissenschaft
+3,GE.AT,Klassische Texte der Geschichtswissenschaft
+2,GE.B,"Methoden der Geschichtswissenschaft, historische Hilfswissenschaften"
+3,GE.BF,"Heraldik, Sphragistik"
+3,GE.BG,Genealogie
+3,GE.BI,"Epigraphik, Diplomatik"
+3,GE.BW,Weitere historische Hilfswissenschaften
+2,GE.C,Archäologie
+2,GE.D,Deutschland
+3,GE.DB,Regionalgeschichte Deutschlands
+3,GE.DE,"Einzelfragen, vermischte Schriften"
+3,GE.DN,1500-1914
+3,GE.DZ,"1914 - 21. Jahrhundert"
+4,GE.DZF,1914-1945
+4,GE.DZL,1945-1990
+4,GE.DZM,Zeit nach 1990
+2,GE.E,"Geschichte Europas nach Regionen: 1500 - 21. Jahrhundert"
+3,GE.EC,"Schweiz, Liechtenstein"
+3,GE.EF,Frankreich
+3,GE.EG,"Großbritannien, Irland"
+3,GE.EH,"Belgien, Niederlande, Luxemburg"
+3,GE.EM,Mittelmeerraum
+4,GE.EMG,"Griechenland, Zypern"
+4,GE.EMI,"Italien, Malta"
+4,GE.EMS,"Spanien, Portugal"
+3,GE.EN,Nordeuropa
+3,GE.EO,"Ost-, Ostmittel-, Südosteuropa"
+4,GE.EOB,"Albanien, Bosnien-Herzegowina, Kroatien, Slowenien, Jugoslawien, Mazedonien, Bulgarien, Rumänien, Moldawien"
+4,GE.EOM,"Ungarn, Tschechien, Polen, Slowakei"
+4,GE.EOS,"Russland, UdSSR, europäische Nachfolgestaaten der UdSSR"
+2,GE.F,Ur- und Frühgeschichte
+2,GE.G,"Weltgeschichte und Geschichte Europas nach Zeitabschnitten: 1914 - 21. Jahrhundert"
+3,GE.GE,"Einzelfragen, vermischte Schriften"
+3,GE.GF,1914-1939
+3,GE.GK,1939-1945
+3,GE.GL,1945-1989
+3,GE.GM,Zeit nach 1989
+2,GE.K,Altertum und Spätantike
+3,GE.KG,Griechenland
+3,GE.KK,"Kelten, Germanen, Slawen"
+3,GE.KR,"Rom, Etrusker"
+3,GE.KV,Alter Orient
+2,GE.M,Mittelalter
+3,GE.MB,Byzanz
+3,GE.MF,Frühes Mittelalter
+3,GE.MH,Hochmittelalter
+3,GE.MS,Spätmittelalter
+2,GE.N,"Weltgeschichte und Geschichte Europas nach Zeitabschnitten: Neuzeit"
+3,GE.NE,"Einzelfragen, vermischte Schriften"
+3,GE.NM,1500-1789
+3,GE.NN,1789-1914
+2,GE.O,Österreich
+3,GE.OB,Österreichische Bundesländer
+4,GE.OBB,Burgenland
+4,GE.OBK,Kärnten
+4,GE.OBM,Steiermark
+4,GE.OBN,Niederösterreich
+4,GE.OBO,Oberösterreich
+4,GE.OBS,Salzburg
+4,GE.OBT,Tirol
+4,GE.OBV,Vorarlberg
+4,GE.OBW,Wien
+3,GE.OE,"Einzelfragen, vermischte Schriften"
+3,GE.OI,"Zeit vor 1500"
+3,GE.OM,"1500-1800"
+3,GE.ON,"1800-1914"
+3,GE.OZ,"1914 - 21. Jahrhundert"
+4,GE.OZF,"1914-1938"
+4,GE.OZH,"1938-1945"
+4,GE.OZL,"1945-1996"
+4,GE.OZM,"Zeit nach 1996"
+2,GE.Q,"Biographisches, Sekundärliteratur"
+3,GE.QE,Geschichte
+4,GE.QES,"Sammelbiographien, Sammeldarstellungen"
+4,GE.QEW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+3,GE.QO,Österreichische Geschichte
+4,GE.QOS,"Sammelbiographien, Sammeldarstellungen"
+4,GE.QOW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+3,GE.QT,Nationalsozialismus
+4,GE.QTS,"Sammelbiographien, Sammeldarstellungen"
+4,GE.QTW,Erfahrungsberichte von Zeitzeugen und Opfern
+3,GE.QV,"Geschichtswissenschaft, Archäologie"
+4,GE.QVS,"Sammelbiographien, Sammeldarstellungen"
+2,GE.S,Zeit des Nationalsozialismus
+3,GE.SN,Aufarbeitung der Zeit des Nationalsozialismus
+4,GE.SNO,Aufarbeitung der Zeit des Nationalsozialismus in Österreich
+3,GE.SP,Innere Struktur und Politik des Dritten Reichs
+3,GE.ST,Theorien zum Wesen des Nationalsozialismus
+3,GE.SV,Verfolgung und Vernichtung
+4,GE.SVO,Verfolgung und Vernichtung in Österreich
+3,GE.SW,Widerstand und Emigration
+4,GE.SWO,Widerstand und Emigration in Österreich
+3,GE.SX,"Einzelthemen, vermischte Schriften"
+2,GE.U,Außereuropa
+3,GE.UA,"Australien, Neuseeland, Ozeanien"
+3,GE.UF,Afrika
+4,GE.UFN,Nordafrika
+4,GE.UFO,"Ost-, Zentral- und Westafrika"
+4,GE.UFS,Südliches Afrika
+3,GE.UM,Amerika
+4,GE.UMA,Nordamerika
+4,GE.UMI,Indianer
+4,GE.UMM,Mittelamerika
+4,GE.UMS,Südamerika
+3,GE.US,Asien
+4,GE.USO,"Süd- und Südostasien"
+4,GE.USV,"Naher und Mittlerer Osten, Vorderasien"
+4,GE.USZ,"Ost- und Zentralasien"
+2,GE.W,Weltgeschichte
+3,GE.WE,"Einzelfragen, vermischte Schriften"
+3,GE.WI,Islamische Welt
+3,GE.WJ,Judentum
+1,GK,Kulturgeschichte
+1,GM,"Medien, Publizistik, Kommunikationswissenschaft"
+2,GM.A,Allgemeine und einführende Schriften
+3,GM.AG,Mediengeschichte
+2,GM.F,"Rundfunk, Fernsehen"
+2,GM.J,"Journalismus, Publizistik"
+3,GM.JR,Journalistische Reportagen
+2,GM.M,"Medien- und Kommunikationswissenschaft, Medienforschung"
+3,GM.MP,"Medienpolitik, Medienfreiheit"
+2,GM.P,"Pressewesen, Druckmedien"
+3,GM.PZ,Einzelne Zeitschriften und Zeitungen
+2,GM.Q,"Biographisches, Sekundärliteratur"
+3,GM.QS,"Sammelbiographien, Sammeldarstellungen"
+3,GM.QW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+1,GP,Politik
+2,GP.A,Allgemeine und einführende Schriften
+3,GP.AO,"Fächer, Methoden und Grundbegriffe der Politikwissenschaft"
+3,GP.AT,Klassische staatstheoretische Texte
+4,GP.ATE,Textanthologien
+3,GP.AV,Vermischte Schriften
+2,GP.B,"Politisches Handeln, politische Kultur, politische Bildung"
+3,GP.BA,"Parteien, Interessenverbände, politischer Entscheidungsprozeß, Wahlen"
+3,GP.BB,Soziale und politische Bewegungen
+3,GP.BR,"Revolution, staatliche Gewalt"
+3,GP.BS,Spionage
+3,GP.BT,Terrorismus
+2,GP.P,"Politische Philosophie, Staatslehre, Ideologien"
+3,GP.PA,Anarchismus
+3,GP.PD,Demokratie
+3,GP.PE,"Rechtsradikalismus, Faschismus"
+3,GP.PF,Fundamentalismus
+3,GP.PG,Umweltschutzparteien
+3,GP.PK,Konservativismus
+3,GP.PL,Liberalismus
+3,GP.PR,Rassismus
+4,GP.PRA,Antisemitismus
+3,GP.PS,Sozialistische Strömungen
+4,GP.PSM,"Marxismus, Neomarxismus"
+4,GP.PSS,"Sozialdemokratie, Austromarxismus, Kommunitarismus"
+3,GP.PT,Nationalismus
+3,GP.PU,"Utopie, Utopieforschung"
+3,GP.PV,Vermischte Schriften
+3,GP.PW,Politisches System einzelner Länder
+4,GP.PWO,Politisches System Österreichs
+2,GP.Q,"Biographisches, Sekundärliteratur"
+3,GP.QS,"Sammelbiographien, Sammeldarstellungen"
+3,GP.QW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+2,GP.U,Allgemeine Forschungs- und Kulturpolitik
+2,GP.W,"Internationale Beziehungen, Internationale Organisationen"
+3,GP.WE,Europäische Integration
+4,GP.WEV,Vermischte Schriften
+3,GP.WF,"Friedens- und Konfliktforschung, Krieg"
+4,GP.WFB,"Kriegsberichterstattung, Medien und Krieg"
+4,GP.WFF,"Friedensbewegung, Zivile Friedensarbeit"
+4,GP.WFS,Friedens- und Sicherheitspolitik
+4,GP.WFV,Vermischte Schriften
+3,GP.WM,Militärwesen
+4,GP.WMD,"Wehrdienst, Zivildienst"
+4,GP.WMW,"Waffen, Rüstungspolitik"
+3,GP.WO,Österreichische Sicherheitspolitik
+3,GP.WV,Vermischte Schriften
+1,GR,Recht
+2,GR.A,Allgemeine und einführende Schriften
+3,GR.AF,Fachfremdsprachen
+3,GR.AG,Rechtsgeschichte
+3,GR.AT,Klassische Texte der Rechtswissenschaften und Rechtsphilosophie
+3,GR.AV,Vermischte Schriften
+2,GR.K,"Kriminalistik, Kriminologie"
+3,GR.KM,Kriminalfälle und Kriminalprozesse
+3,GR.KO,Besondere Erscheinungsformen der Kriminalität
+4,GR.KOO,"Organisiertes Verbrechen, internationale Kriminalität"
+3,GR.KS,"Strafvollzug, Kriminalpädagogik"
+2,GR.M,Internationales Recht
+3,GR.ME,Europäische Union
+4,GR.MEA,"Arbeits- und Sozialrecht, Niederlassungsrecht und freier Dienstleistungsverkehr"
+4,GR.MEI,"Wissenschaft, Information, Bildung, Kultur"
+4,GR.MEK,"Justiz und Inneres, justitielle Zusammenarbeit"
+4,GR.MEM,"Auswärtige Beziehungen, Außen- und Sicherheitspolitik"
+4,GR.MEP,"Rechtsprechung, Gemeinschafts- und nationales Recht"
+4,GR.MES,"Institutionelle Fragen, Verfassung, Organe, Grundrechte, freier Personenverkehr"
+4,GR.MEV,Besonderes Verwaltungsrecht
+4,GR.MEW,"Wirtschaftsrecht, Zollunion, freier Warenverkehr, Steuerwesen, Wettbewerbspolitik, Unternehmensrecht"
+3,GR.MM,Menschenrechte
+2,GR.N,Recht und Verfassungen einzelner Länder und Regionen
+2,GR.O,Österreichisches Recht
+3,GR.OA,Allgemeine Ratgeber
+3,GR.OG,Rechtsgeschichte
+3,GR.OH,Bürgerliches Recht
+4,GR.OHE,Erbrecht
+4,GR.OHF,Familienrecht
+4,GR.OHM,Miet- und Wohnrecht
+3,GR.OI,"Arbeits-, Sozial- und Jugendrecht"
+4,GR.OIJ,"Familienförderung, Jugendfürsorge"
+3,GR.OK,Strafrecht und Strafvollzug
+3,GR.OP,Rechtspflege
+3,GR.OS,"Staats- und Verfassungsrecht"
+3,GR.OV,Allgemeines Verwaltungsrecht
+4,GR.OVF,"Finanz-, Geld-, Währungs-, Steuer- und Kreditrecht"
+4,GR.OVI,Innere Angelegenheiten und Wehrrecht
+4,GR.OVK,"Schulen, Wissenschaft, Religion, Kultur, Sport"
+4,GR.OVL,"Land- und Forstwirtschaft, Gesundheit, Umweltschutz, Veterinärrecht"
+4,GR.OVT,"Verkehr, Technik, Straßen- und Wohnbau, Vergabewesen, Medien und Telekommunikation"
+3,GR.OW,"Wirtschafts- und Handelsrecht"
+3,GR.OX,Weitere Themen
+4,GR.OXC,"Internet- und Computerrecht"
+4,GR.OXE,Österreich in der Europäischen Union
+3,GR.OY,Österreichisches Landesrecht
+4,GR.OYB,Burgenland
+4,GR.OYK,Kärnten
+4,GR.OYM,Steiermark
+4,GR.OYN,Niederösterreich
+4,GR.OYO,Oberösterreich
+4,GR.OYS,Salzburg
+4,GR.OYT,Tirol
+4,GR.OYV,Vorarlberg
+4,GR.OYW,Wien
+2,GR.P,Weitere Themen
+2,GR.Q,"Biographisches, Sekundärliteratur"
+3,GR.QS,"Sammelbiographien, Sammeldarstellungen"
+3,GR.QW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+1,GS,"Soziologie, Ethnologie"
+2,GS.A,"Soziologie: Allgemeine und einführende Schriften"
+3,GS.AH,Hilfswissenschaften der Sozialwissenschaften
+3,GS.AO,Einzelne Richtungen und Forschungsansätze
+4,GS.AOE,Einzelthemen
+3,GS.AT,Klassische Texte
+4,GS.ATE,Textanthologien
+3,GS.AV,Vermischte Schriften
+2,GS.B,"Bevölkerungskunde, gesellschaftspolitische Planung, Zukunftsforschung"
+3,GS.BE,"Ernährungspolitik, Hunger"
+3,GS.BG,"Soziologie des Alters, Generationen- und Familienpolitik"
+3,GS.BI,"Infrastrukturpolitik, Zivilschutz, Rettungswesen"
+3,GS.BK,"Probleme der Entwicklungsländer, Entwicklungszusammenarbeit"
+3,GS.BM,Migration
+4,GS.BMS,Migranten- und Flüchtlingshilfe
+3,GS.BS,Stadtsoziologie
+4,GS.BSG,Siedlungsgeschichte
+2,GS.E,Ethnologie
+3,GS.EA,Geschichte
+3,GS.EB,"Theorie, Methoden und Techniken"
+3,GS.EE,"Regionale Ethnologie: Europa"
+3,GS.EF,"Regionale Ethnologie: Subsaharisches Afrika"
+3,GS.EI,"Regionale Ethnologie: Nordafrika, Naher Osten"
+3,GS.EN,"Regionale Ethnologie: Nordasien"
+3,GS.EO,"Regionale Ethnologie: Südasien"
+3,GS.EP,"Regionale Ethnologie: Nord- und Mittelamerika, Polargebiete"
+3,GS.ER,"Regionale Ethnologie: Südamerika"
+3,GS.ES,"Regionale Ethnologie: Australien, Neuseeland, Ozeanien"
+3,GS.ET,Klassische Texte
+4,GS.ETE,Textanthologien
+3,GS.EV,Einzelgegenstände der ethnologischen Forschung
+3,GS.EW,Einzelne nationale Minderheiten
+2,GS.O,Teilbereiche der Soziologie
+3,GS.OA,Freizeitsoziologie
+3,GS.OB,Soziologie der Behinderten
+3,GS.OD,Gesellschaftsstruktur einzelner Länder und Kulturen
+3,GS.OF,Soziologie der Frau
+4,GS.OFB,Frauen in einzelnen Berufen
+4,GS.OFL,Frauen in einzelnen Ländern und Kulturen
+4,GS.OFM,Frauen und Medien
+4,GS.OFP,"Frauenbewegung, Frauen und Politik"
+4,GS.OFT,Klassische Texte der Frauenbewegung
+4,GS.OFV,Gewalt
+4,GS.OFW,Weitere Themen und vermischte Schriften
+3,GS.OL,Soziologie der Familie und Partnerschaft
+4,GS.OLH,Homosexualität
+4,GS.OLS,Soziologie der Sexualität
+3,GS.OM,Soziologie des Mannes
+3,GS.ON,Soziologie der Information
+3,GS.OT,Soziale Schichten und deren Probleme
+4,GS.OTA,Armut
+3,GS.OU,"Einzelne Milieus, Kulturen und Lebensstile"
+4,GS.OUJ,Jugendkulturen
+2,GS.Q,"Biographisches, Sekundärliteratur"
+3,GS.QA,Soziologie
+4,GS.QAS,"Sammelbiographien, Sammeldarstellungen"
+4,GS.QAW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+3,GS.QE,Ethnologie
+4,GS.QES,"Sammelbiographien, Sammeldarstellungen"
+4,GS.QEW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+3,GS.QF,Frauen
+4,GS.QFS,"Sammelbiographien, Sammeldarstellungen"
+4,GS.QFW,"Erfahrungsberichte, Lebensbilder"
+2,GS.S,Sozialpolitik
+3,GS.SA,"Arbeitspolitik, Geschichte und Soziologie der Arbeit, Gewerkschaften"
+3,GS.SS,"Sozialarbeit, Sozialhilfe, Sozialpädagogik"
+4,GS.SSO,Organisationen
+2,GS.V,"Verwaltungslehre, Verwaltungspolitik, Verwaltungspraxis"
+3,GS.VB,Bundes- und Landesverwaltung
+4,GS.VBP,Polizei
+3,GS.VG,"Gemeindeverwaltung, Kommunalpolitik"
+3,GS.VL,"Verwaltungs- und Sozialstatistik: Einzelne Staaten"
+3,GS.VO,"Verwaltungs- und Sozialstatistik: Österreich"
+4,GS.VOB,Burgenland
+4,GS.VOK,Kärnten
+4,GS.VOM,Steiermark
+4,GS.VON,Niederösterreich
+4,GS.VOO,Oberösterreich
+4,GS.VOS,Salzburg
+4,GS.VOT,Tirol
+4,GS.VOV,Vorarlberg
+4,GS.VOW,Wien
+1,GW,Wirtschaft
+2,GW.A,Allgemeine und einführende Schriften
+3,GW.AF,Fachfremdsprachen
+4,GW.AFE,Wirtschaftsenglisch
+4,GW.AFF,Wirtschaftsfranzösisch
+4,GW.AFS,Wirtschaftsspanisch
+3,GW.AM,"Finanz- und Wirtschaftsmathematik, Wirtschaftsstatistik, allgemeine Wirtschaftsinformatik"
+3,GW.AP,"Wirtschaftsphilosophie, -soziologie, -psychologie und -geographie"
+3,GW.AV,Vermischte Schriften
+2,GW.B,Betriebswirtschaftslehre
+3,GW.BA,"Absatzwirtschaft, Marketing"
+4,GW.BAB,"Produkt- und Markenpolitik, Preispolitik"
+4,GW.BAC,E-Commerce
+4,GW.BAK,"Distributionspolitik, Verkauf, Kundendienst"
+4,GW.BAW,"Kommunikationspolitik, Werbung"
+4,GW.BAY,Psychologische Verbraucherforschung
+3,GW.BB,"Betriebliche Bürowirtschaft, Unternehmensverwaltung"
+4,GW.BBK,Geschäftskorrespondenz
+3,GW.BF,"Betriebliche Finanzwirtschaft, betriebliches Rechnungs- und Prüfungswesen"
+3,GW.BL,"Produktionswirtschaft, Einkauf, Logistik"
+3,GW.BM,Unternehmensführung
+4,GW.BMM,"Managementmethoden und -techniken"
+4,GW.BMO,"Unternehmensorganisation, Projektmanagement"
+4,GW.BMP,"Unternehmensphilosophie, -politik und -kultur, Public Relations"
+4,GW.BMU,"Unternehmensüberwachung und -kontrolle, Controlling"
+4,GW.BMV,Vermischte Schriften
+3,GW.BP,"Personalwirtschaft, betriebliche Sozialpolitik"
+4,GW.BPF,Personalführung
+4,GW.BPP,"Arbeitsbedingungen, Arbeitsplatzgestaltung, Arbeitsschutz"
+4,GW.BPW,Betriebliche Aus- und Weiterbildung
+3,GW.BU,"Unternehmens- und Existenzgründung"
+3,GW.BW,"Wirtschaftsinformatik für Betriebe, betriebliche Datenverarbeitung"
+3,GW.BX,Weitere Themen
+4,GW.BXP,"Berufliche Arbeitstechniken, Kommunikation, Präsentation"
+2,GW.F,"Öffentliche Finanzwirtschaft, Finanz- und Steuerpolitik"
+3,GW.FR,Ratgeber Steuer
+2,GW.H,Gemeinwirtschaft
+2,GW.P,"Arbeits- und Betriebspsychologie"
+3,GW.PR,Ratgeber Karriereplanung und Berufsalltag
+4,GW.PRA,Arbeiten und Berufstätigkeit im Ausland
+4,GW.PRB,"Stellensuche, Bewerbung"
+4,GW.PRF,Ratgeber für Frauen
+4,GW.PRK,Konfliktbewältigung im Berufsalltag
+2,GW.Q,"Biographisches, Sekundärliteratur"
+3,GW.QI,Wirtschaftswissenschaften
+4,GW.QIS,"Sammelbiographien, Sammeldarstellungen"
+3,GW.QU,"Wirtschaftsmanagement, Unternehmensführung"
+4,GW.QUS,"Sammelbiographien, Sammeldarstellungen"
+4,GW.QUW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+2,GW.S,"Weltwirtschaft, Internationale Wirtschaftsbeziehungen"
+3,GW.SR,Rohstoffe und andere Welthandelsgüter
+2,GW.T,Allgemeine und regionale Wirtschaftsgeschichte
+3,GW.TE,Europa
+4,GW.TEE,Wirtschaft einzelner europäischer Länder
+4,GW.TEU,Wirtschaft der Europäischen Union
+3,GW.TO,Österreich
+4,GW.TOB,Burgenland
+4,GW.TOK,Kärnten
+4,GW.TOM,Steiermark
+4,GW.TON,Niederösterreich
+4,GW.TOO,Oberösterreich
+4,GW.TOS,Salzburg
+4,GW.TOT,Tirol
+4,GW.TOV,Vorarlberg
+4,GW.TOW,Wien
+3,GW.TU,Außereuropa
+4,GW.TUA,"Australien, Neuseeland, Ozeanien"
+4,GW.TUF,Afrika
+4,GW.TUM,Amerika
+4,GW.TUS,Asien
+2,GW.V,Volkswirtschaftslehre
+3,GW.VE,Einzelthemen der theoretischen Volkswirtschaftslehre
+3,GW.VP,"Allgemeine Wirtschaftspolitik, öffentliche Wirtschaft"
+3,GW.VS,"Volkswirtschaftstheoretische Schulen, Geschichte der Wirtschaftswissenschaften"
+3,GW.VT,Klassiker der Volkswirtschaftslehre
+2,GW.W,Branchenkunde und Branchenpolitik
+3,GW.WF,"Geld-, Bank-, Börsen- und Immobilienwesen"
+4,GW.WFG,"Geschichte des Geld-, Bank-, Börsen- und Immobilienwesens"
+4,GW.WFR,"Ratgeber Geld-, Bank-, Börsen- und Immobilienwesen"
+3,GW.WG,"Handwerk, Gewerbe"
+3,GW.WH,"Handel, Dienstleistungen, Tourismus"
+4,GW.WHB,Berufskunde für Tourismus- und kaufmännische Berufe
+3,GW.WI,Industrie
+3,GW.WL,"Landwirtschaft, Forstwirtschaft, Fischwirtschaft"
+3,GW.WN,Non-Profit-Organisationen
+3,GW.WS,Versicherungswirtschaft
+3,GW.WT,"Verkehrswirtschaft, Transportwesen, Nachrichtenwesen"
+4,GW.WTG,Geschichte der Post
+3,GW.WV,Verbraucherinformation
+3,GW.WW,Weitere Branchen
+0,J,Kinder- und Jugendmedien
+1,JA,Allgemeines
+1,JC,Comics und Graphic Novels (für Kinder und Jugendliche)
+2,JC.C,Comics
+2,JC.G,Graphic Novels
+2,JC.K,"Cartoons, Karikaturen"
+2,JC.M,Mangas
+2,JC.S,Sachcomics
+1,JD,Bilderbücher
+2,JD.F,Bilderbücher zum Fremdsprachenerwerb
+2,JD.J,Sachbilderbücher für Kinder
+3,JD.JG,Geschichte
+3,JD.JK,"Kunst, Literatur, Lied, Tanz"
+3,JD.JN,Naturwissenschaften
+3,JD.JP,"Religion, Philosophie"
+3,JD.JR,"Reisen, Kulturen"
+3,JD.JS,"Freizeit, Hobbies"
+3,JD.JT,Technik
+3,JD.JV,Vermischtes
+2,JD.K,Bilderbücher für die Kleinsten
+2,JD.L,"Gedichte, Lieder"
+2,JD.M,Märchenbilderbücher
+2,JD.N,Bilderbücher mit Tierprotagonisten
+2,JD.O,Textlose Bilderbücher
+2,JD.R,Bilderbuch-Reihen
+2,JD.T,Themen- und problemorientierte Bilderbücher
+3,JD.TB,Beziehung
+3,JD.TG,Gefühle
+3,JD.TK,Krankheit und Behinderung
+3,JD.TS,Schule und Kindergarten
+3,JD.TT,Trennung
+2,JD.W,Wimmel-Bilderbücher
+2,JD.X,Feste im Jahreslauf
+3,JD.XO,Ostern
+3,JD.XW,Weihnachten
+2,JD.Z,ABC- und Zahlenlernbücher
+1,JE,Erzählungen und Romane
+2,JE.A,Anthologien und Vorlesebücher
+2,JE.C,Erstes Lesealter
+3,JE.CB,ErstleserInnenbücher - mit Bildern lesen lernen
+3,JE.CG,ErstleserInnenbücher in Großbuchstaben
+3,JE.CH,ErstleserInnenbücher in Schreibschrift
+3,JE.CM,Miteinander lesen
+3,JE.CO,Fortgeschrittene LeseanfängerInnen
+3,JE.CS,Sachwissen für Leseanfänger
+2,JE.D,Kriminalromane
+3,JE.DH,Historische Kriminalromane
+3,JE.DR,Ratekrimis
+2,JE.E,Vereinfachte Lesetexte für Jugendliche
+2,JE.F,Familie
+2,JE.G,Geschichte
+3,JE.GA,Urgeschichte
+3,JE.GB,Altertum
+3,JE.GC,Mittelalter
+3,JE.GD,Neuzeit
+3,JE.GE,Geschichte ab dem 20. Jahrhundert
+2,JE.H,"Heitere Romane, Humor und Satiren"
+2,JE.J,Fantasy
+2,JE.K,"Kunst, Literatur"
+2,JE.L,Liebe
+2,JE.M,"Mystery, Grusel- und Gespenstergeschichten, Hexengeschichten, Magie"
+2,JE.N,"Naturerlebnisse, Tiergeschichten"
+3,JE.NP,Pferdegeschichten
+2,JE.O,Comicromane
+2,JE.P,"Religion, Philosophie"
+2,JE.R,"Reise, fremde Kulturen"
+3,JE.RK,Abenteuerromane
+2,JE.S,Sport
+2,JE.T,"Gesellschaft, Psychologie, Krankheit"
+3,JE.TB,Beziehung
+3,JE.TG,Gefühle
+3,JE.TK,Krankheit und Behinderung
+3,JE.TP,Gesellschaftspolitische Themen
+3,JE.TS,Schule und Kindergarten
+3,JE.TT,Trennung
+2,JE.U,"Utopien, Science-Fiction"
+2,JE.V,Hypertextgeschichten
+2,JE.W,Witze für Kinder
+2,JE.X,Feste im Jahreslauf
+3,JE.XO,Ostern
+3,JE.XW,Weihnachten
+1,JF,Fremdsprachige Literatur
+2,JF.E,Englisch
+3,JF.EE,Erstleser
+2,JF.K,Skandinavische Sprachen
+3,JF.KE,Erstleser
+2,JF.R,Romanische Sprachen
+3,JF.RF,Französisch
+4,JF.RFE,Erstleser
+3,JF.RI,Italienisch
+4,JF.RIE,Erstleser
+3,JF.RS,Spanisch
+4,JF.RSE,Erstleser
+2,JF.S,Slawische Sprachen
+3,JF.SA,Slowakisch
+4,JF.SAE,Erstleser
+3,JF.SK,Kroatisch
+4,JF.SKE,Erstleser
+3,JF.SO,Slowenisch
+4,JF.SOE,Erstleser
+3,JF.SP,Polnisch
+4,JF.SPE,Erstleser
+3,JF.SR,Russisch
+4,JF.SRE,Erstleser
+3,JF.SS,Serbokroatisch und Serbisch
+4,JF.SSE,Erstleser
+3,JF.ST,Tschechisch
+4,JF.STE,Erstleser
+2,JF.V,Weitere Sprachen
+3,JF.VT,Türkisch
+4,JF.VTE,Erstleser
+1,JG,"Geschichte, Gesellschaft"
+2,JG.A,Urgeschichte
+2,JG.B,Altertum
+2,JG.C,Mittelalter
+2,JG.D,Neuzeit
+2,JG.E,Geschichte ab dem 20. Jahrhundert
+2,JG.H,Entdeckungsgeschichte
+2,JG.I,"Gesellschaft, Politik, Wirtschaft"
+3,JG.IG,Menschenrechte
+3,JG.IK,Entwicklungsländer
+2,JG.L,Geschichte einzelner Länder und Kontinente
+3,JG.LE,Europa
+3,JG.LF,Afrika
+3,JG.LM,Amerika
+3,JG.LO,Österreich
+3,JG.LS,"Asien, Australien und Ozeanien"
+2,JG.Q,Biographien
+3,JG.QO,Österreich
+2,JG.V,Vermischtes
+1,JH,Theaterstücke
+1,JK,"Kunst, Literatur"
+2,JK.B,Bildende Kunst
+2,JK.E,Architektur
+2,JK.L,Literatur
+2,JK.M,Musik
+3,JK.MK,Klassik
+3,JK.MP,Popmusik
+2,JK.Q,Biographien
+3,JK.QB,Bildende Kunst
+3,JK.QL,Literatur
+3,JK.QM,Musik
+3,JK.QT,"Film, Theater, Tanz"
+2,JK.T,"Darstellende Kunst: Film, Theater, Tanz, Zirkus"
+2,JK.V,Vermischte Schriften
+1,JL,Lyrik
+1,JM,"Märchen, Sagen"
+2,JM.M,"Klassische Märchen, Fabeln"
+3,JM.ML,Märchen aus aller Welt
+2,JM.S,"Sagen, Legenden"
+3,JM.SP,Religiöse Sagen und Legenden
+1,JN,Natur und Mensch
+2,JN.B,Biologie
+3,JN.BE,Evolution
+3,JN.BG,Gentechnik
+3,JN.BL,Lebensräume
+3,JN.BU,Umwelt- und Artenschutz
+2,JN.C,Chemie
+2,JN.E,"Erde, Geologie, Naturkatastrophen"
+3,JN.EG,"Mineralogie, Geologie"
+3,JN.EW,Wetterkunde
+2,JN.F,"Pflanzen, Garten"
+2,JN.M,Mensch
+3,JN.MA,"Sexualität, Pubertät"
+3,JN.ME,"Entspannung, Meditation"
+3,JN.MK,"Gesundheit, Krankheit"
+3,JN.MS,"Sucht, Drogen"
+2,JN.P,Physik
+2,JN.Q,Biographien
+2,JN.R,"Methoden, Experimente"
+2,JN.S,"Weltall, Astronomie, Raumfahrt"
+2,JN.T,Tiere
+3,JN.TD,"Dinosaurier, prähistorische Tiere"
+3,JN.TF,"Fische, Meeressäuger"
+3,JN.TH,Haustiere
+3,JN.TR,"Reptilien, Amphibien"
+3,JN.TS,Säugetiere
+3,JN.TV,Vögel
+3,JN.TW,Wirbellose Tiere
+2,JN.V,Vermischte Schriften
+1,JP,"Psychologie, Pädagogik, Religion, Philosophie"
+2,JP.E,Pädagogik
+2,JP.F,"Philosophie, Ideengeschichte"
+2,JP.O,"Esoterik, Okkultismus, Astrologie"
+2,JP.P,Psychologie
+3,JP.PG,Gewalt
+2,JP.Q,Biographien
+2,JP.R,"Religionen, Mythen"
+3,JP.RB,Buddhismus
+3,JP.RC,Christentum
+3,JP.RH,Hinduismus
+3,JP.RI,Islam
+3,JP.RJ,Judentum
+3,JP.RO,"Weitere Religionen, religiöse Gruppen und Sekten"
+2,JP.V,Vermischte Schriften
+2,JP.X,Feste im Jahreslauf
+3,JP.XO,Ostern
+3,JP.XW,Weihnachten
+1,JR,"Reisen, Geographie, Kulturen"
+2,JR.A,"Karten, Atlanten"
+2,JR.E,Europa
+3,JR.EO,Österreich
+2,JR.F,Afrika
+2,JR.I,Asien
+2,JR.L,"Australien, Ozeanien"
+2,JR.M,Amerika
+2,JR.P,Polargebiete
+2,JR.Q,Biographien
+2,JR.V,Vermischte Schriften
+1,JS,"Sport, Freizeit, Hobbies"
+2,JS.B,Basteln
+2,JS.F,Spiele
+2,JS.I,"Rätsel, Quiz"
+2,JS.K,Künstlerische Hobbies
+2,JS.Q,Biographien
+2,JS.S,"Sport, Bewegung"
+3,JS.SF,Fußball
+3,JS.SR,Reiten
+2,JS.U,Zaubern
+2,JS.V,Vermischte Schriften
+2,JS.X,Feste im Jahreslauf
+3,JS.XO,Ostern
+3,JS.XW,Weihnachten
+1,JT,Technik
+2,JT.C,"Computer, Elektronik"
+2,JT.E,Energie
+2,JT.K,Verkehr
+2,JT.Q,Biographien
+2,JT.T,"Kommunikation, Schrift, Medien, Fototechnik"
+2,JT.V,Vermischte Schriften
+1,JV,Sonstige Sachthemen
+2,JV.B,"Berufe, Lebenswelt, Alltag"
+2,JV.K,"Ernährung, Kochen"
+2,JV.L,"Lernen, Schule"
+3,JV.LA,Vorschule
+3,JV.LD,Deutsch
+3,JV.LE,Englisch
+3,JV.LM,Mathematik
+3,JV.LO,Andere Fächer
+2,JV.Q,Weitere Biographien
+3,JV.QS,Biographische Sammlungen verschiedener Sachgebiete
+2,JV.R,Ratgeber für Kinder und Jugendliche
+2,JV.S,"Sprache, Sprachspiele, Sprechübungen"
+0,K,Kunst. Musik. Film. Theater. Tanz
+1,KB,Bildende Kunst
+2,KB.A,Kunstwissenschaft: Allgemeine und einführende Schriften
+3,KB.AA,Kunstbetrachtung und -kritik
+3,KB.AB,Ausbildung und Beruf
+3,KB.AP,Kunstpsychologie und -soziologie
+2,KB.B,"Kunstgeschichte: Barock, Rokoko"
+2,KB.C,"Theorie und Geschichte von Grafik, Zeichnung, Comic und Druckgrafik"
+3,KB.CC,Comics für Erwachsene
+3,KB.CK,"Cartoon, Karikatur"
+2,KB.D,"Theorie und Geschichte des Designs, Industriedesigns, Grafikdesigns und der Plakatkunst"
+3,KB.DG,"Grafikdesign, Plakatkunst"
+3,KB.DI,Industriedesign
+2,KB.E,Architektur
+3,KB.EA,Einzelthemen
+4,KB.EAT,Gebäudetypen
+3,KB.EG,Architekturgeschichte
+4,KB.EGR,Architekturgeschichte nach geographischen Räumen
+4,KB.EGS,Einzelne Stile und Epochen der Architekturgeschichte
+3,KB.EI,Innenarchitektur
+3,KB.EL,Landschaftsarchitektur
+3,KB.ES,Stadtplanung
+3,KB.ET,Architekturtheorie
+2,KB.F,"Künstlerische Gestaltungslehre, Kunstpädagogik: Anleitungen"
+3,KB.FG,Grafische Techniken
+3,KB.FM,Maltechniken
+4,KB.FMA,Acryl
+4,KB.FMB,Airbrush
+4,KB.FMO,Öl
+4,KB.FMP,Pastell
+4,KB.FMU,Aquarell
+3,KB.FP,Plastische Techniken
+3,KB.FS,Sonstige Techniken
+2,KB.G,"Kunstgeschichte: Frühchristliche, germanische, altslawische und byzantinische Kunst"
+3,KB.GB,Byzantinische und altslawische Kunst
+3,KB.GC,Frühchristliche Kunst
+3,KB.GG,Germanische und keltische Kunst
+2,KB.H,Theorie und Geschichte des Kunsthandwerks
+3,KB.HG,Glaskunst
+3,KB.HH,"Holzkunst, Möbelkunst"
+3,KB.HK,Keramikkunst
+3,KB.HM,"Metallkunst, Schmuckkunst"
+4,KB.HMU,Uhrmacherkunst
+3,KB.HT,Textilkunst
+3,KB.HW,Kunsthandwerk mit mehreren und mit weiteren einzelnen Materialien
+2,KB.I,Kunstgeschichte: Mittelalter
+3,KB.IG,Gotik
+3,KB.IR,Romanik
+2,KB.J,"Kunstgeschichte: Jugendstil, Jahrhundertwende"
+2,KB.K,"Kunstpflege, Kunstmarkt, Kunstsammeln, Denkmalpflege"
+3,KB.KD,"Denkmalpflege, Denkmalschutz, Restaurierung"
+3,KB.KM,"Kunstmarkt, Kunsthandel, Museum"
+2,KB.L,Volkskunst
+2,KB.M,Theorie und Geschichte der Malerei
+2,KB.N,"Kunstgeschichte: Klassizismus, Romantik, Biedermeier, Realismus, Impressionismus"
+2,KB.O,Kunstgeschichte und Kunststätten: Europa
+3,KB.OC,"Schweiz, Liechtenstein"
+3,KB.OD,Deutschland
+3,KB.OF,Frankreich
+3,KB.OG,"Großbritannien, Irland"
+3,KB.OH,Südosteuropa
+3,KB.OI,"Italien, Malta"
+3,KB.OK,Skandinavien
+3,KB.OM,"Tschechien, Slowakei, Ungarn, Polen"
+3,KB.ON,"Belgien, Niederlande, Luxemburg"
+3,KB.OO,Österreich
+4,KB.OOB,Burgenland
+4,KB.OOK,Kärnten
+4,KB.OOM,Steiermark
+4,KB.OON,Niederösterreich
+4,KB.OOO,Oberösterreich
+4,KB.OOS,Salzburg
+4,KB.OOT,Tirol
+4,KB.OOV,Vorarlberg
+4,KB.OOW,Wien
+3,KB.OS,"Spanien, Portugal"
+3,KB.OV,Nachfolgestaaten der Sowjetunion
+2,KB.P,Theorie und Geschichte der Plastik
+2,KB.Q,"Biographisches, Sekundärliteratur"
+3,KB.QA,Architektur
+4,KB.QAS,"Sammelbiographien, Sammeldarstellungen"
+4,KB.QAW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+3,KB.QB,Bildende Kunst
+4,KB.QBS,"Sammelbiographien, Sammeldarstellungen"
+4,KB.QBW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+3,KB.QH,"Kunstgeschichte, Kunstwissenschaft, Kunstkritik"
+4,KB.QHS,"Sammelbiographien, Sammeldarstellungen"
+4,KB.QHW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+3,KB.QO,Angewandte Kunst
+4,KB.QOS,"Sammelbiographien, Sammeldarstellungen"
+4,KB.QOW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+3,KB.QU,Kunstfotografie
+4,KB.QUS,"Sammelbiographien, Sammeldarstellungen"
+4,KB.QUW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+2,KB.R,"Kunstgeschichte: Renaissance, Manierismus"
+2,KB.S,"Allgemeine Kunstgeschichte, Stil- und Formenkunde, Ikonographie"
+3,KB.SI,Islamische Kunst
+3,KB.SJ,Jüdische Kunst
+3,KB.ST,Allgemeine Ikonographie
+4,KB.STT,Themen und Motive
+3,KB.SW,Allgemeine Kunstgeschichte unter besonderen Gesichtspunkten
+2,KB.T,Kunstgeschichte: Altertum
+3,KB.TG,Griechenland
+3,KB.TO,"Alter Orient, Ägypten"
+3,KB.TR,Rom
+2,KB.U,Kunstfotografie
+3,KB.UG,Geschichte der Fotografie
+3,KB.UT,Fotografie-Bildbände
+4,KB.UTF,Einzelne Fotografen
+4,KB.UTT,Themenbezogene Fotografie-Bildbände
+2,KB.V,Kunstgeschichte: Vor- und Frühzeit
+2,KB.W,Kunstgeschichte und Kunststätten: Außereuropa
+3,KB.WA,"Australien, Ozeanien"
+3,KB.WF,Afrika
+3,KB.WM,Amerika
+4,KB.WMA,Altamerikanische Kunst
+4,KB.WML,Lateinamerika
+4,KB.WMN,Nordamerika
+3,KB.WS,Asien
+4,KB.WSC,China
+4,KB.WSI,Indien
+4,KB.WSJ,Japan
+2,KB.Z,Kunstgeschichte: 20. und 21. Jahrhundert
+3,KB.ZA,1900-1945
+3,KB.ZB,1945-1970
+3,KB.ZC,1970-1990
+3,KB.ZD,1990 bis zur Gegenwart
+3,KB.ZE,"Futurismus, Kubismus"
+3,KB.ZF,Expressionismus
+3,KB.ZI,"Dadaismus, Surrealismus"
+3,KB.ZK,Abstrakte Kunst
+3,KB.ZL,"Sozialistischer Realismus, Neue Sachlichkeit, Magischer Realismus"
+3,KB.ZM,Kunst im Nationalsozialismus
+3,KB.ZN,Aktionismus
+3,KB.ZO,"Action Painting, Informelle Kunst"
+3,KB.ZP,Phantastischer Realismus (Wiener Schule)
+3,KB.ZR,Pop Art
+3,KB.ZS,"Minimal Art, Neue Konkrete Kunst, Land Art"
+3,KB.ZY,Spezielle Kunstformen und Kunsttechniken
+3,KB.ZZ,Einzelfragen
+1,KM,Musik
+2,KM.A,Allgemeine und einführende Schriften
+3,KM.AC,Grundlagen der Musikwissenschaft
+3,KM.AE,Grenzgebiete der Musik
+3,KM.AF,Organisation des Musikwesens
+3,KM.AG,Musikpraxis
+3,KM.AH,Musikpädagogik
+4,KM.AHD,Dirigieren
+4,KM.AHG,Gesangspädagogik
+4,KM.AHI,Instrumentalausbildung
+3,KM.AV,Vermischte Schriften
+2,KM.F,Textbücher
+2,KM.G,Musikgeschichte
+3,KM.GE,Musikgeschichte nach Epochen
+4,KM.GEA,Altertum (bis 600 n. Chr.)
+4,KM.GEE,"Einstimmigkeit, Mehrstimmigkeit (600-1580)"
+4,KM.GEG,Generalbasszeit (1580-1750)
+4,KM.GEK,Vorklassik und Klassik (1750-1830)
+4,KM.GEN,19. Jahrhundert (1830-1900)
+4,KM.GEP,20. und 21. Jahrhundert
+3,KM.GR,Musikgeschichte nach Räumen
+4,KM.GRO,Österreich
+2,KM.I,Musikalische Gattungen und ihre Geschichte
+3,KM.IC,"Chanson, Liedermacher"
+3,KM.ID,Dramatische Musik
+4,KM.IDF,Filmmusik
+3,KM.IE,"Computermusik, E-Musik"
+3,KM.II,Instrumentalmusik
+3,KM.IJ,"Jazz, Blues"
+3,KM.IK,Kirchenmusik
+3,KM.IO,"Volksmusik, Worldmusic"
+4,KM.IOO,Österreichische Volksmusik
+3,KM.IP,Pop- und Rockmusik
+4,KM.IPH,Hip-Hop
+4,KM.IPT,Techno
+3,KM.IU,Unterhaltungs- und Tanzmusik
+3,KM.IV,Vokalmusik
+3,KM.IW,Weitere Musikformen
+2,KM.M,Musiktheorie
+2,KM.N,Musiknoten
+3,KM.NA,Gesangsnoten
+3,KM.NB,Chor
+3,KM.NC,Klavier
+3,KM.ND,Orgel
+3,KM.NE,Harmonika-Instrumente
+3,KM.NF,Schlaginstrumente
+3,KM.NG,Zupfinstrumente
+4,KM.NGG,Gitarre
+3,KM.NH,Blasinstrumente
+3,KM.NK,Kammermusik
+4,KM.NKB,Kammermusik mit Blasinstrumenten
+4,KM.NKK,Kammermusik mit Klavier
+4,KM.NKS,Kammermusik mit Streichinstrumenten
+4,KM.NKW,Kammermusik für weitere Instrumente
+3,KM.NL,Streichinstrumente
+3,KM.NP,"Liederbücher, Songbooks"
+4,KM.NPD,Deutschsprachige Liederbücher und Songbooks
+4,KM.NPF,Fremdsprachige Liederbücher und Songbooks
+4,KM.NPJ,"Jazz, Blues"
+4,KM.NPK,Kinderliederbücher
+4,KM.NPL,"Chansons, Liedermacher"
+4,KM.NPM,Filmmusik
+4,KM.NPP,Popmusik
+4,KM.NPS,Schlager
+3,KM.NT,Partituren
+3,KM.NU,Klavierauszüge
+3,KM.NV,Sonstige Instrumente
+3,KM.NW,Gesamtausgaben
+2,KM.Q,"Biographisches, Sekundärliteratur"
+3,KM.QC,"Chanson, Liedermacher: Biographisches"
+4,KM.QCS,"Sammelbiographien, Sammeldarstellungen"
+4,KM.QCW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+3,KM.QI,Interpreten klassischer Musik
+4,KM.QIS,"Sammelbiographien, Sammeldarstellungen"
+3,KM.QK,Komponisten und Librettisten klassischer Musik
+4,KM.QKS,"Sammelbiographien, Sammeldarstellungen"
+4,KM.QKW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+3,KM.QL,"Jazz, Blues"
+4,KM.QLS,"Sammelbiographien, Sammeldarstellungen"
+4,KM.QLW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+3,KM.QP,Pop und Rockmusik
+4,KM.QPS,"Sammelbiographien, Sammeldarstellungen"
+4,KM.QPW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+3,KM.QU,"Musikwissenschaft, -kritik und -theorie"
+4,KM.QUS,"Sammelbiographien, Sammeldarstellungen"
+4,KM.QUW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+2,KM.T,Instrumentenkunde und Geschichte der Musikinstrumente
+3,KM.TB,Blasinstrumente
+4,KM.TBB,Blechblasinstrumente
+4,KM.TBH,Holzblasinstrumente
+4,KM.TBW,Weitere Blasinstrumente
+3,KM.TE,Elektrische und elektronische Instrumente
+3,KM.TH,Harmonika-Instrumente
+3,KM.TL,"Schlaginstrumente, Percussion"
+3,KM.TS,Streichinstrumente
+4,KM.TSB,Kontrabass
+4,KM.TSC,Violoncello
+4,KM.TSG,Violine
+4,KM.TSL,Viola
+4,KM.TSW,Weitere Streichinstrumente
+3,KM.TT,Tasteninstrumente
+4,KM.TTK,Klavierinstrumente
+4,KM.TTO,Orgel
+4,KM.TTW,Weitere Tasteninstrumente
+3,KM.TU,Zupfinstrumente
+4,KM.TUG,Gitarre
+3,KM.TW,Weitere Musikinstrumente
+1,KT,Film. Theater. Tanz
+2,KT.A,Allgemeine und einführende Schriften
+2,KT.F,Film
+3,KT.FF,Filmförderung
+3,KT.FG,Geschichte des Films
+3,KT.FK,"Allgemeine Filmkritik, Filmtheorie"
+3,KT.FN,Filmgattungen
+3,KT.FR,Filmgestaltung
+3,KT.FT,Einzelne Filme und Drehbücher
+2,KT.H,"Theater, Theaterwissenschaft"
+3,KT.HD,"Theaterinszenierung, Bühnentechnik"
+3,KT.HF,Schauspielführer
+3,KT.HG,Theatergeschichte
+4,KT.HGO,Österreich
+3,KT.HK,Schauspielkunst
+3,KT.HS,Theaterformen
+4,KT.HSJ,"Kinder- und Jugendtheater, Animation"
+4,KT.HSK,"Kabarett, Varieté, Revue, Show"
+4,KT.HSP,"Puppenspiel, Schattentheater"
+4,KT.HSR,"Zirkus, Artistik, Clownerie"
+4,KT.HSW,Weitere Theaterformen
+2,KT.Q,"Biographisches, Sekundärliteratur"
+3,KT.QS,"Sammelbiographien, Sammeldarstellungen"
+3,KT.QW,"Erfahrungsberichte, Anekdoten"
+2,KT.T,Tanz
+3,KT.TG,Geschichte
+3,KT.TP,"Tanzpädagogik: Tanzunterricht, Tanzanleitungen"
+3,KT.TS,Tanzformen
+4,KT.TSA,Artistischer Tanz
+4,KT.TSB,Bühnentanz
+4,KT.TSG,Gesellschaftstanz
+4,KT.TSP,Pantomime
+4,KT.TSV,Volkstanz
+4,KT.TSW,Weitere Tanzformen
+0,N,Naturwissenschaften. Landwirtschaft. Medizin. Mathematik. Technik
+1,NA,Naturwissenschaften
+2,NA.A,Allgemeine und einführende Schriften
+2,NA.G,Geschichte der Naturwissenschaften
+2,NA.K,Naturkatastrophen
+2,NA.M,Grundlagen und Methoden
+2,NA.Q,"Biographisches, Sekundärliteratur"
+3,NA.QS,"Sammelbiographien, Sammeldarstellungen"
+3,NA.QW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+1,NB,Biologie. Umweltkunde
+2,NB.A,Allgemeine und einführende Schriften
+2,NB.B,Allgemeine und vergleichende Morphologie
+2,NB.C,Allgemeine und vergleichende Physiologie
+2,NB.E,Allgemeine und vergleichende Individual- und Stammesentwicklung
+2,NB.F,Fortpflanzungs- und Entwicklungsbiologie
+2,NB.G,Allgemeine Genetik
+2,NB.H,Entwicklungsgeschichte des Menschen
+2,NB.I,Allgemeine Mikrobiologie
+2,NB.K,Allgemeine Ökologie
+3,NB.KR,Ökologie einzelner geographischer Regionen
+3,NB.KS,Ökologie einzelner Ökosysteme
+2,NB.O,Umweltkunde
+3,NB.OB,Natur- und Umweltbelastung
+4,NB.OBB,"Boden, Vegetation"
+4,NB.OBL,"Luft, Klima"
+4,NB.OBM,"Abfall, Müll, Abwasser"
+4,NB.OBS,Wasser
+4,NB.OBW,Weitere Problembereiche
+3,NB.OE,Artenschutz
+4,NB.OEP,Pflanzenschutz
+4,NB.OET,Tierschutz
+3,NB.OL,Landschafts- und Biotopschutz
+4,NB.OLN,Einzelne Natur- und Landschaftsschutzgebiete und Naturparks
+3,NB.OP,Umweltpolitik
+3,NB.OT,Umweltschutz im Alltag
+2,NB.Q,"Biographisches, Sekundärliteratur"
+3,NB.QS,"Sammelbiographien, Sammeldarstellungen"
+3,NB.QW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+1,NC,Chemie
+2,NC.A,Allgemeine und einführende Schriften
+3,NC.AG,Geschichte der Chemie
+2,NC.B,Allgemeine und anorganische Chemie
+2,NC.N,Analytische Chemie
+2,NC.O,Organische Chemie
+2,NC.P,Physikalische Chemie
+2,NC.Q,"Biographisches, Sekundärliteratur"
+3,NC.QS,"Sammelbiographien, Sammeldarstellungen"
+3,NC.QW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+1,NF,Botanik
+2,NF.A,Allgemeine und einführende Schriften
+3,NF.AG,"Geschichte der Botanik, Kulturgeschichte der Pflanzen, botanische Gärten"
+2,NF.B,Allgemeine Botanik
+2,NF.G,Spezielle Botanik
+3,NF.GN,Niedere Pflanzen
+3,NF.GS,"Samenpflanzen (Blütenpflanzen, Bäume, Sträucher)"
+3,NF.GT,Pflanzen nach nichtsystematischen botanischen Begriffen
+2,NF.O,"Pflanzengeographie, Flora einzelner geographischer Regionen und Ökosysteme"
+2,NF.Q,"Biographisches, Sekundärliteratur"
+3,NF.QS,"Sammelbiographien, Sammeldarstellungen"
+3,NF.QW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+1,NG,Geowissenschaften
+2,NG.A,Allgemeine und einführende Schriften
+2,NG.G,Allgemeine Geologie
+3,NG.GK,"Vulkane, Erdbeben"
+2,NG.H,Historische Geologie
+2,NG.L,"Mineralogie, Gesteins- und Lagerstättenkunde"
+2,NG.M,Wetter- und Klimakunde
+3,NG.MK,Wetterkatastrophen
+2,NG.P,Allgemeine und physische Geographie
+3,NG.PH,Gewässer- und Meereskunde
+3,NG.PL,Geomorphologie
+2,NG.Q,"Biographisches, Sekundärliteratur"
+3,NG.QS,"Sammelbiographien, Sammeldarstellungen"
+3,NG.QW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+1,NI,Zoologie
+2,NI.A,Allgemeine und einführende Schriften
+3,NI.AG,"Geschichte der Zoologie, Zoologische Gärten"
+2,NI.B,Allgemeine Zoologie
+3,NI.BE,Verhaltensforschung
+2,NI.G,"Tiergeographie, Fauna einzelner geographischer Regionen und Ökosysteme"
+2,NI.L,Spezielle Zoologie
+3,NI.LE,Wirbellose und niedere Wirbeltiere
+4,NI.LEI,Insekten
+3,NI.LF,Fische
+3,NI.LK,"Kriechtiere, Lurche"
+3,NI.LO,Vögel
+3,NI.LS,Säugetiere
+4,NI.LSA,Affen
+4,NI.LSH,Huf- und Rüsseltiere
+4,NI.LSM,Meeressäuger
+4,NI.LSR,Raubtiere
+4,NI.LSW,Weitere Säugetiere
+3,NI.LT,Tiere nach nichtsystematischen zoologischen Begriffen
+2,NI.M,Haustiere
+3,NI.MF,Fische und Aquarienkunde
+3,NI.MH,Hunde
+3,NI.MK,Katzen
+3,NI.MN,Nagetiere
+3,NI.MO,Ziervögel
+3,NI.MW,Weitere Haustiere
+2,NI.Q,"Biographisches, Sekundärliteratur"
+3,NI.QS,"Sammelbiographien, Sammeldarstellungen"
+3,NI.QW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+1,NK,"Medizin, Gesundheit"
+2,NK.A,Allgemeine und einführende Schriften
+3,NK.AB,Berufskunde für medizinische und medizinisch-technische Assistenzberufe
+3,NK.AE,"Medizinische Ethik, Medizinkritik, medizinische Zukunftsforschung"
+4,NK.AET,"Tod, Sterben, Sterbehilfe"
+3,NK.AF,Fachfremdsprachen
+3,NK.AG,Allgemeine Geschichte und Kulturgeschichte
+4,NK.AGT,Klassische Texte der Medizingeschichte
+3,NK.AH,"Öffentliches Gesundheitswesen, Sozial- und Arbeitsmedizin, Vorsorgemedizin"
+4,NK.AHA,Gesundheit am Arbeitsplatz
+4,NK.AHG,"Gesunde Lebensweise, Gesundheitsrisiken, Wellness"
+4,NK.AHL,Gesundheitswesen einzelner Länder
+4,NK.AHR,Ratgeber zur Inanspruchnahme medizinischer Leistungen
+3,NK.AK,Körperpflege
+3,NK.AP,Medizinische Psychologie
+4,NK.APK,Krankheitsbewältigung
+4,NK.APS,Allgemeine Psychosomatik
+3,NK.AS,"Ausbildung des Arztes, Arztpraxis"
+3,NK.AT,Medizintechnik
+3,NK.AV,Vermischte Schriften
+2,NK.B,Medizinische Grundlagenfächer
+3,NK.BB,Biologie für Mediziner
+3,NK.BC,Chemie für Mediziner
+3,NK.BG,Medizinische Genetik
+4,NK.BGE,"Erbkrankheiten, medizinische Vererbungslehre"
+3,NK.BP,Physik für Mediziner
+2,NK.C,"Chirurgie, Traumatologie, Anästhesiologie, Intensivmedizin"
+3,NK.CS,Schönheitschirurgie
+3,NK.CV,Medizinische Verbandlehre
+2,NK.D,"Allgemeine Diagnostik, Labor, radiologische Diagnostik"
+2,NK.E,Ernährungslehre
+3,NK.ED,"Ernährung bei Gewichtsproblemen, Diätformen"
+3,NK.EK,Ernährung und Diätfragen bei Kindern und Jugendlichen
+3,NK.EV,Vegetarismus
+2,NK.F,Allgemeine Krankenpflege und Pflegewissenschaft
+3,NK.FH,Hauskrankenpflege
+2,NK.G,"Sexualmedizin, Familienplanung"
+3,NK.GF,"Frauenmedizin, Gynäkologie"
+3,NK.GG,"Schwangerschaft und Geburt, Geburtshilfe"
+4,NK.GGS,Säuglingspflege
+3,NK.GM,"Männermedizin, Sexualmedizin des Mannes"
+3,NK.GX,Erotik und Liebe
+2,NK.H,Krankheitslehre und Heilkunde
+3,NK.HB,"Erkrankungen und Biologie von Herz, Kreislauf, Blut und Blutgefäßen"
+3,NK.HD,"Dermatologie, Allergologie, Venerologie"
+4,NK.HDA,Allergologie
+4,NK.HDG,Geschlechtskrankheiten
+3,NK.HH,"Erkrankungen und Biologie der Atemwege, sowie von Hals, Nase und Ohren"
+4,NK.HHA,Asthma
+4,NK.HHE,Erkältungskrankheiten
+3,NK.HI,"Infektionskrankheiten, Immunologie, Impfwesen"
+4,NK.HIA,AIDS
+4,NK.HIG,Geschichte der Infektionskrankheiten
+3,NK.HK,Onkologie
+4,NK.HKW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+3,NK.HM,Psychiatrie
+4,NK.HMG,Geschichte
+4,NK.HMW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+3,NK.HN,Neurologie
+4,NK.HNE,Epilepsie
+4,NK.HNG,Geschichte
+4,NK.HNM,"Kopfschmerz, Migräne"
+4,NK.HNP,Parkinson
+4,NK.HNS,Multiple Sklerose
+3,NK.HO,Orthopädie
+4,NK.HOR,Rheumatismus
+3,NK.HP,Erkrankungen und Biologie der Augen
+3,NK.HS,"Endokrinologie, Stoffwechselerkrankungen"
+4,NK.HSD,Diabetes
+3,NK.HT,Erkrankungen und Biologie der Zähne und des Kiefers
+3,NK.HU,Erkrankungen und Biologie der Harnorgane (Urologie)
+3,NK.HV,Erkrankungen und Biologie der Verdauungsorgane
+3,NK.HW,Weitere Gesundheitsstörungen und Therapieformen
+2,NK.I,"Erste Hilfe, Notfallmedizin"
+2,NK.L,"Physiologie und Gesundheitspflege einzelner Lebensphasen, Altersbiologie, Anti-Aging"
+3,NK.LA,"Geriatrie, Altenpflege"
+3,NK.LL,Lebensmitte
+3,NK.LP,"Pädiatrie, Kinderkrankenpflege"
+2,NK.Q,"Biographisches, Sekundärliteratur"
+3,NK.QS,"Sammelbiographien, Sammeldarstellungen"
+3,NK.QW,"Erfahrungsberichte, Krankengeschichten"
+2,NK.R,"Pharmakologie, Toxikologie, Sucht"
+3,NK.RS,"Schmerz, Schmerztherapie"
+3,NK.RU,"Sucht, Suchtmittel, Suchttherapie, Suchtkrankenhilfe, Soziologie der Sucht"
+4,NK.RUF,Frauen und Sucht
+4,NK.RUJ,Jugendliche und Sucht
+4,NK.RUK,Alkoholismus
+4,NK.RUN,Nikotinsucht
+4,NK.RUO,Drogensucht
+4,NK.RUV,"Weitere Süchte, stoffungebundene Süchte"
+4,NK.RUW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+2,NK.V,"Entspannungstechniken, alternative, ganzheitliche, Natur- und Volksmedizin aus verschiedenen Kulturen"
+3,NK.VE,"Stress, Stressabbau, Entspannungstechniken"
+4,NK.VEB,Biofeedback
+4,NK.VEO,Yoga
+4,NK.VEQ,Qigong
+4,NK.VER,"Progressive Relaxation (Jacobsen), Muskelentspannungstraining, Alexander-Technik (F.M. Alexander), Eutonie, Feldenkraistherapie"
+4,NK.VET,"Autogenes Training, Meditation, Mentales Training"
+3,NK.VH,Homöopathie
+3,NK.VN,"Heilpflanzenkunde, heilende Nahrungsmittel und Extrakte"
+3,NK.VP,Physikalische Therapien
+4,NK.VPA,"Akupunktur, Ya-Ya"
+4,NK.VPH,"Klimatherapie, Balneologie, Hydrotherapie, Wickel, Packungen, Umschläge, Waschung"
+4,NK.VPM,Klassische Heilmassage
+4,NK.VPP,"Akupressur, Shiatsu"
+4,NK.VPR,Reflexzonenmassage
+4,NK.VPW,Weitere physikalische Therapieformen
+3,NK.VV,Medizinen einzelner Kulturen
+4,NK.VVA,Ayurveda
+4,NK.VVC,Tai Chi
+4,NK.VVF,Feng Shui
+4,NK.VVR,Reiki
+4,NK.VVS,Anthroposophische und esoterische Medizinen einzelner Kulturen
+3,NK.VW,Weitere Therapieformen
+4,NK.VWA,Aromatherapie
+4,NK.VWB,Bachblütentherapie
+4,NK.VWF,Rolfing
+4,NK.VWS,Schüssler-Salze
+1,NL,"Land- und Forstwirtschaft, Fischerei, Bodenkultur, Gartenbau"
+2,NL.A,Allgemeine und einführende Schriften
+2,NL.F,"Forstwirtschaft, Jagd"
+3,NL.FJ,Jagd
+2,NL.G,Pflanzen- und Gartenbau
+3,NL.GH,Klein- und Hausgarten
+4,NL.GHK,"Gartenbaukultur, Gartengestaltung, Gartenformen"
+4,NL.GHT,Gartenpflege und Gartenbautechnik
+3,NL.GI,Zierpflanzen
+4,NL.GIB,"Bäume, Sträucher"
+4,NL.GIM,Zimmerpflanzen
+4,NL.GIS,"Kübel-, Topf-, Schnitt-, Beet- und Balkonpflanzen"
+4,NL.GIW,Weitere Zierpflanzen
+3,NL.GN,Nutzpflanzen
+4,NL.GNG,Gemüse
+4,NL.GNH,Heil- und Genussmittelpflanzen
+4,NL.GNK,"Weinbau, Hopfenbau"
+4,NL.GNO,Obst
+4,NL.GNW,Weitere Nutzpflanzen
+3,NL.GV,Vermischte Schriften
+4,NL.GVF,Floristik
+2,NL.H,Tierhaltung und -zucht
+3,NL.HG,Geflügelhaltung
+3,NL.HI,Bienen
+3,NL.HN,Nage- und Pelztierzucht
+3,NL.HP,Pferdehaltung
+3,NL.HU,"Rinder-, Schweine-, Schafe-, Ziegen- und Eselhaltung"
+3,NL.HW,Weitere Tiere
+2,NL.I,Fischereiwirtschaft
+3,NL.IA,Angeln
+2,NL.M,Veterinärmedizin
+2,NL.Q,"Biographisches, Sekundärliteratur"
+3,NL.QS,"Sammelbiographien, Sammeldarstellungen"
+3,NL.QW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+1,NM,Mathematik
+2,NM.A,Allgemeine und einführende Schriften
+3,NM.AG,Geschichte
+3,NM.AO,Theorie und Grundlagen
+3,NM.AP,"Mathematische Programme, mathematische Instrumente"
+3,NM.AS,Schulbücher
+3,NM.AT,"Tabellenwerke, Aufgaben- und Formelsammlungen"
+3,NM.AV,Vermischte Schriften
+2,NM.E,"Arithmetik, Algebra, Mengenlehre"
+3,NM.EE,Elementares Rechnen
+3,NM.EG,"Algebra, Arithmetik"
+3,NM.EW,"Wahrscheinlichkeitsrechnung, Kombinatorik"
+3,NM.EZ,"Zahlen, Mengenlehre"
+2,NM.G,Geometrie
+3,NM.GE,"Planimetrie, Stereometrie, Topologie"
+3,NM.GI,Trigonometrie
+3,NM.GL,"Analytische Geometrie, Algebraische Geometrie, Vektorrechnung"
+3,NM.GT,Differentialgeometrie
+3,NM.GU,Nichteuklidische Geometrien
+2,NM.L,Analysis
+3,NM.LI,Infinitesimalrechnung
+3,NM.LO,"Funktionen, Operatoren"
+3,NM.LR,"Folgen, Reihen, Grenzwerte"
+3,NM.LV,Variationsrechnung
+2,NM.N,Angewandte Mathematik
+3,NM.ND,Darstellende Geometrie
+3,NM.NG,Vermessungskunde
+3,NM.NN,"Numerische Mathematik, Fehlerrechnung, graphische Methoden"
+3,NM.NO,Mathematische Optimierung
+3,NM.NS,"Mathematische Statistik, Spieltheorie, Anwendungen der Wahrscheinlichkeitsrechnung"
+2,NM.Q,"Biographisches, Sekundärliteratur"
+3,NM.QS,"Sammelbiographien, Sammeldarstellungen"
+3,NM.QW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+1,NP,Physik
+2,NP.A,Allgemeine und einführende Schriften
+3,NP.AG,Geschichte der Physik
+2,NP.E,Theoretische Physik
+2,NP.F,"Atom-, Kern- und Festkörperphysik"
+2,NP.H,Wärmelehre
+2,NP.K,Akustik
+2,NP.L,"Elektrizität, Magnetismus"
+2,NP.M,"Mechanik, Statik"
+2,NP.O,"Optik, Farbenlehre"
+2,NP.Q,"Biographisches, Sekundärliteratur"
+3,NP.QS,"Sammelbiographien, Sammeldarstellungen"
+3,NP.QW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+1,NS,Astronomie
+2,NS.A,Allgemeine und einführende Schriften
+3,NS.AG,Geschichte der Astronomie
+2,NS.E,"Theoretische Astronomie, Astrometrie"
+2,NS.G,"Kosmologie, Kosmogonie"
+2,NS.H,"Astrophysik und -biologie, Kosmochemie"
+2,NS.K,Himmelskörper
+2,NS.Q,"Biographisches, Sekundärliteratur"
+3,NS.QS,"Sammelbiographien, Sammeldarstellungen"
+3,NS.QW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+1,NT,"Technik, Industrie, Handwerk, Gewerbe"
+2,NT.A,Allgemeine und einführende Schriften
+3,NT.AF,Fachfremdsprachen
+4,NT.AFE,Technikenglisch
+4,NT.AFF,Technikfranzösisch
+4,NT.AFS,Technikspanisch
+3,NT.AG,Allgemeine Geschichte
+3,NT.AT,Grund- und Hilfswissenschaften
+4,NT.ATC,Technische Chemie
+4,NT.ATK,"Technisches Zeichnen, Konstruktionslehre"
+4,NT.ATM,Technische Mathematik
+4,NT.ATN,"Technische Normung und Standardisierung, Patentschriften"
+4,NT.ATP,"Technische Physik, Statik"
+4,NT.ATR,Allgemeine Mess- und Prüftechnik
+4,NT.ATS,Allgemeine Sicherheitstechnik
+4,NT.ATT,Allgemeine Automatisierungstechnik
+4,NT.ATV,Allgemeine Verfahrenstechnik
+4,NT.ATW,Allgemeine Werkstoffkunde und -prüfung
+3,NT.AV,Vermischte Schriften
+2,NT.B,Bauwesen
+3,NT.BB,"Installations-, Bau- und Baunebenberufe: Berufskunde für Handwerksberufe"
+3,NT.BG,Gebäudeausbau und Heimwerkerarbeiten
+4,NT.BGB,"Fußböden, Bodenbeläge"
+4,NT.BGD,"Dächer, Treppen, Türen, Fenster"
+4,NT.BGH,"Haus-, Heizungs-, Sanitär- und Klimatechnik"
+4,NT.BGL,Malerarbeiten
+4,NT.BGM,"Mauern, Fassaden, Wände"
+3,NT.BH,Hochbau
+4,NT.BHE,Bauweisen
+4,NT.BHG,Gebäudearten
+3,NT.BT,Tiefbau
+4,NT.BTS,"Wasserwirtschaft, Wasserbau"
+4,NT.BTV,Verkehrsbau
+4,NT.BTW,Weitere Themen
+2,NT.C,Chemische Industrie und Technologie
+3,NT.CB,"Chemieberufe, Berufe der Kunststofferzeugung und -verarbeitung: Berufskunde für Handwerksberufe"
+2,NT.D,"Drucktechnik, Textgestaltung"
+3,NT.DB,Grafische Berufe: Berufskunde für Handwerksberufe
+2,NT.E,"Informatik, EDV"
+3,NT.EA,Theorie und Grundlagen
+4,NT.EAE,Allgemeine Einstiegshilfen für PC-Anwender
+4,NT.EAG,Allgemeine Geschichte
+4,NT.EAH,Theoretische Informatik
+4,NT.EAK,"Angewandte Informatik, künstliche Intelligenz"
+4,NT.EAO,"Organisation der Datenverarbeitung, Software- und Systementwicklung"
+4,NT.EAV,Vermischte Schriften
+3,NT.EB,Berufskunde für Handwerksberufe
+3,NT.EC,Kommunikation von Computersystemen
+4,NT.ECI,"Internet, Internet- und Online-Dienste"
+4,NT.ECM,E-Mail
+4,NT.ECN,"Lokale Netze, Intranet"
+3,NT.EH,Hardware
+4,NT.EHP,Peripheriegeräte
+4,NT.EHR,Einzelne Rechnertypen
+3,NT.EP,Anwendungssoftware
+4,NT.EPD,Datenbankprogramme
+4,NT.EPI,Kommunikationssoftware
+4,NT.EPK,Tabellenkalkulationssoftware
+4,NT.EPM,"Multimedia-Software, Grafik, Präsentation"
+4,NT.EPO,Integrierte Softwarepakete
+4,NT.EPP,Desktop-Publishing
+4,NT.EPS,Computerspielsoftware
+4,NT.EPT,Textverarbeitungssoftware
+4,NT.EPW,Software für Webdesign und Webpublishing
+4,NT.EPX,Weitere Softwareanwendungen und Ergänzungsprogramme
+3,NT.EQ,Programmierung und Programmiersprachen
+4,NT.EQA,"Einzelne Maschinensprachen, Übersetzer und Programmgeneratoren"
+4,NT.EQH,Einzelne höhere Programmiersprachen
+3,NT.ER,Betriebssysteme und grafische Benutzeroberflächen
+4,NT.ERD,DOS
+4,NT.ERL,Linux
+4,NT.ERM,MacOS
+4,NT.ERU,Unix
+4,NT.ERW,Windows
+4,NT.ERX,Weitere Betriebssysteme und grafische Benutzeroberflächen
+2,NT.F,Maschinen- und Anlagenbau
+3,NT.FA,Arbeitsmaschinen
+3,NT.FB,Berufskunde für Handwerksberufe
+2,NT.G,"Bergbau, Hüttenwesen, Metallurgie"
+3,NT.GB,Berufskunde für Handwerksberufe
+3,NT.GG,Geschichte
+2,NT.H,"Holzbearbeitung, Holzverarbeitung, Möbelherstellung"
+3,NT.HB,Berufskunde für Handwerksberufe
+3,NT.HG,Geschichte
+2,NT.I,Papier- und Verpackungsindustrie
+3,NT.IB,Berufskunde für Handwerksberufe
+2,NT.K,"Elektrotechnik, Elektronik"
+3,NT.KB,Berufskunde für Handwerksberufe
+3,NT.KC,Elektrochemie
+3,NT.KE,Elektronik
+4,NT.KEB,Bauteilkunde
+4,NT.KEH,Hobbyelektronik
+4,NT.KEM,"Messtechnik, Steuerungs- und Regelungstechnik"
+4,NT.KES,Schaltungstechnik
+4,NT.KEV,Weitere Themen
+3,NT.KG,Geschichte
+2,NT.L,Energietechnik
+3,NT.LB,Berufskunde für Handwerksberufe
+3,NT.LE,Elektrische Energietechnik
+4,NT.LEB,Beleuchtungstechnik
+4,NT.LEH,Wirtschafts- und Haushaltsstrom
+3,NT.LG,Geschichte
+3,NT.LN,"Allgemeine Energietechnik, Kraftmaschinen"
+4,NT.LNA,"Alternative Energieerzeugung, Windkraftwerke, Solaranlagen"
+4,NT.LNK,Kernkraftwerke
+4,NT.LNS,Wasserkraftwerke
+4,NT.LNW,"Wärmekraftmaschinen, Wärmekraftwerke"
+2,NT.M,"Metallbearbeitung, allgemeine Fertigungstechnik, Feinwerktechnik"
+3,NT.MB,Berufskunde für Handwerksberufe
+3,NT.MF,Fertigungsverfahren
+3,NT.MI,"Feinwerktechnik, Edelmetall- und Edelsteinbearbeitung"
+2,NT.N,Nahrungs- und Genussmittelindustrie
+3,NT.NB,Berufskunde für Handwerksberufe
+3,NT.NG,Industrielle Herstellung und Verarbeitung von Getränken
+3,NT.NN,"Industrielle Herstellung, Verarbeitung, Lagerung und Konservierung von Nahrungs- und Genussmitteln"
+2,NT.O,Waffen- und Wehrtechnik
+2,NT.P,Fototechnik. Film- und Videotechnik
+3,NT.PB,Berufskunde für Handwerksberufe
+3,NT.PD,Digitale Fotografie
+3,NT.PF,Fotoaufnahmetechnik
+4,NT.PFK,Fotokameras und Zubehör
+4,NT.PFM,"Fotomotive, Themen und Anlässe"
+3,NT.PP,Spezielle Fotografie
+4,NT.PPA,Angewandte Fotografie
+4,NT.PPD,Dia-Fotografie
+4,NT.PPF,Farbfotografie
+4,NT.PPS,Schwarzweiß-Fotografie
+3,NT.PV,Film- und Videotechnik
+2,NT.Q,"Biographisches, Sekundärliteratur"
+3,NT.QS,"Sammelbiographien, Sammeldarstellungen"
+3,NT.QW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+2,NT.R,"Funk-, Nachrichten-, Radio- und Fernsehtechnik"
+3,NT.RB,Berufskunde für Handwerksberufe
+3,NT.RG,Geschichte
+3,NT.RR,Radio- und Fernsehtechnik
+4,NT.RRF,Fernsehtechnik
+4,NT.RRK,Elektroakustik
+4,NT.RRR,Radiotechnik
+4,NT.RRU,Amateurfunk
+3,NT.RT,Telekommunikation
+4,NT.RTF,Fernsprechtechnik
+4,NT.RTM,Mobiltelefonie
+4,NT.RTX,Text- und Bildkommunikation
+3,NT.RV,Weitere Anwendungsgebiete
+2,NT.S,Steine- und Erdenverarbeitung
+3,NT.SB,Berufskunde für Handwerksberufe
+2,NT.T,"Textil- und Lederverarbeitung, Bekleidungsgewerbe"
+3,NT.TB,Berufskunde für Handwerksberufe
+3,NT.TG,Geschichte
+2,NT.U,Umwelttechnik und Abfallwirtschaft
+2,NT.V,"Verkehrstechnik, Modellbau"
+3,NT.VE,Modellbau: Allgemeines
+3,NT.VF,Luftfahrt
+4,NT.VFE,Modellflugzeuge und -hubschrauber
+3,NT.VI,"Schienenverkehr, Schienenfahrzeuge"
+4,NT.VIE,Modelleisenbahnen
+4,NT.VIL,"Lokomotiven, Triebwagen, Eisenbahnwagen"
+4,NT.VIR,Einzelne Eisenbahnstrecken
+4,NT.VIS,Spezialbahnen
+3,NT.VS,Schifffahrt
+4,NT.VSE,Schiffsmodelle
+3,NT.VT,Straßenverkehr
+4,NT.VTB,Berufskunde für Handwerksberufe
+4,NT.VTE,"Modellautos, Modell-Motorräder"
+4,NT.VTF,Führerschein
+4,NT.VTM,"Motorräder, Mopeds"
+4,NT.VTN,Nutz- und Spezialfahrzeuge
+4,NT.VTP,Personenkraftwagen
+4,NT.VTR,Fahrrad
+4,NT.VTW,Weitere Straßenfahrzeuge
+3,NT.VW,Raumfahrt- und Satellitentechnik
+2,NT.Z,Weitere Zweige
+3,NT.ZD,Weitere Gewerbezweige
+3,NT.ZT,Weitere Zweige der Technik
+4,NT.ZTB,"Biotechnologie, Bionik, Biotechnik"
+0,P,"Buch-, Bibliotheks-, Dokumentations- und Informationswesen. Philosophie. Sprache. Literatur. Pädagogik. Psychologie. Religion"
+1,PB,"Buch-, Bibliotheks-, Dokumentations- und Informationswesen"
+2,PB.A,Allgemeine und einführende Schriften
+2,PB.B,Bibliothekswesen
+3,PB.BA,"Ziele und Aufgaben, Entwicklungspläne"
+3,PB.BB,"Bestandsaufbau, Erwerbung"
+3,PB.BE,Einzelne Bibliotheken
+4,PB.BEO,Österreich
+3,PB.BF,Bibliotheks- und Büchereitypen
+4,PB.BFO,Öffentliche Bibliotheken
+5,PB.BFO.B,Bücherbus
+5,PB.BFO.G,Gefängnisbibliothek
+5,PB.BFO.K,Kinder- und Jugendbibliothek
+5,PB.BFO.L,Lehrlingsbibliothek
+5,PB.BFO.M,Musikbibliothek
+5,PB.BFO.S,Krankenhausbibliothek
+5,PB.BFO.U,Schulbibliothek
+4,PB.BFW,Wissenschaftliche Bibliotheken
+3,PB.BG,Geschichte
+4,PB.BGD,Deutschland
+4,PB.BGO,Österreich
+3,PB.BI,"Information Retrieval, bibliothekarische Recherchetechniken"
+3,PB.BK,"Klassifikation, Erschließung"
+3,PB.BL,Benutzer- und Leserforschung
+3,PB.BM,"Werbung, Öffentlichkeitsarbeit, Bibliothekspädagogik, Bestandsvermittlung"
+3,PB.BN,Bibliotheksplanung und -bau
+3,PB.BO,Organisationen und Verbände
+4,PB.BOO,Österreich
+3,PB.BR,Bibliotheksrecht
+3,PB.BS,Bestandssicherung
+3,PB.BT,Bibliothekstechnik
+3,PB.BV,"Bibliotheksverwaltung, Bibliotheksbetrieb, Leitung, Organisation"
+3,PB.BY,"Ausbildung, Beruf"
+4,PB.BYH,Hausarbeiten
+5,PB.BYH.B,Gehobener Fachdienst
+6,PB.BYH.BA,"Ziele und Aufgaben, Entwicklungspläne"
+6,PB.BYH.BB,"Bestandsaufbau, Erwerbung"
+6,PB.BYH.BE,Einzelne Bibliotheken
+6,PB.BYH.BF,Bibliotheks- und Büchereitypen
+6,PB.BYH.BG,Geschichte des Bibliothekswesens
+6,PB.BYH.BK,"Klassifikation, Erschließung"
+6,PB.BYH.BL,"Benutzerforschung, Bibliothekspädagogik"
+6,PB.BYH.BM,"Werbung, Öffentlichkeitsarbeit"
+6,PB.BYH.BN,Bibliotheksplanung und -bau
+6,PB.BYH.BO,Organisationen und Verbände
+6,PB.BYH.BR,Bibliotheksrecht
+6,PB.BYH.BS,Bestandssicherung
+6,PB.BYH.BT,Bibliothekstechnik
+6,PB.BYH.BV,"Bibliotheksverwaltung, Bibliotheksbetrieb"
+6,PB.BYH.BY,"Ausbildung, Beruf"
+6,PB.BYH.BZ,Weitere Themen
+5,PB.BYH.C,Mittlerer Fachdienst
+6,PB.BYH.CA,"Ziele und Aufgaben, Entwicklungspläne"
+6,PB.BYH.CB,"Bestandsaufbau, Erwerbung"
+6,PB.BYH.CE,Einzelne Bibliotheken
+6,PB.BYH.CF,Bibliotheks- und Büchereitypen
+6,PB.BYH.CG,Geschichte des Bibliothekswesens
+6,PB.BYH.CK,"Klassifikation, Erschließung"
+6,PB.BYH.CL,"Benutzerforschung, Bibliothekspädagogik"
+6,PB.BYH.CM,"Werbung, Öffentlichkeitsarbeit"
+6,PB.BYH.CN,Bibliotheksplanung und -bau
+6,PB.BYH.CO,Organisationen und Verbände
+6,PB.BYH.CR,Bibliotheksrecht
+6,PB.BYH.CS,Bestandssicherung
+6,PB.BYH.CT,Bibliothekstechnik
+6,PB.BYH.CV,"Bibliotheksverwaltung, Bibliotheksbetrieb"
+6,PB.BYH.CY,"Ausbildung, Beruf"
+6,PB.BYH.CZ,Weitere Themen
+5,PB.BYH.E,"Ehrenamt, Nebenberuf"
+6,PB.BYH.EA,"Ziele und Aufgaben, Entwicklungspläne"
+6,PB.BYH.EB,"Bestandsaufbau, Erwerbung"
+6,PB.BYH.EE,Einzelne Bibliotheken
+6,PB.BYH.EF,Bibliotheks- und Büchereitypen
+6,PB.BYH.EG,Geschichte des Bibliothekswesens
+6,PB.BYH.EK,"Klassifikation, Erschließung"
+6,PB.BYH.EL,"Benutzerforschung, Bibliothekspädagogik"
+6,PB.BYH.EM,"Werbung, Öffentlichkeitsarbeit"
+6,PB.BYH.EN,Bibliotheksplanung und -bau
+6,PB.BYH.EO,Organisationen und Verbände
+6,PB.BYH.ER,Bibliotheksrecht
+6,PB.BYH.ES,Bestandssicherung
+6,PB.BYH.ET,Bibliothekstechnik
+6,PB.BYH.EV,"Bibliotheksverwaltung, Bibliotheksbetrieb"
+6,PB.BYH.EY,"Ausbildung, Beruf"
+6,PB.BYH.EZ,Weitere Themen
+3,PB.BZ,Weitere Themen
+2,PB.C,Archivwesen
+2,PB.D,Informations- und Dokumentationswesen
+2,PB.Q,"Biographisches, Sekundärliteratur"
+3,PB.QS,"Sammelbiographien, Sammeldarstellungen"
+3,PB.QW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+2,PB.S,Schriftkunde
+3,PB.SG,Schriftgeschichte
+3,PB.SK,Kalligrafie
+3,PB.SS,"Stenografie, Maschinenschreiben"
+3,PB.SV,Weitere Themen
+2,PB.U,Buch und Buchgewerbe
+3,PB.UB,Berufskunde
+3,PB.UG,Geschichte des Buchs und des Buchdrucks
+3,PB.UH,"Buchhandel, Verlagswesen"
+3,PB.UK,"Buchkunst, Buchillustration"
+3,PB.UP,"Buchbinderei, Buchpflege"
+3,PB.UV,Vermischte Schriften
+1,PI,Philosophie
+2,PI.A,Allgemeine und einführende Schriften
+3,PI.AO,"Forschung, Verhältnis zu anderen Wissenschaften"
+3,PI.AV,"Vermischte Schriften, Humor, Anekdoten"
+2,PI.G,Geschichte der Philosophie
+3,PI.GA,Antike und Mittelalter
+4,PI.GAA,Antike
+4,PI.GAM,Mittelalter
+3,PI.GB,Neuzeit
+4,PI.GBE,15. und 16. Jahrhundert
+4,PI.GBK,17. und 18. Jahrhundert
+4,PI.GBN,19. Jahrhundert
+4,PI.GBP,20. und 21. Jahrhundert
+3,PI.GI,"Interkulturelle Philosophie, nicht-abendländische Philosophie"
+4,PI.GIA,Arabische Philosophie
+4,PI.GIC,Chinesische Philosophie
+4,PI.GIF,Afrikanische Philosophie
+4,PI.GIJ,Jüdische Philosophie
+4,PI.GIM,Lateinamerikanische Philosophie
+4,PI.GIN,Indische Philosophie
+4,PI.GIP,Japanische Philosophie
+3,PI.GR,Nationale abendländische philosophische Traditionen
+4,PI.GRO,Österreichische Philosophie
+3,PI.GT,Geschichte der Philosophie unter besonderen Gesichtspunkten
+4,PI.GTF,Feministische Philosophie
+2,PI.I,"Ethik, Moralphilosophie, Praktische Philosophie"
+3,PI.IA,Vermischte Schriften
+3,PI.IB,Bereichsethiken
+3,PI.IP,"Philosophische Lebenskunst, philosophische Praxis, philosophisches Café"
+4,PI.IPK,Philosophieren mit Kindern
+2,PI.J,"Kulturphilosophie, Geschichtsphilosophie"
+3,PI.JA,Vermischte Schriften
+2,PI.L,"Philosophische Methodologie, Erkenntnis- und Wissenschaftstheorie"
+3,PI.LL,Philosophische Logik
+4,PI.LLA,Vermischte Schriften
+3,PI.LN,"Neurophilosophie, Philosophie des Geistes"
+4,PI.LNA,Vermischte Schriften
+3,PI.LS,Sprachphilosophie
+4,PI.LSA,Vermischte Schriften
+3,PI.LV,Vermischte Schriften
+2,PI.M,"Metaphysik, Ontologie, Naturphilosophie"
+3,PI.MA,Vermischte Schriften
+2,PI.P,Philosophische Anthropologie
+3,PI.PA,Vermischte Schriften
+2,PI.Q,"Biographisches, Sekundärliteratur"
+3,PI.QS,"Sammelbiographien, Sammeldarstellungen"
+3,PI.QW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+2,PI.S,Ästhetik
+3,PI.SA,Vermischte Schriften
+2,PI.T,Klassische Texte und Gesamtausgaben
+3,PI.TE,Anthologien
+3,PI.TV,"Philosophische Aphorismen, Lebensweisheiten"
+1,PK,"Sprache, Sprachwissenschaft und Sprachgeschichte"
+2,PK.A,Allgemeine und einführende Schriften
+3,PK.AL,Allgemeine und vergleichende Sprachwissenschaft
+3,PK.AS,Sprichwörter- und Zitatensammlungen
+3,PK.AV,Vermischte Schriften
+2,PK.D,Deutsch
+3,PK.DF,Deutsch als Fremdsprache
+3,PK.DG,Geschichte der deutschen Sprache
+3,PK.DH,Rechtschreibung und Grammatik der deutschen Sprache
+3,PK.DM,Sondersprachen der deutschen Sprache
+3,PK.DR,"Sprechwissenschaft, Rhetorik"
+3,PK.DS,Stilistik der deutschen Sprache
+3,PK.DW,Wörterbücher der deutschen Sprache
+2,PK.E,Englisch
+3,PK.EK,Sprachkurse
+3,PK.EW,Wörterbücher
+2,PK.G,Alte Sprachen der klassischen Antike
+3,PK.GG,Altgriechisch
+4,PK.GGK,Sprachkurse
+4,PK.GGW,Wörterbücher
+3,PK.GL,Latein
+4,PK.GLK,Sprachkurse
+4,PK.GLW,Wörterbücher
+2,PK.K,Skandinavische Sprachen
+3,PK.KD,Dänisch
+3,PK.KI,Isländisch
+3,PK.KN,Norwegisch
+3,PK.KS,Schwedisch
+2,PK.Q,"Biographisches, Sekundärliteratur"
+3,PK.QS,Sammeldarstellungen
+3,PK.QW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+2,PK.R,Romanische Sprachen
+3,PK.RF,Französisch
+4,PK.RFK,Sprachkurse
+4,PK.RFW,Wörterbücher
+3,PK.RI,Italienisch
+4,PK.RIK,Sprachkurse
+4,PK.RIW,Wörterbücher
+3,PK.RP,Portugiesisch
+4,PK.RPK,Sprachkurse
+4,PK.RPW,Wörterbücher
+3,PK.RS,Spanisch
+4,PK.RSK,Sprachkurse
+4,PK.RSW,Wörterbücher
+3,PK.RW,Weitere romanische Sprachen
+2,PK.S,Slawische Sprachen
+3,PK.SA,Slowakisch
+4,PK.SAK,Sprachkurse
+4,PK.SAW,Wörterbücher
+3,PK.SK,Kroatisch
+4,PK.SKK,Sprachkurse
+4,PK.SKW,Wörterbücher
+3,PK.SO,Slowenisch
+4,PK.SOK,Sprachkurse
+4,PK.SOW,Wörterbücher
+3,PK.SP,Polnisch
+4,PK.SPK,Sprachkurse
+4,PK.SPW,Wörterbücher
+3,PK.SR,Russisch
+4,PK.SRK,Sprachkurse
+4,PK.SRW,Wörterbücher
+3,PK.SS,"Serbisch, Serbokroatisch"
+4,PK.SSK,Sprachkurse
+4,PK.SSW,Wörterbücher
+3,PK.ST,Tschechisch
+4,PK.STK,Sprachkurse
+4,PK.STW,Wörterbücher
+3,PK.SW,Weitere slawische Sprachen
+2,PK.T,Weitere europäische Sprachen
+3,PK.TG,Neugriechisch
+4,PK.TGK,Sprachkurse
+4,PK.TGW,Wörterbücher
+3,PK.TI,Niederländisch
+4,PK.TIK,Sprachkurse
+4,PK.TIW,Wörterbücher
+3,PK.TU,Ungarisch
+4,PK.TUK,Sprachkurse
+4,PK.TUW,Wörterbücher
+2,PK.U,Außereuropäische Sprachen
+3,PK.UA,Arabisch
+4,PK.UAK,Sprachkurse
+4,PK.UAW,Wörterbücher
+3,PK.UC,Chinesisch
+4,PK.UCK,Sprachkurse
+4,PK.UCW,Wörterbücher
+3,PK.UF,Afrikanische Sprachen
+3,PK.UH,"Hebräisch, Jiddisch"
+4,PK.UHK,Sprachkurse
+4,PK.UHW,Wörterbücher
+3,PK.UJ,Japanisch
+4,PK.UJK,Sprachkurse
+4,PK.UJW,Wörterbücher
+3,PK.UP,Persisch
+4,PK.UPK,Sprachkurse
+4,PK.UPW,Wörterbücher
+3,PK.UT,Türkisch
+4,PK.UTK,Sprachkurse
+4,PK.UTW,Wörterbücher
+1,PL,"Literaturwissenschaft, Literaturgeschichte"
+2,PL.A,Allgemeine und einführende Schriften
+3,PL.AG,Literarische Gattungen
+4,PL.AGD,Dramatik
+4,PL.AGE,Epik
+4,PL.AGL,Lyrik
+4,PL.AGW,Weitere literarische Gattungen
+3,PL.AI,"Literaturinterpretation, Literaturkritik, Literaturästhetik, Rezeption"
+3,PL.AK,Theorie und Geschichte besonderer Literaturkategorien
+4,PL.AKB,Theorie und Geschichte der Gebrauchs- und Sachliteratur
+4,PL.AKG,"Theorie und Geschichte der Frauen-, Männer-, Lesben- und Schwulenliteratur"
+4,PL.AKK,Theorie und Geschichte der Kinder- und Jugendliteratur
+4,PL.AKT,Theorie und Geschichte der Trivialliteratur
+4,PL.AKW,Theorie und Geschichte weiterer besonderer Literaturkategorien
+3,PL.AL,"Literatursoziologie und -politik, Literarisches Leben, literarische Stätten"
+3,PL.AM,"Literarische Themen, Stoffe und Motive"
+2,PL.D,Geschichte der deutschsprachigen Literatur
+3,PL.DE,Einzelne Epochen
+4,PL.DEA,Mittelalter (Anfänge bis 1400)
+4,PL.DEB,"Humanismus, Renaissance, Barock (1400-1700)"
+4,PL.DEK,"Aufklärung, Klassik, Romantik (1700-1815)"
+4,PL.DEN,19. Jahrhundert (1815-1918)
+4,PL.DEP,20. Jahrhundert (1918-1989)
+4,PL.DER,20. und 21. Jahrhundert (ab 1989)
+3,PL.DG,Einzelne Gattungen
+4,PL.DGD,Dramatik
+4,PL.DGE,Epik
+4,PL.DGL,Lyrik
+3,PL.DK,Besondere Literaturkategorien
+3,PL.DM,"Literarische Themen, Stoffe und Motive"
+3,PL.DR,Geschichte der deutschsprachigen Literatur nach Regionen und Mundarten
+3,PL.DT,Vermischte Schriften und Essays zur Geschichte der deutschsprachigen Literatur
+2,PL.E,Englische Literaturgeschichte
+3,PL.EM,Geschichte der nordamerikanischen Literatur
+3,PL.ES,Weitere englischsprachige Literatur Außereuropas
+2,PL.G,Geschichte der Weltliteratur
+3,PL.GA,Antike Literatur
+4,PL.GAG,Altgriechische Literatur
+4,PL.GAL,Lateinische Literatur
+3,PL.GF,Mittelalter
+3,PL.GN,Renaissance bis Realismus
+3,PL.GP,20. Jahrhundert
+3,PL.GR,21. Jahrhundert
+2,PL.K,Skandinavische Literaturgeschichte
+2,PL.O,Österreichische Literaturgeschichte
+3,PL.OE,Einzelne Epochen
+4,PL.OEA,1815 - 1848
+4,PL.OEB,1848 - 1918
+4,PL.OEC,1918 - 1945
+4,PL.OED,1945 - 1996
+4,PL.OEE,Ab 1996
+3,PL.OG,Einzelne Gattungen
+4,PL.OGD,Dramatik
+4,PL.OGE,Epik
+4,PL.OGL,Lyrik
+3,PL.OR,Österreichische Mundartliteratur
+3,PL.OT,Vermischte Schriften und Essays zur österreichischen Literaturgeschichte
+2,PL.Q,"Biographisches, Interpretationen"
+3,PL.QS,"Sammelbiographien, Sammeldarstellungen"
+3,PL.QW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+2,PL.R,Literaturgeschichte romanischer Sprachen
+3,PL.RF,Französische Literaturgeschichte
+4,PL.RFS,Französischsprachige Literaturen außerhalb Frankreichs
+3,PL.RI,Italienische Literaturgeschichte
+3,PL.RL,Lateinamerikanische Literaturgeschichte
+3,PL.RP,Portugiesische Literaturgeschichte
+3,PL.RS,Spanische Literaturgeschichte
+3,PL.RW,Literaturgeschichte weiterer romanischer Sprachen
+2,PL.S,Slawische Literaturgeschichte
+3,PL.SA,Slowakische Literaturgeschichte
+3,PL.SK,Kroatische Literaturgeschichte
+3,PL.SO,Slowenische Literaturgeschichte
+3,PL.SP,Polnische Literaturgeschichte
+3,PL.SR,Russische Literaturgeschichte
+3,PL.SS,Serbokroatische und serbische Literaturgeschichte
+3,PL.ST,Tschechische Literaturgeschichte
+3,PL.SW,Weitere slawische Literaturen
+2,PL.T,Weitere europäische Literaturen
+3,PL.TG,Neugriechische Literaturgeschichte
+3,PL.TI,Niederländische Literaturgeschichte
+3,PL.TU,Ungarische Literaturgeschichte
+2,PL.U,Außereuropäische Literaturen
+3,PL.UA,Arabische Literatur
+3,PL.UC,Chinesische Literatur
+3,PL.UF,Afrikanische Literaturen
+3,PL.UH,Hebräische Literatur
+3,PL.UJ,Japanische Literatur
+3,PL.UP,Persische Literatur
+3,PL.UT,Türkische Literatur
+2,PL.V,Literarische Essays
+1,PN,Pädagogik
+2,PN.A,Allgemeine und einführende Schriften
+3,PN.AE,"Systematische Pädagogik, pädagogische Anthropologie, Grundbegriffe und Strömungen der Pädagogik"
+3,PN.AG,Geschichte der Erziehung und der Pädagogik
+3,PN.AO,"Organisationen, Verbände, Methoden, Forschung"
+3,PN.AT,Klassische Texte
+3,PN.AV,Vermischte Schriften
+2,PN.G,"Kindergarten, Vorschule, Hort"
+2,PN.H,"Kinderdorf, Heimerziehung"
+2,PN.J,"Pädagogische Soziologie, Kindheits- und Jugendforschung, Jugendarbeit"
+3,PN.JR,Soziologie der Kindheit und Jugend in einzelnen Ländern und Regionen
+3,PN.JU,"Jugendarbeit, Jugendpolitik"
+2,PN.L,"Sonder- und Heilpädagogik, Integrationspädagogik, Mehrfachbehindertenpädagogik"
+3,PN.LG,Geistigbehindertenpädagogik
+3,PN.LH,Hörgeschädigtenpädagogik
+3,PN.LK,Körperbehindertenpädagogik
+3,PN.LL,Lernbehindertenpädagogik
+4,PN.LLH,Hyperaktivität
+4,PN.LLL,"Legasthenie, Lese-Rechtschreibschwäche"
+3,PN.LP,Sprachheilpädagogik
+3,PN.LS,Sehgeschädigtenpädagogik
+3,PN.LV,Verhaltensauffälligenpädagogik
+4,PN.LVA,Autismus
+3,PN.LW,Vermischte Schriften
+2,PN.M,Familienerziehung
+3,PN.MI,Kleinkind- und Vorschulalter
+3,PN.ML,Kindes- und Jugendalter
+3,PN.MP,Besondere familiäre Situationen
+4,PN.MPA,"Adoption, Pflegefamilie"
+4,PN.MPS,"Scheidung, Alleinerzieher"
+4,PN.MPT,"Trauern mit Kindern, Trauerarbeit, Sterbebegleitung"
+3,PN.MR,Freizeitgestaltung mit Kindern
+3,PN.MT,"Geistige, körperliche und soziale Entwicklung"
+2,PN.O,"Selbsterziehung, Umgangsformen"
+2,PN.Q,"Biographisches, Sekundärliteratur"
+3,PN.QS,"Sammelbiographie, Sammeldarstellungen"
+3,PN.QW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+2,PN.R,"Berufspädagogik, Berufsberatung, allgemeine Berufskunde"
+3,PN.RE,Berufsorientierung für Berufe mit Ländern
+3,PN.RG,"Berufsorientierung für Berufe mit Geschichte, Politik, Medien, Gesellschaft, Wirtschaft und Recht"
+3,PN.RK,Berufsorientierung für Berufe mit Kunst und Musik
+3,PN.RN,"Berufsorientierung für Berufe mit Naturwissenschaften, Medizin, Mathematik und Technik"
+3,PN.RP,"Berufsorientierung für Berufe mit Literatur, Sprache, Philosophie, Psychologie, Pädagogik, Religion"
+3,PN.RV,"Berufsorientierung für Berufe mit Freizeit, Lebensgestaltung und Sport"
+3,PN.RW,Vermischte Schriften
+3,PN.RX,Berufseignungstests
+2,PN.S,Pädagogische Psychologie
+3,PN.SE,"Gruppen-, Erlebnis- und Spielpädagogik, Freizeitgestaltung mit Kindern und Jugendlichen"
+3,PN.SG,Geschlechterbezogene Pädagogik
+3,PN.SI,"Interkulturelle Pädagogik, Ausländerpädagogik"
+3,PN.SL,Entspannung für Kinder
+3,PN.SM,Medienpädagogik
+4,PN.SMC,"Computer, Internet"
+4,PN.SML,Literatur
+4,PN.SMM,Fernsehen und Radio
+3,PN.SV,Gewalt
+3,PN.SW,Weitere Themen
+2,PN.T,"Unterrichtsforschung, Lehrpläne, Didaktik und Methodik des Unterrichts, Schulbücher"
+3,PN.TA,Allgemein bildende höhere Schule
+4,PN.TAB,Biologie und Umwelt
+4,PN.TAC,Chemie
+4,PN.TAD,Deutsch
+4,PN.TAE,Englisch
+4,PN.TAF,Französisch
+4,PN.TAG,Geographie
+4,PN.TAH,"Geschichte, Sozialkunde"
+4,PN.TAI,Informatik
+4,PN.TAK,"Werkerziehung, Handarbeiten"
+4,PN.TAL,"Latein, Altgriechisch"
+4,PN.TAM,"Mathematik, Darstellende Geometrie"
+4,PN.TAP,Physik
+4,PN.TAR,Religion
+4,PN.TAS,"Psychologie, Philosophie"
+4,PN.TAT,Sport
+4,PN.TAU,Musik
+4,PN.TAV,"Kunst, Bildnerische Erziehung"
+4,PN.TAW,Weitere Fächer
+3,PN.TF,Einzelne Schulstufen und weitere Schulformen
+4,PN.TFG,Volksschule
+4,PN.TFH,Hauptschule
+4,PN.TFL,"Polytechnischer Lehrgang, Berufsschule, Lehre"
+4,PN.TFM,Berufsbildende höhere und mittlere Schule
+3,PN.TM,Einzelne Unterrichtsmethoden
+4,PN.TMC,"Computerunterstütztes Lernen, E-Learning"
+3,PN.TT,Einzelthemen
+3,PN.TX,Schülerhilfen
+2,PN.U,"Schul- und Bildungswesen, Bildungsplanung und -politik"
+3,PN.UH,Hochschulwesen und -politik
+4,PN.UHR,"Studienführer, Vorlesungsverzeichnisse, Stipendienberatung"
+3,PN.UI,"Vergleichende Pädagogik, internationales Schulwesen"
+3,PN.UP,"Erwachsenen- und Volksbildung, Weiterbildung, Zweiter Bildungsweg, Umschulung, lebenslanges Lernen"
+4,PN.UPR,"Einrichtungen der Erwachsenen-, Volks- und Weiterbildung"
+3,PN.US,"Schulwesen, Schulpsychologie, Schulpädagogik"
+4,PN.USB,"Beruf, Aus- und Fortbildung des Lehrers"
+4,PN.USF,Einzelne Schulstufen und -formen
+4,PN.USL,Schulleben
+4,PN.USP,Schulpsychologie und -pädagogik
+3,PN.UV,Vermischte Schriften
+2,PN.W,"Methode und Technik der geistigen Arbeit, Prüfungsvorbereitung"
+3,PN.WL,Praktische Lerntechnik
+3,PN.WS,Verfassen von schriftlichen Arbeiten
+1,PP,Psychologie
+2,PP.A,Allgemeine und einführende Schriften
+3,PP.AG,Allgemeine Geschichte
+3,PP.AM,Methoden
+4,PP.AMT,"Psychodiagnostik, Testpsychologie"
+3,PP.AO,"Organisationen, Beruf, Studium"
+3,PP.AV,Vermischte Schriften
+2,PP.C,Allgemeine Psychologie
+3,PP.CG,"Gedächtnis, Lernen, Kreativität, Begabung, Intelligenz"
+4,PP.CGR,Kreativitäts- und Gedächtnistraining
+3,PP.CM,"Motivation, Affekt, Gefühl, Trieb, Wille"
+3,PP.CS,Schlaf- und Traumforschung
+3,PP.CW,"Wahrnehmung, Aufmerksamkeit, Vorstellung"
+2,PP.D,"Persönlichkeits- und Differentielle Psychologie, Ausdruckspsychologie, Menschenkenntnis"
+3,PP.DK,Ausdruckspsychologie
+2,PP.E,Entwicklungspsychologie
+3,PP.EA,Erwachsenen- und Alterspsychologie
+4,PP.EAR,Ratgeber für ältere Menschen
+3,PP.EK,Kinder- und Jugendpsychologie
+4,PP.EKC,Psychologie der Kinderzeichnung
+4,PP.EKM,"Gewalt gegen Kinder, Kindesmisshandlung, Kindesmissbrauch"
+4,PP.EKR,Ratgeber für Jugendliche
+2,PP.G,Psychologie der Sexualität und der Geschlechter
+3,PP.GF,Psychologie der Frau und der weiblichen Sexualität
+4,PP.GFR,Psychologische Ratgeber für Frauen
+3,PP.GM,Psychologie des Mannes und der männlichen Sexualität
+4,PP.GMR,Psychologische Ratgeber für Männer
+2,PP.H,Strömungen der Psychologie und Psychotherapie
+3,PP.HA,Ausbildung
+3,PP.HB,Behavioristisch und verhaltenstherapeutisch orientierte Ansätze der Psychotherapie
+3,PP.HH,Humanistisch orientierte Ansätze der Psychotherapie
+3,PP.HK,"Kreativitäts-, körper- und bewegungsorientierte Ansätze der Psychotherapie"
+3,PP.HL,"Phänomenologische Psychologie, Daseinsanalyse"
+3,PP.HP,Psychoanalytisch orientierte Ansätze der Psychotherapie
+3,PP.HS,Systemisch orientierte Ansätze der Psychotherapie
+3,PP.HT,"Suggestive, transpersonale und spirituell orientierte Ansätze der Psychotherapie"
+3,PP.HV,Weitere Richtungen der Psychologie und Psychotherapie
+3,PP.HW,Einzelfragen zur Methodik der Psychotherapie
+4,PP.HWS,Supervision
+2,PP.K,Klinische Psychologie
+3,PP.KA,"Angststörungen, Depression, Posttraumatische Belastungsstörung"
+4,PP.KAS,Suizid
+3,PP.KE,Essstörungen
+3,PP.KG,Klinische Gerontopsychologie
+3,PP.KK,Klinische Kinder- und Jugendpsychologie und -psychiatrie
+3,PP.KP,Neurotische und Borderlinepersönlichkeitsstörungen
+3,PP.KW,Zwangsstörungen
+2,PP.Q,"Biographisches, Sekundärliteratur"
+3,PP.QS,"Sammelbiographien, Sammeldarstellungen"
+3,PP.QW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+2,PP.S,Sozialpsychologie
+3,PP.SG,"Psychologie der Gruppe, Kommunikationspsychologie"
+4,PP.SGR,Ratgeber Kommunikation und Konflikt im sozialen Alltag
+3,PP.SU,"Massenpsychologie, Psychologie der Kultur, interkulturelle Psychologie"
+3,PP.SV,Vermischte Schriften und weitere Themen
+2,PP.Y,Psychologische Ratgeber zur Lebensführung
+3,PP.YL,"Ratgeber Familie, Partnerschaft, Beziehung, Partnersuche, Trennung, Scheidung"
+4,PP.YLB,Ratgeber Partnerschaft und Beziehung
+4,PP.YLS,Ratgeber Partnersuche
+4,PP.YLT,Ratgeber Trennung und Scheidung
+3,PP.YP,Ratgeber Lebenskrisen und -probleme
+4,PP.YPT,"Ratgeber Todesfall, Trauer"
+3,PP.YS,Spiritualität im Alltag
+3,PP.YW,Theorie der psychologischen Beratung
+1,PR,"Religion, Esoterik"
+2,PR.A,Allgemeine und einführende Schriften
+3,PR.AD,Interreligiöser Dialog
+3,PR.AI,Religionsphilosophie
+3,PR.AM,Allgemeine Religionsphänomenologie
+4,PR.AMM,Mystik
+4,PR.AMS,Spiritualität
+4,PR.AMY,Symbolkunde
+3,PR.AO,"Geschichte, Forschung, Ausbildung, Beruf"
+3,PR.AP,Religionspsychologie
+3,PR.AS,"Religionssoziologie, Religionsgeographie"
+3,PR.AT,Klassische Texte und Gesamtausgaben
+3,PR.AV,Vermischte Schriften
+2,PR.C,"Christentum, christliche Religionen, christliche Theologie"
+3,PR.CA,"Kirchenverwaltung, Wesen des Christentums"
+3,PR.CB,Bibelwissenschaft
+4,PR.CBA,Altes Testament
+4,PR.CBN,Neues Testament
+4,PR.CBT,Bibel: Textausgaben
+3,PR.CG,Geschichte des Christentums
+4,PR.CGA,"Urchristentum, Patristik"
+4,PR.CGB,Mittelalter
+4,PR.CGC,"Reformation, Gegenreformation"
+4,PR.CGD,Aufklärung bis 1789
+4,PR.CGE,1789 bis 1945
+4,PR.CGF,Ab 1945
+4,PR.CGL,Einzelne Länder
+4,PR.CGO,Österreich
+4,PR.CGT,Einzelthemen
+3,PR.CK,"Katholisches Christentum, römisch-katholische Kirche"
+4,PR.CKO,"Katholisches Mönchtum, katholische Orden"
+4,PR.CKP,"Papsttum, Papstgeschichte"
+4,PR.CKV,Vermischte Schriften
+3,PR.CL,Protestantismus
+3,PR.CM,Orthodoxes Christentum
+3,PR.CN,Andere christliche Gemeinschaften
+3,PR.CP,Praktische Theologie
+4,PR.CPF,"Frömmigkeit, christliche Lebensführung"
+4,PR.CPH,Predigtlehre
+4,PR.CPL,Liturgik
+4,PR.CPM,Mission
+4,PR.CPP,"Religionspädagogik, Katechetik"
+4,PR.CPS,"Pastoraltheologie, Seelsorge"
+3,PR.CS,"Systematische Theologie, allgemeine Konfessionskunde"
+4,PR.CSD,"Dogmatik, Fundamentaltheologie"
+4,PR.CSE,"Christliche Ethik und Soziallehre, Moraltheologie"
+4,PR.CSF,Feministische Theologie
+4,PR.CSM,"Irenik, Ökumene"
+4,PR.CSP,Politische Theologie
+3,PR.CT,Klassische Texte des Christentums
+2,PR.D,Antike Religionen und alte Volksreligionen Europas
+3,PR.DK,"Keltische, germanische und slawische Religionen"
+3,PR.DL,"Griechische, etruskische, römische und hellenistische Religionen"
+3,PR.DO,Altorientalische Religionen
+2,PR.E,Religionen Asiens
+3,PR.EB,Buddhismus
+4,PR.EBE,Einzelthemen
+4,PR.EBL,Buddhistische Religion in einzelnen Ländern
+4,PR.EBT,Klassische Texte
+3,PR.EC,Chinesische und japanische Religionen
+3,PR.EH,"Hinduismus, Brahmanen, Vedismus"
+2,PR.I,Islam
+3,PR.IL,Islam in einzelnen Ländern
+3,PR.IT,Klassische Texte
+2,PR.J,Judentum
+3,PR.JL,Judentum in einzelnen Ländern
+3,PR.JT,Klassische Texte und Auslegung
+2,PR.N,Naturreligionen und weitere Religionen
+3,PR.NF,Religionen Afrikas
+3,PR.NM,Religionen Altamerikas
+2,PR.O,"Sonstige religiöse Phänomene und weltanschauliche Bewegungen, Esoterik"
+3,PR.OA,"Anthroposophie, Theosophie"
+3,PR.OF,Freimaurer
+3,PR.ON,"Neureligiöse Bewegungen, Sekten, New Age"
+4,PR.ONS,Neue Satans- und Hexenkulte
+3,PR.OP,"Parapsychologie, ungeklärte Phänomene"
+3,PR.OS,"Astrologie, Numerologie, Weissagung"
+3,PR.OV,"Aberglaube, Magie, Volksglaube"
+2,PR.Q,"Biographisches, Sekundärliteratur"
+3,PR.QG,"Religion, Esoterik"
+4,PR.QGS,"Sammelbiographien, Sammeldarstellungen"
+4,PR.QGW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+3,PR.QR,"Religionswissenschaft, Theologie"
+4,PR.QRS,"Sammelbiographien, Sammeldarstellungen"
+4,PR.QRW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+0,S,Spiele
+1,SP,Spiele
+2,SP.B,Brett- und Tischspiele
+3,SP.BD,Denkspiele
+4,SP.BDG,Gedächtnisspiele
+4,SP.BDK,Kombinations- und Dekodierungsspiele
+4,SP.BDL,Solitärspiele
+4,SP.BDS,Strategische Denkspiele
+4,SP.BDT,Taktisch-topologische Denkspiele
+3,SP.BG,Würfel- und Glücksspiele
+4,SP.BGF,Such- und Fangspiele
+4,SP.BGG,Glücksspiele
+4,SP.BGK,Reine Würfelspiele
+4,SP.BGS,Start-Ziel-Spiele
+4,SP.BGT,Taktische Würfelspiele
+3,SP.BL,Legespiele
+4,SP.BLB,Buchstabenlegespiele
+4,SP.BLF,Figurenlegespiele
+4,SP.BLI,Bilderlegespiele
+4,SP.BLL,Lottospiele
+4,SP.BLN,Zahlenlegespiele
+4,SP.BLT,Taktische Legespiele
+4,SP.BLZ,Zeichenlegespiele
+3,SP.BR,Rollenspiele
+4,SP.BRA,Abenteuerspiele
+4,SP.BRF,Fantasy- und SF-Rollenspiele
+4,SP.BRG,Gesellschaftsspiele
+4,SP.BRK,Kriminal- und Agentenspiele
+4,SP.BRO,Kriegs- und Konfliktsimulationsspiele
+4,SP.BRR,Reisespiele
+4,SP.BRS,Sport- und Rennspiele
+4,SP.BRV,Verkehrsspiele
+4,SP.BRW,Wirtschaftsspiele
+3,SP.BS,Geschicklichkeits- und Aktionsspiele
+4,SP.BSA,Aktionsspiele
+4,SP.BSG,Geschicklichkeitsspiele
+4,SP.BSP,Sportspiele
+4,SP.BSR,Reaktionsspiele
+3,SP.BW,Weitere Brett- und Tischspiele
+4,SP.BWP,Psycho- und Konversationsspiele
+4,SP.BWS,Spielesammlungen
+4,SP.BWV,Verschiedene Spiele
+2,SP.K,Kartenspiele
+3,SP.KA,Abstrakte Kartenspiele
+4,SP.KAA,Augenspiele
+4,SP.KAB,Kartenbesitzspiele
+4,SP.KAL,Ablegespiele
+3,SP.KK,Kommunikationsspiele
+4,SP.KKF,Frage und Antwort
+4,SP.KKK,Kreativspiele
+4,SP.KKW,Wahrsagekarten
+3,SP.KR,Rollenspiele
+4,SP.KRA,Abenteuerspiele
+4,SP.KRF,Fantasy- und SF-Spiele
+4,SP.KRG,Gesellschaftsspiele
+4,SP.KRK,Kriminal- und Agentenspiele
+4,SP.KRO,Kriegs- und Konfliktsimulationsspiele
+4,SP.KRP,Sport- und Rennspiele
+4,SP.KRV,Verkehrsspiele
+4,SP.KRW,Wirtschaftsspiele
+2,SP.L,Lernspiele
+2,SP.O,Outdoorspiele
+2,SP.R,Quiz
+3,SP.RB,Quizspiel als Brett- und Tischspiel
+3,SP.RK,Quizspiel mit Karten
+2,SP.U,Computer- und Konsolenspiele
+3,SP.UA,"Actionspiele, Geschicklichkeitsspiele"
+3,SP.UB,Abenteuerspiele
+3,SP.UF,"Flug-, Fahr- und Sportsimulationsspiele"
+3,SP.UL,Lernspiele
+3,SP.UM,Wirtschaftssimulationsspiele
+3,SP.UT,Strategiespiele
+3,SP.UW,Umsetzungen traditioneller Spiele
+2,SP.V,Spielesammlungen
+0,T,"CDs, CD-Roms, Videos, DVDs, E-Medien, andere Audio- und Videomedien"
+1,TA,Audio-DVDs
+2,TA.NUM,Musik auf Audio-DVD
+3,TA.01,Klassik instrumental
+3,TA.02,Zeitgenössische Moderne
+3,TA.03,Oper
+3,TA.04,Operette
+3,TA.05,Geistliche Werke mit Gesang
+3,TA.06,Sängerportraits
+3,TA.07,Weltliche Werke mit Gesang
+3,TA.08,"Mittelalter, Renaissance"
+3,TA.09,"Pop, Rock, Rap etc."
+3,TA.10,"Jazz, Blues, Gospels"
+3,TA.11,"Volksmusik, Worldmusic"
+3,TA.12,"Chansons, Liedermacher"
+3,TA.13,"Gebrauchsmusik, Schlager"
+3,TA.14,Filmmusik
+3,TA.15,"Playback-Aufnahmen, Übungs-DVDs"
+3,TA.16,Geräusche
+3,TA.17,Meditationsmusik
+3,TA.18,Musical
+4,TA.SYS,Literarisches Hörbuch und Hörsachbuch auf Audio-DVD
+1,TC,Tonkassetten
+2,TC.SYS,Literarisches Hörbuch und Hörsachbuch auf Kassette
+1,TD,CDs
+2,TD.NUM,Musik auf CD
+3,TD.01,Klassik instrumental
+3,TD.02,Zeitgenössische Moderne
+3,TD.03,Oper
+3,TD.04,Operette
+3,TD.05,Geistliche Werke mit Gesang
+3,TD.06,Sängerportraits
+3,TD.07,Weltliche Werke mit Gesang
+3,TD.08,"Mittelalter, Renaissance"
+3,TD.09,"Pop, Rock, Rap etc."
+3,TD.10,"Jazz, Blues, Gospels"
+3,TD.11,"Volksmusik, Worldmusic"
+3,TD.12,"Chansons, Liedermacher"
+3,TD.13,"Gebrauchsmusik, Schlager"
+3,TD.14,Filmmusik
+3,TD.15,"Playback-Aufnahmen, Übungs-CDs"
+3,TD.16,Geräusche
+3,TD.17,Meditationsmusik
+3,TD.18,Musical
+4,TD.SYS,Literarisches Hörbuch und Hörsachbuch auf CD
+1,TE,E-Books
+2,TE.SYS,E-Books  zu einzelnen Systematikgebieten
+1,TF,E-Video
+2,TF.NUM,Spielfilme auf E-Video
+3,TF.01,Autorenfilme
+3,TF.02,"Cartoon: Animationsfilm, Zeichentrick- und Puppenfilm"
+3,TF.03,"Kunst: Filme von Videokünstlern, Experimentalfilm, Avantgardefilm, Untergrundfilm, Kurzfilm"
+3,TF.04,"Comedy, Komödie, Slapstick, Satire, deutscher Unterhaltungsfilm"
+3,TF.05,"Musikfilm, Tanzfilm, Show"
+3,TF.06,"Kriminalfilm, Film Noir, Agentenfilm, Detektivfilm, Polizeifilm, Gefängnisfilm"
+3,TF.07,"Phantastischer Film, Science Fiction- und Utopischer Film, Mystik"
+3,TF.08,"Adventure: Action- und Katastrophenfilm, Kriegs- und Antikriegsfilm, Mafia, Abenteuerfilm, Road Movie, Asiatischer Kampffilm"
+3,TF.09,Western
+3,TF.10,"Heimatfilm, Wiener Film, Tourismusfilm"
+3,TF.11,"Politischer und Sozialkritischer Film, Feministischer Film"
+3,TF.12,"Monumental- und Historischer Film, Kostümfilm"
+3,TF.13,"Horrorfilm, Splattermovie"
+3,TF.14,"Drama: Tragödie, Liebesfilm, Familienepos, Melodram, Kinder- und Jugendproblematik"
+3,TF.15,Literaturverfilmungen
+3,TF.16,Stummfilm
+3,TF.17,Dokumentarfilm
+3,TF.18,Serien (TV- und Miniserien)
+4,TF.SYS,E-Videos zu einzelnen Systematikgebieten
+1,TG,Diverse Audio- und Videomedien
+2,TG.SYS,"Diverse Audio- und Videomedien (z.B. Tonies, USB-Sticks)"
+1,TH,E-Audio
+2,TH.NUM,Musik auf E-Audio
+3,TH.01,Klassik instrumental
+3,TH.02,Zeitgenössische Moderne
+3,TH.03,Oper
+3,TH.04,Operette
+3,TH.05,Geistliche Werke mit Gesang
+3,TH.06,Sängerportraits
+3,TH.07,Weltliche Werke mit Gesang
+3,TH.08,"Mittelalter, Renaissance"
+3,TH.09,"Pop, Rock, Rap etc."
+3,TH.10,"Jazz, Blues, Gospels"
+3,TH.11,"Volksmusik, Worldmusic"
+3,TH.12,"Chansons, Liedermacher"
+3,TH.13,"Gebrauchsmusik, Schlager"
+3,TH.14,Filmmusik
+3,TH.15,Playback-Aufnahmen
+3,TH.16,Geräusche
+3,TH.17,Meditationsmusik
+3,TH.18,Musical
+4,TH.SYS,Literarisches Hörbuch und Hörsachbuch auf E-Audio
+1,TO,DVD-Roms
+2,TO.SYS,DVD-Roms zu einzelnen Sachgebieten
+1,TR,CD-Roms
+2,TR.SYS,CD-Roms zu einzelnen Sachgebieten
+1,TS,Schallplatten
+2,TS.NUM,Musikschallplatten
+3,TS.01,Klassik instrumental
+3,TS.02,Zeitgenössische Moderne
+3,TS.03,Oper
+3,TS.04,Operette
+3,TS.05,Geistliche Werke mit Gesang
+3,TS.06,Sängerportraits
+3,TS.07,Weltliche Werke mit Gesang
+3,TS.08,"Mittelalter, Renaissance"
+3,TS.09,"Pop, Rock, Rap etc."
+3,TS.10,"Jazz, Blues, Gospels"
+3,TS.11,"Volksmusik, Worldmusic"
+3,TS.12,"Chansons, Liedermacher"
+3,TS.13,"Gebrauchsmusik, Schlager"
+3,TS.14,Filmmusik
+3,TS.15,Playback-Aufnahmen
+3,TS.16,Geräusche
+3,TS.17,Meditationsmusik
+3,TS.18,Musical
+1,TT,Video-DVDs
+2,TT.KM.NUM,Musikvideos und Konzerte auf DVD
+3,TT.KM.01,Klassik instrumental
+3,TT.KM.02,Zeitgenössische Moderne
+3,TT.KM.03,Oper
+3,TT.KM.04,Operette
+3,TT.KM.05,Geistliche Werke mit Gesang
+3,TT.KM.06,Sängerportraits
+3,TT.KM.07,Weltliche Werke mit Gesang
+3,TT.KM.08,"Mittelalter, Renaissance"
+3,TT.KM.09,"Pop, Rock, Rap etc."
+3,TT.KM.10,"Jazz, Blues, Gospels"
+3,TT.KM.11,"Volksmusik, Worldmusic"
+3,TT.KM.12,"Chansons, Liedermacher"
+3,TT.KM.13,"Gebrauchsmusik, Schlager"
+3,TT.KM.14,Filmmusik
+3,TT.KM.15,"Playback-Aufnahmen, Übungs-DVDs"
+3,TT.KM.16,Geräusche
+3,TT.KM.17,Meditationsmusik
+3,TT.KM.18,Musical
+2,TT.NUM,Spielfilme auf DVD
+3,TT.01,Autorenfilme
+3,TT.02,"Cartoon: Animationsfilm, Zeichentrick- und Puppenfilm"
+3,TT.03,"Kunst: Filme von Videokünstlern, Experimentalfilm, Avantgardefilm, Untergrundfilm, Kurzfilm"
+3,TT.04,"Comedy, Komödie, Slapstick, Satire, deutscher Unterhaltungsfilm"
+3,TT.05,"Musikfilm, Tanzfilm, Show"
+3,TT.06,"Kriminalfilm, Film Noir, Agentenfilm, Detektivfilm, Polizeifilm, Gefängnisfilm"
+3,TT.07,"Phantastischer Film, Science Fiction- und Utopischer Film, Mystik"
+3,TT.08,"Adventure: Action- und Katastrophenfilm, Kriegs- und Antikriegsfilm, Mafia, Abenteuerfilm, Road Movie, Asiatischer Kampffilm"
+3,TT.09,Western
+3,TT.10,"Heimatfilm, Wiener Film, Tourismusfilm"
+3,TT.11,"Politischer und Sozialkritischer Film, Feministischer Film"
+3,TT.12,"Monumental- und Historischer Film, Kostümfilm"
+3,TT.13,"Horrorfilm, Splattermovie"
+3,TT.14,"Drama: Tragödie, Liebesfilm, Familienepos, Melodram, Kinder- und Jugendproblematik"
+3,TT.15,Literaturverfilmungen
+3,TT.16,Stummfilm
+3,TT.17,Dokumentarfilm
+3,TT.18,Serien (TV- und Miniserien)
+4,TT.SYS,DVDs zu einzelnen Systematikgebieten
+1,TV,Videokassetten
+2,TV.KM.NUM,"Musikvideos, Konzerte auf Videokassette"
+3,TV.KM.01,Klassik instrumental
+3,TV.KM.02,Zeitgenössische Moderne
+3,TV.KM.03,Oper
+3,TV.KM.04,Operette
+3,TV.KM.05,Geistliche Werke mit Gesang
+3,TV.KM.06,Sängerportraits
+3,TV.KM.07,Weltliche Werke mit Gesang
+3,TV.KM.08,"Mittelalter, Renaissance"
+3,TV.KM.09,"Pop, Rock, Rap etc."
+3,TV.KM.10,"Jazz, Blues, Gospels"
+3,TV.KM.11,"Volksmusik, Worldmusic"
+3,TV.KM.12,"Chansons, Liedermacher"
+3,TV.KM.13,"Gebrauchsmusik, Schlager"
+3,TV.KM.14,Filmmusik
+3,TV.KM.15,"Playback-Aufnahmen, Übungs-Videos"
+3,TV.KM.16,Geräusche
+3,TV.KM.17,Meditationsmusik
+3,TV.KM.18,Musical
+2,TV.NUM,Spielfilme auf Videokassette
+3,TV.01,Autorenfilme
+3,TV.02,"Cartoon: Animationsfilm, Zeichentrick- und Puppenfilm"
+3,TV.03,"Kunst: Filme von Videokünstlern, Experimentalfilm, Avantgardefilm, Untergrundfilm, Kurzfilm"
+3,TV.04,"Comedy, Komödie, Slapstick, Satire, deutscher Unterhaltungsfilm"
+3,TV.05,"Musikfilm, Tanzfilm, Show"
+3,TV.06,"Kriminalfilm, Film Noir, Agentenfilm, Detektivfilm, Polizeifilm, Gefängnisfilm"
+3,TV.07,"Phantastischer Film, Science Fiction- und Utopischer Film, Mystik"
+3,TV.08,"Adventure: Action- und Katastrophenfilm, Kriegs- und Antikriegsfilm, Mafia, Abenteuerfilm, Road Movie, Asiatischer Kampffilm"
+3,TV.09,Western
+3,TV.10,"Heimatfilm, Wiener Film, Tourismusfilm"
+3,TV.11,"Politischer und Sozialkritischer Film, Feministischer Film"
+3,TV.12,"Monumental- und Historischer Film, Kostümfilm"
+3,TV.13,"Horrorfilm, Splattermovie"
+3,TV.14,"Drama: Tragödie, Liebesfilm, Familienepos, Melodram, Kinder- und Jugendproblematik"
+3,TV.15,Literaturverfilmungen
+3,TV.16,Stummfilm
+3,TV.17,Dokumentarfilm
+3,TV.18,Serien (TV- und Miniserien)
+4,TV.SYS,Videokassetten zu einzelnen Systematikgebieten
+1,TZ,E-Paper
+2,TZ.SYS,E-Paper zu einzelnen Sachgebieten
+0,V,"Freizeit, Spiele, Hobbies. Haushalt, Kochen, Wohnen. Sport"
+1,VB,"Kreative Beschäftigung, Spiele, Feste, Hobbies"
+2,VB.A,Allgemeine und übergreifende Schriften
+2,VB.B,Basteln
+3,VB.BA,Basteln zu Advent und Weihnachten
+3,VB.BB,Basteln zu Ostern
+3,VB.BC,"Basteln von Geschenken, Verpackungen und Karten"
+3,VB.BD,"Basteln von Dekorativem für Wohnung, Haus und Garten"
+3,VB.BG,Basteln von Schmuck und Accessoires
+3,VB.BI,Basteln von Spielen und Spielzeug
+3,VB.BK,"Basteln mit Glas, Ton, Keramik und Porzellan"
+3,VB.BL,Basteln mit Holz
+3,VB.BM,Basteln mit Metall
+3,VB.BP,Basteln mit Papier
+3,VB.BT,"Basteln mit Textilien, Leder und Fell"
+3,VB.BW,"Basteln mit weiteren Materialien, zu weiteren Themen und Anlässen"
+2,VB.C,Sammeln
+3,VB.CB,"Briefmarkensammeln, Philatelie"
+3,VB.CM,"Münzsammeln, Numismatik"
+2,VB.F,Spiele
+3,VB.FA,Kulturgeschichte des Spiels und Spielzeugs
+3,VB.FB,Brettspiele
+4,VB.FBS,Schach
+3,VB.FC,Computerspiele
+3,VB.FG,Gesellschaftsspiele
+3,VB.FJ,Kinderspiele
+3,VB.FK,Kartenspiele
+3,VB.FL,Glücksspiele
+3,VB.FR,"Denksport, Rätsel"
+4,VB.FRZ,Zaubertricks
+3,VB.FW,Weitere Spiele
+2,VB.Q,"Biographisches, Sekundärliteratur"
+3,VB.QS,"Sammelbiographien, Sammeldarstellungen"
+2,VB.T,"Feste, Festgestaltung"
+3,VB.TG,Kulturgeschichte
+3,VB.TH,Hochzeit
+3,VB.TJ,Kinderfeste
+3,VB.TX,"Advent, Weihnachten"
+3,VB.TY,Ostern
+1,VK,"Schönheitspflege, Kosmetik, Frisur, Mode, Outfit"
+2,VK.B,Berufskunde
+2,VK.F,Frisur
+2,VK.K,"Kosmetik, Piercing, Tätowierung"
+2,VK.M,Mode
+3,VK.MR,Ratgeber
+2,VK.Q,"Biographisches, Sekundärliteratur"
+3,VK.QS,"Sammelbiographien, Sammeldarstellungen"
+3,VK.QW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+1,VL,"Haushalt, Kochen, Wohnen"
+2,VL.A,Allgemeine und einführende Schriften
+2,VL.K,Kochen und Lebensmittelkunde
+3,VL.KA,Kulturgeschichte des Essens
+3,VL.KB,Berufskunde
+3,VL.KC,"Konservieren, Vorratshaltung"
+3,VL.KD,Tischkultur
+3,VL.KF,"Nahrungs-, Genussmittel- und Getränkekunde"
+4,VL.KFA,Herstellung von Getränken im Haushalt
+4,VL.KFB,"Bier, Spirituosen"
+4,VL.KFK,"Kaffee, Tee, Kakao"
+4,VL.KFT,Tabak
+4,VL.KFW,Wein
+4,VL.KFZ,"Weitere Nahrungsmittel, Genussmittel und Getränke"
+3,VL.KH,Allgemeine Kochbücher und Rezeptsammlungen
+3,VL.KL,Kochen: Zubereitung einzelner Lebensmittel
+4,VL.KLF,"Fleisch, Geflügel, Wild"
+4,VL.KLG,"Getreide, Getreideerzeugnisse"
+4,VL.KLI,"Milch, Eier"
+4,VL.KLM,"Fisch, Meeresfrüchte"
+4,VL.KLO,"Obst, Gemüse"
+4,VL.KLV,Weitere Lebensmittel
+3,VL.KN,"Backen, Konfektherstellung"
+4,VL.KNB,"Brot, Pizza, salziges Gebäck"
+4,VL.KNK,"Kuchen, Konfekt, süßes Gebäck"
+3,VL.KP,Kochen: Zubereitung einzelner Speisen aus verschiedenen Lebensmitteln
+4,VL.KPH,Hauptspeisen
+4,VL.KPN,Nachspeisen
+4,VL.KPV,"Vorspeisen, Suppen"
+4,VL.KPW,Weitere Speisen
+3,VL.KR,Regionale Kochkunst
+4,VL.KRE,Europa
+4,VL.KRO,Österreich
+4,VL.KRS,Außereuropa
+3,VL.KS,Kochen: Spezielle Zubereitungsarten und -geräte
+3,VL.KV,Vollwert- und vegetarische Küche
+3,VL.KW,Weitere Themen
+2,VL.Q,"Biographisches, Sekundärliteratur"
+3,VL.QS,"Sammelbiographien, Sammeldarstellungen"
+3,VL.QW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+2,VL.T,"Handarbeiten, Schneidern, Nähen, Textilpflege"
+3,VL.TH,"Handarbeit, Schneidern, Nähen"
+3,VL.TP,"Häusliche Textilpflege, Wäsche"
+2,VL.W,Wohnungseinrichtung und -pflege
+1,VS,Sport
+2,VS.A,Allgemeine und einführende Schriften
+3,VS.AB,Behindertensport
+3,VS.AF,Freizeitsport
+4,VS.AFA,Freizeitsport im Alter
+3,VS.AG,Geschichte
+3,VS.AM,"Sportmedizin, Allgemeine Bewegungs- und Trainingslehre"
+4,VS.AME,Sportpädagogik
+4,VS.AMH,Sportpsychologie
+4,VS.AMM,Sportmedizin
+3,VS.AP,"Sportpolitik, Sportförderung, Sportausrüstung, Ausbildung"
+3,VS.AV,Vermischte Schriften
+2,VS.B,"Wandern, Bergsteigen"
+2,VS.F,Flugsport
+2,VS.H,"Kampfsport, Kraftsport, Schwerathletik"
+3,VS.HO,"Selbstverteidigungssport, Ostasiatische Kampfsportarten"
+2,VS.I,Wintersport
+3,VS.IS,Schilauf
+2,VS.L,Leichtathletik
+3,VS.LL,Laufsport
+2,VS.M,Motorsport
+3,VS.MA,Automobilmotorsport
+3,VS.MR,Motorradsport
+2,VS.O,Sonstige Sportarten
+3,VS.OK,Kugelspiele
+3,VS.OR,Rollsport
+3,VS.OS,Schießsport
+2,VS.P,Pferdesport
+2,VS.Q,"Biographisches, Sekundärliteratur"
+3,VS.QS,"Sammelbiographien, Sammeldarstellungen"
+3,VS.QW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+2,VS.R,Radsport
+2,VS.S,Ballspiele
+3,VS.SF,Fußball
+3,VS.SG,Golf
+3,VS.SH,"Handball, Basketball, Volleyball"
+3,VS.ST,"Tennis, Squash, Badminton, Tischtennis"
+3,VS.SW,Weitere Ballspiele
+2,VS.T,"Gymnastik, Turnen"
+3,VS.TK,Gymnastik und Turnen für Kinder
+2,VS.W,Wassersport
+3,VS.WG,Segeln
+3,VS.WS,Schwimmen
+3,VS.WT,Tauchen
+3,VS.WU,"Windsurfen, Wellenreiten, Wasserschifahren"
+3,VS.WW,Weitere Wassersportarten
+1,VW,Weitere Themen der Lebens- und Freizeitgestaltung
+2,VW.Q,"Biographisches, Sekundärliteratur"
+3,VW.QS,"Sammelbiographien, Sammeldarstellungen"
+3,VW.QW,"Erlebnisberichte, biographische und autobiographische Darstellungen sonstiger Personen"
+0,W,Internetressourcen
+1,W.SYS,Internetressourcen zu einzelnen Sachgebieten
+0,Y,Geräte und Gegenstände
+1,YE,Elektronische Geräte
+2,YE.L,"Laptop, Tablet"
+2,YE.M,MP3 Player
+2,YE.R,E-Reader
+2,YE.S,"Lese- und Hörstifte (z.B. Tiptoi, Ting, Bookie)"
+2,YE.T,Tonie Box
+1,YF,Fahrzeuge
+1,YS,Sportgeräte
+1,YV,Verschiedene/Sonstige Gegenstände
+1,YW,"Werkzeug, elektrische Geräte"
+0,Z,Zeitschriften
+1,Z.SYS,Zeitschriften zu einzelnen Sachgebieten
