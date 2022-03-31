@@ -1,6 +1,7 @@
-Die **Systematik der Deutschen Nationalbibliographie** basiert auf der DDC und ist auf Klassen der DDC gemappt. 
+# DDC-Sachgruppen der DNB (ab 2004)
 
-Die Klassifikation ist [als PDF](https://www.dnb.de/SharedDocs/Downloads/DE/Professionell/DDC/ddcSachgruppenDNBAb2013.pdf?__blob=publicationFile&v=4) verfügbar.
-Zur Konvertierung nach JSKOS wird eine Turtle-Datei auf Grundlage einer älteren Konvertierung nach RDF verwendet.
+Die **DDC-Sachgruppen** basieren auf der DDC und sind auf Klassen der DDC gemappt. 
+
+Nachfolger der Systematik der Deutschen Nationalbibliographie (bis 2003) .
 
 Als Namensraum verwenden wir <http://uri.gbv.de/terminology/sdnb>.

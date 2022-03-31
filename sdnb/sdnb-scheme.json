@@ -1,0 +1,32 @@
+{
+  "altLabel": {
+    "de": [
+      "DDC-Sachgruppen"
+    ]
+  },
+  "identifier": [
+    "http://www.wikidata.org/entity/Q67011877",
+    "http://uri.gbv.de/terminology/sdnb"
+  ],
+  "namespace": "http://uri.gbv.de/terminology/sdnb/",
+  "notation": [
+    "SDNB"
+  ],
+  "notationPattern": "[0-9]([0-9][0-9](\\.[0-9][0-9]?)?)?|[BKS]",
+  "prefLabel": {
+    "de": "Sachgruppen der DNB"
+  },
+  "publisher": [
+    {
+      "prefLabel": {
+        "en": "Deutsche Nationalbibliothek"
+      },
+      "uri": "http://viaf.org/viaf/148328332"
+    }
+  ],
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+    "http://w3id.org/nkos/nkostype#classification_schema"
+  ],
+  "uri": "http://bartoc.org/en/node/20049"
+}
