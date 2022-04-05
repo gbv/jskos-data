@@ -5,7 +5,7 @@
 
 This repository contains a collection of Knowledge Organization Systems (KOS) and related data encoded in [JSKOS data format](https://gbv.github.io/jskos/). The collection is part of [project coli-conc](https://coli-conc.gbv.de/).
 
-## Overview
+## Usage
 
 Each KOS data is located in a subdirectory `$ID` (lowercase short name or acronym) with either one or more of the following JSKOS data files:
 
@@ -17,6 +17,12 @@ The files should be generated automatically via a `Makefile`. Its sources such a
 Very large vocabularies are not fully committed to the repository.
 
 Script `status.sh` lists all directories and their relevant files.
+
+To re-generate jskos for a given vocabulary, run:
+
+    make -sBC $ID
+
+After having collected, cleaned and converted JSKOS data, see <https://github.com/gbv/cocoda-services#usage>.
 
 ## Requirements
 
@@ -33,8 +39,6 @@ And for some vocabularies:
 * Python 3
 
 ## Usage
-
-After having collected, cleaned and converted JSKOS data, see <https://github.com/gbv/cocoda-services#usage>.
 
 ## See also
 
