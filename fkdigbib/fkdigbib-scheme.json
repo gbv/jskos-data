@@ -1,0 +1,22 @@
+{
+  "namespace": "http://uri.gbv.de/terminology/fkdigbib/",
+  "notation": [
+    "FKDigBib"
+  ],
+  "notationPattern": "[0-9]+",
+  "prefLabel": {
+    "de": "Fachklassifikation Digitale Bibliothek"
+  },
+  "publisher": [
+    {
+      "prefLabel": {
+        "en": "Hochschule der Medien Stuttgart"
+      }
+    }
+  ],
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+    "http://w3id.org/nkos/nkostype#classification_schema"
+  ],
+  "uri": "http://bartoc.org/en/node/20050"
+}

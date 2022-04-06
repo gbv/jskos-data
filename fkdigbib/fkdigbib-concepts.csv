@@ -1,0 +1,90 @@
+level,notation,prefLabel
+0,1,Allgemeines
+1,11,Allgemeine Nachschlagewerke
+1,12,Bibliotheken und andere informationsvermittelnde Dienste
+2,121,Beispiele konventioneller Bibliotheken
+2,122,Beispiele digitaler Bibliotheken
+2,123,andere digitale bibliotheksähnliche Dienste
+2,124,Datenbanken
+1,13,Wissen
+2,131,Grundlagen. Definitionen
+2,132,Wissen als Wirtschaftsfaktor
+2,133,"Wissensspeicherung, Wissensmanagement"
+2,134,"Berufe, Berufsfelder in der Wissensvermittlung"
+1,14,Forschung
+1,15,Fachgesellschaften
+1,16,Produkte und Dienstleistungen einer digitalen Bibliothek
+0,2,Digitale Dokumente
+1,21,Erschließung
+2,211,formale Erschließung (manuell)
+2,212,inhaltliche Erschließung (manuell)
+3,2121,"verbale Erschließung, Verschlagwortung"
+3,2122,klassifikatorische Erschließung
+3,2123,Indexerstellung
+2,213,automatische Erschließung
+3,2131,automatische Schlagwortvergabe
+3,2132,automatisches Klassifizieren
+3,2133,automatische Indexierung
+1,22,Speicherung
+2,221,Formate
+2,222,physikalische Speichermedien
+2,223,"Dateisysteme, logische Organisation, Datenbanken"
+1,23,Darstellung digitaler Dokumente
+2,231,Formate
+2,232,Programme
+2,233,Darstellung auf nicht-digitalen Medien
+1,24,Erstellung und Bearbeitung digitaler Dokumente
+2,241,Erstellung und Bearbeitung am Rechner
+2,242,Digitalisierung analoger Dokumente
+0,3,Benutzung
+1,31,Zielgruppe
+2,311,Schüler; Information für die Ausbildung
+2,312,"Dozenten, Studierende; Grundlageninformation"
+2,313,Berufstätige; Fachinformation
+2,314,"Persönliche Information, Fragen des privaten Lebens"
+1,32,Informationsgewinnung / Information Retrieval
+2,321,Grundlagen maschinellen Suchens
+3,3211,Abfragesprachen
+3,3212,Qualitäts- und Relevanzbewertung
+3,3213,Semantische Hilfsmittel
+2,322,Suche in Texten
+3,3221,Volltextsuche
+3,3222,Suche im Index
+3,3223,Metadatensuche
+3,3224,Navigieren
+3,3225,Browsing
+2,323,Suche in Nicht-Text-Daten
+2,328,Suche im Internet
+3,3281,Verzeichnisse / Directories
+3,3282,Suchmaschinen
+3,3283,Metasuchmaschinen
+3,3284,Ranking
+1,33,Bedienung
+2,331,"Allgemeines, Darstellung der Benutzeroberfläche"
+2,332,Suchwerkzeuge
+2,333,Kontoverwaltung
+2,334,"Auskunftsdienst, Kontakt"
+2,335,Sonstige Hilfsmittel
+0,4,Verwaltung / Struktur
+1,41,System-Architektur / EDV-Infrastruktur
+2,411,Hardware
+2,412,Software
+2,413,"Datenübertragung, Netzwerk"
+1,42,Katalog
+2,421,Regelwerke
+2,422,"Fremddatenübernahme, gemeinsame Kataloge"
+1,43,Träger
+1,44,Medienbeschaffung
+2,441,Lieferanten von Dokumenten und Information
+2,442,Bestandsaufbau
+0,5,Recht / Datensicherheit / Finanzielles
+1,51,Finanzierung der digitalen Bibliothek
+1,52,"Zugangs- und Zahlungssysteme, Gebührenordnung"
+2,521,Pay per View
+2,522,"Abonnement, zeitliche Pauschale"
+1,53,Datensicherheit
+2,531,"Backup, Datenspeicherung"
+2,532,"Netzsicherheit, Firewall, Computerviren"
+2,533,"Authentizität, Verschlüsselung, Integrität"
+1,54,"Urhebrrecht, Copyright"
+1,55,Datenschutz
