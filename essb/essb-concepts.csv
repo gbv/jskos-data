@@ -1,0 +1,1274 @@
+level,notation,prefLabel
+0,Al,Allgemeines
+1,Al 1,Allgemeine Nachschlagewerke
+2,Al 1.1,Allgemeine Jahrbücher
+2,Al 1.2,Allgemeine biografische Nachschlagewerke
+2,Al 1.3,Weitere Formen allgemeiner Nachschlagewerke
+1,Al 2,"Wissenschaftskunde. Organisation und Förderung
+von Kultur und Wissenschaft"
+2,Al 2.1,"Geschichte, Grundlagen und Methoden der Wissenschaft"
+2,Al 2.2,"Methodik und Technik der geistigen Arbeit. Geistiges
+Training"
+3,Al 2.2.1,Schriftliche Arbeiten
+2,Al 2.3,Organisation und Förderung von Kultur
+2,Al 2.4,"Organisation und Förderung von Wissenschaft und
+Forschung"
+1,Al 3,"Kommunikationswissenschaft, Medienwissenschaft,
+Publizistik"
+2,Al 3.1,"Publizistik, Journalismus"
+2,Al 3.2,"Medientheorie, Medienforschung"
+2,Al 3.3,"Kommunikationsprozess, Kommunikationspraxis"
+1,Al 4,"Schrift und Textgestaltung, Buchwesen"
+2,Al 4.1,Schrift und Schreiben
+2,Al 4.2,Textgestaltung und Drucktechnik
+2,Al 4.3,"Buchgewerbe, Buchhandel, Verlagswesen"
+1,Al 5,"Bibliothekswesen, Informations- und
+Dokumentationswesen, Archivwesen"
+1,Al 6,Weitere Themen
+0,Er,"Erdkunde, Ethnologie"
+1,Er 1,Allgemeines
+2,Er 1.1,"Nachschlagewerke, Bibliografien, Einführungen"
+2,Er 1.2,"Entdeckungsgeschichte, Leben und Werk einzelner
+Geografen und Entdecker"
+3,Er 1.2.1,"Reiseliteratur, Reisebeschreibungen, Forschungsreisen"
+2,Er 1.3,"Kartografie, Geografische Informationssysteme,
+Satellitennavigation"
+2,Er 1.4,Weltatlanten
+2,Er 1.5,Physische Geografie
+2,Er 1.6,Anthropogeografie
+2,Er 1.7,Tourismus allgemein
+2,Er 1.8,Allgemeine Reiseratgeber
+2,Er 1.9,Allgemeine Länderkunde
+1,Er 2,Europa
+2,Er 2.1,Alpen
+2,Er 2.2,Südtirol
+3,Er 2.2.1,Vinschgau
+3,Er 2.2.2,Burggrafenamt
+3,Er 2.2.3,"Bozen, Salten-Schlern"
+3,Er 2.2.4,"Überetsch, Unterland"
+3,Er 2.2.5,"Eisacktal, Wipptal"
+3,Er 2.2.6,"Gröden, Gadertal"
+3,Er 2.2.7,Pustertal
+2,Er 2.3,Italien
+3,Er 2.3.1,"Trentino, Friaul-Julisch-Venetien, Venetien"
+3,Er 2.3.2,"Aosta, Piemont, Lombardei"
+3,Er 2.3.3,"Ligurien, Emilia Romagna, Marken"
+3,Er 2.3.4,"Toskana, Umbrien, Abruzzen"
+3,Er 2.3.5,Rom und Latium
+3,Er 2.3.6,"Molise, Kampanien"
+3,Er 2.3.7,"Apulien, Basilikata, Kalabrien"
+3,Er 2.3.8,"Sizilien, Sardinien"
+2,Er 2.4,Österreich
+3,Er 2.4.1,Wien
+3,Er 2.4.2,Nord- und Osttirol
+3,Er 2.4.3,"Einzelne Landesteile, Regionen und Orte"
+2,Er 2.5,Deutschland
+3,Er 2.5.1,Berlin
+3,Er 2.5.2,"Einzelne Landesteile, Regionen und Orte"
+2,Er 2.6,"Mitteleuropa, Westeuropa"
+3,Er 2.6.1,Schweiz
+3,Er 2.6.2,"Tschechien, Slowakei"
+3,Er 2.6.3,Ungarn
+3,Er 2.6.4,Polen
+3,Er 2.6.5,Frankreich
+3,Er 2.6.6,"Belgien, Niederlande, Luxemburg"
+3,Er 2.6.7,Großbritannien
+3,Er 2.6.8,Irland
+2,Er 2.7,Nordeuropa
+3,Er 2.7.1,Dänemark
+3,Er 2.7.2,Norwegen
+3,Er 2.7.3,Schweden
+3,Er 2.7.4,Finnland
+3,Er 2.7.5,Island
+2,Er 2.8,Osteuropa
+3,Er 2.8.1,"Estland, Lettland, Litauen"
+3,Er 2.8.2,"Russland, Weißrussland, Georgien, Ukraine und
+Moldawien"
+2,Er 2.9,"Südeuropa, Südosteuropa"
+3,Er 2.9.1,Spanien
+3,Er 2.9.2,Portugal
+3,Er 2.9.3,Griechenland
+3,Er 2.9.4,"Jugoslawien, Kroatien, Slowenien, Bosnien-Herzegowina,
+Makedonien, Serbien"
+3,Er 2.9.5,Bulgarien
+3,Er 2.9.6,Rumänien
+3,Er 2.9.7,Albanien
+3,Er 2.9.8,Weitere Länder
+1,Er 3,Asien
+2,Er 3.1,Vorderasien
+3,Er 3.1.1,Türkei
+3,Er 3.1.2,"Israel, Palästina"
+3,Er 3.1.3,"Syrien, Libanon, Jordanien"
+3,Er 3.1.4,"Irak, Kuwait, Saudi-Arabien, Vereinigte Arabische Emirate,
+Jemen, Oman"
+3,Er 3.1.5,"Iran, Afghanistan"
+2,Er 3.2,"Südasien, Südostasien"
+3,Er 3.2.1,"Indien, Pakistan"
+3,Er 3.2.2,"Thailand, Singapur, Malaysia"
+3,Er 3.2.3,"Vietnam, Laos, Kambodscha"
+3,Er 3.2.4,Weitere Länder
+2,Er 3.3,"Ostasien, Zentralasien"
+3,Er 3.3.1,"Nepal, Tibet, Bhutan"
+3,Er 3.3.2,"Mongolei, Korea"
+3,Er 3.3.3,"China, Taiwan"
+3,Er 3.3.4,Japan
+3,Er 3.3.5,"Armenien, Aserbaidschan, Kasachstan, Kirgisien,
+Tadschikistan, Turkmenistan, Usbekistan"
+1,Er 4,Afrika
+2,Er 4.1,Nordafrika
+3,Er 4.1.1,"Marokko, Algerien, Tunesien, Libyen"
+3,Er 4.1.2,"Westsahara, Mauretanien, Mali, Niger, Tschad"
+3,Er 4.1.3,"Ägypten, Sudan"
+2,Er 4.2,"Westafrika, Zentralafrika, Ostafrika"
+3,Er 4.2.1,"Kenia, Tansania, Senegal"
+3,Er 4.2.2,Weitere Länder
+2,Er 4.3,Südliches Afrika
+3,Er 4.3.1,"Südafrika, Namibia"
+3,Er 4.3.2,Weitere Länder
+2,Er 4.4,"Madagaskar, Mauritius, Seychellen und weitere
+afrikanische Inseln"
+1,Er 5,Amerika
+2,Er 5.1,Nordamerika
+3,Er 5.1.1,Kanada
+3,Er 5.1.2,USA
+2,Er 5.2,Mittelamerika
+3,Er 5.2.1,Mexiko
+3,Er 5.2.2,"Kuba, Jamaika, Dominikanische Republik"
+3,Er 5.2.3,Weitere Länder
+2,Er 5.3,Südamerika
+3,Er 5.3.1,"Ecuador, Peru, Bolivien, Chile, Venezuela"
+3,Er 5.3.2,Brasilien
+3,Er 5.3.3,Argentinien
+3,Er 5.3.4,Weitere Länder
+1,Er 6,"Australien, Neuseeland, Ozeanien, Arktis, Antarktis"
+2,Er 6.1,Australien
+2,Er 6.2,Neuseeland
+2,Er 6.3,Ozeanien
+2,Er 6.4,"Arktis, Antarktis"
+1,Er 7,Ethnologie
+2,Er 7.1,Völker Amerikas
+2,Er 7.2,Weitere Völker
+1,Er 9,Weitere Themen
+1,Er 10,"Fachdidaktik für den Erdkundeunterricht, Schulbücher"
+0,Ge,"Geschichte, Kulturgeschichte, Volkskunde"
+1,Ge 1,Allgemeines
+2,Ge 1.1,"Nachschlagewerke, Bibliografien, Einführungen"
+2,Ge 1.2,"Geschichtswissenschaft, Geschichtsschreibung"
+1,Ge 2,Historische Hilfswissenschaften
+2,Ge 2.1,"Handschriftenkunde, Inschriftenkunde, Urkundenlehre"
+2,Ge 2.2,"Ahnenforschung, Geschlechterkunde, Familienkunde"
+2,Ge 2.3,"Wappenkunde, Siegelkunde, Fahnen- und Flaggenkunde,
+Insignienkunde"
+2,Ge 2.4,Münzkunde
+2,Ge 2.5,Archäologie (Allgemeines)
+2,Ge 2.9,Weitere historische Hilfswissenschaften
+1,Ge 3,Weltgeschichte
+2,Ge 3.3,Vor- und Frühgeschichte
+2,Ge 3.4,Altertum
+3,Ge 3.4.1,Geschichte des Alten Orients
+3,Ge 3.4.2,Griechische Antike
+3,Ge 3.4.3,Römische Antike
+3,Ge 3.4.4,Geschichte des Byzantinischen Reiches
+3,Ge 3.4.5,Keltische und germanische Geschichte einschließlich Völkerwanderung
+2,Ge 3.5,Mittelalter
+3,Ge 3.5.1,Herrscher und Reiche
+3,Ge 3.5.2,Kirche im Mittelalter
+3,Ge 3.5.3,Adel und Rittertum
+3,Ge 3.5.4,Lebenswelten im Mittelalter
+3,Ge 3.5.5,Wirtschaft im Mittelalter
+3,Ge 3.5.6,Randgruppen im Mittelalter
+2,Ge 3.6,Neuzeit
+3,Ge 3.6.1,Entdeckungen und ihre Folgen
+3,Ge 3.6.2,Wirtschaft und Gesellschaft in der Neuzeit
+3,Ge 3.6.3,"Reformation, Glaubenskämpfe"
+3,Ge 3.6.4,Politik vom 16. Jh. bis 1789
+3,Ge 3.6.5,Französische Revolution und Napoleonische Zeit
+3,Ge 3.6.6,Politik im 19. Jh. – 1914
+3,Ge 3.6.7,Leben und Werk einzelner Persönlichkeiten
+1,Ge 4,Zeitgeschichte (ab 1914)
+2,Ge 4.1,Weltkriege
+3,Ge 4.1.1,Erster Weltkrieg (1914 – 1918)
+3,Ge 4.1.2,Zwischenkriegszeit (1918 – 1939)
+3,Ge 4.1.3,Zweiter Weltkrieg (1939 – 1945)
+2,Ge 4.2,Geschichte ab 1945
+2,Ge 4.3,Geschichte ab 2000
+2,Ge 4.4,Leben und Werk einzelner Persönlichkeiten
+1,Ge 5,Europäische Geschichte
+2,Ge 5.1,Geschichte Italiens
+3,Ge 5.1.1,Leben und Werk einzelner Persönlichkeiten
+3,Ge 5.1.2,Faschismus in Italien
+2,Ge 5.2,Geschichte Österreichs
+3,Ge 5.2.1,Leben und Werk einzelner Persönlichkeiten
+2,Ge 5.3,Geschichte Deutschlands
+3,Ge 5.3.1,Leben und Werk einzelner Persönlichkeiten
+3,Ge 5.3.2,Nationalsozialismus und Drittes Reich
+3,Ge 5.3.3,Verfolgung und Vernichtung
+2,Ge 5.4,Geschichte Russlands
+3,Ge 5.4.1,Leben und Werk einzelner Persönlichkeiten
+2,Ge 5.5,Geschichte weiterer europäischer Staaten
+3,Ge 5.5.1,Leben und Werk einzelner Persönlichkeiten
+1,Ge 6,Geschichte außereuropäischer Staaten
+2,Ge 6.1,Geschichte Amerikas
+3,Ge 6.1.1,Geschichte Nordamerikas
+3,Ge 6.1.2,Geschichte Süd- und Mittelamerikas
+2,Ge 6.2,Geschichte Asiens
+3,Ge 6.2.1,Geschichte des Nahen und Mittleren Ostens
+3,Ge 6.2.2,Geschichte des Fernen Ostens
+2,Ge 6.3,Geschichte Afrikas
+2,Ge 6.4,Geschichte Australiens und Ozeaniens
+1,Ge 7,Geschichte Tirols
+2,Ge 7.1,"Vor- und Frühgeschichte, Altertum"
+2,Ge 7.2,Mittelalter
+2,Ge 7.3,Neuzeit (bis 1914)
+3,Ge 7.3.1,Andreas Hofer und die Tiroler Freiheitskämpfe
+2,Ge 7.4,Südtiroler Zeitgeschichte
+3,Ge 7.4.1,Südtirol zwischen 1914 – 1945
+3,Ge 7.4.2,Südtirol ab 1945
+2,Ge 7.6,Lokalgeschichte
+2,Ge 7.7,Südtiroler Vereinsleben
+2,Ge 7.8,Leben und Werk einzelner Südtiroler Persönlichkeiten
+1,Ge 8,Volkskunde
+2,Ge 8.1,Feste und Bräuche
+2,Ge 8.2,Trachten und Kleidung
+2,Ge 8.3,"Volksglaube, Volksweisheit"
+2,Ge 8.4,Siedlung und Berufe
+3,Ge 8.4.1,Berufe
+2,Ge 8.5,Ess- und Trinkkultur
+2,Ge 8.9,Weitere Themen
+1,Ge 9,Weitere Themen
+2,Ge 9.1,Grenzwissenschaften der Geschichte
+1,Ge 10,"Fachdidaktik für den Geschichteunterricht, Schulbücher"
+0,Ha,"Haus- und Landwirtschaft, Forstwirtschaft,
+Jagd und Fischerei"
+1,Ha 1,Allgemeines
+2,Ha 1.1,"Nachschlagewerke, Bibliografien, Einführungen"
+1,Ha 2,Hauswirtschaft
+2,Ha 2.1,Hauswirtschaftsbetriebslehre
+2,Ha 2.2,Wohnung
+3,Ha 2.2.1,Wohnungseinrichtung
+3,Ha 2.2.2,"Wohnungspflege, Wohnungsinstandhaltung"
+2,Ha 2.4,"Häusliche Textilpflege, Handarbeiten, Schneiden und
+Nähen"
+3,Ha 2.4.1,Häusliche Textilpflege
+3,Ha 2.4.2,"Stricken, Häkeln, Sticken"
+3,Ha 2.4.3,Weitere Handarbeiten
+3,Ha 2.4.4,Schneidern und Nähen
+2,Ha 2.5,Essen & Trinken
+3,Ha 2.5.1,Alkoholfreie Getränke
+3,Ha 2.5.2,"Kaffee, Tee, Kakao"
+3,Ha 2.5.3,Wein
+3,Ha 2.5.4,"Schnaps, Likör, Bier"
+3,Ha 2.5.5,Cocktails
+2,Ha 2.6,"Kochen, Backen"
+3,Ha 2.6.1,Südtiroler Küche allgemein
+3,Ha 2.6.2,Italienische Küche allgemein
+3,Ha 2.6.3,Internationale Küche
+3,Ha 2.6.4,"Vollwertküche, Vegetarische Küche"
+3,Ha 2.6.5,Spezielle Zubereitungsarten und Geräte
+3,Ha 2.6.6,Weitere Kochbücher
+3,Ha 2.6.7,Backen
+3,Ha 2.6.8,"Konservieren, Vorratshaltung"
+2,Ha 2.7,Zubereitung einzelner Speisen
+3,Ha 2.7.1,"Kalte Küche, Vorspeisen allgemein, Zwischenmahlzeiten"
+3,Ha 2.7.2,"Suppen, Eintöpfe"
+3,Ha 2.7.3,Pasta und andere Teigwaren
+3,Ha 2.7.4,"Fleisch, Geflügel, Wild"
+3,Ha 2.7.5,"Fisch, Meeresfrüchte"
+3,Ha 2.7.6,"Gemüse, Obst"
+3,Ha 2.7.7,"Aufläufe, Eierspeisen, Milcherzeugnisse"
+3,Ha 2.7.8,Nachspeisen
+2,Ha 2.8,"Tischdecken, Anrichten, Servieren"
+1,Ha 3,Landwirtschaft
+2,Ha 3.1,"Landwirtschaftliche Betriebslehre, Landtechnik"
+2,Ha 3.2,Naturwissenschaftliche Grundlagen
+2,Ha 3.3,"Pflanzenbau, Gartenbau"
+3,Ha 3.3.1,Allgemeine Pflanzenzüchtung und allgemeiner Pflanzenanbau
+3,Ha 3.3.2,Züchtung und Anbau von Nutzpflanzen
+3,Ha 3.3.3,Gemüse
+3,Ha 3.3.4,Obstbau
+3,Ha 3.3.5,Weinbau
+2,Ha 3.4,Zierpflanzenbau. Floristik. Klein- und Hausgarten
+3,Ha 3.4.1,"Zimmerpflanzen, Stauden und andere Zierpflanzen"
+3,Ha 3.4.2,Floristik
+3,Ha 3.4.3,Klein- und Hausgarten
+3,Ha 3.4.4,Gartengestaltung
+3,Ha 3.4.5,Weitere Themen
+2,Ha 3.5,Zucht und Haltung von Nutztieren
+2,Ha 3.6,Imkerei
+2,Ha 3.7,Landwirtschaftliche Erzeugnisse
+1,Ha 4,Forstwirtschaft
+2,Ha 4.1,Forstliche Betriebslehre
+2,Ha 4.2,"Waldpflege, Forstnutzung"
+1,Ha 5,Jagd und Fischerei
+2,Ha 5.1,"Jagd, Jagdsport"
+2,Ha 5.2,Fischwirtschaft einschließlich Sportfischerei
+3,Ha 5.2.1,"Sportfischerei, Angeln"
+1,Ha 9,Weitere Themen
+1,Ha 10,"Fachdidaktik für den Unterricht, Schulbücher"
+0,Ku,Bildende Kunst
+1,Ku 1,Allgemeines
+2,Ku 1.1,"Nachschlagewerke, Bibliografien, Einführungen"
+2,Ku 1.2,Allgemeine Kunstwissenschaft
+2,Ku 1.3,Technik der bildenden Künste
+3,Ku 1.3.1,Künstlerische Gestaltungslehre
+3,Ku 1.3.2,Maltechniken
+3,Ku 1.3.3,Grafische Techniken
+3,Ku 1.3.4,Plastische Techniken
+2,Ku 1.4,Leben und Werk einzelner Persönlichkeiten
+2,Ku 1.5,Kunst- und Denkmalpflege
+1,Ku 2,Allgemeine Kunstgeschichte
+2,Ku 2.1,Gesamtdarstellungen der Geschichte einzelner Kunstgattungen
+3,Ku 2.1.1,Geschichte der Architektur
+3,Ku 2.1.2,Geschichte der Plastik
+3,Ku 2.1.3,Geschichte der Malerei
+3,Ku 2.1.4,Geschichte der Grafik und Zeichnung
+2,Ku 2.2,Geschichte einzelner Themen und Motive der bildenden Kunst
+1,Ku 3,Europäische Kunstgeschichte
+1,Ku 4,Außereuropäische Kunstgeschichte
+1,Ku 5,Stilepochen der Kunst
+2,Ku 5.1,Kunst in der Vor- und Frühgeschichte
+2,Ku 5.2,Kunst des Altertums
+2,Ku 5.3,"Frühchristliche Kunst, germanische Kunst, byzantinische
+Kunst"
+2,Ku 5.4,Romanik
+2,Ku 5.5,Gotik
+2,Ku 5.6,Renaissance
+2,Ku 5.7,"Barock, Rokoko"
+2,Ku 5.8,Kunst des 19. Jahrhunderts
+2,Ku 5.9,Kunst des 20. Jahrhunderts bis zur Gegenwart
+3,Ku 5.9.1,Kunst der klassischen Moderne und der Spätmoderne (bis etwa 1960)
+3,Ku 5.9.2,Kunst der Postmoderne und der Zweiten Moderne bis zur Gegenwart
+1,Ku 6,"Leben und Werk einzelner Künstler, Künstlergruppen"
+2,Ku 6.1,Sammelbiografien
+2,Ku 6.2,Einzelne Künstler
+2,Ku 6.3,Künstlergruppen
+1,Ku 7,"Angewandte Kunst, Volkskunst"
+2,Ku 7.1,"Landschaftsarchitektur, Gartenarchitektur"
+2,Ku 7.2,"Innenarchitektur, Raumkunst"
+2,Ku 7.3,"Grafikdesign, Industriedesign"
+2,Ku 7.4,Kunsthandwerk
+3,Ku 7.4.1,Textilkunst
+2,Ku 7.5,Volkskunst
+1,Ku 8,"Kunstführer, Museumsführer"
+2,Ku 8.1,Kunstführer und Museumsführer einzelner Länder
+2,Ku 8.2,Kunstführer und Museumsführer Südtirol
+3,Ku 8.2.1,Vinschgau
+3,Ku 8.2.2,Burggrafenamt
+3,Ku 8.2.3,"Bozen, Salten-Schlern"
+3,Ku 8.2.4,"Überetsch, Unterland"
+3,Ku 8.2.5,"Eisacktal, Wipptal"
+3,Ku 8.2.6,"Gröden, Gadertal"
+3,Ku 8.2.7,Pustertal
+1,Ku 9,Weitere Themen
+1,Ku 10,"Fachdidaktik für den Kunstunterricht, Schulbücher"
+0,Li,Literatur und Sprache
+1,Li 1,Allgemeines
+2,Li 1.1,"Nachschlagewerke, Bibliografien, Einführungen"
+2,Li 1.2,Allgemeine und vergleichende Literaturwissenschaft
+3,Li 1.2.1,"Geschichte, Theorie, Grundlagen und Methoden der Literaturwissenschaft"
+3,Li 1.2.2,"Literaturkritik, Literaturrezeption, Literaturinterpretation"
+3,Li 1.2.3,Theorie und Geschichte einzelner Literaturgattungen und Literaturformen
+2,Li 1.3,Theorie und Geschichte einzelner Literaturkategorien
+3,Li 1.3.1,Kinder- und Jugendliteratur
+3,Li 1.3.2,Literatur für besondere Zielgruppen
+3,Li 1.3.3,"Märchen, Volksdichtung"
+3,Li 1.3.4,"Trivialliteratur, Sachliteratur, Gebrauchsliteratur"
+3,Li 1.3.5,Comic-Literatur
+3,Li 1.3.7,Leseförderung
+2,Li 1.4,Weltliteratur
+2,Li 1.5,"Literarische Themen, Stoffe und Motive"
+2,Li 1.6,Weitere Themen zu Literatur
+1,Li 2,Antike Literaturen und Sprachen
+2,Li 2.1,Altgriechische Literatur und Sprache
+3,Li 2.1.1,Leben und Werk einzelner Autoren
+2,Li 2.2,Lateinische Literatur und Sprache
+3,Li 2.2.1,Leben und Werk einzelner Autoren
+2,Li 2.3,Andere antike Literaturen und Sprachen
+3,Li 2.3.1,Leben und Werk einzelner Autoren
+1,Li 3,Deutschsprachige Literatur
+2,Li 3.1,"Gesamtdarstellung einzelner Literaturgattungen, -formen und -kategorien"
+2,Li 3.2,Deutschsprachige Literatur des Mittelalters
+2,Li 3.3,Deutschsprachige Literatur der Renaissance und des Barock
+2,Li 3.4,Deutschsprachige Literatur zwischen Barock und Romantik
+3,Li 3.4.1,Deutschsprachige Literatur zwischen Barock und Klassik
+3,Li 3.4.2,Deutschsprachige Literatur der Klassik
+3,Li 3.4.3,Deutschsprachige Literatur der Romantik
+2,Li 3.5,Deutschsprachige Literatur nach der Romantik bis 1945
+3,Li 3.5.1,Deutschsprachige Literatur des Vormärz
+3,Li 3.5.2,Deutschsprachige Literatur des Realismus
+3,Li 3.5.3,Deutschsprachige Literatur des Naturalismus
+3,Li 3.5.4,Deutschsprachige Literatur des 20. Jahrhunderts bis 1945
+2,Li 3.6,Deutschsprachige Literatur nach 1945
+2,Li 3.8,Literatur deutschsprachiger Regionen und in Dialekt. Deutschsprachige Literatur in anderen Kulturräumen
+1,Li 4,Italienische Literatur
+2,Li 4.1,"Gesamtdarstellung einzelner Literaturgattungen, -formen und -kategorien"
+2,Li 4.2,Italienische Literatur des Mittelalters
+2,Li 4.3,Italienische Literatur des Humanismus und der Renaissance
+2,Li 4.4,Italienische Literatur zwischen Barock und Aufklärung
+2,Li 4.5,Italienische Literatur im 19. Jahrhundert
+2,Li 4.6,Italienische Literatur ab dem 20. Jahrhundert
+1,Li 5,Andere Literaturen
+2,Li 5.1,Ladinische Literatur und Sprache
+2,Li 5.2,Germanische Literaturen
+3,Li 5.2.1,Englische Literatur
+2,Li 5.3,Romanische Literaturen
+3,Li 5.3.1,Französische Literatur
+2,Li 5.4,Slawische Literaturen
+2,Li 5.5,Andere Literaturen in europäischen Sprachen
+2,Li 5.6,Außereuropäische Literaturen
+1,Li 6,Sprache
+2,Li 6.1,"Nachschlagewerke, Bibliografien, Einführungen"
+2,Li 6.2,Sprachwissenschaft
+2,Li 6.3,"Sprichwörtersammlungen, Zitatesammlungen allgemein"
+2,Li 6.4,Sprechwissenschaft
+3,Li 6.4.1,"Sprechtechnik, Sprecherziehung, Rhetorik"
+2,Li 6.5,Weitere Themen zu Sprache
+1,Li 7,Deutsch
+2,Li 7.1,Grammatik und allgemeine Sprachlehre
+2,Li 7.2,Rechtschreibung
+2,Li 7.3,Stilistik
+2,Li 7.4,"Wortkunde, Bedeutungslehre, Sprachgeschichte"
+2,Li 7.5,Deutsche Dialekte
+2,Li 7.6,Deutsch als Zweit- und Fremdsprache
+2,Li 7.7,Texte zur Zweisprachigkeitsprüfung
+2,Li 7.8,Mehrsprachigkeit
+1,Li 8,Italienisch
+2,Li 8.1,Grammatik und allgemeine Sprachlehre
+2,Li 8.2,Rechtschreibung
+2,Li 8.3,Stilistik
+2,Li 8.4,"Wortkunde, Bedeutungslehre, Sprachgeschichte"
+2,Li 8.5,Italienisch als Zweit- und Fremdsprache
+1,Li 9,Weitere neuere Sprachen
+2,Li 9.1,Englisch
+3,Li 9.1.1,Grammatik und allgemeine Sprachlehre
+3,Li 9.1.2,Rechtschreibung
+3,Li 9.1.3,Stilistik
+3,Li 9.1.4,"Wortkunde, Bedeutungslehre, Sprachgeschichte"
+3,Li 9.1.5,Englisch als Fremdsprache
+2,Li 9.2,Französisch
+3,Li 9.2.1,Grammatik und allgemeine Sprachlehre
+3,Li 9.2.2,Rechtschreibung
+3,Li 9.2.3,Stilistik
+3,Li 9.2.4,"Wortkunde, Bedeutungslehre, Sprachgeschichte"
+3,Li 9.2.5,Französisch als Fremdsprache
+2,Li 9.3,Spanisch
+3,Li 9.3.1,Grammatik und allgemeine Sprachlehre
+3,Li 9.3.2,Rechtschreibung
+3,Li 9.3.3,Stilistik
+3,Li 9.3.4,"Wortkunde, Bedeutungslehre, Sprachgeschichte"
+3,Li 9.3.5,Spanisch als Fremdsprache
+2,Li 9.4,Sonstige Sprachen
+1,Li 10,"Fachdidaktik für den Literatur- und Sprachunterricht, Schulbücher"
+2,Li 10.1,Antike Sprachen
+3,Li 10.1.1,Altgriechisch
+3,Li 10.1.2,Latein
+2,Li 10.2,Deutsch
+2,Li 10.3,Italienisch
+2,Li 10.4,Englisch
+3,Li 10.4.1,Englischsprachige Landeskunde
+2,Li 10.5,Französisch
+3,Li 10.5.1,Französische Landeskunde
+2,Li 10.6,Spanisch
+3,Li 10.6.1,Spanische Landeskunde
+2,Li 10.7,Weitere Sprachen
+0,Me,Medizin
+1,Me 1,Allgemeines
+2,Me 1.1,"Nachschlagewerke, Bibliografien, Einführungen"
+2,Me 1.2,"Sozialwissenschaftliche Grundlagen der Medizin.
+Gesundheitspsychologie"
+2,Me 1.3,Geschichte der Medizin
+2,Me 1.4,Leben und Werk einzelner Persönlichkeiten
+2,Me 1.5,Einrichtungen des Gesundheitswesens
+3,Me 1.5.1,Berufe des Gesundheitswesens
+3,Me 1.5.2,"Medizinische Dienstleistungen (allgemeine
+Patientenratgeber)"
+1,Me 2,Anatomie und Physiologie des menschlichen Körpers
+2,Me 2.1,"Anatomie, Histologie (Gewebelehre) und Zytologie
+(Zellenlehre) des Menschen"
+2,Me 2.2,Physiologie des Menschen
+2,Me 2.3,"Genetik, Biophysik, Bionik, Biochemie im Bereich der
+Medizin"
+1,Me 3,Gesundheitspflege und Ernährungslehre
+2,Me 3.1,"Körperpflege, Schönheitspflege"
+2,Me 3.2,Entspannungstechniken und Meditation
+3,Me 3.2.1,Einzelne Entspannungstechniken
+3,Me 3.2.2,Meditation
+2,Me 3.3,Ernährungslehre
+3,Me 3.3.1,Zusammensetzung und Wirkungsweise der Nahrung
+3,Me 3.3.2,Spezielle Formen der Ernährung
+3,Me 3.3.3,Heilfasten
+3,Me 3.3.4,"Ernährung bei Gewichtsproblemen, Diätkochbücher"
+2,Me 3.4,Sexualität
+2,Me 3.5,Spezielle Bereiche der Gesundheitspflege
+1,Me 4,"Krankheitslehre, Heilkunde"
+2,Me 4.1,Allgemeine Untersuchungs- und Behandlungsmaßnahmen
+3,Me 4.1.1,Physiotherapie und einzelne Heilmethoden
+2,Me 4.2,Innere Medizin
+3,Me 4.2.1,Infektionskrankheiten
+3,Me 4.2.2,"Krankheiten von Herz und Kreislauf, Blut und
+blutbildenden Organen"
+3,Me 4.2.3,Krankheiten der Atmungsorgane und des Ohrs
+3,Me 4.2.4,Krankheiten der Verdauungsorgane
+3,Me 4.2.5,Krankheiten der Niere und der harnableitenden Organe
+3,Me 4.2.6,Krankheiten des Stoffwechsels und der inneren Sekretion
+3,Me 4.2.7,Krankheiten des Stütz- und Bewegungsapparates
+3,Me 4.2.8,"Krebs, Tumor, Geschwulst"
+3,Me 4.2.9,Weitere Krankheiten
+2,Me 4.3,Augenheilkunde. Zahnmedizin
+2,Me 4.4,"Frauenheilkunde, Geburtshilfe"
+3,Me 4.4.1,Schwangerschaft und Geburt
+3,Me 4.4.2,Säuglingspflege
+3,Me 4.4.3,Wechseljahre
+2,Me 4.5,"Kinderheilkunde, Altersheilkunde"
+3,Me 4.5.1,Kinderheilkunde
+3,Me 4.5.2,"Altersheilkunde, Gesundheitspflege im Alter"
+2,Me 4.6,"Dermatologie, Allergologie"
+3,Me 4.6.1,Dermatologie
+3,Me 4.6.2,Allergologie
+2,Me 4.7,Neurologie
+3,Me 4.7.1,Einzelne neurologische Störungen und Krankheiten
+2,Me 4.8,"Körperbehinderung, geistige Behinderung"
+1,Me 5,"Naturheilkunde, Homöopathie, Volksmedizin
+allgemein"
+2,Me 5.1,Naturheilmittel
+2,Me 5.2,Homöopathie
+2,Me 5.3,Naturheilverfahren
+2,Me 5.4,"Esoterische Heilmethoden, Auro Soma"
+1,Me 6,"Erste Hilfe, Pflege"
+2,Me 6.1,Erste Hilfe
+2,Me 6.2,Pflege
+3,Me 6.2.1,Häusliche Pflege
+3,Me 6.2.2,Pflege in Heimen
+3,Me 6.2.3,Pflege Sterbender
+1,Me 7,"Pharmakologie, Pharmazie, Toxikologie"
+1,Me 9,Weitere Themen
+1,Me 10,"Fachdidaktik für den Unterricht, Schulbücher"
+0,Mu,"Musik, Tanz, Theater, Film, Hörfunk und
+Fernsehen"
+1,Mu 1,Allgemeines
+1,Mu 2,Musik
+2,Mu 2.1,"Nachschlagewerke, Bibliografien, Einführungen"
+2,Mu 2.2,Musikgeschichte
+3,Mu 2.2.1,Musikgeschichte nach Epochen
+3,Mu 2.2.2,"Geschichte einzelner Ensembles, Chöre, Musikkapellen"
+2,Mu 2.3,Musiktheorie
+2,Mu 2.4,Musikinstrumente
+3,Mu 2.4.1,Tasteninstrumente
+3,Mu 2.4.2,Saiteninstrumente
+3,Mu 2.4.3,Blasinstrumente
+3,Mu 2.4.4,Schlaginstrumente
+3,Mu 2.4.5,Weitere Musikinstrumente
+2,Mu 2.5,Gattungen und Formen der Musik
+3,Mu 2.5.1,Vokalmusik
+3,Mu 2.5.2,Instrumentalmusik
+3,Mu 2.5.3,Bühnenmusik
+3,Mu 2.5.4,Kirchenmusik
+3,Mu 2.5.5,Jazz
+3,Mu 2.5.6,Volksmusik
+3,Mu 2.5.7,Tanz- und Unterhaltungsmusik
+3,Mu 2.5.8,"Rockmusik, Popmusik"
+3,Mu 2.5.9,Weitere Formen
+2,Mu 2.6,Lieder- und Notensammlungen
+2,Mu 2.7,"Komponisten, Interpreten und weitere Persönlichkeiten"
+2,Mu 2.8,Musikpädagogik
+2,Mu 2.9,Weitere Themen
+1,Mu 3,"Theater, Schauspielkunst"
+2,Mu 3.1,Allgemeines
+2,Mu 3.2,Leben und Werk einzelner Darsteller und Persönlichkeiten
+2,Mu 3.3,"Kinder- und Jugendtheater, Laienspiel"
+2,Mu 3.4,"Puppenspiel, Schattentheater"
+2,Mu 3.5,"Zirkus, Artistik, Clownerie"
+2,Mu 3.6,Weitere Themen
+1,Mu 4,"Tanz, Pantomine"
+2,Mu 4.1,Allgemeines
+2,Mu 4.2,Leben und Werk einzelner Darsteller und Persönlichkeiten
+2,Mu 4.3,Gesellschaftstanz
+2,Mu 4.4,Bühnentanz
+2,Mu 4.5,Pantomime
+2,Mu 4.6,Weitere Themen
+1,Mu 5,Film
+2,Mu 5.1,Allgemeines
+2,Mu 5.2,Leben und Werk einzelner Darsteller und Persönlichkeiten
+2,Mu 5.3,Filmgeschichte
+2,Mu 5.4,Filmgestaltung
+2,Mu 5.5,Einzelne Filmgattungen und Filmgenres
+2,Mu 5.6,Weitere Themen
+1,Mu 6,Hörfunk und Fernsehen
+2,Mu 6.1,Allgemeines
+2,Mu 6.2,Leben und Werk einzelner Darsteller und Persönlichkeiten
+2,Mu 6.3,Geschichte des Hörfunks und des Fernsehens
+2,Mu 6.4,Einzelne Programme und Sendungen
+2,Mu 6.5,Weitere Themen
+1,Mu 10,"Fachdidaktik für den Unterricht, Schulbücher"
+0,Na,"Naturwissenschaften, Mathematik"
+1,Na 1,Allgemeines
+2,Na 1.1,"Nachschlagewerke, Bibliografien, Einführungen"
+2,Na 1.2,Methoden und Techniken der Naturwissenschaften
+2,Na 1.3,"Geschichte der Naturwissenschaften, Mathematik und
+Astronomie"
+2,Na 1.4,Leben und Werk einzelner Persönlichkeiten
+1,Na 2,"Mathematik, Astronomie"
+2,Na 2.1,"Arithmetik, Algebra, Mengenlehre"
+3,Na 2.1.1,Elementares Rechnen
+3,Na 2.1.2,Arithmetik. Elementare Algebra
+3,Na 2.1.3,Mengenlehre. Algebraische Strukturen. Zahlentheorie
+2,Na 2.2,Geometrie
+2,Na 2.3,Analysis
+2,Na 2.4,Angewandte Mathematik
+2,Na 2.6,"Kombinatorik, Wahrscheinlichkeitsrechnung,
+mathematische Statistik"
+2,Na 2.7,Unterhaltungsmathematik
+2,Na 2.8,Astronomie
+3,Na 2.8.1,Allgemeine Astronomie
+3,Na 2.8.2,Unser Sonnensystem
+3,Na 2.8.3,"Erde als Planet, Erdmond"
+3,Na 2.8.4,Galaxis und extragalaktische Systeme
+1,Na 3,Chemie
+2,Na 3.1,Allgemeine Chemie. Anorganische Chemie
+2,Na 3.2,Organische Chemie
+2,Na 3.3,Physikalische Chemie
+2,Na 3.4,Analytische Chemie
+1,Na 4,Physik
+2,Na 4.1,Mechanik
+2,Na 4.2,"Wärmelehre, Thermodynamik, statistische Physik"
+2,Na 4.3,Akustik
+2,Na 4.4,Optik
+2,Na 4.5,"Elektrizität, Magnetismus"
+2,Na 4.6,"Atom- und Kernphysik, Plasma- und Festkörperphysik"
+2,Na 4.8,Quantentheorie. Relativitätstheorie
+2,Na 4.9,"Chaostheorie, Komplexitätstheorie"
+1,Na 5,Geowissenschaften
+2,Na 5.1,Allgemeine Geologie
+3,Na 5.1.1,"Geophysik, Geodynamik, Geochemie"
+2,Na 5.2,Historische Geologie
+2,Na 5.3,Regionale Geologie
+2,Na 5.4,Mineralogie und Gesteinskunde
+2,Na 5.5,Bodenschätze und Massenrohstoffe
+2,Na 5.6,Bodenkunde
+1,Na 6,Biologie
+2,Na 6.1,Allgemeine Biologie und Humanbiologie
+3,Na 6.1.1,Zellbiologie
+3,Na 6.1.2,Allgemeine und vergleichende Physiologie
+2,Na 6.2,Allgemeine und vergleichende Entwicklungsgeschichte und Entwicklungsgeschichte des Menschen
+3,Na 6.2.1,Fortpflanzungs- und Entwicklungsbiologie
+3,Na 6.2.2,Allgemeine Genetik und Humangenetik
+3,Na 6.2.3,"Tiere/Pflanzen: Evolution, Stammesentwicklung,
+Anpassung"
+3,Na 6.2.4,Mensch: Entwicklungsgeschichte
+2,Na 6.3,"Allgemeine Ökologie, Ökosysteme"
+3,Na 6.3.1,Ökologie einzelner geografischer Regionen
+3,Na 6.3.2,Lebensraum Wald
+3,Na 6.3.3,Lebensraum Wasser und Feuchtgebiete
+3,Na 6.3.4,Weitere Ökosysteme
+2,Na 6.4,Allgemeine Mikrobiologie
+2,Na 6.5,Pilzkunde (Mykologie)
+1,Na 7,Botanik und Zoologie
+2,Na 7.1,Allgemeine Botanik
+3,Na 7.1.1,"Pflanzenökologie, Bioklimatologie der Pflanzen,
+Pflanzengeografie"
+2,Na 7.2,Spezielle Botanik
+3,Na 7.2.1,Niedere Pflanzen
+3,Na 7.2.2,Samenpflanzen
+2,Na 7.3,Allgemeine Zoologie
+3,Na 7.3.1,"Tierökologie, Bioklimatologie der Tiere, Tiergeografie"
+2,Na 7.4,Spezielle Zoologie
+2,Na 7.5,Wirbellose
+3,Na 7.5.1,Insekten und Spinnen
+2,Na 7.6,Wirbeltiere (außer Säugetiere)
+3,Na 7.6.1,Fische
+3,Na 7.6.2,"Lurche (Amphibien), Kriechtiere (Reptilien)"
+3,Na 7.6.3,Vögel
+2,Na 7.7,Säugetiere
+3,Na 7.7.1,"Affen, Halbaffen"
+3,Na 7.7.2,Meeressäugetiere
+3,Na 7.7.3,Raubtiere
+3,Na 7.7.4,Huftiere
+3,Na 7.7.5,Hasen- und Nagetiere
+3,Na 7.7.6,Hunde und Hauskatzen
+3,Na 7.7.7,Weitere Säugetiere
+2,Na 7.8,Haustier allgemein
+2,Na 7.9,Tiermedizin
+1,Na 8,Umweltschutz
+2,Na 8.1,Grundlagen und Geschichte des Umweltschutzes
+2,Na 8.2,"Umweltpolitik, Umweltschutzorganisationen"
+2,Na 8.3,Naturschutz
+3,Na 8.3.1,"Landschaftsschutz, Biotopschutz"
+3,Na 8.3.2,Artenschutz
+2,Na 8.4,Umweltbelastung und Umweltzerstörung
+3,Na 8.4.1,Gewässerschutz
+3,Na 8.4.2,Bodenschutz
+3,Na 8.4.3,"Luftverschmutzung, Klimaänderung"
+3,Na 8.4.4,"Umweltschadstoffe, Umweltgifte, Radioaktivität, Lärm"
+3,Na 8.4.5,"Müll, Abfall, Abwasser"
+3,Na 8.4.6,Weitere Bereiche und Probleme
+2,Na 8.5,Weitere Themen des Umweltschutzes
+1,Na 9,Weitere Themen
+1,Na 10,"Fachdidaktik für den Unterricht in
+naturwissenschaftlichen und mathematischen
+Fächern, Schulbücher"
+2,Na 10.2,Mathematik
+2,Na 10.3,Chemie
+2,Na 10.4,Physik
+2,Na 10.5,Geowissenschaften
+2,Na 10.6,Biologie
+2,Na 10.7,Botanik und Zoologie
+2,Na 10.8,Umweltschutz
+0,Pä,Pädagogik
+1,Pä 1,Allgemeines
+2,Pä 1.1,"Nachschlagewerke, Bibliografien, Einführungen"
+2,Pä 1.2,Theorie der Bildung und Erziehung
+3,Pä 1.2.1,Einzelne Erziehungstheorien
+3,Pä 1.2.2,Pädagogische Soziologie
+2,Pä 1.3,Geschichte der Pädagogik
+2,Pä 1.4,Leben und Werk einzelner Persönlichkeiten
+1,Pä 2,"Kinder- und Jugenderziehung, Sozialpädagogik"
+2,Pä 2.1,"Kinder- und Jugenderziehung im Bereich Familie,
+allgemeine Elternratgeber"
+3,Pä 2.1.1,Geistige und körperliche Entwicklung
+3,Pä 2.1.2,Sexualerziehung
+3,Pä 2.1.3,Soziale Erziehung
+3,Pä 2.1.4,"Religiöse und ethische Erziehung, Werterziehung"
+3,Pä 2.1.5,Besondere familiäre Situationen
+2,Pä 2.2,"Kindergartenpädagogik, Vorschulpädagogik"
+2,Pä 2.3,"Heimerziehung, Kinderdörfer"
+2,Pä 2.4,Jugendarbeit
+2,Pä 2.7,Erziehungsberatung
+2,Pä 2.8,"Spielpädagogik, Erlebnispädagogik"
+1,Pä 3,Organisation des Bildungssystems
+2,Pä 3.0,"Schulorganisation, Schulleitung"
+3,Pä 3.0.1,Schulleben
+3,Pä 3.0.2,"Bewertung, Beurteilung, Evaluation"
+2,Pä 3.1,"Schulreform, Schulentwicklung"
+2,Pä 3.2,"Heimschule, Privatschule"
+2,Pä 3.3,Pflichtschule
+3,Pä 3.3.1,Grundschule
+3,Pä 3.3.2,Mittelschule
+2,Pä 3.4,Oberschule
+2,Pä 3.5,Berufliche Schulen
+2,Pä 3.6,"Hochschule, Universität, Akademie"
+2,Pä 3.7,Ausbildung und Fortbildung der Lehrer und Erzieher
+2,Pä 3.9,"Berufsberatung, Studienführer"
+1,Pä 4,Allgemeine Methodik und Didaktik des Unterrichts
+2,Pä 4.1,Einzelne Unterrichtsmethoden und Unterrichtsformen
+3,Pä 4.1.2,"Rollenspiel, Schulspiel, Interaktionsspiel"
+2,Pä 4.2,Fächerübergreifender Unterricht
+2,Pä 4.6,"Montessoripädagogik, Waldorfpädagogik,
+Reformpädagogik"
+1,Pä 5,"Sonderpädagogik, Integrationspädagogik"
+2,Pä 5.1,Körperbehindertenpädagogik
+2,Pä 5.2,Geistigbehindertenpädagogik
+2,Pä 5.5,Verhaltensgestörtenpädagogik
+2,Pä 5.6,Sprachbehindertenpädagogik
+2,Pä 5.7,Lernbehindertenpädagogik
+2,Pä 5.8,Sonderpädagogische Therapien
+1,Pä 6,Einzelbereiche der Bildung und Erziehung
+2,Pä 6.1,Umgangsformen
+2,Pä 6.4,Medienerziehung
+2,Pä 6.6,Verkehrserziehung
+2,Pä 6.7,Umwelterziehung
+2,Pä 6.8,Interkulturelle Erziehung
+2,Pä 6.9,Weitere Einzelbereiche
+1,Pä 8,Erwachsenenbildung
+2,Pä 8.1,Bildungseinrichtungen und Bildungsangebote
+1,Pä 9,Weitere Themen
+1,Pä 10,"Fachdidaktik für den Pädagogikunterricht,
+Schulbücher"
+0,Ph,Philosophie
+1,Ph 1,Allgemeines
+2,Ph 1.1,"Nachschlagewerke, Bibliografien, Einführungen,
+Gesamtdarstellungen"
+1,Ph 2,Geschichte der Philosophie
+2,Ph 2.1,Nichtwestliche Philosophien von den Anfängen bis zur Gegenwart
+2,Ph 2.2,Philosophie der Antike (800 v. Chr. – 270 n. Chr.)
+3,Ph 2.2.1,Griechische Philosophie vor Sokrates (800 – 470 v. Chr.)
+3,Ph 2.2.2,Klassische griechische Philosophie (470 – 322 v. Chr.)
+3,Ph 2.2.3,"Philosophie der hellenistisch-römischen Zeit (323 v. Chr. –
+270 n. Chr.)"
+2,Ph 2.3,Philosophie des Mittelalters (300 – 1500)
+2,Ph 2.4,"Europäische Philosophie der Neuzeit bis einschließlich
+Kant (1500 – 1804)"
+3,Ph 2.4.1,Philosophie vor Kant (1500 – 1724)
+3,Ph 2.4.2,Philosophie Kants (1724 – 1804)
+2,Ph 2.5,"Philosophische Richtungen und Schulen vom 19. Jh. bis
+zur Gegenwart"
+3,Ph 2.5.1,"Deutscher Idealismus, Neukantianismus,
+Neuhegelianismus (1800 – 1854)"
+3,Ph 2.5.2,"Materialismus, Naturalismus, Historischer und
+Dialektischer Materialismus einschließlich Philosophie der
+Hoffnung, Marxismus, Neomarxismus"
+3,Ph 2.5.3,"Phänomenologie, Neue Metaphysik, Positivismus,
+Neopositivismus, Analytische Philosophie"
+3,Ph 2.5.4,Lebensphilosophie (1830 – 1940)
+3,Ph 2.5.5,Existenzphilosophie
+3,Ph 2.5.6,Weitere Richtungen und Schulen
+1,Ph 3,Einzelne Themen der Philosophie
+2,Ph 3.1,Logik
+2,Ph 3.2,Erkenntnis- und Wissenschaftstheorie
+2,Ph 3.3,Metaphysik (Allgemeines)
+2,Ph 3.4,Philosophische Anthropologie
+2,Ph 3.5,Philosophische Ethik
+2,Ph 3.6,Allgemeine und vergleichende Ästhetik
+2,Ph 3.7,"Politische Philosophie, Geschichts- und Kulturphilosophie"
+1,Ph 4,Philosophische Betrachtungen
+1,Ph 9,Weitere Themen
+1,Ph 10,"Fachdidaktik für den Philosophieunterricht,
+Schulbücher"
+0,Ps,Psychologie
+1,Ps 1,Allgemeines
+2,Ps 1.1,"Nachschlagewerke, Bibliografien, Einführungen"
+2,Ps 1.2,Theorie und Methoden der Psychologie
+2,Ps 1.3,Geschichte der Psychologie
+2,Ps 1.4,Leben und Werk einzelner Persönlichkeiten
+1,Ps 2,Teilgebiete und Richtungen der Psychologie
+2,Ps 2.0,Allgemeine Psychologie
+3,Ps 2.0.1,Wahrnehmung. Vorstellung
+3,Ps 2.0.2,Emotion und Motivation
+2,Ps 2.1,Entwicklungspsychologie
+3,Ps 2.1.1,Kinderpsychologie (bis 12 Jahre)
+3,Ps 2.1.2,Jugendpsychologie (12 bis 18 Jahre)
+3,Ps 2.1.4,"Erwachsenenpsychologie, Psychologie späterer
+Lebensjahre"
+2,Ps 2.2,Persönlichkeitspsychologie Geschlechterpsychologie
+3,Ps 2.2.1,"Persönlichkeitseigenschaften, Persönlichkeitsbeurteilung"
+3,Ps 2.2.2,Geschlechterpsychologie Sexualpsychologie
+2,Ps 2.3,Tiefenpsychologie
+3,Ps 2.3.1,Einzelne Richtungen
+3,Ps 2.3.2,Einzelfragen
+2,Ps 2.6,Weitere Richtungen
+3,Ps 2.6.1,Behaviorismus
+3,Ps 2.6.2,Ganzheitspsychologie
+3,Ps 2.6.3,Gestaltpsychologie
+1,Ps 3,Sozialpsychologie
+2,Ps 3.1,Psychologie der Gruppe
+3,Ps 3.1.1,Gruppenverhalten
+2,Ps 3.3,Kommunikationspsychologie
+1,Ps 4,"Pädagogische Psychologie, Lernpsychologie"
+2,Ps 4.1,"Gedächtnis, Lernen, Denken"
+2,Ps 4.2,Schulpsychologie
+1,Ps 5,Lebensführung & Lebenshilfe
+2,Ps 5.1,"Fragen der Lebensführung und -planung, Lebenshilfe"
+2,Ps 5.2,"Beziehung, Partnerschaft, Ehe, Familie"
+2,Ps 5.3,"Lebenskrisen, Lebensprobleme und ihre Bewältigung"
+1,Ps 6,Grenzwissenschaften der Psychologie
+2,Ps 6.2,Esoterik
+2,Ps 6.3,Parapsychologie
+2,Ps 6.4,Astrologie
+2,Ps 6.5,Wahrsagen
+1,Ps 7,Angewandte Psychologie
+2,Ps 7.1,"Psychodiagnostik, Testpsychologie"
+1,Ps 8,"Klinische Psychologie, Psychiatrie"
+2,Ps 8.1,Psychotherapie
+3,Ps 8.1.1,Einzelne Formen der Psychotherapie
+2,Ps 8.3,Psychiatrie
+3,Ps 8.3.1,Einzelne psychische Störungen
+3,Ps 8.3.2,Sexueller Missbrauch
+2,Ps 8.4,"Abhängigkeit, Sucht"
+3,Ps 8.4.1,Stoffgebundene Süchte
+3,Ps 8.4.2,Stoffungebundene Süchte
+1,Ps 9,Weitere Themen
+1,Ps 10,"Fachdidaktik für den Psychologieunterricht,
+Schulbücher"
+0,Re,Religion
+1,Re 1,Allgemeines
+2,Re 1.1,"Nachschlagewerke, Bibliografien, Einführungen"
+2,Re 1.2,"Religionswissenschaft, Religionsgeschichte"
+1,Re 2,"Bibel, Bibelwissenschaft"
+2,Re 2.1,Bibel
+2,Re 2.2,Bibelwissenschaft
+2,Re 2.3,Gestalten der Bibel
+1,Re 3,Christentum christliche Theologie
+2,Re 3.1,Leben und Werk einzelner Persönlichkeiten des Christentums
+2,Re 3.2,"Geschichte des Christentums, Kirchengeschichte"
+3,Re 3.2.1,Geschichte des Christentums und Kirchengeschichte bis zur Reformation
+3,Re 3.2.2,Geschichte des Christentums und Kirchengeschichte seit der Reformation
+2,Re 3.3,"Katholizismus, Geschichte der römisch-katholischen
+Kirche"
+3,Re 3.3.1,Papsttum
+3,Re 3.3.2,"Priestertum, katholische Ordensgemeinschaften"
+3,Re 3.3.3,Kirchenvolk
+2,Re 3.4,"Protestantismus, Geschichte der evangelischen Kirchen
+und Bekenntnisse"
+2,Re 3.5,"Orthodoxes Christentum, Geschichte der orthodoxen
+Kirchen"
+2,Re 3.6,Christliche Sondergemeinschaften und ihre Geschichte
+2,Re 3.7,Systematische christliche Theologie
+3,Re 3.7.1,Glaubensbegründung und Glaubenslehre
+3,Re 3.7.2,Christliche Ethik
+2,Re 3.8,Praktische Theologie
+3,Re 3.8.1,Christliche Gemeindearbeit
+3,Re 3.8.2,Liturgie
+3,Re 3.8.3,"Katechetik, Katechese"
+2,Re 3.9,Christlicher Glaube im Alltag
+3,Re 3.9.1,Christliche Lebensführung
+3,Re 3.9.2,"Christliches Brauchtum, Wallfahrten"
+1,Re 4,Religionen der Welt
+2,Re 4.1,"Prähistorische Formen der Religion, Naturreligionen"
+2,Re 4.2,Mythologien und Volksreligionen
+2,Re 4.3,Judentum
+2,Re 4.4,Islam
+2,Re 4.5,Hinduismus
+2,Re 4.6,Buddhismus
+1,Re 5,"Freireligiöse Bewegungen und Lehren, Neureligionen"
+2,Re 5.1,Anthroposophie
+2,Re 5.2,Freimaurerei
+2,Re 5.3,"Neureligionen, Sekten"
+2,Re 5.4,Weitere Bewegungen und Lehren
+1,Re 9,Weitere Themen
+1,Re 10,"Fachdidaktik für den Religionsunterricht, Schulbücher"
+0,So,"Sozialwissenschaften, Recht"
+1,So 1,Soziologie
+2,So 1.1,"Einzelne Theorien, Richtungen und Schulen der Soziologie"
+2,So 1.2,Sozialwissenschaftliche Forschungsmethoden
+2,So 1.3,Soziologie der Gemeinschaft
+3,So 1.3.2,"Soziologie der Partnerschaft, Ehe und Familie"
+2,So 1.4,"Soziologie der Gesellschaft, der Gruppe, sozialer Wandel"
+2,So 1.5,Kinder- und Jugendsoziologie
+2,So 1.6,Soziologie der Frau und des Mannes
+3,So 1.6.1,Soziologie der Frau
+3,So 1.6.2,Soziologie des Mannes
+2,So 1.7,Soziologie des Alters
+2,So 1.8,Freizeitsoziologie
+2,So 1.9,Weitere Themen
+3,So 1.9.1,Gesellschaftliche Konfliktfälle
+1,So 2,Bevölkerungswissenschaft
+2,So 2.1,"Bevölkerungsstruktur, Bevölkerungsentwicklung"
+2,So 2.2,Bevölkerungsbewegung
+2,So 2.3,Bevölkerungspolitik
+3,So 2.3.1,"Lokalforschung, Flurbereinigung, Wohnungspolitik"
+3,So 2.3.2,"Familienpolitik, Jugendpolitik"
+3,So 2.3.9,Weitere Themen
+1,So 3,Öffentliche Verwaltung
+2,So 3.1,Allgemeines
+2,So 3.2,"Staatsverwaltung, Regionalverwaltung, Landesverwaltung"
+2,So 3.3,"Gemeindeverwaltung, Gemeindepolitik,
+Bezirksgemeinschaft"
+2,So 3.4,"Öffentliche Einrichtungen, öffentliche Dienste"
+1,So 4,"Politik, Politikwissenschaft, Staatslehre"
+2,So 4.1,Staatslehre
+3,So 4.1.1,Gesellschaftstheorien und politische Theorien
+2,So 4.2,"Weltpolitik und internationale Politik, internationale
+Beziehungen und Organisationen"
+3,So 4.2.1,Vereinte Nationen
+3,So 4.2.2,Europäische Union
+3,So 4.2.3,Europarat
+3,So 4.2.4,Weitere internationale politische Zusammenschlüsse
+3,So 4.2.5,Internationale Zusammenarbeit in Organisationen
+3,So 4.2.6,"Imperialistische Politik, Nationalistische Politik"
+3,So 4.2.7,Friedenspolitik
+3,So 4.2.8,Entwicklungspolitik
+2,So 4.3,Innenpolitik
+3,So 4.3.1,Wahlsystem
+3,So 4.3.2,Parlament und Regierung
+3,So 4.3.3,Parteien
+3,So 4.3.4,"Andere politische Bewegungen und Gruppen,
+Interessenverbände"
+2,So 4.4,"Militärpolitik, Militärwesen"
+2,So 4.5,Sozialpolitik
+2,So 4.6,"Politischer Extremismus, Terrorismus"
+2,So 4.7,Minderheitenpolitik
+2,So 4.8,Südtirol-Autonomie
+1,So 5,Sozialarbeit
+2,So 5.1,Sozialfürsorge
+2,So 5.2,Gesundheitsfürsorge
+2,So 5.3,"Behindertenarbeit, Behindertenhilfe"
+2,So 5.4,Sozialarbeit mit Obdachlosen und Nichtsesshaften
+2,So 5.5,"Sozialarbeit mit Ausländern, Flüchtlingshilfe"
+1,So 6,Wirtschaft
+2,So 6.1,Allgemeines
+3,So 6.1.1,"Nachschlagewerke, Bibliografien"
+3,So 6.1.2,"Wirtschaftphilosophie, Wirtschaftspsychologie,
+Wirtschaftssoziologie"
+3,So 6.1.3,"Theorie, Grundlagen und Methoden der
+Wirtschaftswissenschaften"
+3,So 6.1.4,"Wirtschaftsmathematik, Wirtschaftskybernetik, Allgemeine
+Wirtschaftsstatistik"
+3,So 6.1.5,Wirtschaftsgeschichte allgemein
+2,So 6.2,Volkswirtschaftslehre
+3,So 6.2.1,Theoretische Volkswirtschaftslehre (Allgemeines)
+3,So 6.2.2,Allgemeine Wirtschaftspolitik
+2,So 6.3,"Weltwirtschaft, Außenwirtschaft"
+3,So 6.3.1,Rohstoffe und andere Welthandelsgüter
+3,So 6.3.2,Wirtschaft Europas und der Europäischen Union
+3,So 6.3.3,"Wirtschaft Amerikas, Afrikas, Asiens und Australiens"
+2,So 6.4,"Geld-, Bank- und Börsenwesen, Versicherungswirtschaft"
+3,So 6.4.1,Geldfragen des Privathaushalts
+3,So 6.4.2,Bankwesen
+3,So 6.4.3,Börsenwesen
+3,So 6.4.4,Versicherungswirtschaft
+2,So 6.5,"Branchenkunde, Verbraucherinformation"
+3,So 6.5.1,"Handwerk, Gewerbe, Industrie"
+3,So 6.5.2,"Handel, Dienstleistungen, Verkehrwirtschaft,
+Transportwesen"
+3,So 6.5.3,Tourismus
+3,So 6.5.4,Weitere Branchen
+2,So 6.6,Öffentliche Finanzwirtschaft und Finanzpolitik
+1,So 7,Allgemeine Betriebswirtschaftslehre
+2,So 7.1,Das Unternehmen
+3,So 7.1.1,"Existenzgründung, Unternehmensstandort und
+Unternehmensgröße, Unternehmenswachstum"
+3,So 7.1.2,"Rechtsformen von Unternehmen,
+Unternehmenszusammenschlüsse, Kooperation von
+Unternehmen"
+3,So 7.1.3,"Unternehmensphilosophie, Unternehmenspolitik,
+Unternehmenskultur, Public Relations"
+2,So 7.2,Unternehmensführung
+3,So 7.2.1,Managementkonzepte
+3,So 7.2.2,"Unternehmenszielsetzung, Führungsentscheidungen,
+Unternehmensplanung, Unternehmenskontrolle,
+Unternehmenssteuerung"
+3,So 7.2.3,Unternehmensorganisation
+2,So 7.3,Personalwirtschaft
+3,So 7.3.1,"Personalbedarfsplanung, Personalbeschaffung,
+Personalverwaltung, Personalbeurteilung"
+3,So 7.3.2,"Arbeitsentgelt, Arbeitszeit, Arbeitsplatzgestaltung"
+3,So 7.3.3,"Mitarbeiterbeteiligung, Mitbestimmung"
+2,So 7.4,Allgemeine Ratgeber für den Berufsalltag
+3,So 7.4.1,Stellensuche und Bewerbung
+2,So 7.5,"Materialwirtschaft, Produktionswirtschaft, Absatzwirtschaft"
+3,So 7.5.1,Marketing allgemein
+3,So 7.5.2,"Markt, Produkt, Preis, Absatz, Vertrieb"
+3,So 7.5.3,Werbung
+3,So 7.5.4,"Kundengewinnung, Verkauf, Kundendienst"
+2,So 7.6,"Betriebliche Finanzwirtschaft, betriebliches
+Rechnungswesen, betriebliches Prüfungswesen"
+3,So 7.6.1,"Betriebliches Rechnungswesen, betriebliches
+Prüfungswesen"
+2,So 7.7,Betriebliche Bürowirtschaft
+3,So 7.7.1,Geschäftskorrespondenz
+2,So 7.8,Arbeitswissenschaft
+2,So 7.9,Weitere Themen
+1,So 8,Recht
+2,So 8.1,Allgemeines
+3,So 8.1.1,"Geschichte, Theorie, Grundlagen und Methoden der
+Rechtswissenschaft"
+3,So 8.1.2,"Kriminologie, Kriminalität, Gerichtsmedizin"
+3,So 8.1.3,Rechtsgeschichte
+2,So 8.2,Internationales Recht einschließlich Europarecht
+3,So 8.2.1,Internationales öffentliches Recht
+3,So 8.2.2,"Internationales Wirtschaftsrecht und Handelsrecht sowie
+Wirtschaftsstrafrecht, Internationales Arbeitsrecht und
+Sozialrecht"
+3,So 8.2.3,Internationale Kriminalität und Kriminalistik
+3,So 8.2.4,Recht einzelner Staaten
+2,So 8.3,Italienisches Recht und Rechtspflege
+3,So 8.3.1,Rechtspflege
+2,So 8.4,Italienisches Staats- und Verfassungsrecht
+2,So 8.5,Italienisches Verwaltungsrecht
+3,So 8.5.1,Finanzrecht
+3,So 8.5.2,"Umweltrecht und Umweltstrafrecht, Agrarrecht, Jagd- und
+Fischereirecht, Forstrecht"
+2,So 8.6,"Italienisches Zivilrecht, Zivilgesetzbuch"
+3,So 8.6.1,Schuldrecht
+3,So 8.6.2,Dingliches Recht
+3,So 8.6.3,Familienrecht
+3,So 8.6.4,Erbrecht
+2,So 8.7,Italienisches Wirtschaftsrecht und Handelsrecht
+2,So 8.8,Italienisches Arbeitsrecht und Sozialrecht
+3,So 8.8.1,"Arbeitsrecht, Arbeitsgerichtsbarkeit"
+2,So 8.9,Italienisches Strafrecht
+1,So 9,Weitere Themen
+1,So 10,"Fachdidaktik für den Unterricht, Schulbücher"
+2,So 10.1,Soziologie
+2,So 10.2,Politik
+2,So 10.3,Wirtschaft
+2,So 10.4,Recht
+0,Sp,"Sport, Alpinismus, Freizeitgestaltung"
+1,Sp 1,Allgemeines
+2,Sp 1.1,Freizeitgestaltung
+2,Sp 1.2,Geschichte des Sports
+1,Sp 2,Sport
+2,Sp 2.1,"Turnen, Gymnastik"
+2,Sp 2.2,Leichtathletik
+2,Sp 2.3,Ballspiele
+3,Sp 2.3.1,Fußball
+3,Sp 2.3.2,"Handball, Faustball, Basketball, Volleyball, Völkerball,
+American Football, Rugby"
+3,Sp 2.3.3,"Tennis, Squash, Federball, Badminton, Tischtennis"
+2,Sp 2.4,Wassersport
+2,Sp 2.5,"Radsport, Motorsport, Flugsport"
+3,Sp 2.5.1,Radsport
+3,Sp 2.5.2,Motorsport
+3,Sp 2.5.3,Flugsport
+2,Sp 2.6,"Kampfsport, Kraftsport, Schwerathletik, Schießsport"
+3,Sp 2.6.1,"Ostasiatische Kampfsportarten, Selbstverteidigungssport"
+2,Sp 2.7,Reitsport
+2,Sp 2.8,Gesundheitssport
+2,Sp 2.9,Weitere Sportarten
+1,Sp 3,"Alpinismus, Bergsport, Wintersport"
+2,Sp 3.1,Bergsport
+3,Sp 3.1.1,Wander- und Kletterführer Südtirol
+3,Sp 3.1.2,Wander- und Kletterführer Dolomiten
+3,Sp 3.1.3,Wander- und Kletterführer angrenzender Regionen
+3,Sp 3.1.4,Hüttenführer
+3,Sp 3.1.5,Weitere Bergsportarten
+2,Sp 3.2,Erlebnisberichte und Biografien von Bergsteigern
+2,Sp 3.3,Wintersport
+3,Sp 3.3.1,"Skifahren, Snowboarding, Langlauf"
+3,Sp 3.3.2,Skitouren
+3,Sp 3.3.3,Weitere Wintersportarten
+1,Sp 4,"Basteln, Modellbau"
+2,Sp 4.1,Basteln mit einzelnen Materialien
+3,Sp 4.1.1,"Papier, Pappe, Karton"
+3,Sp 4.1.2,"Textilien und textile Fäden, Leder, Fell"
+3,Sp 4.1.3,"Holz, Kork"
+3,Sp 4.1.4,Andere Naturmaterialien
+3,Sp 4.1.5,"Glas, Ton, Keramik, Porzellan, Metall"
+3,Sp 4.1.9,Weitere Materialien
+2,Sp 4.2,Basteln einzelner Gegenstände
+3,Sp 4.2.1,"Spielzeug, Spielgeräte, Spiele"
+3,Sp 4.2.2,"Dekoratives für Wohnung, Haus und Garten"
+3,Sp 4.2.3,"Schmuck, Kleidung, Accessoires"
+3,Sp 4.2.4,Geschenke
+3,Sp 4.2.9,Weitere Gegenstände
+2,Sp 4.3,Jahreszeitliches Basteln
+2,Sp 4.4,"Modellbau, Modellsport, Modellsammeln"
+3,Sp 4.4.1,Modelleisenbahn
+1,Sp 5,Unterhaltungsspiele
+2,Sp 5.1,"Gesellschaftsspiele, Kinderspiele"
+2,Sp 5.2,"Denkspiele, Denksport, Sprachspiele, Schreibspiele,
+Zaubertricks"
+2,Sp 5.3,Kartenspiele
+2,Sp 5.4,Brettspiele
+2,Sp 5.5,Glücksspiele
+2,Sp 5.6,Computerspiele
+2,Sp 5.9,Weitere Spiele
+1,Sp 6,Feste und Feiern
+2,Sp 6.1,"Allgemeine Festreden, Festgedichte und Glückwünsche"
+2,Sp 6.2,"Advent, Weihnachten"
+2,Sp 6.3,Ostern
+2,Sp 6.4,Kinderfeste
+2,Sp 6.5,Hochzeit
+2,Sp 6.6,"Taufe, Kommunion, Firmung"
+2,Sp 6.7,Andere Feste und Feiern
+1,Sp 7,Sammeln
+2,Sp 7.1,Briefmarkensammeln
+1,Sp 9,Weitere Themen
+1,Sp 10,"Fachdidaktik für den Unterricht, Schulbücher"
+0,Te,"Technik, Industrie, Handwerk und
+Gewerbe"
+1,Te 1,Allgemeines
+2,Te 1.1,"Nachschlagewerke, Bibliografien, Einführungen"
+3,Te 1.1.1,Gesellschaftswissenschaftliche Grundlagen der Technik
+2,Te 1.2,"Technische Einheiten, Messtechnik und Prüftechnik,
+technische Qualitätskontrolle"
+2,Te 1.3,Technisches Grundwissen
+2,Te 1.4,Geschichte der Technik
+2,Te 1.5,Leben und Werk einzelner Persönlichkeiten
+2,Te 1.6,Verfahrenstechnik
+2,Te 1.7,Umwelttechnik
+2,Te 1.8,"Bionik, Biotechnik"
+2,Te 1.9,Sicherheitstechnik
+1,Te 2,"Bergbau und Hüttenkunde, Energiegewinnung und
+Energietechnik"
+2,Te 2.1,Kohlenbergbau
+2,Te 2.2,Metallurgie
+2,Te 2.3,"Erdölförderung, Erdgasförderung"
+2,Te 2.4,Abbau von Mineralien
+2,Te 2.5,Allgemeine Energietechnik
+3,Te 2.5.1,"Wärmekraftmaschinen, Wärmekraftwerke"
+3,Te 2.5.2,"Wasserkraftmaschinen, Wasserkraftwerke"
+3,Te 2.5.3,"Windkraftwerke, Solaranlagen, erneuerbare
+Energiequellen"
+3,Te 2.5.4,"Kernkraftwerke, Kernenergie"
+1,Te 3,"Metallbearbeitung, Feinwerktechnik, Maschinenbau"
+2,Te 3.1,Allgemeine Grundlagen
+3,Te 3.1.1,Fertigungsverfahren
+2,Te 3.2,Feinwerktechnik
+2,Te 3.3,Maschinenbau
+3,Te 3.3.1,Arbeitsmaschinen
+1,Te 4,Bauwesen
+2,Te 4.1,Hochbau
+3,Te 4.1.1,Mauerwerksbau
+3,Te 4.1.2,Holzbau
+3,Te 4.1.3,"Stahlbau, Betonbau"
+3,Te 4.1.4,Wohnungsbau
+3,Te 4.1.5,Zweckbau
+2,Te 4.2,Tiefbau einschließlich Wasserwirtschaft
+3,Te 4.2.1,"Grundbau, Erdbau, Brunnenbau"
+3,Te 4.2.2,Verkehrsbau
+3,Te 4.2.3,"Wasserbau, Wasserwirtschaft"
+3,Te 4.2.4,"Deponietechnik, Abfallwirtschaft"
+2,Te 4.3,Städtebau
+2,Te 4.4,Gebäudeausbau einschließlich Heimwerkerarbeiten
+3,Te 4.4.1,"Mauern, Fassaden, Wände"
+3,Te 4.4.2,"Fußböden, Fußbodenbeläge, Fliesen, Platten"
+3,Te 4.4.3,"Dächer, Treppen, Türen, Fenster"
+3,Te 4.4.4,"Haustechnik, Heizungstechnik, Klimatechnik"
+3,Te 4.4.5,Malerarbeiten
+1,Te 5,"Elektrotechnik, Radio- und Fernsehtechnik, Foto- und
+Filmtechnik"
+2,Te 5.1,Elektronik
+2,Te 5.2,Elektrische Energietechnik
+2,Te 5.3,Nachrichtentechnik
+3,Te 5.3.1,Telekommunikation
+3,Te 5.3.2,Andere Anwendungsbereiche der Hoch- und Höchstfrequenztechnik
+2,Te 5.4,"Radiotechnik, Fernsehtechnik, Unterhaltungselektronik"
+3,Te 5.4.1,Radiotechnik
+3,Te 5.4.2,Unterhaltungselektronik
+3,Te 5.4.3,Fernsehtechnik
+2,Te 5.5,"Fototechnik, Filmtechnik, Videotechnik"
+3,Te 5.5.1,Fototechnik
+3,Te 5.5.2,"Filmtechnik, Videotechnik"
+1,Te 6,Verkehrstechnik
+2,Te 6.1,"Straßenverkehr, Kraftfahrzeuge"
+3,Te 6.1.1,Personenkraftwagen
+3,Te 6.1.2,Krafträder
+3,Te 6.1.3,"Nutzfahrzeuge, Spezialfahrzeuge"
+3,Te 6.1.4,Andere Straßenfahrzeuge
+2,Te 6.2,"Schienenverkehr, Schienenfahrzeuge"
+3,Te 6.2.1,Eisenbahn
+3,Te 6.2.2,Spezialbahnen
+2,Te 6.4,"Schifffahrt, Schiffbau"
+3,Te 6.4.1,"Schifffahrtsicherung, Schiffsnavigation, Seefunk"
+3,Te 6.4.2,"Segelschiffe, Segelboote, Ruderboote"
+3,Te 6.4.3,"Motorschiffe, Motorboote"
+2,Te 6.5,"Luftfahrt, Raumfahrt"
+3,Te 6.5.1,"Ballons, Fallschirme, Flugmaschinen"
+3,Te 6.5.2,"Flugzeuge, Helikopter"
+3,Te 6.5.3,Raumfahrt
+1,Te 7,Weitere handwerkliche und industrielle Techniken
+2,Te 7.1,"Holzbearbeitung, Holzverarbeitung"
+3,Te 7.1.1,Möbelherstellung
+2,Te 7.2,Textilindustrie
+3,Te 7.2.1,"Herstellung und Verarbeitung von textilen Stoffen, Leder
+und Pelzen"
+3,Te 7.2.2,"Reinigung und Veredelung von Textilien, Leder und
+Pelzen"
+2,Te 7.3,"Papierindustrie, Verpackungsindustrie"
+2,Te 7.4,Verarbeitung von Steinen und Erden
+3,Te 7.4.1,Keramik
+3,Te 7.4.2,Glas
+2,Te 7.5,"Nahrungs- und Genussmittelindustrie, Nahrungs- und
+Genussmittelgewerbe"
+3,Te 7.5.1,"Herstellung und Verarbeitung von Nahrungs- und
+Genussmitteln"
+3,Te 7.5.2,Getränkeherstellung
+2,Te 7.6,"Chemische Industrie,  chemische Technologie"
+2,Te 7.9,Andere Dienstleistungsgewerbe
+1,Te 8,"Informatik, Datenverarbeitung"
+2,Te 8.1,Theorie und Grundlagen. Computerrecht
+2,Te 8.2,Kommunikation von Computersystemen
+3,Te 8.2.1,"Vernetzung von Computern, Datennetze"
+2,Te 8.3,Internet
+3,Te 8.3.1,Internet und Internetdienste
+3,Te 8.3.2,Einführungen ins Internet
+2,Te 8.4,"Software- und Systementwicklung. Organisation der
+Datenverarbeitung"
+2,Te 8.5,"Aufbau, Arbeitsweise und Betrieb von
+Datenverarbeitungssystemen"
+2,Te 8.6,"Programmierung, Programmiersprachen"
+2,Te 8.7,Betriebssysteme und grafische Benutzeroberfläche
+2,Te 8.8,"Standardanwendungssoftware einschließlich zugehöriger, Ergänzungsprogramme"
+3,Te 8.8.1,Textverarbeitung (z. B. Word)
+3,Te 8.8.2,Desktop-Publishing (z. B PageMaker)
+3,Te 8.8.3,Tabellenkalkulation (z. B. Excel)
+3,Te 8.8.5,"Grafik (z. B. AutoCAD), Präsentation (z. B. Power Point),
+Multimedia-Software (z. B. MP3)"
+3,Te 8.8.6,Webseitengestaltung (z. B. Frontpage)
+3,Te 8.8.7,"E-Mail- und andere Kommunikationssoftware (z. B.
+Outlook)"
+3,Te 8.8.8,Weitere Anwendungssoftware
+2,Te 8.9,Weitere Themen
+1,Te 9,Weitere Themen
+1,Te 10,"Fachdidaktik für den Unterricht in technischen
+Fächern, Schulbücher"
