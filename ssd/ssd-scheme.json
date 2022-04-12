@@ -1,0 +1,27 @@
+{
+  "identifier": [
+    "http://www.wikidata.org/entity/Q2376983"
+  ],
+  "namespace": "http://uri.gbv.de/terminology/ssd/",
+  "notation": [
+    "SSD"
+  ],
+  "notationPattern": "[A-Z]+( ([0-9]+)?)?",
+  "prefLabel": {
+    "de": "Systematik der Stadtbibliothek Duisburg",
+    "en": "Classfication of the city library Duisburg"
+  },
+  "publisher": [
+    {
+      "prefLabel": {
+        "en": "Stadtbibliothek Duisburg"
+      },
+      "uri": "http://viaf.org/viaf/158258930"
+    }
+  ],
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+    "http://w3id.org/nkos/nkostype#classification_schema"
+  ],
+  "uri": "http://bartoc.org/en/node/1051"
+}
