@@ -6,7 +6,7 @@
   "notation": [
     "ESSB"
   ],
-  "notationPattern": "[A-Z][a-zä]( [0-9]+(\\.[0-9](\\.[0-9])?)?)?",
+  "notationPattern": "[A-Z]([a-z]|ä)( [0-9]+(\\.[0-9](\\.[0-9])?)?)?",
   "prefLabel": {
     "de": "Einheitssystematik für Südtiroler Bibliotheken",
     "en": "Unit system for South Tyrolean libraries"
