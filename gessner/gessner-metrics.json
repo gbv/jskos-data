@@ -1,0 +1,42 @@
+{
+  "keys": {
+    "broader": 183,
+    "inScheme": 184,
+    "notation": 184,
+    "prefLabel": 184,
+    "topConceptOf": 1,
+    "uri": 184
+  },
+  "conceptNumber": 184,
+  "broaderDistribution": {
+    "0": 1,
+    "1": 183
+  },
+  "narrowerDistribution": {
+    "0": 184
+  },
+  "narrowerDistributionImplicit": {
+    "1": 4,
+    "2": 7,
+    "3": 4,
+    "4": 5,
+    "5": 4,
+    "6": 2,
+    "7": 1,
+    "8": 2,
+    "9": 1,
+    "11": 1,
+    "12": 2,
+    "17": 2
+  },
+  "topConceptNumber": 1,
+  "levelDistribution": {
+    "0": 1,
+    "1": 2,
+    "2": 5,
+    "3": 31,
+    "4": 86,
+    "5": 27
+  },
+  "typesDistribution": {}
+}

@@ -1,0 +1,38 @@
+{
+  "keys": {
+    "broader": 61,
+    "definition": 181,
+    "editorialNote": 274,
+    "inScheme": 274,
+    "notation": 274,
+    "prefLabel": 274,
+    "type": 274,
+    "uri": 274
+  },
+  "conceptNumber": 274,
+  "broaderDistribution": {
+    "1": 61,
+    "0": 213
+  },
+  "narrowerDistribution": {
+    "0": 274
+  },
+  "narrowerDistributionImplicit": {
+    "1": 7,
+    "2": 3,
+    "4": 2,
+    "6": 1,
+    "7": 1,
+    "8": 1,
+    "9": 1,
+    "10": 1
+  },
+  "topConceptNumber": 0,
+  "levelDistribution": {
+    "0": 425,
+    "1": 60
+  },
+  "typesDistribution": {
+    "http://www.w3.org/2004/02/skos/core#Concept": 274
+  }
+}

@@ -1,38 +1,26 @@
-[
-  {
-    "uri": "http://nomisma.org/id/",
-    "notation": [
-      "NOMISMA"
-    ],
-    "prefLabel": {
-      "en": "Nomisma"
-    },
-    "languages": [
-      "en",
-      "de",
-      "fr"
-    ],
-    "identifier": [
-      "http://bartoc.org/en/node/1822",
-      "http://www.wikidata.org/entity/Q24578999"
-    ],
-    "license": [
-      {
-        "uri": "http://creativecommons.org/licenses/by/3.0/"
+{
+  "identifier": [
+    "http://www.wikidata.org/entity/Q24578999",
+    "http://nomisma.org/id/"
+  ],
+  "notation": [
+    "NOMISMA"
+  ],
+  "prefLabel": {
+    "en": "Nomisma"
+  },
+  "publisher": [
+    {
+      "prefLabel": {
+        "en": "Nomisma.org"
       }
-    ],
-    "publisher": [
-      {
-        "prefLabel": {
-          "en": "Nomisma.org"
-        },
-        "altLabel": {
-          "en": [
-            "Nomisma"
-          ]
-        },
-        "url": "http://nomisma.org"
-      }
-    ]
-  }
-]
+    }
+  ],
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+    "http://w3id.org/nkos/nkostype#glossary",
+    "http://w3id.org/nkos/nkostype#name_authority_list",
+    "http://w3id.org/nkos/nkostype#ontology"
+  ],
+  "uri": "http://bartoc.org/en/node/1822"
+}

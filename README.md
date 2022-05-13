@@ -16,7 +16,13 @@ The files should be generated automatically via a `Makefile`. Its sources such a
 
 Very large vocabularies are not fully committed to the repository.
 
-Script `status.sh` lists all directories and their relevant files.
+Script `status.sh` lists all directories and their relevant files (or selected directories passed as arguments).
+
+If [jskos-metrics](https://github.com/gbv/jskos-metrics) is installed, vocabulary metrics can be calculated and stored in `$ID-metrics.ndjson`:
+
+    JSKOS_METRICS=jskos-metrics status.sh $ID
+
+Alternatively run `./metrics.sh` to update all metrics files. Calling `make metrics` will do so and collect the result in file `metrics.json`.
 
 To re-generate jskos for a given vocabulary, run:
 

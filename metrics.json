@@ -1,0 +1,1042 @@
+[
+  {
+    "uri": "http://bartoc.org/en/node/18627",
+    "title": "Gattungs- und Sachbegriffe der Arbeitsgemeinschaft Alte Drucke beim GBV",
+    "metrics": {
+      "keys": {
+        "broader": 61,
+        "definition": 181,
+        "editorialNote": 274,
+        "inScheme": 274,
+        "notation": 274,
+        "prefLabel": 274,
+        "type": 274,
+        "uri": 274
+      },
+      "conceptNumber": 274,
+      "broaderDistribution": {
+        "1": 61,
+        "0": 213
+      },
+      "narrowerDistribution": {
+        "0": 274
+      },
+      "narrowerDistributionImplicit": {
+        "1": 7,
+        "2": 3,
+        "4": 2,
+        "6": 1,
+        "7": 1,
+        "8": 1,
+        "9": 1,
+        "10": 1
+      },
+      "topConceptNumber": 0,
+      "levelDistribution": {
+        "0": 425,
+        "1": 60
+      },
+      "typesDistribution": {
+        "http://www.w3.org/2004/02/skos/core#Concept": 274
+      }
+    }
+  },
+  {
+    "uri": "http://bartoc.org/en/node/20400",
+    "title": "Systematik der Bibliographia Cartographia",
+    "metrics": {
+      "keys": {
+        "broader": 374,
+        "inScheme": 389,
+        "notation": 389,
+        "prefLabel": 389,
+        "topConceptOf": 15,
+        "uri": 389
+      },
+      "conceptNumber": 389,
+      "broaderDistribution": {
+        "0": 15,
+        "1": 374
+      },
+      "narrowerDistribution": {
+        "0": 389
+      },
+      "narrowerDistributionImplicit": {
+        "1": 3,
+        "2": 3,
+        "3": 9,
+        "5": 2,
+        "6": 3,
+        "7": 3,
+        "8": 1,
+        "9": 3,
+        "11": 1,
+        "42": 1,
+        "46": 1,
+        "49": 1,
+        "52": 1,
+        "54": 1
+      },
+      "topConceptNumber": 15,
+      "levelDistribution": {
+        "0": 29,
+        "1": 56,
+        "2": 108
+      },
+      "typesDistribution": {}
+    }
+  },
+  {
+    "uri": "http://bartoc.org/en/node/730",
+    "title": "Bremer Online Systematik",
+    "metrics": {
+      "keys": {
+        "broader": 67526,
+        "inScheme": 67598,
+        "notation": 67598,
+        "prefLabel": 67598,
+        "topConceptOf": 72,
+        "uri": 67598
+      },
+      "conceptNumber": 67598,
+      "broaderDistribution": {
+        "0": 72,
+        "1": 67526
+      },
+      "narrowerDistribution": {
+        "0": 67598
+      },
+      "narrowerDistributionImplicit": {
+        "1": 2396,
+        "2": 2383,
+        "3": 1729,
+        "4": 1379,
+        "5": 872,
+        "6": 682,
+        "7": 465,
+        "8": 382,
+        "9": 301,
+        "10": 189,
+        "11": 129,
+        "12": 144,
+        "13": 126,
+        "14": 89,
+        "15": 65,
+        "16": 58,
+        "17": 48,
+        "18": 52,
+        "19": 47,
+        "20": 24,
+        "21": 21,
+        "22": 26,
+        "23": 23,
+        "24": 11,
+        "25": 20,
+        "26": 22,
+        "27": 6,
+        "28": 11,
+        "29": 7,
+        "30": 11,
+        "31": 10,
+        "32": 8,
+        "33": 8,
+        "34": 8,
+        "35": 6,
+        "36": 6,
+        "37": 10,
+        "38": 5,
+        "39": 5,
+        "40": 1,
+        "41": 1,
+        "42": 2,
+        "43": 1,
+        "44": 1,
+        "45": 6,
+        "46": 1,
+        "47": 4,
+        "48": 2,
+        "49": 3,
+        "50": 5,
+        "51": 3,
+        "52": 2,
+        "54": 4,
+        "56": 2,
+        "59": 4,
+        "61": 1,
+        "62": 1,
+        "64": 1,
+        "65": 2,
+        "67": 1,
+        "68": 3,
+        "69": 1,
+        "71": 1,
+        "75": 1,
+        "76": 1,
+        "77": 1,
+        "78": 1,
+        "79": 1,
+        "81": 1,
+        "82": 3,
+        "84": 1,
+        "87": 1,
+        "91": 1,
+        "102": 1,
+        "105": 1,
+        "110": 1,
+        "113": 1,
+        "119": 1,
+        "127": 1,
+        "130": 1,
+        "136": 1,
+        "137": 1,
+        "153": 1,
+        "161": 1,
+        "177": 1,
+        "180": 1,
+        "185": 2,
+        "192": 1,
+        "207": 1,
+        "217": 1,
+        "229": 1,
+        "239": 1,
+        "244": 1,
+        "245": 1,
+        "257": 1,
+        "330": 1,
+        "351": 1,
+        "483": 1,
+        "502": 1,
+        "522": 1,
+        "554": 1,
+        "579": 1,
+        "619": 1,
+        "623": 1,
+        "791": 1
+      },
+      "topConceptNumber": 72,
+      "levelDistribution": {
+        "0": 143,
+        "1": 7973,
+        "2": 19554,
+        "3": 13010,
+        "4": 12105,
+        "5": 8147,
+        "6": 4003,
+        "7": 2724,
+        "8": 8
+      },
+      "typesDistribution": {}
+    }
+  },
+  {
+    "uri": "http://bartoc.org/en/node/20406",
+    "title": "Theses or loci communes of the whole medical field",
+    "metrics": {
+      "keys": {
+        "broader": 106,
+        "inScheme": 107,
+        "notation": 107,
+        "prefLabel": 107,
+        "topConceptOf": 1,
+        "uri": 107
+      },
+      "conceptNumber": 107,
+      "broaderDistribution": {
+        "0": 1,
+        "1": 106
+      },
+      "narrowerDistribution": {
+        "0": 107
+      },
+      "narrowerDistributionImplicit": {
+        "106": 1
+      },
+      "topConceptNumber": 1,
+      "levelDistribution": {
+        "0": 1
+      },
+      "typesDistribution": {}
+    }
+  },
+  {
+    "uri": "http://bartoc.org/en/node/743",
+    "title": "Einheitssystematik für Südtiroler Bibliotheken",
+    "metrics": {
+      "keys": {
+        "broader": 1175,
+        "inScheme": 1191,
+        "notation": 1191,
+        "prefLabel": 1191,
+        "topConceptOf": 16,
+        "uri": 1191
+      },
+      "conceptNumber": 1191,
+      "broaderDistribution": {
+        "0": 16,
+        "1": 1175
+      },
+      "narrowerDistribution": {
+        "0": 1191
+      },
+      "narrowerDistributionImplicit": {
+        "1": 48,
+        "2": 53,
+        "3": 43,
+        "4": 38,
+        "5": 32,
+        "6": 21,
+        "7": 19,
+        "8": 10,
+        "9": 19,
+        "10": 7
+      },
+      "topConceptNumber": 16,
+      "levelDistribution": {
+        "0": 31,
+        "1": 139,
+        "2": 534
+      },
+      "typesDistribution": {}
+    }
+  },
+  {
+    "uri": "http://bartoc.org/en/node/18929",
+    "title": "Fachinformationsdienste für die Wissenschaft",
+    "metrics": {
+      "keys": {
+        "inScheme": 37,
+        "notation": 37,
+        "prefLabel": 37,
+        "topConceptOf": 37,
+        "uri": 37
+      },
+      "conceptNumber": 37,
+      "broaderDistribution": {
+        "0": 37
+      },
+      "narrowerDistribution": {
+        "0": 37
+      },
+      "narrowerDistributionImplicit": {},
+      "topConceptNumber": 37,
+      "levelDistribution": {},
+      "typesDistribution": {}
+    }
+  },
+  {
+    "uri": "http://bartoc.org/en/node/20050",
+    "title": "Fachklassifikation Digitale Bibliothek",
+    "metrics": {
+      "keys": {
+        "broader": 84,
+        "inScheme": 89,
+        "notation": 89,
+        "prefLabel": 89,
+        "topConceptOf": 5,
+        "uri": 89
+      },
+      "conceptNumber": 89,
+      "broaderDistribution": {
+        "0": 5,
+        "1": 84
+      },
+      "narrowerDistribution": {
+        "0": 89
+      },
+      "narrowerDistributionImplicit": {
+        "2": 4,
+        "3": 9,
+        "4": 7,
+        "5": 3,
+        "6": 1
+      },
+      "topConceptNumber": 5,
+      "levelDistribution": {
+        "0": 9,
+        "1": 22,
+        "2": 44
+      },
+      "typesDistribution": {}
+    }
+  },
+  {
+    "uri": "http://bartoc.org/en/node/1042",
+    "title": "Field of Science and Technology Classification",
+    "metrics": {
+      "keys": {
+        "broader": 42,
+        "inScheme": 48,
+        "notation": 48,
+        "prefLabel": 48,
+        "topConceptOf": 6,
+        "uri": 48
+      },
+      "conceptNumber": 48,
+      "broaderDistribution": {
+        "0": 6,
+        "1": 42
+      },
+      "narrowerDistribution": {
+        "0": 48
+      },
+      "narrowerDistributionImplicit": {
+        "5": 3,
+        "7": 1,
+        "9": 1,
+        "11": 1
+      },
+      "topConceptNumber": 6,
+      "levelDistribution": {
+        "0": 11
+      },
+      "typesDistribution": {}
+    }
+  },
+  {
+    "uri": "http://bartoc.org/en/node/20405",
+    "title": "21 Books of Universal Knowledge or Universal Partitioning",
+    "metrics": {
+      "keys": {
+        "broader": 183,
+        "inScheme": 184,
+        "notation": 184,
+        "prefLabel": 184,
+        "topConceptOf": 1,
+        "uri": 184
+      },
+      "conceptNumber": 184,
+      "broaderDistribution": {
+        "0": 1,
+        "1": 183
+      },
+      "narrowerDistribution": {
+        "0": 184
+      },
+      "narrowerDistributionImplicit": {
+        "1": 4,
+        "2": 7,
+        "3": 4,
+        "4": 5,
+        "5": 4,
+        "6": 2,
+        "7": 1,
+        "8": 2,
+        "9": 1,
+        "11": 1,
+        "12": 2,
+        "17": 2
+      },
+      "topConceptNumber": 1,
+      "levelDistribution": {
+        "0": 1,
+        "1": 2,
+        "2": 5,
+        "3": 31,
+        "4": 86,
+        "5": 27
+      },
+      "typesDistribution": {}
+    }
+  },
+  {
+    "uri": "http://uri.gbv.de/terminology/msc2020/",
+    "title": "Mathematics Subject Classification",
+    "metrics": {
+      "keys": {
+        "broader": 6545,
+        "inScheme": 6608,
+        "notation": 6608,
+        "prefLabel": 6608,
+        "scopeNote": 1666,
+        "topConceptOf": 63,
+        "uri": 6608
+      },
+      "conceptNumber": 6608,
+      "broaderDistribution": {
+        "0": 63,
+        "1": 6545
+      },
+      "narrowerDistribution": {
+        "0": 6608
+      },
+      "narrowerDistributionImplicit": {
+        "2": 62,
+        "3": 24,
+        "4": 39,
+        "5": 39,
+        "6": 27,
+        "7": 40,
+        "8": 38,
+        "9": 51,
+        "10": 24,
+        "11": 25,
+        "12": 32,
+        "13": 16,
+        "14": 13,
+        "15": 22,
+        "16": 21,
+        "17": 24,
+        "18": 13,
+        "19": 14,
+        "20": 10,
+        "21": 4,
+        "22": 10,
+        "23": 6,
+        "24": 5,
+        "25": 2,
+        "26": 6,
+        "27": 7,
+        "28": 3,
+        "29": 1,
+        "30": 2,
+        "31": 1,
+        "32": 3,
+        "33": 3,
+        "34": 1,
+        "35": 2,
+        "36": 2,
+        "37": 1,
+        "39": 1,
+        "40": 1,
+        "41": 2
+      },
+      "topConceptNumber": 63,
+      "levelDistribution": {
+        "0": 125,
+        "1": 1037
+      },
+      "typesDistribution": {}
+    }
+  },
+  {
+    "uri": "http://bartoc.org/en/node/1986",
+    "title": "Systematik der Mecklenburg-Vorpommerschen Bibliographie",
+    "metrics": {
+      "keys": {
+        "broader": 1244,
+        "inScheme": 1257,
+        "notation": 1257,
+        "prefLabel": 1257,
+        "topConceptOf": 13,
+        "uri": 1257
+      },
+      "conceptNumber": 1257,
+      "broaderDistribution": {
+        "0": 13,
+        "1": 1244
+      },
+      "narrowerDistribution": {
+        "0": 1257
+      },
+      "narrowerDistributionImplicit": {
+        "2": 12,
+        "3": 26,
+        "4": 20,
+        "5": 98,
+        "6": 31,
+        "7": 17,
+        "8": 21,
+        "9": 11
+      },
+      "topConceptNumber": 13,
+      "levelDistribution": {
+        "0": 25,
+        "1": 72,
+        "2": 285,
+        "3": 492,
+        "4": 332
+      },
+      "typesDistribution": {}
+    }
+  },
+  {
+    "uri": "http://bartoc.org/en/node/1822",
+    "title": "Nomisma",
+    "metrics": {
+      "keys": {
+        "definition": 5613,
+        "inScheme": 5613,
+        "notation": 5613,
+        "prefLabel": 5613,
+        "type": 5613,
+        "uri": 5613
+      },
+      "conceptNumber": 5613,
+      "broaderDistribution": {
+        "0": 5613
+      },
+      "narrowerDistribution": {
+        "0": 5613
+      },
+      "narrowerDistributionImplicit": {},
+      "topConceptNumber": 0,
+      "levelDistribution": {},
+      "typesDistribution": {
+        "http://nomisma.org/ontology#FindType": 1,
+        "http://xmlns.com/foaf/0.1/Group": 1,
+        "http://www.owl-ontologies.com/Ontology1181490123.owl#Uncertainty": 2,
+        "http://nomisma.org/ontology#ReferenceWork": 4,
+        "http://nomisma.org/ontology#CoinWear": 5,
+        "http://nomisma.org/ontology#Ethnic": 5,
+        "http://nomisma.org/ontology#Hoard": 5,
+        "http://nomisma.org/ontology#Manufacture": 7,
+        "http://nomisma.org/ontology#TypeSeries": 10,
+        "http://www.w3.org/ns/org#Role": 12,
+        "http://nomisma.org/ontology#FieldOfNumismatics": 16,
+        "http://nomisma.org/ontology#ObjectType": 19,
+        "http://nomisma.org/ontology#Material": 28,
+        "http://www.cidoc-crm.org/cidoc-crm/E4_Period": 28,
+        "http://nomisma.org/ontology#NumismaticTerm": 40,
+        "http://nomisma.org/ontology#Collection": 43,
+        "http://xmlns.com/foaf/0.1/Organization": 67,
+        "http://www.rdaregistry.info/Elements/c/Family": 75,
+        "http://nomisma.org/ontology#Region": 183,
+        "http://nomisma.org/ontology#Denomination": 302,
+        "http://nomisma.org/ontology#Mint": 2222,
+        "http://xmlns.com/foaf/0.1/Person": 2538,
+        "http://www.w3.org/2004/02/skos/core#Concept": 5613
+      }
+    }
+  },
+  {
+    "uri": "http://bartoc.org/en/node/1094",
+    "title": "Österreichische Systematik der Wissenschaftszweige",
+    "metrics": {
+      "keys": {
+        "broader": 1413,
+        "inScheme": 1419,
+        "prefLabel": 1419,
+        "topConceptOf": 6,
+        "type": 1419,
+        "uri": 1419
+      },
+      "conceptNumber": 1419,
+      "broaderDistribution": {
+        "0": 6,
+        "1": 1413
+      },
+      "narrowerDistribution": {
+        "0": 1419
+      },
+      "narrowerDistributionImplicit": {
+        "1": 35,
+        "2": 1,
+        "3": 4,
+        "4": 2,
+        "5": 6,
+        "6": 5,
+        "7": 12,
+        "8": 3,
+        "9": 5,
+        "10": 2,
+        "11": 1,
+        "13": 2,
+        "14": 3,
+        "15": 1,
+        "17": 1,
+        "18": 2,
+        "19": 2,
+        "23": 1,
+        "24": 1,
+        "25": 1,
+        "26": 2,
+        "27": 2,
+        "28": 1,
+        "30": 2,
+        "31": 1,
+        "32": 1,
+        "33": 1,
+        "34": 2,
+        "36": 1,
+        "37": 1,
+        "40": 1,
+        "42": 2,
+        "48": 1,
+        "56": 1,
+        "57": 1,
+        "58": 1,
+        "92": 1
+      },
+      "topConceptNumber": 6,
+      "levelDistribution": {
+        "0": 11,
+        "1": 42,
+        "2": 64
+      },
+      "typesDistribution": {
+        "http://www.w3.org/2004/02/skos/core#Concept": 1419
+      }
+    }
+  },
+  {
+    "uri": "http://bartoc.org/en/node/742",
+    "title": "Österreichische Systematik für Öffentliche Bibliotheken",
+    "metrics": {
+      "keys": {
+        "broader": 2816,
+        "inScheme": 2832,
+        "notation": 2832,
+        "prefLabel": 2832,
+        "topConceptOf": 16,
+        "uri": 2832
+      },
+      "conceptNumber": 2832,
+      "broaderDistribution": {
+        "0": 16,
+        "1": 2816
+      },
+      "narrowerDistribution": {
+        "0": 2832
+      },
+      "narrowerDistributionImplicit": {
+        "1": 160,
+        "2": 188,
+        "3": 68,
+        "4": 56,
+        "5": 65,
+        "6": 48,
+        "7": 27,
+        "8": 18,
+        "9": 14,
+        "10": 11,
+        "11": 5,
+        "12": 5,
+        "13": 6,
+        "14": 2,
+        "15": 4,
+        "16": 4,
+        "17": 2,
+        "18": 10,
+        "21": 2,
+        "22": 1,
+        "23": 1,
+        "24": 1
+      },
+      "topConceptNumber": 16,
+      "levelDistribution": {
+        "0": 31,
+        "1": 89,
+        "2": 522,
+        "3": 1295,
+        "4": 852,
+        "5": 10
+      },
+      "typesDistribution": {}
+    }
+  },
+  {
+    "uri": "http://bartoc.org/en/node/20404",
+    "title": "Retrospektive Erschließung medizinischer, naturwissenschaftlicher, juristischer und theologischer Drucke",
+    "metrics": {
+      "keys": {
+        "broader": 1455,
+        "inScheme": 1460,
+        "notation": 1460,
+        "prefLabel": 1460,
+        "topConceptOf": 5,
+        "uri": 1460
+      },
+      "conceptNumber": 1460,
+      "broaderDistribution": {
+        "0": 5,
+        "1": 1455
+      },
+      "narrowerDistribution": {
+        "0": 1460
+      },
+      "narrowerDistributionImplicit": {
+        "1": 9,
+        "2": 33,
+        "3": 31,
+        "4": 31,
+        "5": 18,
+        "6": 12,
+        "7": 10,
+        "8": 11,
+        "9": 9,
+        "10": 4,
+        "11": 5,
+        "12": 3,
+        "13": 2,
+        "14": 4,
+        "15": 1,
+        "16": 4,
+        "17": 1,
+        "18": 1,
+        "19": 1,
+        "45": 1,
+        "74": 1,
+        "136": 1,
+        "161": 1
+      },
+      "topConceptNumber": 5,
+      "levelDistribution": {
+        "0": 9,
+        "1": 38,
+        "2": 193,
+        "3": 495,
+        "4": 376,
+        "5": 289
+      },
+      "typesDistribution": {}
+    }
+  },
+  {
+    "uri": "http://bartoc.org/en/node/20049",
+    "title": "Sachgruppen der DNB",
+    "metrics": {
+      "keys": {
+        "broader": 104,
+        "inScheme": 117,
+        "notation": 117,
+        "prefLabel": 117,
+        "scopeNote": 11,
+        "topConceptOf": 13,
+        "uri": 117
+      },
+      "conceptNumber": 117,
+      "broaderDistribution": {
+        "0": 13,
+        "1": 104
+      },
+      "narrowerDistribution": {
+        "0": 117
+      },
+      "narrowerDistributionImplicit": {
+        "3": 1,
+        "4": 1,
+        "10": 2,
+        "11": 2,
+        "12": 2,
+        "15": 1,
+        "16": 1
+      },
+      "topConceptNumber": 13,
+      "levelDistribution": {
+        "0": 25
+      },
+      "typesDistribution": {}
+    }
+  },
+  {
+    "uri": "http://bartoc.org/en/node/1324",
+    "title": "Systematik für Evangelische Büchereien",
+    "metrics": {
+      "keys": {
+        "broader": 208,
+        "inScheme": 210,
+        "notation": 210,
+        "prefLabel": 210,
+        "topConceptOf": 2,
+        "uri": 210
+      },
+      "conceptNumber": 210,
+      "broaderDistribution": {
+        "0": 2,
+        "1": 208
+      },
+      "narrowerDistribution": {
+        "0": 210
+      },
+      "narrowerDistributionImplicit": {
+        "1": 1,
+        "2": 4,
+        "3": 7,
+        "4": 4,
+        "5": 6,
+        "6": 2,
+        "7": 2,
+        "8": 1,
+        "9": 2,
+        "10": 1,
+        "11": 1,
+        "14": 2,
+        "15": 1,
+        "16": 1
+      },
+      "topConceptNumber": 2,
+      "levelDistribution": {
+        "0": 3,
+        "1": 4,
+        "2": 35,
+        "3": 98
+      },
+      "typesDistribution": {}
+    }
+  },
+  {
+    "uri": "http://bartoc.org/en/node/1050",
+    "title": "Systematik für Kinder- und Jugendbibliotheken",
+    "metrics": {
+      "keys": {
+        "inScheme": 11,
+        "notation": 11,
+        "prefLabel": 11,
+        "topConceptOf": 11,
+        "uri": 11
+      },
+      "conceptNumber": 11,
+      "broaderDistribution": {
+        "0": 11
+      },
+      "narrowerDistribution": {
+        "0": 11
+      },
+      "narrowerDistributionImplicit": {},
+      "topConceptNumber": 11,
+      "levelDistribution": {},
+      "typesDistribution": {}
+    }
+  },
+  {
+    "uri": "http://bartoc.org/en/node/1051",
+    "title": "Systematik der Stadtbibliothek Duisburg",
+    "metrics": {
+      "keys": {
+        "broader": 3714,
+        "inScheme": 3737,
+        "notation": 3737,
+        "prefLabel": 3737,
+        "topConceptOf": 23,
+        "uri": 3737
+      },
+      "conceptNumber": 3737,
+      "broaderDistribution": {
+        "0": 23,
+        "1": 3714
+      },
+      "narrowerDistribution": {
+        "0": 3737
+      },
+      "narrowerDistributionImplicit": {
+        "1": 269,
+        "2": 211,
+        "3": 219,
+        "4": 147,
+        "5": 93,
+        "6": 58,
+        "7": 28,
+        "8": 24,
+        "9": 19,
+        "10": 7,
+        "11": 4,
+        "12": 6,
+        "13": 3,
+        "15": 2,
+        "16": 3,
+        "18": 1,
+        "19": 2,
+        "47": 1
+      },
+      "topConceptNumber": 23,
+      "levelDistribution": {
+        "0": 45,
+        "1": 226,
+        "2": 975,
+        "3": 1367,
+        "4": 856,
+        "5": 241
+      },
+      "typesDistribution": {}
+    }
+  },
+  {
+    "uri": "http://bartoc.org/en/node/18928",
+    "title": "Sondersammelgebiets-Nummer",
+    "metrics": {
+      "keys": {
+        "inScheme": 118,
+        "notation": 118,
+        "prefLabel": 118,
+        "topConceptOf": 118,
+        "uri": 118
+      },
+      "conceptNumber": 118,
+      "broaderDistribution": {
+        "0": 118
+      },
+      "narrowerDistribution": {
+        "0": 118
+      },
+      "narrowerDistributionImplicit": {},
+      "topConceptNumber": 118,
+      "levelDistribution": {},
+      "typesDistribution": {}
+    }
+  },
+  {
+    "uri": "http://bartoc.org/en/node/20407",
+    "title": "Catalogue of the Thuana Library",
+    "metrics": {
+      "keys": {
+        "broader": 369,
+        "inScheme": 373,
+        "notation": 373,
+        "prefLabel": 373,
+        "topConceptOf": 4,
+        "uri": 373
+      },
+      "conceptNumber": 373,
+      "broaderDistribution": {
+        "0": 4,
+        "1": 369
+      },
+      "narrowerDistribution": {
+        "0": 373
+      },
+      "narrowerDistributionImplicit": {
+        "1": 2,
+        "2": 4,
+        "3": 5,
+        "4": 2,
+        "5": 5,
+        "6": 4,
+        "7": 2,
+        "8": 1,
+        "9": 1,
+        "10": 2,
+        "11": 2,
+        "14": 2,
+        "16": 1,
+        "22": 1,
+        "25": 1,
+        "26": 2,
+        "28": 1,
+        "43": 1
+      },
+      "topConceptNumber": 4,
+      "levelDistribution": {
+        "0": 7,
+        "1": 89,
+        "2": 162,
+        "3": 71,
+        "4": 45
+      },
+      "typesDistribution": {}
+    }
+  },
+  {
+    "uri": "http://bartoc.org/en/node/18915",
+    "title": "ZDB-Fachgruppensystematik",
+    "metrics": {
+      "keys": {
+        "inScheme": 113,
+        "notation": 113,
+        "prefLabel": 113,
+        "topConceptOf": 113,
+        "uri": 113
+      },
+      "conceptNumber": 113,
+      "broaderDistribution": {
+        "0": 113
+      },
+      "narrowerDistribution": {
+        "0": 113
+      },
+      "narrowerDistributionImplicit": {},
+      "topConceptNumber": 113,
+      "levelDistribution": {},
+      "typesDistribution": {}
+    }
+  }
+]

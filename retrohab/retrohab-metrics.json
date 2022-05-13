@@ -1,0 +1,53 @@
+{
+  "keys": {
+    "broader": 1455,
+    "inScheme": 1460,
+    "notation": 1460,
+    "prefLabel": 1460,
+    "topConceptOf": 5,
+    "uri": 1460
+  },
+  "conceptNumber": 1460,
+  "broaderDistribution": {
+    "0": 5,
+    "1": 1455
+  },
+  "narrowerDistribution": {
+    "0": 1460
+  },
+  "narrowerDistributionImplicit": {
+    "1": 9,
+    "2": 33,
+    "3": 31,
+    "4": 31,
+    "5": 18,
+    "6": 12,
+    "7": 10,
+    "8": 11,
+    "9": 9,
+    "10": 4,
+    "11": 5,
+    "12": 3,
+    "13": 2,
+    "14": 4,
+    "15": 1,
+    "16": 4,
+    "17": 1,
+    "18": 1,
+    "19": 1,
+    "45": 1,
+    "74": 1,
+    "136": 1,
+    "161": 1
+  },
+  "topConceptNumber": 5,
+  "levelDistribution": {
+    "0": 9,
+    "1": 38,
+    "2": 193,
+    "3": 495,
+    "4": 376,
+    "5": 289
+  },
+  "typesDistribution": {}
+}

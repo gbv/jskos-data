@@ -44,6 +44,10 @@ dirstatus() {
     CONCEPTS="$dir$id-concepts.ndjson"
     if [ -f "$CONCEPTS" ]; then
         ok `wc -l "$CONCEPTS"`
+        if [ ! -z "$JSKOS_METRICS" ]; then
+            METRICS="$dir/$id-metrics.ndjson"
+            $JSKOS_METRICS concepts "$CONCEPTS" > "$METRICS" && ok "$METRICS"
+        fi
     else
         IGNORED=$(git check-ignore $CONCEPTS)
         if [ -z "$IGNORED" ]; then

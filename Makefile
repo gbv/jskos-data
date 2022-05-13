@@ -19,3 +19,7 @@ $(SCHEME):
 	[ -z "$(BARTOC)" ] || curl --silent https://bartoc.org/api/data?uri=$(BARTOC) \
 		| jq -eS '.[0]|{$(scheme-fields)}|del($(nulls))|if length>0 then . else false end' \
 		> $@ && $(jskos-validate) scheme $@
+
+.PHONY: metrics
+metrics:
+	./metrics.sh | jq -s > metrics.json

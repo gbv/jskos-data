@@ -1,0 +1,20 @@
+{
+  "keys": {
+    "inScheme": 113,
+    "notation": 113,
+    "prefLabel": 113,
+    "topConceptOf": 113,
+    "uri": 113
+  },
+  "conceptNumber": 113,
+  "broaderDistribution": {
+    "0": 113
+  },
+  "narrowerDistribution": {
+    "0": 113
+  },
+  "narrowerDistributionImplicit": {},
+  "topConceptNumber": 113,
+  "levelDistribution": {},
+  "typesDistribution": {}
+}

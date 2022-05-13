@@ -1,0 +1,33 @@
+{
+  "keys": {
+    "broader": 104,
+    "inScheme": 117,
+    "notation": 117,
+    "prefLabel": 117,
+    "scopeNote": 11,
+    "topConceptOf": 13,
+    "uri": 117
+  },
+  "conceptNumber": 117,
+  "broaderDistribution": {
+    "0": 13,
+    "1": 104
+  },
+  "narrowerDistribution": {
+    "0": 117
+  },
+  "narrowerDistributionImplicit": {
+    "3": 1,
+    "4": 1,
+    "10": 2,
+    "11": 2,
+    "12": 2,
+    "15": 1,
+    "16": 1
+  },
+  "topConceptNumber": 13,
+  "levelDistribution": {
+    "0": 25
+  },
+  "typesDistribution": {}
+}
