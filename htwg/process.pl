@@ -5,7 +5,7 @@ say 'level,prefLabel@de,scopeNote@de';
 
 my $notationPattern = qr{^[A-Z][A-Z]?[A-Z]?[0-9]*$};
 
-my ( $notation, $label, @notes );
+my ( $notation, $label, @notes, $error );
 
 while (<>) {
     chomp;
@@ -25,17 +25,22 @@ while (<>) {
     }
     else {
         say STDERR "Zeile $. passt nicht: $_";
+        $error = 1;
     }
 }
 
 line();
 
+exit( $error || 0 );
+
 sub line {
     if ( !$notation ) {
         say STDERR "Zeile $.: Notation fehlt vorher";
+        $error = 1;
     }
     elsif ( !$label ) {
         say STDERR "Zeile $.: Label fehlt vorher";
+        $error = 1;
     }
     else {
         my $level = length $notation;
