@@ -1,0 +1,29 @@
+{
+  "altLabel": {
+    "de": [
+      "HTWG Konstanz Bibliothekssystematik"
+    ]
+  },
+  "namespace": "http://uri.gbv.de/terminology/htwg/",
+  "notation": [
+    "HTWG"
+  ],
+  "notationPattern": "[A-Z][A-Z]?[A-Z]?[0-9]*",
+  "prefLabel": {
+    "de": "Hochschule Konstanz Technik, Wirtschaft und Gestaltung Bibliothekssystematik",
+    "en": "Hochschule Konstanz University of Applied Sciences (HTWG) classification scheme"
+  },
+  "publisher": [
+    {
+      "prefLabel": {
+        "en": "Hochschule Konstanz Technik, Wirtschaft und Gestaltung"
+      },
+      "uri": "http://viaf.org/viaf/155146576"
+    }
+  ],
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+    "http://w3id.org/nkos/nkostype#classification_schema"
+  ],
+  "uri": "http://bartoc.org/en/node/1339"
+}
