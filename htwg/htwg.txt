@@ -10,8 +10,7 @@ Allgemeine Nachschlagewerke und zusammenfassende Darstellungen
 
 AB
 
-Technische und naturwissenschaftliche Nachschlagewerke, interdisziplinäre
-Darstellungen, Normung
+Technische und naturwissenschaftliche Nachschlagewerke, interdisziplinäre Darstellungen, Normung
 (h.a. Erstellung von Technischen Handbüchern, Dokumentationen und Gebrauchsanleitungen)
 (h.a. CE-Kennzeichnung und Produktsicherheit)
 (h.a. Sicherheitsmanagement Veranstaltungen)
@@ -86,7 +85,7 @@ Allgemeines, Grundlagen, Sammelwerke
 ARB
 
 Buch- und Pressewesen
-(h.a. Buchbindung und –herstellung
+(h.a. Buchbindung und –herstellung)
 (Buchkunst s.DDC8)
 
 ARF
@@ -104,19 +103,23 @@ ARF3
 Bibliotheksverwaltung
 
 ARF35
-ARF9
-ARZ
-AZ
-
 IT-Anwendungen im Bibliothekswesen
 (h.a. Internet in Bibliotheken)
+ARF9
+Verschiedenes
+ARZ
+Verschiedenes
+AZ
 Verschiedenes
 
-B
 
+
+
+B
+BAUWESEN
 BA
 
-BAUWESEN
+
 
 Allgemeines
 
@@ -130,9 +133,10 @@ Building Information Modeling BIM
 (Digitales Entwerfen und Darstellen s. BKD331)
 
 BB
+Baukonstruktion
 BBA
 
-Baukonstruktion
+
 Grundlagen der Konstruktionslehre, allgemeine Gebäudelehre
 
 BBA4
@@ -152,8 +156,7 @@ Bauteile
 
 BBC1
 
-Allgemeines, Nachschlagewerke, Grundlagen, zusammenfassende
-Darstellungen
+Allgemeines, Nachschlagewerke, Grundlagen, zusammenfassende Darstellungen
 (h.a. Hausbau selbst gemacht)
 (Ausbau s. BLB)
 
@@ -264,8 +267,7 @@ Bauphysik, Bautenschutz, Bauschäden
 
 BBE1
 
-Allgemeines, Nachschlagewerke, Grundlagen,
-zusammenfassende Darstellungen
+Allgemeines, Nachschlagewerke, Grundlagen, zusammenfassende Darstellungen
 
 BBE2
 
@@ -310,9 +312,6 @@ BBE9
 Verschiedenes
 
 BBG
-
-BBG1
-
 Bauen mit bestimmten Materialien, Materialbearbeitung, Materialeigenschaften, Bauhandwerk, Baufachkunde, Baustoffkunde
 (h.a. allgemeine Schutzmaßnahmen für best. Baustoffe)
 (h.a. allgemeine Schäden best. Baustoffe)
@@ -323,8 +322,10 @@ Bauen mit bestimmten Materialien, Materialbearbeitung, Materialeigenschaften, Ba
 (spez. Schäden best. Baustoffe s. BBE)
 (ökolog. Bauen mit best. Materialien s. BBK3)
 (Bauteile aus best. Materialien s. diese BBC)
-Allgemeines, Nachschlagewerke, Grundlagen, zusammenfassende
-Darstellungen
+BBG1
+
+
+Allgemeines, Nachschlagewerke, Grundlagen, zusammenfassende Darstellungen
 (h.a. Bauproduktrecht)
 
 BBG11
@@ -515,9 +516,10 @@ Leichtbau
 (Bauen mit Kunststoffen s. BBG7)
 
 BBI9
+Verschiedenes
 BBK
 
-Verschiedenes
+
 bestimmte Bauarten
 
 BBK1
@@ -560,9 +562,10 @@ BBK9
 Verschiedenes, Sonderformen
 
 BBZ
+Verschiedenes
 BC
 
-Verschiedenes
+
 Baustatik, Festigkeitslehre
 (s.a. Technische Mechanik MB)
 (s.a. Statik und Konstruktionssysteme BBI)
@@ -605,8 +608,7 @@ Allgemeines, Nachschlagewerke, Grundlagen
 
 BD2
 
-Hauswasserversorgung, Haus- und Grundstücksentwässerung, Abwasser,
-Abfallbeseitigung, Sanitärhygiene, Gastechnik
+Hauswasserversorgung, Haus- und Grundstücksentwässerung, Abwasser, Abfallbeseitigung, Sanitärhygiene, Gastechnik
 (s.a. Wasserversorgung, Abwasser, Abfallbeseitigung BE11)
 
 BD3
@@ -688,16 +690,14 @@ Rohrleitungen
 BE10
 
 Wasserbau
-(Wasserwirtschaft, Flußbau, Wasserkraftanlagen, Verkehrswasserbau,
-Gewässerschutz, Gewässeruntersuchung, Hydrogeologie, Grundwasser)
+(Wasserwirtschaft, Flußbau, Wasserkraftanlagen, Verkehrswasserbau, Gewässerschutz, Gewässeruntersuchung, Hydrogeologie, Grundwasser)
 (s.a. Wasser UGC)
 
 BE11
 
 Versorgung und Entsorgung
 (Abfallbeseitigung, Wasserversorgung, Entwässerung, Gasversorgung)
-(h.a. Siedlungswasserwirtschaft, Abwasser, Kanalisation, Deponien, Altlasten,
-Müllverbrennung, Kläranlagen, Abfallrecht)
+(h.a. Siedlungswasserwirtschaft, Abwasser, Kanalisation, Deponien, Altlasten, Müllverbrennung, Kläranlagen, Abfallrecht)
 (s.a. Hauswasserversorgung, Haus- und Grundstücksentwässerung, Abfallbeseitigung, Gastechnik BD2)
 (s.a. Umweltschutz U)
 (Altlasten im Städtebau s. BI4)
@@ -718,8 +718,7 @@ Privates Baurecht, Baubetrieb
 
 BG1
 
-Allgemeines, Nachschlagewerke, Grundlagen, Vergaberecht, Verdingungsordnung
-für Bauleistungen (VOB)
+Allgemeines, Nachschlagewerke, Grundlagen, Vergaberecht, Verdingungsordnung für Bauleistungen (VOB)
 
 BG2
 
@@ -816,10 +815,6 @@ Verschiedenes
 (h.a. Smart Cities)
 
 BK
-
-BKA
-BKA4
-
 Architektur
 (Baukonstruktion s. BB)
 (Baurecht s. BH)
@@ -828,10 +823,14 @@ Architektur
 (Gartenarchitektur s. BM)
 (Kunst am Bau, Farbe am Bau s. KE)
 (Architekturfotografie s. KPG)
+BKA
 Allgemeines, Nachschlagewerke, Grundlagen
 (h.a. Fachbibliographien)
-Leben und Werk einzelner Architekten, Baumeister und Ingenieure,
-Sonstige, Werk einzelner Hochschulen und Fachbereiche
+BKA4
+
+
+
+Leben und Werk einzelner Architekten, Baumeister und Ingenieure, Sonstige, Werk einzelner Hochschulen und Fachbereiche
 (Innenarchitekten s. BLG25)
 
 BKA41
@@ -855,8 +854,7 @@ Architekturführer, raumgebundene Architektur
 (Länder, Regionen, Orte)
 (alph. gereiht nach geographischem Namen)
 (h.a. epochenübergreifende Gesamtdarstellungen bestimmter Räume)
-(zeitlich abgegrenzte Darstellungen der Entwicklung in bestimmten
-Räumen s. BKB)
+(zeitlich abgegrenzte Darstellungen der Entwicklung in bestimmten Räumen s. BKB)
 (einzelne Bauten und Bautypen s. BKD)
 (Bauten best. Architekten s. BKA4)
 (hist. Bautypen s. BKB11)
@@ -891,12 +889,9 @@ Baugeschichte, Stilgeschichte
 (s.a. Archäologie GE)
 (s.a. Kulturgeschichte GC)
 (h.a. Werke einzelner Architekten best. Epochen)
-(h.a. zeitlich abgegrenzte Darstellungen der Entwicklung bestimmter
-Bautypen in bestimmten Epochen)
-(h.a. zeitlich abgegrenzte Darstellungen der Entwicklung in bestimmten
-Räumen)
-(epochenübergreifende Gesamtdarstellungen der Entwicklung bestimmter
-Bautypen s. BKD)
+(h.a. zeitlich abgegrenzte Darstellungen der Entwicklung bestimmter Bautypen in bestimmten Epochen)
+(h.a. zeitlich abgegrenzte Darstellungen der Entwicklung in bestimmten Räumen)
+(epochenübergreifende Gesamtdarstellungen der Entwicklung bestimmter Bautypen s. BKD)
 (epochenübergreifende Gesamtdarstellungen bestimmter Räume s. BKA6)
 (Architekturführer s.BKA6)
 (Geschichte des Städtebaus s. BI1)
@@ -905,8 +900,7 @@ Bautypen s. BKD)
 
 BKB1
 
-Allgemeines, Nachschlagewerke, Grundlagen, zusammenfassende
-Darstellungen, Stilkunde
+Allgemeines, Nachschlagewerke, Grundlagen, zusammenfassende Darstellungen, Stilkunde
 
 BKB11
 
@@ -1022,7 +1016,7 @@ Architektur der zwanziger Jahre
 BKB531
 
 Bauhaus und Werkbund
-(Bauhaus-Design s. KGH55
+(Bauhaus-Design s. KGH55)
 
 BKB54
 
@@ -1044,8 +1038,7 @@ Architektur der achtziger Jahre
 BKB57
 
 Architektur der neunziger Jahre und des zweiten Jahrtausends
-(moderner Konstruktivismus, High-Tech-Architektur, Dekonstruktivismus,
-Pop-Architektur, zweite Moderne)
+(moderner Konstruktivismus, High-Tech-Architektur, Dekonstruktivismus, Pop-Architektur, zweite Moderne)
 
 BKB59
 
@@ -1090,26 +1083,26 @@ BKB9
 Verschiedenes
 
 BKD
-
-BKD1
-BKD12
-BKD2
-
 Themen
 (h.a. einzelne Bautypen best. Architekten)
 (h.a. einzelne Bautypen best. europäischen Regionen und Städte)
-(h.a. epochenübergreifende Gesamtdarstellungen der Entwicklung
-bestimmter Bautypen)
+(h.a. epochenübergreifende Gesamtdarstellungen der Entwicklung bestimmter Bautypen)
 (s.a. Baugeschichte BKB)
-(zeitlich abgegrenzte Darstellungen der Entwicklung bestimmter Bautypen
-in bestimmten Epochen s. BKB)
+(zeitlich abgegrenzte Darstellungen der Entwicklung bestimmter Bautypen in bestimmten Epochen s. BKB)
 (best. Bautypen im außereuropäischen Raum s. BKB8 und BKA64)
 (Historische Bautypen s. BKB11)
 (biologisches und ökologisches Bauen s. BBK3)
 (unterirdisches Bauen s. BBK5)
 (Bauen mit best. Materialien s. BBG)
+BKD1
 Allgemeines, Nachschlagewerke, Grundlagen
+BKD12
 Architektur-Zeitschriften und Jahrbücher
+BKD2
+
+
+
+
 Architekturtheorie, -kritik
 (Allgemeines, Nachschlagewerke, Grundlagen)
 
@@ -1352,16 +1345,16 @@ BKD89
 Verschiedenes, weitere Bauten
 
 BKD9
-
-BKZ
-
-BL
-
 Verschiedene Bauten
 (h.a. Licht und Architektur, Licht und Städtebau)
+BKZ
 Verschiedenes
 (h.a. Architekturwettbewerbe, Architekturausstellungen )
 (h.a. verlassene Orte, Lost Places)
+BL
+
+
+
 Innenarchitektur
 (Bühnenarchitektur s. BKD66)
 (Lichtdesign s. EC4)
@@ -1422,8 +1415,7 @@ Verschiedenes
 
 BM
 
-Garten- und Landschaftsgestaltung;
-Wohnen mit Pflanzen
+Garten- und Landschaftsgestaltung; Wohnen mit Pflanzen
 (Außenanlagen s. BBC8)
 (Wintergärten, Gewächshäuser s. BBG6)
 (einzelne Gartenarchitekten s. BKA42)
@@ -1492,12 +1484,12 @@ CZ
 Verschiedenes
 
 D
-
-DA
-
 Design
 (Medien s. WCM8)
 (Eventdesign s. BKD87)
+DA
+
+
 
 Allgemeines und zusammenfassende Darstellungen
 (Leben und Werk einzelner Designer/Büros s. KAK2)
@@ -1739,11 +1731,11 @@ DZ
 Verschiedenes
 
 E
-
-EA
-
 ELEKTROTECHNIK
 (Mechatronik s. MA)
+EA
+
+
 
 Allgemeines
 
@@ -1806,8 +1798,7 @@ Elektrische Energietechnik
 EC1
 
 Elektrische Maschinen und Antriebe
-(Generatoren, Transformatoren, elektrische Fahrzeuge, elektrische
-Antriebstechnik)
+(Generatoren, Transformatoren, elektrische Fahrzeuge, elektrische Antriebstechnik)
 (h.a. Hybridsysteme)
 (Elektroräder s. MK6)
 
@@ -1865,15 +1856,13 @@ Telekommunikation, Telefondienste
 ED3
 
 Übertragungstechnik, Vermittlungstechnik,
-(Hochfrequenztechnik, Mikrowellentechnik, Filter, EMV,
-Fourier-Transformationen, Modulation,)
+(Hochfrequenztechnik, Mikrowellentechnik, Filter, EMV, Fourier-Transformationen, Modulation,)
 (h.a. Elektrosmog)
 
 ED4
 
 Funktechnik, Fernsehtechnik
-(Mobilfunktechnik, UMTS, Antennentechnik, Satellitentechnik, Videotechnik,
-Radartechnik, GPS)
+(Mobilfunktechnik, UMTS, Antennentechnik, Satellitentechnik, Videotechnik, Radartechnik, GPS)
 (GPS s.a. BF)
 (Bildcodierung s. IFD)
 (Tontechnik s. PG)
@@ -2078,8 +2067,7 @@ Wissenschaft und Hochschulwesen
 HB
 
 Pädagogik
-(h.a. Didaktik, Rhetorik, Verhandlungstechnik, Präsentations- und Vortragstechnik,
-Rollenspiele, E-Learning, Evaluation, Interkulturelle Kompetenz, Moderation)
+(h.a. Didaktik, Rhetorik, Verhandlungstechnik, Präsentations- und Vortragstechnik, Rollenspiele, E-Learning, Evaluation, Interkulturelle Kompetenz, Moderation)
 (Personalentwicklung s.a. WCI4)
 (Präsentationstechnik s.a. WCD5)
 (Fremdsprachenunterricht s. LA)
@@ -2150,11 +2138,11 @@ IZ
 Verschiedenes
 
 I
-
-IA
-
 Informatik
 (Wirtschaftsinformatik s. WCL)
+IA
+
+
 
 Allgemeines
 
@@ -2169,8 +2157,7 @@ Grundlagen, Sammelwerke, Handbücher
 
 IAC
 
-Lehrbücher der allgemeinen Informatik und Datenverarbeitung, Einführungen,
-allgemeine Übungen und Aufgaben
+Lehrbücher der allgemeinen Informatik und Datenverarbeitung, Einführungen, allgemeine Übungen und Aufgaben
 (PC-Einführungen s. IBC5)
 
 IAD
@@ -2220,22 +2207,22 @@ Grundlagen der digitalen Datenverarbeitung, Digitaltechnik
 (Digitale Signalverarbeitung s. ED5)
 
 IBB1
-IBC
-
-IBC1
-
 Schaltkreistheorie, Schaltungstechnik, Schaltalgebra, Schaltwerke
 (Halbleiterschaltungstechnik s. ED5)
+IBC
 Computertechnik, Rechnerarchitektur, Rechneraufbau
 (Digitale Datenverarbeitung s. IBB)
 (Compiler s. IDE)
 (Assembler s. IDF)
+IBC1
+
+
+
 Mikrocomputertechnik
 
 IBC11
 
-Mikrorechner (Allgemeines), Mikroprozessoren einschließlich
-Programmierung (Mikroprogrammierung), CPU, Mikrocontroller
+Mikrorechner (Allgemeines), Mikroprozessoren einschließlich Programmierung (Mikroprogrammierung), CPU, Mikrocontroller
 (h.a. Embedded Systems)
 
 IBC12
@@ -2287,14 +2274,12 @@ IBE
 Datenübertragung, Datennetze
 (s.a. Nachrichtentechnik ED)
 (ISDN s. ED2)
-(Netzwerkprogrammierung s. die einzelnen Programmiersprachen und
-Datenbanksoftware
+(Netzwerkprogrammierung s. die einzelnen Programmiersprachen und Datenbanksoftware
 (Datenkommunikation in der Automatisierung s. ML12)
 
 IBE1
 
-Allgemeines, Nachschlagewerke, Grundlagen, zusammenfassende
-Darstellungen
+Allgemeines, Nachschlagewerke, Grundlagen, zusammenfassende Darstellungen
 (h.a. Netzwerksicherheit)
 
 IBE2
@@ -2327,8 +2312,7 @@ Netzwerke
 
 IBE41
 
-Allgemeines, Nachschlagewerke, Grundlagen, zusammenfassende
-Darstellungen
+Allgemeines, Nachschlagewerke, Grundlagen, zusammenfassende Darstellungen
 
 IBE42
 
@@ -2349,11 +2333,11 @@ TCP/IP
 
 IBE424
 
-ATM
+"ATM"
 
 IBE425
 
-FDDI
+"FDDI"
 
 IBE429
 
@@ -2370,8 +2354,7 @@ Internet
 
 IBE71
 
-Allgemeines, Nachschlagewerke, Grundlagen, zusammenfassende
-Darstellungen
+Allgemeines, Nachschlagewerke, Grundlagen, zusammenfassende Darstellungen
 (h.a. Sicherheit im Internet)
 (Datensicherheit allgemein s. IDX)
 
@@ -2401,13 +2384,15 @@ Verschiedenes
 (Android-Systeme s. ICZ)
 
 IBE9
-
-IBZ
-IC
-
 Verschiedenes
 (h.a. Apache)
+
+IBZ
 Verschiedenes
+IC
+
+
+
 Betriebssysteme
 (h.a. Programmieranleitungen unter bestimmten Betriebssysteme)
 (Compiler und Assembler als Übersetzer s. IDE u. IDF)
@@ -2431,15 +2416,15 @@ Novell Netware, Novell Intranetware
 
 ICE
 
-VMS
+"VMS"
 
 ICF
 
-OS/2
+"OS/2"
 
 ICI
 
-CP/M
+"CP/M"
 
 ICL
 
@@ -2470,8 +2455,7 @@ Programmieren
 
 IDA
 
-Allgemeines, Nachschlagewerke, Grundlagen, vergleichende Darstellungen
-verschiedener Programmiersprachen
+Allgemeines, Nachschlagewerke, Grundlagen, vergleichende Darstellungen verschiedener Programmiersprachen
 
 IDB
 
@@ -2508,7 +2492,7 @@ Visual Basic, VB.NET, BASIC
 
 IDI
 
-C
+"C"
 (h.a. ANSI C, C++, Quick C, Visual C++, DirectX, Visual C++.NET)
 (s.a. UNIX ICC)
 (Objective C s. ICL)
@@ -2538,7 +2522,7 @@ Turbo Pascal, Borland-Pascal
 
 IDM
 
-PL
+"PL"
 
 IDN
 
@@ -2546,7 +2530,7 @@ Modula
 
 IDO
 
-ADA
+"ADA"
 (weitere Prozessprogrammiersprachen s. IBC 3)
 
 IDP
@@ -2575,8 +2559,7 @@ weitere Programmiersprachen
 IDX
 
 Softwarequalität und Datensicherheit
-Softwarezuverlässigkeit, Softwaretests, Computer- und Softwareergonomie, Viren,
-Hacking, App-Usability
+Softwarezuverlässigkeit, Softwaretests, Computer- und Softwareergonomie, Viren, Hacking, App-Usability
 (Datenschutz s. WBA5)
 (Sicherheit im Internet s. IBE71)
 (Netzwerksicherheit s. IBE1)
@@ -2595,8 +2578,7 @@ Standardsoftware
 
 IEA
 
-Allgemeines, Nachschlagewerke, Grundlagen, zusammenfassende
-Darstellungen
+Allgemeines, Nachschlagewerke, Grundlagen, zusammenfassende Darstellungen
 (h.a. Programmkataloge und Anbieterverzeichnisse)
 (h.a. MS Office)
 (h.a. OpenOffice)
@@ -2671,12 +2653,12 @@ IFB9
 Grafikprogrammierung
 
 IFC
-
-IFC1
-
 Computer Aided Design (CAD) Grundlagen
 (verschiedene Programme)
 (CAD/CAM s. WCC3)
+IFC1
+
+
 AutoCAD
 
 IFD
@@ -2708,7 +2690,7 @@ Datenbanksprachen
 
 IGD1
 
-SQL
+"SQL"
 (PL/SQL s. IGE4)
 
 IGE
@@ -2743,8 +2725,7 @@ weitere Systeme
 IGL
 
 Informationswissenschaften
-(Datenbankretrieval, Texterschließung in Datenbanken, Datenbankanbieter,
-Recherchetechnik, Benutzerverhalten in Datenbanken)
+(Datenbankretrieval, Texterschließung in Datenbanken, Datenbankanbieter, Recherchetechnik, Benutzerverhalten in Datenbanken)
 (Informationsmanagement s. WCK43)
 (Bibliothekswesen s. ARF)
 (Internet s. IBE7)
@@ -2846,18 +2827,19 @@ IPM9
 weitere Software
 
 IPZ
+Verschiedenes
 IZ
 
 Verschiedenes
 
 K
-
-KA
-
 Kunst
 (Architektur s. BK)
 (Innenarchitektur s. BL)
 (Kunsthandwerk s. BBG)
+KA
+
+
 
 Allgemeines
 
@@ -2868,14 +2850,12 @@ Nachschlagewerke, zusammenfassende Darstellungen
 KAE
 
 Kunst- und Bildwissenschaften
-(Kunsttheorie, Geschichte der Kunstgeschichte, Kunstphilosophie,
-Kunstsoziologie, Stilkunde, Ästhetik)
+(Kunsttheorie, Geschichte der Kunstgeschichte, Kunstphilosophie, Kunstsoziologie, Stilkunde, Ästhetik)
 (h.a. Farbenlehre, Farbentafeln, Farbmetrik)
 
 KAK
 
-Leben und Werk einzelner Künstler und Künstlergruppen, Designerbüros und
-Hochschulen
+Leben und Werk einzelner Künstler und Künstlergruppen, Designerbüros und Hochschulen
 (Architekten s. BKA4)
 (Möbeldesigner s. BLG25)
 
@@ -2908,8 +2888,7 @@ Verschiedenes
 KE
 
 Kunst am Bau, Architektur und Kunst
-(h.a. Farbe am Bau, Fassadengestaltung, Graffiti,
-Stadt- und Baubeschilderung, Illusionsmalerei)
+(h.a. Farbe am Bau, Fassadengestaltung, Graffiti, Stadt- und Baubeschilderung, Illusionsmalerei)
 (Farben, Anstriche, Putze, Beschichtungen, Stuck, Tapeten s. BBG8)
 
 KG
@@ -3005,12 +2984,12 @@ KZ
 Verschiedenes
 
 L
-
-LA
-
 SPRACHEN
 (fachliche Deutschlehrbücher s. die einzelnen Fächer)
 (fachliche Fremdsprachenlehrbücher s. hier die einzelnen Sprachen)
+LA
+
+
 
 Allgemeines, Sprachwissenschaft
 (h.a. Linguistik, Kommunikation, Fremdsprachenunterricht)
@@ -3033,9 +3012,8 @@ LB
 
 Germanistik
 (h.a. allgemeines Schreiben und Schreibtechnik)
-((wissenschaftliches Arbeiten und Schreiben s. HC)
-(Erstellung von Technischen Handbüchern, Dokumentationen und
-Gebrauchsanleitungen s. AB)
+(wissenschaftliches Arbeiten und Schreiben s. HC)
+(Erstellung von Technischen Handbüchern, Dokumentationen und Gebrauchsanleitungen s. AB)
 (Webetexte s. WCD5)
 
 LC
@@ -3073,9 +3051,10 @@ Allgemeines
 (h.a. Mechatronik)
 
 MA2
+IT-Anwendungen im Maschinenbau
 MB
 
-IT-Anwendungen im Maschinenbau
+
 Technische Mechanik
 (s.a. Baustatik BC)
 (s.a. Mechanik PB)
@@ -3140,8 +3119,7 @@ Verbindungen
 MD4
 
 Maschinenteile
-(Lager, Rohrleitungen, Dichtungen, Absperrorgane, Druckbehälter,
-Apparatebau, Ventile, Federn, Armaturen, Drahtseile, Molchtechnik)
+(Lager, Rohrleitungen, Dichtungen, Absperrorgane, Druckbehälter, Apparatebau, Ventile, Federn, Armaturen, Drahtseile, Molchtechnik)
 (Dampfanlagen s. ME3)
 
 MD5
@@ -3455,7 +3433,7 @@ MN2
 Einzeldarstellungen
 (Feinmechanik, Optische Geräte)
 (h.a. Waffentechnik)
-(s.a. Optoelektronik EE4
+(s.a. Optoelektronik EE4)
 (s.a. Optik PH)
 
 MN9
@@ -3486,8 +3464,7 @@ PHYSIK
 
 PA
 
-Allgemeine Lehr- und Handbücher, Sammelwerke,
-Formelsammlungen, theoretische Physik
+Allgemeine Lehr- und Handbücher, Sammelwerke, Formelsammlungen, theoretische Physik
 
 PB
 
@@ -3559,10 +3536,10 @@ Verschiedenes
 (h.a. Elektronenmikroskopie)
 
 S
+SOZIALWISSENSCHAFTEN
 
 SA
 
-SOZIALWISSENSCHAFTEN
 
 Sozialwissenschaften, Soziologie
 
@@ -3655,14 +3632,12 @@ Allgemeines, Nachschlagewerke, Grundlagen
 SC2
 
 Allgemeine Psychologie
-(h.a. Tiefenpsychologie, Charakterologie, Persönlichkeitsbildung,
-Verhaltensforschung, Hypnose)
+(h.a. Tiefenpsychologie, Charakterologie, Persönlichkeitsbildung, Verhaltensforschung, Hypnose)
 
 SC3
 
 Angewandte Psychologie und Lebensführung
-(h.a. Testpsychologie, Berufspsychologie, Betriebspsychologie,
-Eignungspsychologie, Sozialpsychologie, Supervision, Mediation)
+(h.a. Testpsychologie, Berufspsychologie, Betriebspsychologie, Eignungspsychologie, Sozialpsychologie, Supervision, Mediation)
 (h.a. Körpersprache)
 (s.a. Organisationspsychologie WCH3)
 (Werbepsychologie s. WCD5)
@@ -3867,10 +3842,10 @@ WBZ
 Verschiedenes
 
 WB
-
+Volkswirtschaftslehre
 WBA
 
-Volkswirtschaftslehre
+
 
 Allgemeines
 
@@ -4210,10 +4185,10 @@ WCM
 Spezielle Märkte und Wirtschaftszweige
 
 WC
-
+Betriebswirtschaftslehre
 WCA
 
-Betriebswirtschaftslehre
+
 
 Allgemeine Betriebswirtschaftslehre
 
@@ -4228,8 +4203,7 @@ Grundlagen, Sammelwerke, Einführungen, Lehrbücher der allgemeinen BWL
 WCA3
 
 Darstellungen von Teilgebieten der BWL
-(h.a. Industriebetriebslehre, Betriebsorganisation, -planung und -steuerung,
-Unternehmenskooperationen)
+(h.a. Industriebetriebslehre, Betriebsorganisation, -planung und -steuerung, Unternehmenskooperationen)
 (s.a. spezielle Märkte und Wirtschaftszweige WBM)
 
 WCA33
@@ -4258,8 +4232,7 @@ Einkauf, Materialwirtschaft, Zulieferung
 
 WCB1
 
-Allgemeines, Nachschlagewerke, Grundlagen, zusammenfassende
-Darstellungen
+Allgemeines, Nachschlagewerke, Grundlagen, zusammenfassende Darstellungen
 (Beschaffung, Einkauf, Lieferanten)
 
 WCB9
@@ -4318,15 +4291,13 @@ Produktionsüberwachung, Betriebs- und Produktdatenerfassung
 WCC6
 
 Qualitätsmanagement
-(h.a. Produkthaftung, Zuverlässigkeitstechnik, Zertifizierung, Instandhaltung
-Vorschlagswesen, Managementsysteme, Rückrufmanagement)
+(h.a. Produkthaftung, Zuverlässigkeitstechnik, Zertifizierung, Instandhaltung, Vorschlagswesen, Managementsysteme, Rückrufmanagement)
 (Zuverlässigkeitstheorie s. XH)
 
 WCC8
 
 Innovative Produktions- und Organisationsformen
-(Industrie 4.0, Lean-Production, IoT, Agilität, Geschäftsprozessmanagement,
-Komplexitätsmanagement)
+(Industrie 4.0, Lean-Production, IoT, Agilität, Geschäftsprozessmanagement, Komplexitätsmanagement)
 
 WCC9
 
@@ -4462,15 +4433,14 @@ Allgemeines, Nachschlagewerke, Grundlagen
 WCH2
 
 Organisationsentwicklung
-(Organisationsplanung- und beratung, Organisationsaufstellung,
-Organisationstheorie, neue Organisationsformen)
+(Organisationsplanung- und beratung, Organisationsaufstellung, Organisationstheorie, neue Organisationsformen)
 
 WCH3
 
 Organisationspsychologie
 (h.a. Mobbing)
 (s.a. Betriebspsychologie SC3)
-(s.a. Führungs- und Managementtechniken WCK41
+(s.a. Führungs- und Managementtechniken WCK41)
 (s.a. Personalführung WCi3)
 (s.a. Alternative Organisationsformen WCC8)
 
@@ -4496,31 +4466,32 @@ Bürokommunikation
 (s.a. betriebliche Informationssysteme WCK43)
 
 WCH9
-
-WCI
-
-WCI1
-WCI11
-WCI2
-
-WCI22
-WCI3
-
 Verschiedenes
 (h.a. Telearbeit)
+WCI
 Personal
 (s.a. Arbeitsrecht WDK5)
 (s.a. Unternehmensführung WCK)
+WCI1
 Allgemeines, Nachschlagewerke, Grundlagen
+WCI11
 Personalcontrolling
+WCI2
 Personalbeschaffung
-(Personalplanung und –auswahl, Employer Branding, Bewerbung,
-Einstellungstest)
+(Personalplanung und –auswahl, Employer Branding, Bewerbung, Einstellungstest)
 (h.a. Assessment-Center)
+WCI22
 Bewerbungshilfen
+WCI3
+
+
+
+
+
+
+
 Personalführung, Personalbewertung
-(Leistungs- und Arbeitsbewertung, Arbeitszeugnisse, Mitarbeitergespräche,
-Zielvereinbarungen, Kündigung)
+(Leistungs- und Arbeitsbewertung, Arbeitszeugnisse, Mitarbeitergespräche, Zielvereinbarungen, Kündigung)
 (s.a. Führungstechniken WCK41)
 (s.a. Organisationspsychologie WCH3)
 (Stellenbeschreibung s. WCH2)
@@ -4708,16 +4679,14 @@ internationales, globales und interkulturelles Management
 WCK46
 
 Wirtschaft und Nachhaltigkeit
-(Umweltmanagement, Umweltmarkt, betrieblicher Umweltschutz,
-Energiemanagement, Ressourcenmanagement)
+(Umweltmanagement, Umweltmarkt, betrieblicher Umweltschutz, Energiemanagement, Ressourcenmanagement)
 (h.a. betriebliche Abfallwirtschaft)
 (h.a. Ökobilanzen, Nachhaltigkeit)
 
 WCK48
 
 Unternehmensverantwortung, Unternehmenskultur
-(Unternehmensethik, Corporate Identity, Corporate Governance, Corporate,
-Social Responsibility, Compliance, Mitarbeiterbeteiligung, Korruption)
+(Unternehmensethik, Corporate Identity, Corporate Governance, Corporate, Social Responsibility, Compliance, Mitarbeiterbeteiligung, Korruption)
 (Wirtschaftsethik s. WAG)
 (Mitbestimmung s. WCK2)
 
@@ -4726,9 +4695,6 @@ WCK49
 Verschiedenes
 
 WCK9
-
-WCM
-
 Verschiedenes
 (h.a. Fallstudien, Planspiele, Firmenbeispiele)
 (h.a. Allianzen, Fusionen, Unternehmenskäufe)
@@ -4736,6 +4702,9 @@ Verschiedenes
 (h.a. Krisenmanagement)
 (h.a. Unternehmensnachfolge)
 (h.a. Umwandlungsrecht)
+WCM
+
+
 Spezielle Märkte und Wirtschaftszweige
 
 WCM1
@@ -4773,7 +4742,7 @@ WCM7
 
 Öffentliche Verwaltung und Öffentliche Unternehmen
 (Gesundheitswesen, Bildungseinrichtungen)
-(h.a. E-Health?
+(h.a. E-Health)
 
 WCM8
 
@@ -4794,12 +4763,12 @@ WCZ
 Verschiedenes
 
 WD
-
-WDA
-
 Recht
 (Baurecht s. BH)
 (Europarecht s. WBH5)
+WDA
+
+
 Allgemeines, Grundlagen, Nachschlagewerke, zusammenfassende Darstellungen
 (h.a. Verfahrensrecht)
 
@@ -4861,9 +4830,10 @@ Besonderes Verwaltungsrecht
 (Baurecht s. BH)
 
 WDC321
+Kommunalrecht
 WDC33
 
-Kommunalrecht
+
 Kulturrecht, Wissenschaftsrecht, Kunstrecht
 (h.a. Hochschulrecht)
 (Bafög s. HA)
@@ -4951,9 +4921,10 @@ Verschiedenes
 (h.a. Verbraucherschutz)
 
 WDK3
+Handels- und Gesellschaftsrecht nach HGB
 WDK32
 
-Handels- und Gesellschaftsrecht nach HGB
+
 Gesellschaftsrecht (Allgemeines, zusammenfassende Darstellungen)
 (h.a. Konzernrecht)
 
@@ -5021,8 +4992,7 @@ Verkehrssteuern (Umsatz-, Gesellschafts-, Grunderwerbssteuer)
 
 WDK633
 
-Substanzsteuern (Bewertungsgesetz, Vermögen-, Grund-, Gewerbe-,
-Kapital-, Erbschafts-, Schenkungssteuer)
+Substanzsteuern (Bewertungsgesetz, Vermögen-, Grund-, Gewerbe-, Kapital-, Erbschafts-, Schenkungssteuer)
 
 WDK64
 
@@ -5085,14 +5055,12 @@ Tabellenbücher, Formelsammlungen
 XC
 
 Algebra
-(Planimetrie, Stereometrie, Trigonometrie, Stabrechnen, Vektorlehre,
-Nomographie)
+(Planimetrie, Stereometrie, Trigonometrie, Stabrechnen, Vektorlehre, Nomographie)
 
 XD
 
 Geometrie
-(Analytische Geometrie, Differentialgeometrie, Topologie, Nichteuklidische
-Geometrie)
+(Analytische Geometrie, Differentialgeometrie, Topologie, Nichteuklidische Geometrie)
 
 XE
 
