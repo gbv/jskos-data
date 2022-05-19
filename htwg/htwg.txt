@@ -752,8 +752,7 @@ Allgemeines, Nachschlagewerke, Grundlagen
 
 BH2
 
-Bauordnungsrecht, Bauplanungsrecht, Nachbarrecht, Bodenrecht,
-Wasserrecht, Straßenrecht, Arbeitsstättenverordnung
+Bauordnungsrecht, Bauplanungsrecht, Nachbarrecht, Bodenrecht, Wasserrecht, Straßenrecht, Arbeitsstättenverordnung
 
 BH3
 
@@ -1127,8 +1126,7 @@ Bauentwurfslehre, Gebäudelehre, Zeichenlehre, Gestaltungslehre
 
 BKD31
 
-Allgemeines, Nachschlagewerke, Grundlagen, zusammenfassende
-Darstellungen
+Allgemeines, Nachschlagewerke, Grundlagen, zusammenfassende Darstellungen
 
 BKD32
 
@@ -1179,8 +1177,7 @@ Geschossbauten, Terrassenhäuser, Mehrfamilienhäuser, Wohnanlagen
 
 BKD45
 
-Wohnheime, Bauten für Behinderte, Kinderheime, Studentenwohnheime
-Altenheime
+Wohnheime, Bauten für Behinderte, Kinderheime, Studentenwohnheime Altenheime
 (h.a. betreutes Wohnen)
 (h.a. barrierefreies Bauen)
 (barrierefreies Bauen im Bestand s. BBK2)
@@ -1361,8 +1358,7 @@ Innenarchitektur
 
 BLA
 
-Allgemeines, Grundlagen, Nachschlagewerke, zusammenfassende
-Darstellungen
+Allgemeines, Grundlagen, Nachschlagewerke, zusammenfassende Darstellungen
 (Farbgestaltung s. BBG8)
 
 BLB
@@ -1841,8 +1837,7 @@ Elektrische Nachrichtentechnik
 
 ED1
 
-Allgemeine Lehr- und Handbücher, Grundlagen, Systemtheorie,
-Informationstheorie
+Allgemeine Lehr- und Handbücher, Grundlagen, Systemtheorie, Informationstheorie
 (Codierungstheorie s. IAD)
 (Systemtheorie s.a. Automatisierung ML12)
 
@@ -2274,7 +2269,7 @@ IBE
 Datenübertragung, Datennetze
 (s.a. Nachrichtentechnik ED)
 (ISDN s. ED2)
-(Netzwerkprogrammierung s. die einzelnen Programmiersprachen und Datenbanksoftware
+(Netzwerkprogrammierung s. die einzelnen Programmiersprachen und Datenbanksoftware)
 (Datenkommunikation in der Automatisierung s. ML12)
 
 IBE1
@@ -2558,8 +2553,7 @@ weitere Programmiersprachen
 
 IDX
 
-Softwarequalität und Datensicherheit
-Softwarezuverlässigkeit, Softwaretests, Computer- und Softwareergonomie, Viren, Hacking, App-Usability
+Softwarequalität und Datensicherheit, Softwarezuverlässigkeit, Softwaretests, Computer- und Softwareergonomie, Viren, Hacking, App-Usability
 (Datenschutz s. WBA5)
 (Sicherheit im Internet s. IBE71)
 (Netzwerksicherheit s. IBE1)
@@ -2819,7 +2813,7 @@ Business-Software
 
 IPM3
 
-SAP
+"SAP"
 (h.a. ABAP)
 
 IPM9
@@ -2969,7 +2963,7 @@ KPC
 
 Malen, plastisches Gestalten
 (h.a. Airbrushing)
-(s.a. Mauerhandwerk BBG21
+(s.a. Mauerhandwerk BBG21)
 (s.a. Bau- und Kunsthandwerk im Metallbereich BBG31)
 (s.a. Bau- und Kunsthandwerk im Holzbereich BBG41)
 (s.a. Glasbau, Glas-Eisen-Architektur BBG6)
@@ -3855,8 +3849,7 @@ Lexika, Nachschlagewerke
 
 WBA2
 
-Grundlagen, Sammelwerke, Einführungen, Lehrbücher der allgemeinen
-VWL
+Grundlagen, Sammelwerke, Einführungen, Lehrbücher der allgemeinen VWL
 
 WBA3
 
@@ -4085,8 +4078,7 @@ Entwicklungshilfe, Entwicklungspolitik, Dritte Welt
 
 WBH5
 
-wirtschaftliche Integration, internationale Wirtschaftsorganisationen,
-Wirtschaftsbeziehungen
+wirtschaftliche Integration, internationale Wirtschaftsorganisationen, Wirtschaftsbeziehungen
 (h.a. internationales Wirtschaftsrecht)
 (h.a. GATT/WTO, Europäische Union)
 (h.a. Europarecht)
@@ -4405,8 +4397,7 @@ WCG2
 
 Investition
 (Investitionsplanung, Investitionsrechnung)
-(h.a. Wirtschaftlichkeitsrechnung für Einführung neuer Methoden der
-betrieblichen Einzelbereiche)
+(h.a. Wirtschaftlichkeitsrechnung für Einführung neuer Methoden der betrieblichen Einzelbereiche)
 
 WCG3
 
@@ -5079,8 +5070,7 @@ Lineare Algebra
 
 XH
 
-Wahrscheinlichkeitsrechnung, Mengenlehre, Statistik, Logik, Boolesche
-Algebra, Gruppentheorie, Zuverlässigkeitstheorie, Stochastik, Automatentheorie, Fuzzy-Logik, Datenanalyse
+Wahrscheinlichkeitsrechnung, Mengenlehre, Statistik, Logik, Boolesche Algebra, Gruppentheorie, Zuverlässigkeitstheorie, Stochastik, Automatentheorie, Fuzzy-Logik, Datenanalyse
 (Fuzzy-Control s. EF2)
 
 XI
@@ -5089,8 +5079,7 @@ Numerische Mathematik
 
 XK
 
-Angewandte Mathematik
-Ingenieurmathematik, Wirtschaftsmathematik, Finanzmathematik
+Angewandte Mathematik, Ingenieurmathematik, Wirtschaftsmathematik, Finanzmathematik
 
 XL
 
@@ -5158,7 +5147,7 @@ Verschiedenes
 YT
 
 Spielfilme der Filmothek
-
+Z
 Zeitschriften
 
 ZA
