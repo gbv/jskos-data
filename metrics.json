@@ -439,6 +439,57 @@
     }
   },
   {
+    "uri": "http://bartoc.org/en/node/1339",
+    "title": "Hochschule Konstanz Technik, Wirtschaft und Gestaltung Bibliothekssystematik",
+    "metrics": {
+      "keys": {
+        "broader": 1015,
+        "inScheme": 1036,
+        "notation": 1036,
+        "prefLabel": 1036,
+        "scopeNote": 512,
+        "topConceptOf": 21,
+        "uri": 1036
+      },
+      "conceptNumber": 1036,
+      "broaderDistribution": {
+        "0": 21,
+        "1": 1015
+      },
+      "narrowerDistribution": {
+        "0": 1036
+      },
+      "narrowerDistributionImplicit": {
+        "1": 23,
+        "2": 17,
+        "3": 21,
+        "4": 25,
+        "5": 22,
+        "6": 18,
+        "7": 21,
+        "8": 15,
+        "9": 14,
+        "10": 2,
+        "11": 1,
+        "13": 2,
+        "14": 2,
+        "17": 1,
+        "19": 1,
+        "20": 2,
+        "23": 1
+      },
+      "topConceptNumber": 21,
+      "levelDistribution": {
+        "0": 41,
+        "1": 176,
+        "2": 344,
+        "3": 260,
+        "4": 176
+      },
+      "typesDistribution": {}
+    }
+  },
+  {
     "uri": "http://uri.gbv.de/terminology/msc2020/",
     "title": "Mathematics Subject Classification",
     "metrics": {
