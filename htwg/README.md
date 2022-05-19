@@ -8,3 +8,5 @@ Die Ausgangsdaten der Systematik wurden als PDF-Datei zur Verfügung gestellt un
 - Steuerzeichen (`^L`) entfernen
 - Seitenzahlen und Layout normalisieren (`perl -e 's/^[0-9_ ]+$//' | uniq`)
 - Einige verschobenen Zeilen korrigieren, so dass sich immer Klassenbeschreibung und Notation abwechseln
+
+Stand: 18. Ausgabe (Juni 2021)
