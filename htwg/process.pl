@@ -1,7 +1,7 @@
 #!/usr/bin/perl
 use v5.14.1;
 
-say 'level,prefLabel@de,scopeNote@de';
+say 'level,notation,prefLabel@de,scopeNote@de';
 
 my $notationPattern = qr{^[A-Z][A-Z]?[A-Z]?[0-9]*$};
 
@@ -18,7 +18,7 @@ while (<>) {
         $notation = $_;
     }
     elsif ( $notation && !$label ) {
-        $label = $_;
+        $label = $_ =~ s/"//gr;
     }
     elsif ( $notation && $label && $_ =~ /^\((.+)\)$/ ) {
         push @notes, $1;
