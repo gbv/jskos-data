@@ -3,7 +3,7 @@
  *
  * Run with: `node convert.js`
  *
- * Output files: nomisma-scheme.json, nomisma-concepts.ndjson.
+ * Output file nomisma-concepts.ndjson
  */
 
 const csv = require("csvtojson")
@@ -46,38 +46,7 @@ let languages = ["en", "de", "fr"]
 
 let url = lang => `http://nomisma.org/query?query=${encodeURIComponent(sparql.split("{{language}}").join(lang))}&output=csv`
 
-const uri = "http://nomisma.org/id/"
-const scheme = {
-  uri,
-  notation: ["NOMISMA"],
-  prefLabel: {
-    en: "Nomisma"
-  },
-  languages,
-  identifier: [
-    "http://bartoc.org/en/node/1822",
-    "http://www.wikidata.org/entity/Q24578999"
-  ],
-  license: [
-    {
-      uri: "http://creativecommons.org/licenses/by/3.0/"
-    }
-  ],
-  publisher: [
-    {
-      prefLabel: {
-        en: "Nomisma.org"
-      },
-      altLabel: {
-        en: [
-          "Nomisma"
-        ]
-      },
-      url: "http://nomisma.org"
-    }
-  ],
-}
-const schemeShort = { uri }
+const schemeUri = "http://nomisma.org/id/"
 
 let promises = []
 for (let language of languages) {
@@ -92,45 +61,44 @@ Promise.all(promises).then(results => {
   for (let { language, result } of results) {
     console.log(`- ${result.length} results for language ${language}`)
     for (let row of result) {
-      if (!row.uri) {
+      const { uri, label, definition } = row
+      if (!uri) {
         console.log("Missing URI for", row)
         continue
       }
-      let concept = concepts.find(concept => concept.uri == row.uri)
+      let concept = concepts.find(concept => concept.uri == uri)
       if (concept) {
         // Integrate details with other language
-        if (row.label) {
-          concept.prefLabel[language] = row.label
+        if (label) {
+          concept.prefLabel[language] = label
         }
-        if (row.definition) {
-          concept.definition[language] = [row.definition]
+        if (definition) {
+          concept.definition[language] = [definition]
         }
       } else {
         // Add as new concept
         let concept = {
-          uri: row.uri,
-          notation: [row.uri.replace(uri, "")],
+          uri,
+          notation: [row.uri.replace(schemeUri, "")],
           prefLabel: {},
           definition: {},
           type: [
             "http://www.w3.org/2004/02/skos/core#Concept",
             row.type
           ],
-          inScheme: [schemeShort],
+          inScheme: [ { uri: schemeUri } ],
         }
-        if (row.label) {
-          concept.prefLabel[language] = row.label
+        if (label) {
+          concept.prefLabel[language] = label
         }
-        if (row.definition) {
-          concept.definition[language] = [row.definition]
+        if (definition) {
+          concept.definition[language] = [definition]
         }
         concepts.push(concept)
       }
     }
   }
 
-  // Save scheme as scheme.json
-  fs.writeFileSync("nomisma-scheme.json", JSON.stringify([scheme], null, 2))
   // Save as concepts.ndjson
   fs.writeFileSync("nomisma-concepts.ndjson", concepts.reduce((previous, current) => previous + JSON.stringify(current) + "\n", ""))
 

@@ -605,47 +605,53 @@
     "title": "Nomisma",
     "metrics": {
       "keys": {
-        "definition": 5613,
-        "inScheme": 5613,
-        "notation": 5613,
-        "prefLabel": 5613,
-        "type": 5613,
-        "uri": 5613
+        "definition": 7085,
+        "inScheme": 7085,
+        "notation": 7085,
+        "prefLabel": 7085,
+        "type": 7085,
+        "uri": 7085
       },
-      "conceptNumber": 5613,
+      "conceptNumber": 7085,
       "broaderDistribution": {
-        "0": 5613
+        "0": 7085
       },
       "narrowerDistribution": {
-        "0": 5613
+        "0": 7085
       },
       "narrowerDistributionImplicit": {},
       "topConceptNumber": 0,
       "levelDistribution": {},
       "typesDistribution": {
         "http://nomisma.org/ontology#FindType": 1,
-        "http://xmlns.com/foaf/0.1/Group": 1,
         "http://www.owl-ontologies.com/Ontology1181490123.owl#Uncertainty": 2,
+        "http://nomisma.org/ontology#Shape": 3,
+        "http://nomisma.org/ontology#Authenticity": 4,
+        "http://nomisma.org/ontology#Hoard": 4,
         "http://nomisma.org/ontology#ReferenceWork": 4,
-        "http://nomisma.org/ontology#CoinWear": 5,
+        "http://xmlns.com/foaf/0.1/Group": 4,
         "http://nomisma.org/ontology#Ethnic": 5,
-        "http://nomisma.org/ontology#Hoard": 5,
-        "http://nomisma.org/ontology#Manufacture": 7,
-        "http://nomisma.org/ontology#TypeSeries": 10,
-        "http://www.w3.org/ns/org#Role": 12,
-        "http://nomisma.org/ontology#FieldOfNumismatics": 16,
-        "http://nomisma.org/ontology#ObjectType": 19,
-        "http://nomisma.org/ontology#Material": 28,
-        "http://www.cidoc-crm.org/cidoc-crm/E4_Period": 28,
-        "http://nomisma.org/ontology#NumismaticTerm": 40,
-        "http://nomisma.org/ontology#Collection": 43,
-        "http://xmlns.com/foaf/0.1/Organization": 67,
-        "http://www.rdaregistry.info/Elements/c/Family": 75,
-        "http://nomisma.org/ontology#Region": 183,
-        "http://nomisma.org/ontology#Denomination": 302,
-        "http://nomisma.org/ontology#Mint": 2222,
-        "http://xmlns.com/foaf/0.1/Person": 2538,
-        "http://www.w3.org/2004/02/skos/core#Concept": 5613
+        "http://nomisma.org/ontology#CoinWear": 6,
+        "http://nomisma.org/ontology#Corrosion": 6,
+        "http://nomisma.org/ontology#Manufacture": 8,
+        "http://nomisma.org/ontology#PeculiarityOfProduction": 16,
+        "http://nomisma.org/ontology#TypeSeries": 22,
+        "http://www.w3.org/ns/org#Role": 23,
+        "http://nomisma.org/ontology#FieldOfNumismatics": 24,
+        "http://nomisma.org/ontology#SecondaryTreatment": 25,
+        "http://www.cidoc-crm.org/cidoc-crm/E4_Period": 32,
+        "http://nomisma.org/ontology#Material": 35,
+        "http://nomisma.org/ontology#NumismaticTerm": 42,
+        "http://nomisma.org/ontology#ObjectType": 42,
+        "http://ontologi.es/WordNet/class/Deity": 58,
+        "http://nomisma.org/ontology#Collection": 69,
+        "http://www.rdaregistry.info/Elements/c/Family": 96,
+        "http://nomisma.org/ontology#Region": 199,
+        "http://xmlns.com/foaf/0.1/Organization": 238,
+        "http://nomisma.org/ontology#Denomination": 358,
+        "http://nomisma.org/ontology#Mint": 2320,
+        "http://xmlns.com/foaf/0.1/Person": 3439,
+        "http://www.w3.org/2004/02/skos/core#Concept": 7085
       }
     }
   },
