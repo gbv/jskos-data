@@ -10,7 +10,7 @@ if has("broader") then .broader[].uri |= gsub("(?<a>[^\/]*)-(?<b>[^\/]*)$"; (.a)
 if .broader[0].uri == .uri then del(.broader[0]) else . end |
 if .broader[1].uri == .uri then del(.broader[1]) else . end |
 if .scopeNote.de|type == "string" then .scopeNote.de = [.scopeNote.de] else . end |
-if .editorialNote.de|type == "string" then .editorialNote.de = [.editorialNote.de] else . end
+if .editorialNote.de|type == "string" then .editorialNote.de = [.editorialNote.de] else . end |
 
 # properties not mapped to JSON-LD (WTF?)
 if .["http://www.w3.org/1999/02/22-rdf-syntax-ns#type"] then .type = .["http://www.w3.org/1999/02/22-rdf-syntax-ns#type"] else . end |
