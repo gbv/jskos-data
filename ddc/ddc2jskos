@@ -1,7 +1,7 @@
 #!/bin/bash
 if [[ "$1" =~ ^ddc23[a-z][a-z](-.+)?.xml$ ]]; then
   set -x
-  catmandu convert marcxml to ndjson \
+  catmandu convert -I lib marcxml to ndjson \
 	  --fix "add_field(language,${1:5:2})" --fix ddc2jskos.fix \
 	  < $1 > ${1/.xml/.ndjson}
 else

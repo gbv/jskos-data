@@ -5,9 +5,11 @@
 select marc_match(LDR/6, 'w')   # record type == classification
 select marc_match(008/8, 'a')	# valid records only
 
+# some transformation in lib/Catmandu/Fix/ddc.pm
+ddc()
+
 # notation and uri
 marc_map(153$ac, uri, join:'-')
-replace_all(uri,'([^-]+)-([^-]+)-(.+)','$1-$2:$3')
 if marc_has(153$z[0])
   # table record
   marc_spec(153$z[0],table)
