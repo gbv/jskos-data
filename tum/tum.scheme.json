@@ -1,0 +1,16 @@
+{
+  "@context": "https://gbv.github.io/jskos/context.json",
+  "identifier": [
+    "http://www.wikidata.org/entity/Q2385549"
+  ],
+  "namespace": "https://www.ub.tum.de/tum-systematik/no/",
+  "notation": [
+    "TUM"
+  ],
+  "notationPattern": "[A-Z]{3}( [0-9]{3})?",
+  "prefLabel": {
+    "en": "TUM classification",
+    "und": "TUM-Systematik"
+  },
+  "uri": "http://bartoc.org/en/node/495"
+}
