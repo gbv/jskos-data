@@ -1,0 +1,17 @@
+{
+  "uri": "https://uri.gbv.de/terminology/mismatch/",
+  "notation": ["MISMATCH"],
+  "type": ["http://www.w3.org/2004/02/skos/core#ConceptScheme"],
+  "namespace": "https://uri.gbv.de/terminology/mismatch/",
+  "prefLabel": {
+    "en": "Mapping Mismatch Tags"
+  },
+  "definition": {
+    "en": [
+      "Vocabulary for tagging mapping mismatches (i.e. negative assessment annotations) in coli-conc. See also: https://github.com/gbv/jskos-server/issues/198"
+    ]
+  },
+  "DISPLAY": {
+    "hideNotation": true
+  }
+}

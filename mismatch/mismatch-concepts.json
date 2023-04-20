@@ -1,0 +1,38 @@
+[
+  {
+    "uri": "https://uri.gbv.de/terminology/mismatch/scope",
+    "notation": ["scope"],
+    "topConceptOf": [{ "uri": "https://uri.gbv.de/terminology/mismatch/" }],
+    "prefLabel": {
+      "en": "scope of source and target concept don't match",
+      "de": "Mapping passt nicht"
+    }
+  },
+  {
+    "uri": "https://uri.gbv.de/terminology/mismatch/level",
+    "notation": ["level"],
+    "topConceptOf": [{ "uri": "https://uri.gbv.de/terminology/mismatch/" }],
+    "prefLabel": {
+      "en": "wrong level of abstraction (too broad or too narrow)",
+      "de": "Falsche Abstraktionsebene (zu allgemein oder zu spezifisch)"
+    }
+  },
+  {
+    "uri": "https://uri.gbv.de/terminology/mismatch/incompatible",
+    "notation": ["incompatible"],
+    "topConceptOf": [{ "uri": "https://uri.gbv.de/terminology/mismatch/" }],
+    "prefLabel": {
+      "en": "incompatible scope of source and target concept",
+      "de": "Quell- und Zielkonzept sind nicht vergleichbar"
+    }
+  },
+  {
+    "uri": "https://uri.gbv.de/terminology/mismatch/overlap",
+    "notation": ["overlap"],
+    "topConceptOf": [{ "uri": "https://uri.gbv.de/terminology/mismatch/" }],
+    "prefLabel": {
+      "en": "source and target concept overlap partially only",
+      "de": "Quell- und Zielkonzept decken sich nur unvollständig"
+    }
+  }
+]
