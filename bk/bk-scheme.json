@@ -18,7 +18,7 @@
   "type": [
     "http://www.w3.org/2004/02/skos/core#ConceptScheme"
   ],
-  "uri": "http://uri.gbv.de/terminology/bk",
+  "uri": "http://uri.gbv.de/terminology/bk/",
   "languages": [
     "de"
   ]
