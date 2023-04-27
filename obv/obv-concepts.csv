@@ -1,0 +1,59 @@
+notation,prefLabel,scopeNote
+01,Allgemeines & Interdisziplinäres,Wissenschaft und Forschung allgemein Geisteswissenschaften allgemein Humanwissenschaften allgemein Hochschule allgemein; Hochschule als Forschungseinrichtung
+02,Publizistik & Kommunikation,Kommunikationswissenschaft Medienwissenschaft; Neue Medien; Social Media
+03,"Information & Dokumentation, Buch- und Bibliothekswesen",
+04,Philosophie,
+05,Psychologie,Parapsychologie
+06,"Religion, Theologie",Spritualität; Okkultismus Kirchenrecht
+07,Pädagogik,Hochschule als Bildungseinrichtung; Disability Studies Sozialarbeit Allgemeine Didaktik
+08,Recht,Kriminologie Verwaltung; Kirchenrecht zu 06!
+09,Politik,Militär (soweit nicht historisch)
+10,Wirtschafts- und Sozialwissenschaften allgemein,Handel; Nachhaltigkeit allgemein
+11,Soziologie und Kulturwissenschaften,Kulturwissenschaften (Cultural Studies) allgemein; Geschlechterforschung (Gender Studies) allgemein
+12,Volkswirtschaft,
+13,Betriebswirtschaft,
+14,Angewandte Statistik,
+15,Allgemeine Sprach- und Literaturwissenschaft,Vergleichende Literaturwissenschaft
+16,Anglistik und Amerikanistik,
+17,"Germanistik, Skandinavistik, Niederlandistik",
+18,Romanistik,
+19,Slawistik,
+20,Klassische Philologie,Neugriechisch (nach 1453) zu 21!
+21,Sonstige europäische Sprachen und Literaturen,
+22,Außereuropäische Sprachen und Literaturen,
+23,"Mathematik, Statistik",
+24,Informatik,Computer- und Videospiele
+25,Naturwissenschaften allgemein,
+26,Astronomie,Raumfahrt zu 44!
+27,Biologie allgemein,"Biowissenschaften allgemein; Umwelt- und Naturschutz allgemein Hier außerdem sämtliche Teilgebiete der Biologie außer Botanik und Zoologie (Evolution, Mykologie etc.); Ökologie; Klimaschutz zu 32!"
+28,Botanik,
+29,Zoologie,
+30,Chemie,
+31,Geowissenschaften,
+32,Meteorologie und Geophysik,Klimaänderung Klimaschutz
+33,Physik,
+34,Medizin & Pflege,Pflegewissenschaft Ernährungswissenschaft
+35,Veterinärmedizin,
+36,Pharmazie,
+37,Technik allgemein,"Hier auch sämtliche Sparten der Technik, die nicht von 38-44 abgedeckt werden (z.B. Energietechik, Umwelttechnik)"
+38,Maschinenbau,
+39,Elektrotechnik,
+40,Montanwissenschaften,Bodenschätze
+41,Bauingenieurwesen,
+42,Architektur,Hier auch Geschichte der Architektur
+43,"Land-, Forst- und Hauswirtschaft",
+44,Verkehr & Mobilität,Raumfahrt
+45,Kunst,Kunstgeschichte Kunstwissenschaft; Hier auch Künste interdisziplinär; Architektur einschließlich ihrer Geschichte zu 42!
+46,Musikwissenschaft,Musiknoten und (Bild-)Tonträger zu 57!
+47,Theaterwissenschaft,Tanz
+48,"Film, Rundfunk, Fernsehen","Medien allgemein zu 02!; Neue Medien zu 02!; Spielfilme zu 56!"
+49,Sport und Spiele,Computerspiele zu 24!
+50,Geografie,"Fremdenverkehr und Reisen Reiseführer; Stadtforschung (soweit nicht historisch)"
+51,Raumplanung und Raumordnung,Städtebau
+52,Völkerkunde,Ethnologie allgemein
+53,Volkskunde,Europäische Ethnologie
+54,Geschichte,
+55,Archäologie,
+56,Fiktionale Darstellungen,"Belletristik Spielfilme sowie sämtliche sonstige Arten fiktionaler Darstellungen im SInne von RDA 7.2.1.3 D-A-CH / AH-007 http://original.rdatoolkit.org/nlgpschp7_nlgps07-29.html"
+57,Musiknoten und Musikaufnahmen,"Hier auch Tonträger, die ausschließlich oder überwiegend Musik enthalten, sowie Bildtonträger, die Aufzeichnungen musikalischer Aufführungen (Konzerte, Opern etc.) enthalten. Verfilmungen musikdramatischer Werke (Opern, Musicals) zu 56!"
+58,Fachlich nicht erfasste Objekte,

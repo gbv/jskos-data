@@ -1,0 +1,32 @@
+{
+  "altLabel": {
+    "de": [
+      "Fachgruppen des OBV"
+    ]
+  },
+  "identifier": [
+    "http://uri.gbv.de/terminology/obv/"
+  ],
+  "namespace": "http://uri.gbv.de/terminology/obv/",
+  "notation": [
+    "OBV"
+  ],
+  "notationPattern": "[0-9][0-9]",
+  "prefLabel": {
+    "de": "OBV-Fachgruppen",
+    "en": "OBV classes"
+  },
+  "publisher": [
+    {
+      "prefLabel": {
+        "en": "OBV"
+      },
+      "uri": "http://viaf.org/viaf/151959534"
+    }
+  ],
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+    "http://w3id.org/nkos/nkostype#categorization_schema"
+  ],
+  "uri": "http://bartoc.org/en/node/20430"
+}
