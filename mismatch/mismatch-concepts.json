@@ -4,8 +4,12 @@
     "notation": ["scope"],
     "topConceptOf": [{ "uri": "https://uri.gbv.de/terminology/mismatch/" }],
     "prefLabel": {
-      "en": "scope of source and target concept don't match",
-      "de": "Mapping passt nicht"
+      "en": "wrong scope",
+      "de": "falscher Umfang"
+    },
+    "definition": {
+      "en": ["The scope of source and target concept does not match."],
+      "de": ["Der Umfang von Quell- und Zielkonzept stimmt nicht überein."]
     }
   },
   {
@@ -13,8 +17,12 @@
     "notation": ["level"],
     "topConceptOf": [{ "uri": "https://uri.gbv.de/terminology/mismatch/" }],
     "prefLabel": {
-      "en": "wrong level of abstraction (too broad or too narrow)",
-      "de": "Falsche Abstraktionsebene (zu allgemein oder zu spezifisch)"
+      "en": "wrong level",
+      "de": "falsche Abstraktionsebene"
+    },
+    "definition": {
+      "en": ["Wrong level of abstraction (too broad or too narrow)."],
+      "de": ["Falsche Abstraktionsebene (zu allgemein oder zu spezifisch)."]
     }
   },
   {
@@ -22,8 +30,12 @@
     "notation": ["incompatible"],
     "topConceptOf": [{ "uri": "https://uri.gbv.de/terminology/mismatch/" }],
     "prefLabel": {
-      "en": "incompatible scope of source and target concept",
-      "de": "Quell- und Zielkonzept sind nicht vergleichbar"
+      "en": "incompatible",
+      "de": "nicht vergleichbar"
+    },
+    "definition": {
+      "en": ["Incompatible scope of source and target concept."],
+      "de": ["Quell- und Zielkonzept sind nicht vergleichbar."]
     }
   },
   {
@@ -31,8 +43,12 @@
     "notation": ["overlap"],
     "topConceptOf": [{ "uri": "https://uri.gbv.de/terminology/mismatch/" }],
     "prefLabel": {
-      "en": "source and target concept overlap partially only",
-      "de": "Quell- und Zielkonzept decken sich nur unvollständig"
+      "en": "partial overlap",
+      "de": "unvollständige Deckung"
+    },
+    "definition": {
+      "en": ["The source and target concept overlap partially only."],
+      "de": ["Quell- und Zielkonzept decken sich nur unvollständig."]
     }
   }
 ]
