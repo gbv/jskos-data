@@ -4,8 +4,8 @@
     "notation": ["scope"],
     "topConceptOf": [{ "uri": "https://uri.gbv.de/terminology/mismatch/" }],
     "prefLabel": {
-      "en": "wrong scope",
-      "de": "falscher Umfang"
+      "en": "scope mismatch",
+      "de": "abweichender Umfang"
     },
     "definition": {
       "en": ["The scope of source and target concept does not match."],
@@ -44,7 +44,7 @@
     "topConceptOf": [{ "uri": "https://uri.gbv.de/terminology/mismatch/" }],
     "prefLabel": {
       "en": "partial overlap",
-      "de": "unvollständige Deckung"
+      "de": "teilweise Überlappung"
     },
     "definition": {
       "en": ["The source and target concept overlap partially only."],
