@@ -4,51 +4,38 @@
     "notation": ["scope"],
     "topConceptOf": [{ "uri": "https://uri.gbv.de/terminology/mismatch/" }],
     "prefLabel": {
-      "en": "scope mismatch",
-      "de": "abweichender Umfang"
-    },
-    "definition": {
-      "en": ["The scope of source and target concept does not match."],
-      "de": ["Der Umfang von Quell- und Zielkonzept stimmt nicht überein."]
-    }
-  },
-  {
-    "uri": "https://uri.gbv.de/terminology/mismatch/level",
-    "notation": ["level"],
-    "topConceptOf": [{ "uri": "https://uri.gbv.de/terminology/mismatch/" }],
-    "prefLabel": {
-      "en": "wrong level",
-      "de": "falsche Abstraktionsebene"
-    },
-    "definition": {
-      "en": ["Wrong level of abstraction (too broad or too narrow)."],
-      "de": ["Falsche Abstraktionsebene (zu allgemein oder zu spezifisch)."]
-    }
-  },
-  {
-    "uri": "https://uri.gbv.de/terminology/mismatch/incompatible",
-    "notation": ["incompatible"],
-    "topConceptOf": [{ "uri": "https://uri.gbv.de/terminology/mismatch/" }],
-    "prefLabel": {
-      "en": "incompatible",
+      "en": "incompatible scope",
       "de": "nicht vergleichbar"
     },
     "definition": {
-      "en": ["Incompatible scope of source and target concept."],
-      "de": ["Quell- und Zielkonzept sind nicht vergleichbar."]
+      "en": ["Scope of source and target concept are incompatible."],
+      "de": ["Quell- und Zielkonzept passen nicht zueinander."]
     }
   },
   {
-    "uri": "https://uri.gbv.de/terminology/mismatch/overlap",
-    "notation": ["overlap"],
+    "uri": "https://uri.gbv.de/terminology/mismatch/relation",
+    "notation": ["relation"],
     "topConceptOf": [{ "uri": "https://uri.gbv.de/terminology/mismatch/" }],
     "prefLabel": {
-      "en": "partial overlap",
-      "de": "teilweise Überlappung"
+      "en": "wrong mapping relation",
+      "de": "falsche Mapping-Relation"
     },
     "definition": {
-      "en": ["The source and target concept overlap partially only."],
-      "de": ["Quell- und Zielkonzept decken sich nur unvollständig."]
+      "en": ["The mapping relation is missing or incorrect"],
+      "de": ["Die Beziehung des Mappings is nicht korrekt oder sie fehlt"]
+    }
+  },
+  {
+    "uri": "https://uri.gbv.de/terminology/mismatch/redundant",
+    "notation": ["redundant"],
+    "topConceptOf": [{ "uri": "https://uri.gbv.de/terminology/mismatch/" }],
+    "prefLabel": {
+      "en": "redundant mapping",
+      "de": "unnötiges Mapping"
+    },
+    "definition": {
+      "en": ["The mapping is unnecessary as it has no applications or it can be derived from other mappings"],
+      "de": ["Das Mapping is unnötig, da es sich aus anderen Mappings ergibt oder keine Anwendung hat"]
     }
   }
 ]

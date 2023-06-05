@@ -1,10 +1,14 @@
 {
   "uri": "https://uri.gbv.de/terminology/mismatch/",
-  "notation": ["MISMATCH"],
+  "identifier": "http://bartoc.org/en/node/20429",
+  "notation": ["MMV"],
   "type": ["http://www.w3.org/2004/02/skos/core#ConceptScheme"],
   "namespace": "https://uri.gbv.de/terminology/mismatch/",
   "prefLabel": {
     "en": "Mapping Mismatch Tags"
+  },
+  "altLabel": {
+    "en": "Mapping Mismatch Vocabulary"
   },
   "definition": {
     "en": [
