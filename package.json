@@ -17,6 +17,7 @@
     "csvtojson": "^2.0.10",
     "jskos-cli": "^0.5.11",
     "jskos-tools": "^1.0.30",
-    "jskos-validate": "^0.5.7"
+    "jskos-validate": "^0.5.7",
+    "ndjson": "^2.0.0"
   }
 }
