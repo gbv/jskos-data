@@ -79,7 +79,7 @@ function transform(item) {
         || entities[item["bio:birth"]?.["@id"]]?.["dcterms:date"]["@value"],
     endDate: item["nmo:hasEndDate"]?.["@value"]
         || entities[item["bio:death"]?.["@id"]]?.["dcterms:date"]["@value"],
-    url: item["foaf:homepage"],
+    url: item["foaf:homepage"]?.["@id"],
   }
 
   asArray(item["@type"]).filter(t => t !== "skos:Concept").forEach(t => {
@@ -103,12 +103,14 @@ function transform(item) {
   const related = []
   withArray(item["skos:exactMatch"], matches => {
     matches.map(m => ({
+      from: { memberSet: [ { uri: item.uri } ] },
       to: { memberSet: [ { uri: m["@id"] } ] },
       type: ["http://www.w3.org/2004/02/skos/core#exactMatch"]
     })).forEach(m => mappings.push(m))
   })
   withArray(item["skos:closeMatch"], matches => {
     matches.map(m => ({
+      from: { memberSet: [ { uri: item.uri } ] },
       to: { memberSet: [ { uri: m["@id"] } ] },
       type: ["http://www.w3.org/2004/02/skos/core#closeMatch"]
     })).forEach(m => mappings.push(m))
@@ -118,6 +120,7 @@ function transform(item) {
      var uri = e["@id"]
      if (uri.match(/^https?:/)) {
        mappings.push({
+         from: { memberSet: [ { uri: item.uri } ] },
          to: { memberSet: [ { uri } ] },
          type: ["http://www.w3.org/2004/02/skos/core#relatedMatch"]
        })
