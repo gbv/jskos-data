@@ -1,6 +1,10 @@
+/**
+ * Convert the Nomisma vocabulary from JSON-LD to JSKOS (see Makefile).
+ */
 const ndjson = require("ndjson")
 
 // Utility functions
+const isEmpty = x => x === null || x === undefined || x === "" || (Array.isArray(x) && !x.length) || (typeof x === "object" && !Object.keys(x).length)
 const asArray = data => Array.isArray(data) ? data : [data]
 const withArray = (data, cb) => {
   const a = asArray(data).filter(Boolean)
@@ -34,7 +38,7 @@ process.stdin
     // collect concepts and other entities
     item.uri = item["@id"].replace(/^nm:/,nomismaURI)
 
-    if (item["dcterms:isReplacedBy"]) return // TODO: add identifier?
+    if (item["dcterms:isReplacedBy"]) return // TODO: add alternative identifier?
     
     if (item.uri === item["@id"]) {
       entities[item.uri] = item
@@ -49,33 +53,51 @@ process.stdin
 
 const nomismaURI = "http://nomisma.org/id/"
 
+// for type URIs
+const namespaces = {
+  crm: 'http://www.cidoc-crm.org/cidoc-crm/',
+  nmo: 'http://nomisma.org/ontology#',
+  org: 'http://www.w3.org/ns/org#',
+  foaf: 'http://xmlns.com/foaf/0.1/'
+}
+
 function transform(item) {
-  const prefLabel = languageMap(item["skos:prefLabel"])
-  const altLabel = languageMap(item["skos:altLabel"], true)
-  const definition = languageMap(item["skos:definition"], true)
-  const scopeNote = languageMap(item["skos:scopeNote"], true)
+  if (item["@type"].indexOf("skos:ConceptScheme") >= 0) {
+    return
+  }
 
   const concept = {
     uri: item.uri, 
-    prefLabel, definition, scopeNote,
-    //...item,
-    inScheme: [{uri:"http://bartoc.org/en/node/1822"}], // TODO nomismaURI?
-    type: ["http://www.w3.org/2004/02/skos/core#Concept"]      
+    notation: [item.uri.substr(nomismaURI.length)],
+    prefLabel: languageMap(item["skos:prefLabel"]),
+    altLabel: languageMap(item["skos:altLabel"], true),
+    definition: languageMap(item["skos:definition"], true),
+    scopeNote: languageMap(item["skos:scopeNote"], true),
+    inScheme: [{uri:nomismaURI}],
+    type: ["http://www.w3.org/2004/02/skos/core#Concept"], 
+    startDate: item["nmo:hasStartDate"]?.["@value"]
+        || entities[item["bio:birth"]?.["@id"]]?.["dcterms:date"]["@value"],
+    endDate: item["nmo:hasEndDate"]?.["@value"]
+        || entities[item["bio:death"]?.["@id"]]?.["dcterms:date"]["@value"],
+    url: item["foaf:homepage"],
   }
 
-  if (Object.keys(altLabel).length) {
-    concept.altLabel = altLabel
-  }
+  asArray(item["@type"]).filter(t => t !== "skos:Concept").forEach(t => {
+    // simplify types
+    if (t == "rdac:Familiy") { 
+        t = "foaf:Group"
+    } else if (t == "wordnet:Deity") {
+        t = "foaf:Person"
+    }
+    const prefix = t.split(":")[0]
+    if (prefix in namespaces) {
+      concept.type.push(t.replace(`${prefix}:`, namespaces[prefix]))
+    }
+  })
 
-  if (item["foaf:homepage"]) {
-    concept.url = item["foaf:homepage"]
-  }
-
-  if (item["skos:broader"]) {
-    concept.broader = asArray(item["skos:broader"]).map(item => item["@id"].replace(/^nm:/,nomismaURI))
-      .filter(uri => concepts[uri])
-      .map(uri => ({uri}))
-  }
+  concept.broader = asArray(item["skos:broader"]).filter(Boolean).map(item => item["@id"].replace(/^nm:/,nomismaURI))
+    .filter(uri => concepts[uri])
+    .map(uri => ({uri}))
 
   const mappings = []
   const related = []
@@ -131,78 +153,18 @@ function transform(item) {
     }
   }
 
-  asArray(item["@type"]).filter(t => t !== "skos:Concept").forEach(t => {
-     // TODO: expand URI and add to types
-  })
-
-  //concept.type = type
-  /* TODO: types
-   *    3468 "foaf:Person"
-   2379 "nmo:Mint"
-    382 "nmo:Denomination"
-    254 "foaf:Organization"
-    211 "wordnet:Deity"
-    199 "nmo:Region"
-     96 "rdac:Family"
-     73 "nmo:Collection"
-     43 "nmo:ObjectType"
-     42 "nmo:NumismaticTerm"
-     36 "nmo:Material"
-     32 "crm:E4_Period"
-     31 "org:Role"
-     29 "nmo:FieldOfNumismatics"
-     25 "nmo:SecondaryTreatment"
-     23 "nmo:TypeSeries"
-     19 "http://www.w3.org/2002/07/owl#NamedIndividual"
-     16 "nmo:PeculiarityOfProduction"
-      8 "nmo:Manufacture"
-      7 "foaf:Group"
-      6 "nmo:Corrosion"
-      6 "nmo:CoinWear"
-      5 "nmo:ReferenceWork"
-      5 "nmo:Ethnic"
-      4 "nmo:Hoard"
-      4 "nmo:Authenticity"
-      3 "nmo:Shape"
-      2 "un:Uncertainty"
-      1 "org:Membership"
-      1 "nmo:FindType"
-*/
-
-  if (type.indexOf("skos:ConceptScheme") >= 0) {
-    return
-  }
-
-  ;[
-      "@id","@type","skos:prefLabel","skos:altLabel",
-      "skos:scopeNote",
-      "skos:definition","skos:inScheme",
-      "skos:broader",
-      "skos:exactMatch", "skos:closeMatch", "skos:related",
-      "geo:location", "geo:long", "geo:lat", "foaf:homepage",
-
-  ].forEach(key => delete concept[key])
-
-
-  // notation: [row.uri.replace(schemeUri, "")],
-
-  return concept
+  return Object.fromEntries(Object.entries(concept).filter(([_, v]) => !isEmpty(v)))
 }
 
-/* MISSING FIELDS SO FAR:
-   7392 @type
+/* TODO: fields not converted yet:
    7390 skos:changeNote
    6451 dcterms:isPartOf
    3405 org:hasMembership
    1211 dcterms:source
     353 rdfs:seeAlso
     317 org:memberOf
-    160 nmo:hasStartDate
-    157 nmo:hasEndDate
-     92 bio:death
      69 prov:alternateOf
      62 foaf:thumbnail
-     46 bio:birth
      19 http://www.w3.org/2002/07/owl#sameAs
      14 nmo:hasMaterial
       6 foaf:depiction
