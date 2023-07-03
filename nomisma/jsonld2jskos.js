@@ -73,7 +73,7 @@ function transform(item) {
     altLabel: languageMap(item["skos:altLabel"], true),
     definition: languageMap(item["skos:definition"], true),
     scopeNote: languageMap(item["skos:scopeNote"], true),
-    inScheme: [{uri:nomismaURI}],
+    inScheme: [{uri:"http://bartoc.org/en/node/1822"}],
     type: ["http://www.w3.org/2004/02/skos/core#Concept"], 
     startDate: item["nmo:hasStartDate"]?.["@value"]
         || entities[item["bio:birth"]?.["@id"]]?.["dcterms:date"]["@value"],

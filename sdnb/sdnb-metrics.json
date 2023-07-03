@@ -6,6 +6,7 @@
     "prefLabel": 117,
     "scopeNote": 11,
     "topConceptOf": 13,
+    "type": 10,
     "uri": 117
   },
   "conceptNumber": 117,
@@ -29,5 +30,8 @@
   "levelDistribution": {
     "0": 25
   },
-  "typesDistribution": {}
+  "typesDistribution": {
+    "http://schema.vocnet.org/NonIndexingConcept": 10,
+    "http://www.w3.org/2004/02/skos/core#Concept": 10
+  }
 }
