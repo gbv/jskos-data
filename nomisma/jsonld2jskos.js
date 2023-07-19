@@ -51,6 +51,30 @@ process.stdin
     Object.values(concepts).map(transform).filter(Boolean).forEach(concept => console.log(JSON.stringify(concept)))
   })
 
+// TODO: should be part of jskos-tools
+function guessScheme(conceptUri) {
+  const schemes = {
+    "http://d-nb.info/gnd/": "http://bartoc.org/en/node/430",
+    "http://www.wikidata.org/entity/": "http://bartoc.org/en/node/1940",
+    "http://viaf.org/viaf/": "http://bartoc.org/en/node/2053",
+    "http://sws.geonames.org/": "http://bartoc.org/en/node/1674",
+    "https://pleiades.stoa.org/places/": "http://bartoc.org/en/node/20431",
+    "http://vocab.getty.edu/tgn/": "http://bartoc.org/en/node/109"
+    // TODO
+    // "http://collection.britishmuseum.org/id/place/"
+    // "http://catalogue.bnf.fr/ark:/12148/"
+    //    "https://ikmk.smb.museum/ndp/person/"
+    //    "https://ikmk.smb.museum/ndp/ort/"
+    //    "https://ikmk.smb.museum/ndp/sachbegriff/"
+    //    ...
+  }
+  for (let [namespace, uri] of Object.entries(schemes)) {
+    if (conceptUri.startsWith(namespace)) {
+      return { uri }
+    }
+ }
+}
+
 const nomismaURI = "http://nomisma.org/id/"
 
 // for type URIs
@@ -134,6 +158,14 @@ function transform(item) {
   ))
 
   if (mappings.length) {
+    mappings.forEach(m => {
+      const scheme = guessScheme(m.to.memberSet[0].uri)
+      if (scheme) {
+        m.toScheme = scheme
+      } else {
+        // console.error(m.to.memberSet[0].uri)
+      }
+    })  
     concept.mappings = mappings
   }
   if (related.length) {
