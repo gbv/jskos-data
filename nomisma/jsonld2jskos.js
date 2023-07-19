@@ -175,14 +175,14 @@ function transform(item) {
   if (item["geo:long"] && item["geo:lat"]) {
     concept.location = {
       type: "Point",
-      coordinates: [ item["geo:long"]["@value"], item["geo:lat"]["@value"] ]
+      coordinates: [parseFloat(item["geo:long"]["@value"]), parseFloat(item["geo:lat"]["@value"])]
     }
   } else if (item["geo:location"]) {
     const loc = entities[item["geo:location"]["@id"]]
     if (loc && loc["geo:long"] && loc["geo:lat"]) {
       concept.location = {
         type: "Point",
-        coordinates: [ loc["geo:long"]["@value"], loc["geo:lat"]["@value"] ]
+        coordinates: [parseFloat(loc["geo:long"]["@value"]), parseFloat(loc["geo:lat"]["@value"])]
       }
       // TODO: loc["dcterms:isPartOf"]["@id"] => broader
     }
