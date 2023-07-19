@@ -3,6 +3,7 @@
     "http://www.wikidata.org/entity/Q24578999",
     "http://nomisma.org/id/"
   ],
+  "namespace": "http://nomisma.org/id/",
   "notation": [
     "NOMISMA"
   ],
