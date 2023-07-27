@@ -45,9 +45,9 @@ if (args.length < 1) {
   process.exit(1)
 }
 
-const fs = require("fs")
-const readline = require("readline")
-const jskos = require("jskos-tools")
+import fs from "node:fs"
+import readline from "node:readline"
+import jskos from "jskos-tools"
 
 function getReadlineInterface(file) {
   return readline.createInterface({

@@ -1,7 +1,7 @@
 /**
  * Convert the Nomisma vocabulary from JSON-LD to JSKOS (see Makefile).
  */
-const ndjson = require("ndjson")
+import ndjson from "ndjson"
 
 // Utility functions
 const isEmpty = x => x === null || x === undefined || x === "" || (Array.isArray(x) && !x.length) || (typeof x === "object" && !Object.keys(x).length)

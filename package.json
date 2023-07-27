@@ -1,5 +1,6 @@
 {
   "name": "jskos-data",
+  "type": "module",
   "version": "0.0.0",
   "scripts": {
     "jskos-convert": "cd $INIT_CWD; jskos-convert",
