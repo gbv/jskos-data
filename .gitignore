@@ -1,3 +1,4 @@
+.DS_Store
 local/
 skos2jskos/*.jsonld
 vendor/
