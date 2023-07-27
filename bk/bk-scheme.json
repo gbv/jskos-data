@@ -1,24 +1,30 @@
 {
   "identifier": [
-    "http://bartoc.org/en/node/18785",
-    "http://www.wikidata.org/entity/Q810226",
-    "http://d-nb.info/gnd/4361769-4",
-    "http://viaf.org/viaf/198550876",
-    "http://id.loc.gov/vocabulary/classSchemes/bkl"
+    "http://id.loc.gov/vocabulary/classSchemes/bkl",
+    "http://uri.gbv.de/terminology/bk/",
+    "http://www.wikidata.org/entity/Q29938469"
   ],
+  "namespace": "http://uri.gbv.de/terminology/bk/",
   "notation": [
     "BK"
   ],
+  "notationPattern": "(0|1-2|3-4|5|7-8|[0-9]{2}(\\.[0-9]{2})?)",
   "prefLabel": {
-    "-": "…",
     "de": "Basisklassifikation",
-    "nl": "Nederlandse Basisclassificatie"
+    "en": "Basic Classification",
+    "nl": "Nederlandse basisclassificatie"
   },
-  "type": [
-    "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+  "publisher": [
+    {
+      "prefLabel": {
+        "en": "GBV"
+      },
+      "uri": "http://viaf.org/viaf/128669726"
+    }
   ],
-  "uri": "http://uri.gbv.de/terminology/bk/",
-  "languages": [
-    "de"
-  ]
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+    "http://w3id.org/nkos/nkostype#classification_schema"
+  ],
+  "uri": "http://bartoc.org/en/node/18785"
 }
