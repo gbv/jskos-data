@@ -1,0 +1,22 @@
+{
+  "identifier": [
+    "fivr"
+  ],
+  "notationPattern": "R[A-Z]([0-9][0-9](\\.[0-9][0-9])?)?",
+  "prefLabel": {
+    "und": "FIV-Regionalklassifikation"
+  },
+  "publisher": [
+    {
+      "prefLabel": {
+        "en": "Fachinformationsverbund Internationale Beziehungen und Länderkunde"
+      },
+      "uri": "http://viaf.org/viaf/157787796"
+    }
+  ],
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+    "http://w3id.org/nkos/nkostype#gazetteer"
+  ],
+  "uri": "http://bartoc.org/en/node/20447"
+}

@@ -1,0 +1,23 @@
+{
+  "notation": [
+    "fivs"
+  ],
+  "notationPattern": "S[A-Z]([0-9][0-9](\\.[0-9][0-9])?)?",
+  "prefLabel": {
+    "de": "FIV-Sachklassifikation",
+    "en": "FIV General Classification"
+  },
+  "publisher": [
+    {
+      "prefLabel": {
+        "en": "Fachinformationsverbund Internationale Beziehungen und Länderkunde"
+      },
+      "uri": "http://viaf.org/viaf/157787796"
+    }
+  ],
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+    "http://w3id.org/nkos/nkostype#classification_schema"
+  ],
+  "uri": "http://bartoc.org/en/node/20446"
+}
