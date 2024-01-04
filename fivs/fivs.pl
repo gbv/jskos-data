@@ -25,7 +25,7 @@ for (@$records) {
     };
     push @{ $jskos->{identifier} }, $_->{recono} if $_->{recono};
     if ( $_->{NOTES} ) {
-        $jskos->{scopeNotes} = [ { de => $_->{NOTES} } ];
+        $jskos->{scopeNote} = { de => [ $_->{NOTES} ] };
     }
     if ( length $_->{CLASS} == 2 ) {
         $jskos->{topConceptOf} = [ { uri => $namespace } ];
