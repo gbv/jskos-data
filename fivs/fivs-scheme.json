@@ -2,6 +2,7 @@
   "identifier": [
     "https://uri.gbv.de/terminology/fivs/"
   ],
+  "namespace": "https://uri.gbv.de/terminology/fivs/",
   "notation": [
     "fivs"
   ],
