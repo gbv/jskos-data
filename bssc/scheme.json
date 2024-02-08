@@ -1,0 +1,99 @@
+{
+  "@context": "https://gbv.github.io/jskos/context.json",
+  "ACCESS": [
+    {
+      "uri": "http://bartoc.org/en/Access/Free"
+    }
+  ],
+  "ADDRESS": {
+    "code": "GU21 6LQ",
+    "country": "United Kingdom",
+    "locality": "Woking",
+    "street": "62 Goldsworth Road"
+  },
+  "API": [],
+  "FORMAT": [
+    {
+      "uri": "http://bartoc.org/en/Format/Online"
+    },
+    {
+      "uri": "http://bartoc.org/en/Format/PDF"
+    },
+    {
+      "uri": "http://bartoc.org/en/Format/Spreadsheet"
+    }
+  ],
+  "altLabel": {
+    "en": [
+      "BIC Standard Subject Categories",
+      "BIC Standard Subject Categories & Qualifiers",
+      "BIC Codes"
+    ]
+  },
+  "contributor": [
+    {
+      "prefLabel": {
+        "en": "Stefan Peters"
+      },
+      "uri": "https://coli-conc.gbv.de/login/users/c0c1914a-f9d6-4b92-a624-bf44118b6619"
+    },
+    {
+      "uri": "https://coli-conc.gbv.de/login/users/3a1bb23f-8d60-4b7a-8bec-cc419d7f6ab6",
+      "prefLabel": {
+        "en": "JakobVoss"
+      }
+    }
+  ],
+  "definition": {
+    "en": [
+      "The BIC Standard Subject Categories scheme (BSSC) was created in the mid-1990s and used as the standard classification scheme for the UK book trade and other English language markets. In 2017 its development was frozen and in 2024 it was marked as obsolete. It has since been replaced by Thema classification.\n\n "
+    ]
+  },
+  "identifier": [
+    "http://uri.gbv.de/terminology/bssc/"
+  ],
+  "languages": [
+    "en"
+  ],
+  "modified": "2024-02-08T09:59:13.508Z",
+  "namespace": "http://uri.gbv.de/terminology/bssc/",
+  "notation": [
+    "BSSC"
+  ],
+  "prefLabel": {
+    "en": "Book Industry Communication Standard Subject Categories"
+  },
+  "subject": [
+    {
+      "uri": "http://dewey.info/class/0/e23/",
+      "inScheme": [
+        {
+          "uri": "http://bartoc.org/en/node/241"
+        }
+      ],
+      "notation": [
+        "0"
+      ]
+    },
+    {
+      "uri": "http://dewey.info/class/002/e23/",
+      "inScheme": [
+        {
+          "uri": "http://bartoc.org/en/node/241"
+        }
+      ],
+      "notation": [
+        "002"
+      ]
+    }
+  ],
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+    "http://w3id.org/nkos/nkostype#classification_schema"
+  ],
+  "uri": "http://bartoc.org/en/node/220",
+  "url": "http://www.bic.org.uk/7/BIC-Standard-Subject-Categories/",
+  "created": "2013-09-06T10:24:00Z",
+  "concepts": [],
+  "topConcepts": []
+}
