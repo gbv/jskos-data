@@ -2,6 +2,16 @@
 import * as XLSX from "https://cdn.sheetjs.com/xlsx-0.20.1/package/xlsx.mjs"
 import * as csv from "https://deno.land/std@0.207.0/csv/mod.ts"
 
+// Read notes
+const notes = csv.parse(await Deno.readTextFile("./bssc-notes.csv"), {
+  skipFirstRow: true,
+  strip: true,
+})
+const notesByNotation: any = {}
+for (const concept of notes) {
+  notesByNotation[concept.notation] = concept.scopeNote
+}
+
 let additional = {
   1: "Geographical qualifiers",
   2: "Language qualifiers",
@@ -24,6 +34,7 @@ for (const file of ["./101201-BIC2.1-Subj-only.xls", "./101201-BIC2.1-Quals-only
       result.push({
         notation: row.Code[0],
         prefLabel: additional[row.Code[0]],
+        scopeNote: notesByNotation[row.Code[0]],
         level: 1,
       })
       additional[row.Code[0]] = null
@@ -31,6 +42,7 @@ for (const file of ["./101201-BIC2.1-Subj-only.xls", "./101201-BIC2.1-Quals-only
     result.push({
       notation: row.Code,
       prefLabel: row.Heading,
+      scopeNote: notesByNotation[row.Code],
       level: row.Code.length
     })
   }
