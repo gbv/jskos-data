@@ -6,4 +6,4 @@ $(CONCEPTS): $(SCHEME)
 	skos2jskos oefos2skos_oefos.ttl
 	jq -cS 'del(.narrower)' concepts.ndjson > oefos-concepts.ndjson
 	rm concepts.ndjson
-	jskos-validate $(SCHEME) oefos-concepts.ndjson
+	$(jskos-validate) $(SCHEME) oefos-concepts.ndjson
