@@ -12,7 +12,7 @@ RUN yes | cpan App::cpanminus
 RUN cpanm -n App::skos2jskos Catmandu Catmandu::MARC Catmandu::Breaker Catmandu::Importer::SRU Catmandu::Importer::SRU::Parser::picaxml PICA::Data
 
 # Python dependencies
-RUN python3 python3-pip
+RUN apt install -y python3 python3-pip
 RUN pip3 install --upgrade mc2skos namedentities
 
 # Node.js via NodeSource (see https://github.com/nodesource/distributions/blob/master/README.md)
