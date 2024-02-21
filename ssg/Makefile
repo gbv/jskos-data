@@ -2,7 +2,7 @@ BARTOC=http://bartoc.org/en/node/18928
 include ../Makefile
 
 $(CONCEPTS): $(SCHEME) ssg-concepts.csv
-	jskos-convert -l de -s $(SCHEME) -m -v concepts $< > $@
+	$(jskos-convert) -l de -s $(SCHEME) -m -v concepts $< > $@
 
 ssg-concepts.csv: Fachgebiete\ Zeitschriftendatenbank.csv
 	catmandu convert CSV to CSV \
