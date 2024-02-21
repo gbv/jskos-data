@@ -1,0 +1,10 @@
+version: "3"
+services:
+
+  jskos-data:
+    build:
+      context: ..
+      dockerfile: .docker/Dockerfile
+    volumes:
+      - ./data:/jskos-data
+    restart: no

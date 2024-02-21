@@ -4,3 +4,4 @@ skos2jskos/*.jsonld
 vendor/
 composer.lock
 node_modules/
+.docker/data
