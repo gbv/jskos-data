@@ -20,6 +20,7 @@ RUN curl -fsSL https://deb.nodesource.com/setup_20.x | bash
 RUN apt install -y nodejs
 
 # Deno
+RUN apt install -y unzip
 RUN curl -fsSL https://deno.land/install.sh | sh
 
 # Dependencies for specific vocabularies
