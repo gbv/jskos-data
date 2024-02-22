@@ -1,0 +1,27 @@
+{
+  "identifier": [
+    "http://uri.gbv.de/terminology/ulbb/"
+  ],
+  "namespace": "http://uri.gbv.de/terminology/ulbb/",
+  "notation": [
+    "ULBB"
+  ],
+  "prefLabel": {
+    "de": "Systematik der Universitäts- und Landesbibliothek Bonn",
+    "en": "Classification of the University and State Library of Bonn",
+    "und": "SULB"
+  },
+  "publisher": [
+    {
+      "prefLabel": {
+        "en": "Universitätsbibliothek Bonn"
+      },
+      "uri": "http://viaf.org/viaf/155781074"
+    }
+  ],
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+    "http://w3id.org/nkos/nkostype#classification_schema"
+  ],
+  "uri": "http://bartoc.org/en/node/1707"
+}
