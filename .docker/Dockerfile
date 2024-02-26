@@ -22,6 +22,7 @@ RUN apt install -y nodejs
 # Deno
 RUN apt install -y unzip
 RUN curl -fsSL https://deno.land/install.sh | sh
+RUN ln -s /root/.deno/bin/deno /usr/bin/deno
 
 # Dependencies for specific vocabularies
 ## nkostypes
@@ -30,5 +31,9 @@ RUN npm install -g wikibase-cli@latest
 
 # Make Docker-related scripts available in root folder
 COPY .docker/*.sh .
+COPY .docker/*.ts .
+
+# Cache Deno dependencies for update script
+RUN deno cache --reload --lock=deno.lock update.ts
 
 CMD ["bash", "entrypoint.sh"]

@@ -4,7 +4,8 @@ This container aims to offer all the tools and dependencies needed to build voca
 
 ## To-Dos
 - [ ] Test all vocabularies
-- [ ] Add script that updates repo and rebuilds vocabularies where files were changed
+- [x] Add script that updates repo and rebuilds vocabularies where files were changed
+  - [ ] Deal with modified files in the repo
 - [ ] Error with `nkostypes`
 - [ ] Error with `ssg`
 - [ ] `rvk`:
@@ -36,6 +37,13 @@ To run an interactive shell:
 
 ```sh
 docker compose run -it jskos-data bash
+```
+
+## Update Data and Rebuild Vocabularies
+There is a script provided in the Docker container that updates the repository and rebuilds all vocabularies where files were changed.
+
+```sh
+docker compose run -it jskos-data /usr/src/app/update.ts
 ```
 
 ## Publishing the Docker Image
