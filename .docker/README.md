@@ -3,14 +3,20 @@
 This container aims to offer all the tools and dependencies needed to build vocabularies in this repository. Work in progress.
 
 ## To-Dos
-- [ ] Test all vocabularies
+- [x] Test all vocabularies
 - [x] Add script that updates repo and rebuilds vocabularies where files were changed
-  - [ ] Deal with modified files in the repo
+  - [x] Deal with modified files in the repo
+- [x] Error with `brunfels`, `fid`, `fos`, `ssg` (same error?)
+- [x] Error with `fivr` and `fivs`
+- [ ] Error with `hochschulfaechersystematik`
+- [ ] Error with `msc2010`
+- [ ] `pdftotext` dependency (see `msc2020`)
 - [ ] Error with `nkostypes`
-- [ ] Error with `ssg`
+- [ ] Error with `nomenclature`
 - [ ] `rvk`:
   - [ ] Make sure it works with just `make`
   - [ ] Install mc2skos from Git as described in README?
+- [ ] Error with `zdb-fgs`
 
 Create a `docker-compose.yml` file:
 
@@ -46,6 +52,12 @@ There is a script provided in the Docker container that updates the repository a
 docker compose run -it jskos-data /usr/src/app/update.ts
 ```
 
+To build all vocabularies, run build.ts:
+
+```sh
+docker compose run -it jskos-data /usr/src/app/build.ts
+```
+
 ## Publishing the Docker Image
 
-Currently, only the `master` branch will be published by the GitHub workflow, and only whenever Docker-related files (`Dockerfile`, `entrypoint.sh`) are changed.
+Currently, only the `master` branch will be published by the GitHub workflow, and only whenever Docker-related files (`Dockerfile`, `entrypoint.sh`, scripts) are changed.
