@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Clone site if not yet done
-if [ ! -e /jskos-data ]; then
+if [ ! -e /jskos-data/.git ]; then
   git clone --depth 1 https://github.com/gbv/jskos-data /jskos-data
 fi
 
@@ -11,8 +11,8 @@ if [ ! -e node_modules ]; then
   npm ci
 fi
 
-node --version
-npm --version
+echo "Node.js $(node --version)"
+echo "npm $(npm --version)"
 deno --version
 
 # # Pull changes
