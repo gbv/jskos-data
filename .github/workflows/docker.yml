@@ -8,6 +8,7 @@ on:
       - .docker/Dockerfile
       - .docker/entrypoint.sh
       - .docker/update.ts
+      - .docker/build.ts
 
 # Adapted from:
 # - https://github.com/docker/metadata-action#semver
