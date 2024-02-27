@@ -1,9 +1,7 @@
 BARTOC=http://bartoc.org/en/node/20406
 include ../Makefile
 
-$(CONCEPTS): $(SCHEME) brunfels-concepts.csv
+$(CONCEPTS): brunfels-concepts.csv $(SCHEME)
 	jq ".uri=\"${BARTOC}\"" $(SCHEME) > tmp.json
 	$(jskos-convert) -s tmp.json -mv $< > $@ 
 	rm tmp.json
-
-include ../Makefile
