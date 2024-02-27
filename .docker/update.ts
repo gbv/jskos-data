@@ -10,10 +10,12 @@ await cd(basePath)
 // Determine updated files before pulling
 const updatedFiles = (await $`git fetch --quiet && git diff --name-only @ @{u}`.quiet()).stdout.split("\n").filter(file => file && !file.startsWith("."))
 
-// TODO: Building vocabularies can modify files inside the repo, so we either need to reset it or possibly stash the changes
+// TODO: Building vocabularies can modify files inside the repo, so we either need to reset it or possibly stash the changes -> still causes issues if there's a conflict!
 
 // Update repo
+await $`git stash push -u -m before-pull`
 await $`git pull`
+await $`git stash pop stash@\{"$( (git stash list | grep -w before-pull) | cut -d "{" -f2 | cut -d "}" -f1)"\}`
 console.log()
 
 if (updatedFiles.includes("package-lock.json")) {
@@ -32,8 +34,8 @@ for (const file of updatedFiles) {
   try {
     await cd(`${basePath}/${vocabulary}`)
     await $`make -B`
-  } catch (error) {
-    console.error(`There was an error rebuilding ${vocabulary}:`, error)
+  } catch (_error) {
+    console.error(`There was an error rebuilding ${vocabulary}, see above.`)
   }
   console.log()
   builtVocabularies.add(vocabulary)
