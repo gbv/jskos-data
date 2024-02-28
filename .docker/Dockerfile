@@ -8,7 +8,6 @@ RUN apt install -y curl wget bash git make jq
 # Perl dependencies
 RUN apt install -y perl build-essential librdf-query-perl librdf-query-client-perl libexpat1-dev libssl-dev zlib1g-dev
 RUN yes | cpan App::cpanminus
-# XML::Parser XML::SemanticDiff Test::XML XML::LibXML Catmandu::SRU
 RUN cpanm -n App::skos2jskos Catmandu Catmandu::MARC Catmandu::Breaker Catmandu::Importer::SRU Catmandu::Importer::SRU::Parser::picaxml PICA::Data XML::Simple
 
 # Python dependencies
@@ -32,7 +31,7 @@ RUN ln -s /root/.deno/bin/deno /usr/bin/deno
 ## nkostypes
 RUN apt install -y raptor2-utils
 RUN npm install -g wikibase-cli@latest
-## msc2020
+## msc2020 (pdftotext)
 RUN apt install -y poppler-utils
 
 # Make Docker-related scripts available in root folder
@@ -40,6 +39,6 @@ COPY .docker/*.sh .
 COPY .docker/*.ts .
 
 # Cache Deno dependencies for update script
-RUN deno cache --reload --lock=deno.lock update.ts
+RUN deno cache --reload --lock=deno.lock update.ts build.ts
 
 CMD ["bash", "entrypoint.sh"]
