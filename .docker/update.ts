@@ -71,9 +71,9 @@ for (const file of updatedFiles) {
   console.log(`##### ${vocabulary} was updated, rebuilding files... #####\n`)
   try {
     await cd(`${basePath}/${vocabulary}`)
-    await $`make -B`
+    await $`make -B &> ${basePath}/.log/${vocabulary}-update.log`
   } catch (_error) {
-    console.error(`There was an error rebuilding ${vocabulary}, see above.`)
+    console.error(`There was an error rebuilding ${vocabulary}, see logs in .log/${vocabulary}-update.log.`)
   }
   console.log()
   builtVocabularies.add(vocabulary)
