@@ -11,6 +11,9 @@ if [ ! -e node_modules ]; then
   npm ci
 fi
 
+# Backup directory for created files that would be overridden
+mkdir .backup
+
 echo "Node.js $(node --version)"
 echo "npm $(npm --version)"
 deno --version
