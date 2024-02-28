@@ -8,15 +8,15 @@ This container aims to offer all the tools and dependencies needed to build voca
   - [x] Deal with modified files in the repo
 - [x] Error with `brunfels`, `fid`, `fos`, `ssg` (same error?)
 - [x] Error with `fivr` and `fivs`
-- [ ] Error with `hochschulfaechersystematik`
-- [ ] Error with `msc2010`
-- [ ] `pdftotext` dependency (see `msc2020`)
-- [ ] Error with `nkostypes`
-- [ ] Error with `nomenclature`
+- [x] Error with `hochschulfaechersystematik`
+- [x] Error with `msc2010`
+- [x] `pdftotext` dependency (see `msc2020`)
 - [ ] `rvk`:
   - [ ] Make sure it works with just `make`
   - [ ] Install mc2skos from Git as described in README?
-- [ ] Error with `zdb-fgs`
+- [x] Error with `zdb-fgs`
+- [ ] Error with `nomenclature` (#48)
+- [ ] Error with `nkostypes`
 
 Create a `docker-compose.yml` file:
 
@@ -52,10 +52,14 @@ There is a script provided in the Docker container that updates the repository a
 docker compose run -it jskos-data /usr/src/app/update.ts
 ```
 
+**Note:** Changes in the local data will be overridden if necessary. If there are new local files that would be overridden by remote changes, they will be moved to `.backup`.
+
 To build all vocabularies, run build.ts:
 
 ```sh
 docker compose run -it jskos-data /usr/src/app/build.ts
+# Or to build single vocabularies (recommended):
+docker compose run -it jskos-data /usr/src/app/build.ts bk rvk
 ```
 
 ## Publishing the Docker Image
