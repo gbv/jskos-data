@@ -6,6 +6,14 @@ Die RVK-Daten werden aus dem internen Verwaltungsystem in das [MARC 21 Format fo
 
 Der Datenbankdump enthält allerdings nicht die in der RVK-Druckversion angegebene Schlüssel und Informationen über die Zusammensetzung von RVK-Klassen.
 
+## Download und Konvertierung nach JSKOS via `make`
+
+Über die Makefile kann via `make` die letzte vom coli-conc Team getestete Version (möglicherweise nicht die aktuellste Version) der RVK heruntergeladen und konvertiert werden. Für andere Versionen kann ein Parameter an `make` übergeben werden, z.B.:
+
+```sh
+make version=2023_3
+```
+
 ## Download
 
 Das Bash-Skript `rvkdata.sh` enthalten die vollständigen Befehle für Download und Konvertierung der RVK. Als erstes Kommandozeilenargument wird das Datum des jeweiligen Dumps in der Form `XXXX_X` angegeben (z.B. `2018_4`):
