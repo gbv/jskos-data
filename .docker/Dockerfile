@@ -13,7 +13,11 @@ RUN cpanm -n App::skos2jskos Catmandu Catmandu::MARC Catmandu::Breaker Catmandu:
 
 # Python dependencies
 RUN apt install -y python3 python3-pip
-RUN pip3 install --upgrade mc2skos namedentities
+RUN pip3 install --upgrade namedentities
+
+# mc2skos (distributed version has unresolved issues)
+RUN git clone https://github.com/gbv/mc2skos.git
+RUN cd mc2skos && pip install -e .
 
 # Node.js via NodeSource (see https://github.com/nodesource/distributions/blob/master/README.md)
 RUN curl -fsSL https://deb.nodesource.com/setup_20.x | bash
@@ -28,6 +32,8 @@ RUN ln -s /root/.deno/bin/deno /usr/bin/deno
 ## nkostypes
 RUN apt install -y raptor2-utils
 RUN npm install -g wikibase-cli@latest
+## msc2020
+RUN apt install -y poppler-utils
 
 # Make Docker-related scripts available in root folder
 COPY .docker/*.sh .
