@@ -23,10 +23,10 @@ for (const vocab of vocabs) {
   try {
     await cd(`${basePath}/${vocab}`)
     if (await exists("Makefile")) {
-      await $`make -B`
+      await $`make -B &> ${basePath}/.log/${vocab}.log`
     }
   } catch (_error) {
-    console.error(`Error building ${vocab}, see above.`)
+    console.error(`Error building ${vocab}, see .log/${vocab}.log.`)
   }
   console.log()
   const conceptsFile = `${vocab}-concepts.ndjson`
