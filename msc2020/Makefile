@@ -1,7 +1,8 @@
 BARTOC=http://bartoc.org/en/node/20396
+include ../Makefile
 
-msc2020-concepts.ndjson: msc2020.csv
-	jskos-convert -f csv -t ndjson -s msc2020-scheme.json -l en -m $< > $@
+$(CONCEPTS): msc2020.csv
+	$(jskos-convert) concepts -f csv -t ndjson -s $(SCHEME) -l en -m $< > $@
 
 msc2020.csv: msc2020.txt
 	./txt2csv.pl < $< > $@

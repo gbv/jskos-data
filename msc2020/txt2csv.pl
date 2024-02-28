@@ -2,7 +2,7 @@
 use v5.14.1;
 use JSON::PP;
 
-my $msc = do { local ( @ARGV, $/ ) = "msc-scheme.json"; decode_json(<>) };
+my $msc = do { local ( @ARGV, $/ ) = "msc2020-scheme.json"; decode_json(<>) };
 my $notationPattern = $msc->{notationPattern};
 
 # apply preprocessing to clean up txt file
