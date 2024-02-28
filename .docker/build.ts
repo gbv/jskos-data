@@ -9,7 +9,9 @@ await cd(basePath)
 const vocabs = []
 for await (const entry of Deno.readDir(".")) {
   if (entry.isDirectory && !entry.name.startsWith(".") && entry.name !== "node_modules") {
-    vocabs.push(entry.name)
+    if (Deno.args.length === 0 || Deno.args.includes(entry.name)) {
+      vocabs.push(entry.name)
+    }
   }
 }
 
