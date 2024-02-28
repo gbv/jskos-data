@@ -1,5 +1,7 @@
 BARTOC=http://bartoc.org/en/node/18915
+include ../Makefile
+CSV := $(NAME)-concepts.csv
 
-zdb-fgs-concepts.ndjson: zdb-fgs-scheme.json zdb-fgs-concepts.csv
-	$(jskos-convert) concepts -m -s zdb-fgs-scheme.json -l de zdb-fgs-concepts.csv > $@
+$(CONCEPTS): $(SCHEME) $(CSV)
+	$(jskos-convert) concepts -m -s $(SCHEME) -l de $(CSV) > $@
 	wc -l $@
