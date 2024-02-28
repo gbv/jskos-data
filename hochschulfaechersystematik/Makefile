@@ -6,7 +6,7 @@ URI=http://bartoc.org/en/node/18920
 ID=http://w3id.org/class/hochschulfaechersystematik/scheme
 
 faechersystematik.scheme.ndjson:
-	curl -s http://bartoc.org/api/data?uri=$(URI) \
+	curl -s "https://bartoc.org/api/data?uri=$(URI)" \
 		| jq -c '.[]|.uri="$(ID)"|.identifier=["$(URI)"]' > $@
 
 faechersystematik.concepts.ndjson: faechersystematik.csv faechersystematik.scheme.ndjson
