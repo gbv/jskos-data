@@ -13,6 +13,7 @@ fi
 
 # Backup directory for created files that would be overridden
 mkdir .backup
+mkdir .log
 
 echo "Node.js $(node --version)"
 echo "npm $(npm --version)"
