@@ -1,5 +1,4 @@
 BARTOC=http://bartoc.org/en/node/520
-include ../Makefile
 
 default: dfg-2016.concepts.ndjson dfg-2020.concepts.ndjson
 
