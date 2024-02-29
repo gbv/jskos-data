@@ -8,9 +8,8 @@ RUN apt install -y curl wget bash git make jq
 # Perl dependencies
 RUN apt install -y perl build-essential librdf-query-perl librdf-query-client-perl libexpat1-dev libssl-dev zlib1g-dev
 RUN yes | cpan App::cpanminus
-RUN cpanm -n App::skos2jskos Catmandu Catmandu::MARC Catmandu::Breaker Catmandu::Importer::SRU Catmandu::Importer::SRU::Parser::picaxml PICA::Data XML::Simple
-# Some Perl dependencies are downloading files with crazy high user IDs for some reason...
-RUN chown -R root:root /root/.cpanm/work/
+# Some Perl dependencies are downloading files with crazy high user IDs for some reason, so we're chown'ing everything...
+RUN cpanm -n App::skos2jskos Catmandu Catmandu::MARC Catmandu::Breaker Catmandu::Importer::SRU Catmandu::Importer::SRU::Parser::picaxml PICA::Data XML::Simple && chown -R root:root /root/.cpanm/work/
 
 # Python dependencies
 RUN apt install -y python3 python3-pip
