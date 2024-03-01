@@ -13,8 +13,8 @@ const withArray = (data, cb) => {
 const languageMap = (data, lists=false) => asArray(data).reduce(
   (obj,value) => {
     if (value) {
-      const lang = value["@language"]
-      const str = value["@value"]
+      const lang = value["@language"] || "und"
+      const str = value["@value"] || value
       if (lists) {
         if (lang in obj) {
           obj[lang].push(str)
