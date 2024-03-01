@@ -1,0 +1,128 @@
+﻿sachschl;name_1;name_2
+1;Bibliographien;
+1a;Laufende Literaturberichte;
+2;Zeitschriften;
+2a;Zeitungen (Amtsblätter, Gesetzesblätter, Verordnungsblätter);
+2b;Minderwichtige Zeitschriften;
+3;Kalender, Almanache;
+4;Lexika, Sachwörterbücher (Terminologische Wörterbücher mit Erläuterungen);
+4a;Sprachwörterbücher, einsprachig/zweisprachig/polyglott;
+4b;Terminologische Wörterbücher, Fachsprachenwörterbücher;
+4c;Personallexika;
+4d;Indices, Konkordanzen, Wörterbücher zu Autoren und anonymen Werken;
+4e;Sonstige Wörterbücher;
+5;Adreßbücher, Register;
+5a;Ortsnamenverzeichnis;
+6;Tabellen, Tafeln;
+7;Formulare, Formularbücher;
+8;Hilfswissenschaften, Nebengebiete;
+9;Sammelwerke;Serien
+10;Sammelwerke;Abhandlungen mehrerer Verfasser
+11;Sammelwerke;Gesammelte Abhandlungen eines Verfassers
+13;Beruf, Amt, Stand, Funktion;
+15;Tagungsliteratur;Tagungsberichte, Konferenzberichte
+15a;Tagungsliteratur;Konferenzprogramme, Konferenzankündigungen
+16;Wettbewerbe, Preise;
+17;Organisationsformen;Organisationsformen (Allgemein oder falls im Foglenden nicht genannt)
+18;Organisationsformen;Betriebe
+19;Organisationsformen;Forschungsinstitutionen, Ausbildungsinstitutionen
+20;Organisationsformen;Museen, Gedenkstätten
+21;Organisationsformen;Archive, Bibliotheken
+22;Organisationsformen;Ausstellungen
+22a;Organisationsformen;Auktionen
+23;Organisationsformen;Kataloge
+24;Methodik u. Geschichte der Wissenschaft;Methodik, Einführung in die Methoden des Fachs
+25;Methodik u. Geschichte der Wissenschaft;Geschichte der Wissenschaft
+25a;Methodik u. Geschichte der Wissenschaft;Einzelne Wissenschaftler
+26;Methodik u. Geschichte der Wissenschaft;Stand der Wissenschaft (Fortschrittsberichte), Vorausschau
+27;Quellen (auch: ältere Literatur des Fachs);Quellenverzeichnisse (periodisch/abgeschlossene)
+28;Quellen (auch: ältere Literatur des Fachs);Quellenkunde
+29;Quellen (auch: ältere Literatur des Fachs);Quellensammlungen, allgemein
+30;Quellen (auch: ältere Literatur des Fachs);Einzelne Quellen zum Fach
+30a;Quellen (auch: ältere Literatur des Fachs);Kritik einzelner Quellen
+31;Quellen (auch: ältere Literatur des Fachs);Regional eingebundene Quellen
+31a;Quellen (auch: ältere Literatur des Fachs);Ethnisch gebundene Quellen
+32;Quellen (auch: ältere Literatur des Fachs);Sachgebundene Quellen
+33;Quellen (auch: ältere Literatur des Fachs);Quellen zu Personen
+33a;Quellen (auch: ältere Literatur des Fachs);Quellen zu Wissenschaftlern
+34;Quellen (auch: ältere Literatur des Fachs);Zeitlich begrenzte Quellen
+35;Quellen (auch: ältere Literatur des Fachs);Bildmaterial
+36;Regionale Darstellungen;allgemein
+37a;Regionale Darstellungen;nach Völkern
+37b;Regionale Darstellungen;nach geographischen begriffen
+38;Regionale Darstellungen;Reisen, Expeditionen
+39;Regionale Darstellungen;Karten, Atlanten
+40;Regionale Darstellungen;Spezielle Karten
+41;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;Geschichte, allgemein Zeiträume, die über Altertum, Mittelalter oder Neuzeit hinausgehen
+41a;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;Geschichte, allgemein Zeiträume, die über Altertum, Mittelalter oder Neuzeit hinausgehen
+42;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;bis 500 n.Chr. [Altertum]
+42a;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;bis 500 n.Chr. [Altertum]
+43;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;bis 2500 v.Chr.
+43a;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;bis 2500 v.Chr.
+44;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;2500-1500 v.Chr.
+44a;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;2500-1500 v.Chr.
+45;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;1500-600 v.Chr.
+45a;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;1500-600 v.Chr.
+46;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;600-300 v.Chr.
+46a;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;600-300 v.Chr.
+47;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;300-1 v.Chr. [Hellenismus]
+47a;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;300-1 v.Chr. [Hellenismus]
+48;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;1-300 n.Chr.
+48a;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;1-300 n.Chr.
+49;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;300-500
+49a;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;300-501
+50;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;500-1500 [Mittelalter]
+50a;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;500-1500 [Mittelalter]
+51;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;500-900 [Frühmittelalter]
+51a;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;500-900 [Frühmittelalter]
+52;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;900-1200/1250 [Hochmittelalter, Romanik]
+52a;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;900-1200/1250 [Hochmittelalter, Romanik]
+53;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;1200-1500 [Spätmittelalter, Gotik]
+53a;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;1200-1500 [Spätmittelalter, Gotik]
+54;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;1500- [Neuzeit]
+54a;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;1500- [Neuzeit]
+55;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;1450/1500-1600 [Renaissance]
+55a;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;1450/1500-1600 [Renaissance]
+56;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;1600-1700 [Barock]
+56a;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;1600-1700 [Barock]
+57;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;1700-1800 [Rokoko, Aufklärung]
+57a;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;1700-1800 [Rokoko, Aufklärung]
+58;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;1800-1900
+58a;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;1800-1901
+59;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;1900-
+59a;Geschichtliche Darstellungen, Einzelne Zeitabschnitte;1900-
+60;Beziehungen, Vergleich zwischen Völkern, Ländern, Orten;
+60b;Beziehungen, Vergleich zwischen Völkern, Ländern, Orten [Sonderregelung: Geschichte: Kriege];
+60c;Beziehungen, Vergleiche zwischen Epochen, Geschichtliche Nachwirkungen;
+61;Einzelne Orte, Länder;
+62;Einzelne Völker;
+63;Literatur zu Personen;
+64;Systematische Darstellungen;Einführungen, Abrisse
+65;;
+66;Systematische Darstellungen;Umfassende Darstellungen, Handbücher
+67;Teildarstellungen;Studien zum Fach
+68;Teildarstellungen;Teilgebiete des Faches, Methodische Schulen (im Register)
+69;Teildarstellungen;Teilgebiete des Faches, Kleinere Probleme des Faches (nicht im Register)
+70;Teildarstellungen;Anwendungsgebiete
+71;Essays, Theoretische Darstellungen, Kritik;Reden, Essays
+72;Essays, Theoretische Darstellungen, Kritik;Theorie, Grundlagen, Philosophie des Faches
+73;Essays, Theoretische Darstellungen, Kritik;Einzelfragen
+74;Essays, Theoretische Darstellungen, Kritik;Kritik, Polemik, Reformen, Projekte, Pläne
+75;;
+76;;
+77;;
+78;;
+79;;
+80;Statistik;Literatur zur Statistik des Faches
+81;Statistik;Statistisches Zahlenmaterial nach Regionen
+82;Statistik;Statistik zu Teilgebieten des Faches
+83;;
+84;;
+85;Übungsbücher;
+87;Arbeitsmethoden, Verfahren;Arbeitsmethoden, Verfahren
+88;Arbeitsmethoden, Verfahren;Arbeitsmittel, Geräte
+89;Beziehungen, Vergleiche zu Sachbegriffen;
+90;Allgemeine Schlagwortreihe (bei Bedarf);
+91;Hauptschlagwortreihe;
+92;Allgemeine Schlagwortreihe (bei Bedarf);
+93;Allgemeine Schlagwortreihe (bei Bedarf);
