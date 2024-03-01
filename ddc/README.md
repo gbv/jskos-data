@@ -1,6 +1,6 @@
 # Converting Dewey Decimal Classification (DDC) from MARC/XML to JSKOS
 
-The Dewey Decimal Classificaiion (DDC) is managed by OCLC with software by Pansoft. The DDC data is only made available internally in [MARC 21 Classification format](http://www.loc.gov/marc/classification/) as MARC/XML. 
+The Dewey Decimal Classificaiion (DDC) is managed by OCLC with software by Pansoft. The DDC data is only made available internally in [MARC 21 Classification format](http://www.loc.gov/marc/classification/) as MARC/XML. This must be provided manually as .zip file (e.g. `ddc23de.zip`).
 
 To convert this format to SKOS and JSKOS, two methods exist:
 
@@ -34,5 +34,15 @@ Install Catmandu::MARC:
 
 Then convert each language independently:
 
-    zcat ddc23en.zip | catmandu convert marcxml --fix 'add_field(language,en)' --fix ddc2jskos.fix to ndjson > ddc23en.ndjson
+    unzip -p ddc23en.zip | catmandu convert marcxml --fix 'add_field(language,en)' --fix ddc2jskos.fix to ndjson > ddc23en.ndjson
 
+`Makefile` is also configured to convert DDC via Catmandu:
+
+```sh
+# By default, German DDC (`de`) and version 23 is used
+make
+# To convert a different language:
+make lang=en
+# To convert a different version (note: untested):
+make version=22
+```
