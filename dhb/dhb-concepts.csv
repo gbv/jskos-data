@@ -4,7 +4,7 @@ level,notation,prefLabel@de,prefLabel@en
 3,G:de,Deutschland (hier auch: Mitteleuropa allgemein),Germany (also: Central Europe)
 4,G:dd,Nordostdeutschland/SBZ und DDR,Northeast Germany/GDR
 4,G:bn,Bayern,Bavaria
-4,G:bw,Baden-Württemberg,Baden-Wuerttemberg
+4,G:bw,Baden-WÃ¼rttemberg,Baden-Wuerttemberg
 4,G:bl,Berlin,Berlin
 4,G:bb,Brandenburg,Brandenburg
 4,G:hb,Bremen,Bremen
@@ -18,17 +18,17 @@ level,notation,prefLabel@de,prefLabel@en
 4,G:sn,Sachsen,Saxony
 4,G:st,Sachsen-Anhalt,Saxony-Anhalt
 4,G:sw,Schleswig-Holstein,Schleswig-Holstein
-4,G:tn,Thüringen,Thuringia
-4,G:la,Lausitz und Südbrandenburg,Lusatia and South Brandenburg
-3,G:at,Österreich und Liechtenstein,Austria and Liechtenstein
+4,G:tn,ThÃ¼ringen,Thuringia
+4,G:la,Lausitz und SÃ¼dbrandenburg,Lusatia and South Brandenburg
+3,G:at,Ã–sterreich und Liechtenstein,Austria and Liechtenstein
 3,G:ch,Schweiz,Switzerland
-"2,G:xa,""Europa, Westeuropa"",""Europe, Western Europe"""
+2,G:xa,"Europa, Westeuropa","Europe, Western Europe"
 3,G:gb,Britische Inseln,British Isles
 3,G:ie,Irland,Ireland
 3,G:be,Belgien und Luxemburg,Belgium and Luxembourg
 3,G:nl,Niederlande,Netherlands
 3,G:fr,Frankreich und Monaco,France and Monaco
-"2,G:mm,""Südeuropa, Mittelmeerraum"",""Southern Europe, Mediterranean region"""
+2,G:mm,"SÃ¼deuropa, Mittelmeerraum","Southern Europe, Mediterranean region"
 3,G:it,Italien,Italy
 3,G:es,Spanien,Spain
 3,G:pt,Portugal,Portugal
@@ -39,16 +39,16 @@ level,notation,prefLabel@de,prefLabel@en
 3,G:hu,Ungarn,Hungary
 3,G:cz,Tschechische Republik,Czech Republic
 3,G:sk,Slowakei,Slovakia
-"2,G:so,""Südosteuropa, Balkanhalbinsel (hier auch: Jugoslawien [1918-1991])"",""Southeast Europe, Balkan Peninsula (also: Yugoslavia [1918-1991])"""
+2,G:so,"SÃ¼dosteuropa, Balkanhalbinsel (hier auch: Jugoslawien [1918-1991])","Southeast Europe, Balkan Peninsula (also: Yugoslavia [1918-1991])"
 3,G:ko,Kosovo,Kosovo
 3,G:si,Slowenien,Slovenia
 3,G:hr,Kroatien,Croatia
 3,G:ba,Bosnien-Herzegowina,Bosnia and Herzegovina
-"3,G:sp,""Serbien (hier auch: Serbien und Montenegro, Jugoslawien [1991-2003])"",""Serbia (also: Serbia and Montenegro, Yugoslavia [1991-2003])"""
+3,G:sp,"Serbien (hier auch: Serbien und Montenegro, Jugoslawien [1991-2003])","Serbia (also: Serbia and Montenegro, Yugoslavia [1991-2003])"
 3,G:me,Montenegro,Montenegro
 3,G:mk,Nordmazedonien,North Macedonia
 3,G:bg,Bulgarien,Bulgaria
-3,G:ro,Rumänien,Romania
+3,G:ro,RumÃ¤nien,Romania
 3,G:al,Albanien,Albania
 2,G:oe,Osteuropa,Eastern Europe
 3,G:gu,UdSSR und GUS,USSR and Commonwealth of Independent States
@@ -74,51 +74,51 @@ level,notation,prefLabel@de,prefLabel@en
 3,G:ge,Georgien,Georgia
 3,G:am,Armenien,Armenia
 3,G:az,Aserbaidschan,Azerbaijan
-"2,G:xb,""Asien, Orient, Ferner Osten"",""Asia, Orient, Far East"""
-"3,G:ci,""China und benachbarte Gebiete (hier auch: Korea, Mongolei, Mandschurei)"",""China and neighbouring territories (also: Korea, Mongolia, Manchuria)"""
+2,G:xb,"Asien, Orient, Ferner Osten","Asia, Orient, Far East"
+3,G:ci,"China und benachbarte Gebiete (hier auch: Korea, Mongolei, Mandschurei)","China and neighbouring territories (also: Korea, Mongolia, Manchuria)"
 3,G:ja,Japan,Japan
 3,G:ir,Iran,Iran
-"2,G:ss,""Südostasien (hier auch: Myanmar, Thailand, Laos, Malaysia, Brunei, Singapur, Kambodscha, Vietnam, Indonesien, Osttimor, Philippinen)"",""Southeast Asia(also: Myanmar, Thailand, Laos, Malaysia, Brunei, Singapore, Cambodia, Vietnam, Indonesia, East Timor, Philippines)"""
-"2,G:no,""Naher Osten (hier auch: Irak, Syrien, Libanon, Zypern, Israel, Jordanien)"",""Middle East (also: Iraq, Syria, Lebanon, Cyprus, Israel, Jordan)"""
-"3,G:ia,""Palästina, Israel"",""Palestine, Israel"""
+2,G:ss,"SÃ¼dostasien (hier auch: Myanmar, Thailand, Laos, Malaysia, Brunei, Singapur, Kambodscha, Vietnam, Indonesien, Osttimor, Philippinen)","Southeast Asia(also: Myanmar, Thailand, Laos, Malaysia, Brunei, Singapore, Cambodia, Vietnam, Indonesia, East Timor, Philippines)"
+2,G:no,"Naher Osten (hier auch: Irak, Syrien, Libanon, Zypern, Israel, Jordanien)","Middle East (also: Iraq, Syria, Lebanon, Cyprus, Israel, Jordan)"
+3,G:ia,"PalÃ¤stina, Israel","Palestine, Israel"
 3,G:ic,Irak,Iraq
-"3,G:tr,""Türkei, Osmanisches Reich"",""Turkey, Ottoman Empire"""
-"3,G:ah,""Arabische Halbinsel und benachbarte Gebiete (hier auch: Halbinsel Sinai, Jemen, Oman, Vereinigte Arabische Emirate, Saudi-Arabien)"",""Arabian Peninsula and neighbouring territories (also: Sinai Peninsula, Yemen, Oman, United Arab Emirates, Saudi Arabia)"""
+3,G:tr,"TÃ¼rkei, Osmanisches Reich","Turkey, Ottoman Empire"
+3,G:ah,"Arabische Halbinsel und benachbarte Gebiete (hier auch: Halbinsel Sinai, Jemen, Oman, Vereinigte Arabische Emirate, Saudi-Arabien)","Arabian Peninsula and neighbouring territories (also: Sinai Peninsula, Yemen, Oman, United Arab Emirates, Saudi Arabia)"
 2,G:xc,Afrika,Africa
 3,G:tu,Tunesien und Libyen,Tunisia and Libya
-3,G:ay,Ägypten und Sudan,Egypt and Sudan
-3,G:ao,Äthiopien und Eritrea (hier auch: Horn von Afrika),Ethiopia and Eritrea (also: Horn of Africa)
-"3,G:mr,""Nordwestafrikanische Küste und vorgelagerte Inseln/Marokko (hier auch: Westsahara, Kanarische Inseln)"",""Northwest African coast and offshore islands/Morocco (also: Western Sahara, Canary Islands)"""
+3,G:ay,Ã„gypten und Sudan,Egypt and Sudan
+3,G:ao,Ã„thiopien und Eritrea (hier auch: Horn von Afrika),Ethiopia and Eritrea (also: Horn of Africa)
+3,G:mr,"Nordwestafrikanische KÃ¼ste und vorgelagerte Inseln/Marokko (hier auch: Westsahara, Kanarische Inseln)","Northwest African coast and offshore islands/Morocco (also: Western Sahara, Canary Islands)"
 3,G:ar,Algerien,Algeria
-"2,G:wa,""Westafrika und vorgelagerte Inseln (Mauretanien, Mali, Burkina Faso, Niger, Senegal, Sierra Leone, Gambia, Guinea, Guinea-Bissau, Kap Verde (Staat), Liberia und Elfenbeinküste, Ghana, Togo und Benin, Nigeria)"",""West Africa and offshore islands (Mauretania, Mali, Burkina Faso, Niger, Senegal, Sierra Leone, Gambia, Guinea, Guinea-Bissau, Cape Verde, Liberia, Ivory Coast, Ghana, Togo, Benin, Nigeria)"""
-"2,G:za,""Zentralafrika und vorgelagerte Inseln (Kamerun, Sao Tome und Principe, Äquatorialguinea, Gabun, Rep. Kongo, Angola, Zentralafrikanische Rep., Tschad, Dem. Rep. Kongo, Ruanda, Burundi, Uganda, Kenia, Dschibuti, Somalia, Tansania, Mosambik)"",""Central Africa and offshore islands (Cameroon, São Tomé and Príncipe, Equatorial Guinea, Gabon, Republic of the Congo, Angola, Central African Republic, Chad, DR Congo, Rwanda, Burundi, Uganda, Kenya, Djibouti, Somalia, Tanzania, Mozambique)"""
-"2,G:rs,""Südafrika (hier auch: Republik Südafrika, Namibia, Botswana, Lesotho, Eswatini, Simbabwe, Sambia, Malawi)"",""South Africa (also: Republic of South Africa, Namibia, Botswana, Lesotho; Eswatini, Zimbabwe, Zambia, Malawi)"""
-"2,G:io,""Inslen im südlichen Indischen Ozean (hier auch: Madagaskar, Komoren, Seychellen, Chagos Islands, Réunion und Mauritius)"",""Islands in the southern Indian Ocean (also: Madagascar, Comoros, Seychelles, Chagos Islands, Réunion, Mauritius)"""
+2,G:wa,"Westafrika und vorgelagerte Inseln (Mauretanien, Mali, Burkina Faso, Niger, Senegal, Sierra Leone, Gambia, Guinea, Guinea-Bissau, Kap Verde (Staat), Liberia und ElfenbeinkÃ¼ste, Ghana, Togo und Benin, Nigeria)","West Africa and offshore islands (Mauretania, Mali, Burkina Faso, Niger, Senegal, Sierra Leone, Gambia, Guinea, Guinea-Bissau, Cape Verde, Liberia, Ivory Coast, Ghana, Togo, Benin, Nigeria)"
+2,G:za,"Zentralafrika und vorgelagerte Inseln (Kamerun, Sao Tome und Principe, Ã„quatorialguinea, Gabun, Rep. Kongo, Angola, Zentralafrikanische Rep., Tschad, Dem. Rep. Kongo, Ruanda, Burundi, Uganda, Kenia, Dschibuti, Somalia, Tansania, Mosambik)","Central Africa and offshore islands (Cameroon, SÃ£o TomÃ© and PrÃ­ncipe, Equatorial Guinea, Gabon, Republic of the Congo, Angola, Central African Republic, Chad, DR Congo, Rwanda, Burundi, Uganda, Kenya, Djibouti, Somalia, Tanzania, Mozambique)"
+2,G:rs,"SÃ¼dafrika (hier auch: Republik SÃ¼dafrika, Namibia, Botswana, Lesotho, Eswatini, Simbabwe, Sambia, Malawi)","South Africa (also: Republic of South Africa, Namibia, Botswana, Lesotho; Eswatini, Zimbabwe, Zambia, Malawi)"
+2,G:io,"Inslen im sÃ¼dlichen Indischen Ozean (hier auch: Madagaskar, Komoren, Seychellen, Chagos Islands, RÃ©union und Mauritius)","Islands in the southern Indian Ocean (also: Madagascar, Comoros, Seychelles, Chagos Islands, RÃ©union, Mauritius)"
 2,G:na,Nordamerika,North America
 3,G:ca,Kanada,Canada
 3,G:us,Vereinigte Staaten von Amerika,United States of America
 2,G:ma,Mittelamerika und Mexiko,Central America and Mexico
-2,G:sa,Südamerika,South America
+2,G:sa,SÃ¼damerika,South America
 2,G:pg,Kalte Klimazonen (hier auch: Polargebiete),Frigid zones (also: polar regions)
-"2,G:xe,""Andere Teile der Welt (hier auch: Australien, Neuseeland, Inseln im Pazifischen und Atlantischen Ozean)"",""Other parts of the world (also: Australia, New Zealand, islands of the Pacific and Atlantic Ocean)"""
+2,G:xe,"Andere Teile der Welt (hier auch: Australien, Neuseeland, Inseln im Pazifischen und Atlantischen Ozean)","Other parts of the world (also: Australia, New Zealand, islands of the Pacific and Atlantic Ocean)"
 0,S,Sachgebiet,Subject
 1,S:ge,Geschichte allgemein,History
-1,S:ar,Archäologie,Archaeology
+1,S:ar,ArchÃ¤ologie,Archaeology
 1,S:pg,Politikgeschichte,Political history
 1,S:vg,Verwaltungsgeschichte,History of administration
 1,S:jg,Rechtsgeschichte,Legal history
 1,S:wg,Wirtschaftsgeschichte,Economic history
-1,S:mg,Militär- und Kriegsgeschichte,Military history
+1,S:mg,MilitÃ¤r- und Kriegsgeschichte,Military history
 1,S:ig,Ideen- und Geistesgeschichte,Intellectual history
 1,S:sg,Sozial- und Kulturgeschichte,Social and cultural history
-"1,S:et,""Volkskunde, Brauchtum"",Ethnology"
+1,S:et,"Volkskunde, Brauchtum",Ethnology
 1,S:gg,Geschlechtergeschichte,Gender studies
-"1,S:eg,""Bildungs-, Wissenschafts-, Schul- und Universitätsgeschichte"",History of education and history of science"
+1,S:eg,"Bildungs-, Wissenschafts-, Schul- und UniversitÃ¤tsgeschichte",History of education and history of science
 1,S:rg,Kirchen- und Religionsgeschichte,History of religion
-"1,S:ph,""Geschichte des Journalismus (Zeitungen etc. und Personen), der Medien und der Kommunikation"",""History of journalism (periodicals and persons), of Media and Communication"""
-"1,S:fg,""Film-, Hörfunk- und Fernsehgeschichte"",""History of film, radio and television"""
+1,S:ph,"Geschichte des Journalismus (Zeitungen etc. und Personen), der Medien und der Kommunikation","History of journalism (periodicals and persons), of Media and Communication"
+1,S:fg,"Film-, HÃ¶rfunk- und Fernsehgeschichte","History of film, radio and television"
 1,S:fh,Sportgeschichte,History of sport
-"1,S:og,""Siedlungs-, Stadt- und Ortsgeschichte"",History of human settlement and local history"
+1,S:og,"Siedlungs-, Stadt- und Ortsgeschichte",History of human settlement and local history
 1,S:dg,Historische Demographie,Historical demography
 1,S:ag,Agrargeschichte,History of agriculture
 1,S:ug,Umweltgeschichte,Environmental history
@@ -127,13 +127,13 @@ level,notation,prefLabel@de,prefLabel@en
 1,S:mh,Medizingeschichte,History of medicine
 1,S:tg,Technikgeschichte,History of technology
 1,S:zg,Minderheitengeschichte,History of minority groups
-1,S:gj,Jüdische Geschichte,Jewish history
+1,S:gj,JÃ¼dische Geschichte,Jewish history
 1,S:gr,Geschichte der Sinti und Roma,History of the Roma and Sinti
 1,S:gt,Theorie und Methode der Geschichtswissenschaften,Theories and methods in historical research
 1,S:di,Geschichtsdidaktik,History didactics
 1,S:hh,Historische Hilfswissenschaften,Auxiliary sciences of history
 1,S:hg,Historische Geographie,Historical geography
-"1,S:gb,""Familiengeschichte, Genealogie (Stammtafeln, Insignien, Heraldik, Sphragistik, Namenkunde)"",""Biographies, genealogy (family trees, insignia, heraldry, sigillography, onomastics)"""
+1,S:gb,"Familiengeschichte, Genealogie (Stammtafeln, Insignien, Heraldik, Sphragistik, Namenkunde)","Biographies, genealogy (family trees, insignia, heraldry, sigillography, onomastics)"
 1,S:bg,Buchgeschichte,History of books
 1,S:bi,Bibliotheks- und Informationswissenschaften,Library and information sciences
 1,S:sh,Sprachgeschichte,Historical linguistics
