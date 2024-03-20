@@ -1,15 +1,17 @@
 {
   "altLabel": {
     "de": [
-      "Klassifikation der DHB",
-      "DHB-Klassifikation"
+      "Systematik der DHB",
+      "DHB-Systematik"
     ]
   },
+  "namespace": "http://uri.gbv.de/terminology/dhb/",
   "notation": [
     "DHB"
   ],
+  "notationPattern": "[A-Z]:?(.+)?",
   "prefLabel": {
-    "de": "Klassifikation der Deutschen Historischen Bibliografie",
+    "de": "Systematik der Deutschen Historischen Bibliografie",
     "en": "Classification of the Bibliography of German History"
   },
   "publisher": [
