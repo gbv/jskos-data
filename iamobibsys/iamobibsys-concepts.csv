@@ -1,0 +1,325 @@
+level,notation,prefLabel@de
+0,A ,"Allgemeines, Wirtschafts- und Sozialwissenschaften"
+1,A 1,Allgemeines
+2,A 1.1,"Enzyklopädien, allgemeine Nachschlagewerke"
+3,A 1.1.1,Allgemeine Nachschlagewerke
+3,A 1.1.2,"Enzyklopädien, Lexika"
+2,A 1.2,Sprachenlernen
+3,A 1.2.1,Allgemeine Wörterbücher
+3,A 1.2.2,Fremdsprachenwörterbücher
+3,A 1.2.3,Sprachlernbücher
+2,A 1.3,"Wissenschaftskunde, Wissenschaftsorganisation"
+3,A 1.3.1,"Wissenschaftliche Institutionen, Gesellschaften, Stiftungen"
+3,A 1.3.2,Wissenschaftstheorie
+3,A 1.3.3,"Wissenschaftsplanung, -förderung und -management"
+3,A 1.3.4,"Nachwuchs, Fortbildung"
+3,A 1.3.5,Technik der wissenschaftlichen Arbeit
+2,A 1.4,"Buch- und Bibliothekswesen, Informationswissenschaft"
+2,A 1.5,Rechtswissenschaft
+3,A 1.5.1,"Gesetze, Amtsblätter"
+3,A 1.5.2,Arbeitsrecht
+3,A 1.5.3,Verwaltungsrecht
+2,A 1.6,"Reiseführer, Stadtpläne, Atlanten"
+3,A 1.6.1,"Reiseführer, Stadtpläne"
+3,A 1.6.2,Geographische Beschreibungen
+3,A 1.6.3,Atlanten
+2,A 1.7,Publikationen
+3,A 1.7.1,Policy Briefs
+3,A 1.7.2,Discussion Paper
+3,A 1.7.3,Studies
+3,A 1.7.4,Annuals
+3,A 1.7.5,Jahresberichte
+1,A 2,"Qualitative und Quantitative Methoden und Theorien, Informatik"
+2,A 2.1,"Mathematik, Statistik und Ökonometrie"
+3,A 2.1.1,Mathematik
+3,A 2.1.2,Statistik
+3,A 2.1.3,Multivariate Analysemethoden
+3,A 2.1.4,metrische Methoden (Theorie)
+3,A 2.1.5,Modellbildung
+2,A 2.2,Mathematische Modellierung
+3,A 2.2.1,Operations Research
+3,A 2.2.2,Sektorale mathematische Programmierungsmodelle
+3,A 2.2.3,Allgemeine volkswirtschaftliche Modelle
+2,A 2.3,Qualitative Methoden
+2,A 2.4,Informatik
+3,A 2.4.1,Grundlagen der Informatik
+3,A 2.4.2,Wirtschaftsinformatik
+3,A 2.4.3,Technische Informatik
+3,A 2.4.4,"Vernetzung, verteilte Systeme"
+3,A 2.4.5,Software und –entwicklung
+3,A 2.4.6,Einzelne Anwendungen der Datenverarbeitung
+1,A 3,Allgemeine Wirtschafts- und Sozialwissenschaften
+2,A 3.1,Betriebswirtschaftslehre
+3,A 3.1.1,"Lehrbücher, Sammelwerke, Allgemeines"
+3,A 3.1.2,Produktion
+3,A 3.1.3,Rechnungswesen und Controlling
+3,A 3.1.4,Investition und Finanzierung
+3,A 3.1.5,"Unternehmensführung, Management"
+3,A 3.1.6,Personalwesen
+3,A 3.1.7,Organisation
+3,A 3.1.8,Entscheidungslehre
+3,A 3.1.9,Logistik
+3,A 3.1.10,Marketing
+3,A 3.1.11,Steuerlehre
+2,A 3.2,Volkswirtschaftslehre
+3,A 3.2.1,"Lehrbücher, Sammelwerke, Allgemeines"
+3,A 3.2.2,Volkswirtschaftliche Gesamtrechnung
+3,A 3.2.3,Allgemeine und spezielle Mikroökonomik
+3,A 3.2.4,Wohlfahrtstheorie
+3,A 3.2.5,Industrieökonomik (Industrial Organisation)
+3,A 3.2.6,Risiko- und Informationsökonomik
+3,A 3.2.7,Sozial- und Arbeitsökonomik
+3,A 3.2.8,Geldtheorie
+3,A 3.2.9,Finanz- und Kapitalmarkt
+3,A 3.2.10,Finanzwissenschaft
+3,A 3.2.11,"Konjunktur-, Wachstums- und Entwicklungsökonomik"
+3,A 3.2.12,Wirtschaftspolitik und -ordnung
+3,A 3.2.13,Regionalökonomik und -politik
+3,A 3.2.14,Sonstiges
+2,A 3.3,Umweltökonomik
+3,A 3.3.1,"Lehrbücher, Sammelwerke, Allgemeines und Umweltrecht"
+3,A 3.3.2,Theorie der Umweltökonomik
+3,A 3.3.3,Umweltpolitik
+3,A 3.3.4,Kosten- und Nutzenanalyse im Umweltbereich
+3,A 3.3.5,Umweltfragen auf Betriebsebene
+2,A 3.4,Institutionenanalyse
+3,A 3.4.1,"Lehrbücher, Sammelwerke, Allgemeines"
+3,A 3.4.2,Politische Institutionenanalyse
+3,A 3.4.3,Neue Politische Ökonomie
+3,A 3.4.4,Neue Institutionenökonomik
+3,A 3.4.5,Sonstige Ansätze
+2,A 3.5,Internationale und interregionale Wirtschaftsbeziehungen
+3,A 3.5.1,"Lehrbücher, Sammelwerke, Allgemeines"
+3,A 3.5.2,Monetäre und reale Außenhandelstheorie
+3,A 3.5.3,Außenhandels- und Währungspolitik
+3,A 3.5.4,Interregionale Wirtschaftsbeziehungen
+3,A 3.5.5,Integrationstheorie/ Integrationspolitik
+3,A 3.5.6,Internationale Organisationen
+3,A 3.5.7,Internationale Handelsabkommen
+2,A 3.6,Soziologie und Politologie
+3,A 3.6.1,"Lehrbücher, Sammelwerke, Allgemeines"
+3,A 3.6.2,Wirtschaftssoziologie
+3,A 3.6.3,Methoden der empirischen Sozialforschung
+3,A 3.6.4,Politische und gesellschaftliche Aspekte des Transformationsprozesses
+3,A 3.6.5,Sonstiges
+1,A 4,Wirtschafts- und Sozialwissenschaften des Agrar- und Ernährungssektors
+2,A 4.1,Landwirtschaftliche Betriebslehre
+3,A 4.1.1,Verfahren der tierischen und pflanzlichen Produktion
+3,A 4.1.2,Allgemeine landwirtschaftliche Betriebslehre
+3,A 4.1.3,Pflanzen- und Tierproduktion
+3,A 4.1.4,Rechnungswesen / Controlling/ Buchführung
+3,A 4.1.5,Investition / Finanzierung / Agrarkredit / Agrarversicherung
+3,A 4.1.6,Organisation und Rechtsform
+3,A 4.1.7,Betriebs- und Unternehmensführung / Entscheidungsfindung
+3,A 4.1.8,Systemanalyse / Simulation / Informationssysteme
+3,A 4.1.9,Marketing im Agrar- und Ernährungssektor
+3,A 4.1.10,Steuerlehre des landwirtschaftlichen Betriebes
+3,A 4.1.11,Ausbildung und Beratung
+2,A 4.2,Agrar- und Ernährungspolitik
+3,A 4.2.1,Mikro- und makroökonomische Grundlagen der Agrar- und Ernährungspolitik
+3,A 4.2.2,Agrarfinanzierungs- und Agrarwährungssystem
+3,A 4.2.3,"Markt-, Preis- und Einkommenspolitik"
+3,A 4.2.4,Absatzförderung
+3,A 4.2.5,Qualitätsstandards und Normen
+3,A 4.2.6,Agrarstrukturpolitik
+3,A 4.2.7,Agrarsozialpolitik
+3,A 4.2.8,Agrarumweltpolitik / Umwelt und Landwirtschaft
+3,A 4.2.9,Investitions- und Kreditpolitik
+3,A 4.2.10,Steuern und Subventionen im Agrar- und Ernährungsbereich
+3,A 4.2.11,Neue politische Ökonomie im Agrar- und Ernährungsbereich
+2,A 4.3,Landwirtschaftliche Marktlehre
+3,A 4.3.1,"Lehrbücher, Sammelwerke, Allgemeines"
+3,A 4.3.2,Angebotsanalysen
+3,A 4.3.3,Nachfrageanalysen (Konsumtheorie und Konsumverhalten für Ernährungsgüter)
+3,A 4.3.4,Haushaltsökonomik (Theorie des Groß- und Familienhaushalts)
+3,A 4.3.5,Preisbildung auf landwirtschaftlichen Märkten
+3,A 4.3.6,Marktstrukturen und Wettbewerbsanalyse der Nahrungswirtschaft (Industrial Organisation)
+3,A 4.3.7,Agrarprodukte und Nahrungsmittel
+3,A 4.3.8,Produktionsmittel
+3,A 4.3.9,Internationale Agrarmärkte
+2,A 4.4,Raum und Regionalpolitik
+3,A 4.4.1,Wirtschaftsgeographie
+3,A 4.4.2,Raumplanung und rurale Regionalpolitik
+3,A 4.4.3,Raum und ländliche Entwicklung
+3,A 4.4.4,Agrarsoziologie
+0,L ,Analysen
+1,L 1,Mittel- und Osteuropäische Länder (MOEL)
+2,L 1.1,RGW insgesamt
+2,L 1.2,MOEL insgesamt
+2,L 1.3,Visegrad-Staaten
+3,L 1.3.1,Visegrad-Staaten insgesamt
+3,L 1.3.2,Polen
+3,L 1.3.3,Tschechoslowakei
+3,L 1.3.4,Tschechische Republik
+3,L 1.3.5,Slowakische Republik
+3,L 1.3.6,Ungarn
+2,L 1.4,Griechenland)
+3,L 1.4.1,Südosteuropa insgesamt
+3,L 1.4.2,Rumänien
+3,L 1.4.3,Bulgarien
+3,L 1.4.4,Albanien
+3,L 1.4.5,Ex-Jugoslawien
+3,L 1.4.6,Slowenien
+3,L 1.4.7,Kroatien
+3,L 1.4.8,Jugoslawien (Serbien und Montenegro)
+3,L 1.4.9,"Bosnien Herzegowina, Mazedonien und Kosovo"
+2,L 1.5,Baltische Länder
+3,L 1.5.1,Baltische Länder insgesamt
+3,L 1.5.2,Estland
+3,L 1.5.3,Lettland
+3,L 1.5.4,Litauen
+2,L 1.6,Sowjetunion
+2,L 1.7,Nachfolgestaaten der Sowjetunion
+3,L 1.7.1,Gesamtdarstellung
+3,L 1.7.2,Russische Föderation
+3,L 1.7.3,Weißrussland
+3,L 1.7.4,"Ukraine, Moldawien"
+3,L 1.7.5,Zentralasien
+3,L 1.7.6,Kaukasische Republiken
+1,Anmerkung,Unterteilung für jedes Land bzw. jede Ländergruppe unter Punkt L 1:
+2,.1,Gesamtüberblick und allgemeine aktuelle Lage (bzw. Transformationsprozess insgesamt)
+2,.2,"Geschichte, Geographie und Politik"
+2,.3,Rahmenbedingungen
+3,.3.1,Arbeitsmarkt- und Sozialpolitik
+3,.3.2,Monetärer und öffentlicher Sektor sowie Umweltökonomik
+3,.3.3,"Außenwirtschaftspolitik / Integrationspolitik (EU, GATT, Visegrad usw.)"
+3,.3.4,Recht / Privatisierung / Restrukturierung
+3,.3.5,Sonstige Bereiche
+3,.3.6,"Regionen, Regionalökonomik und -politik"
+3,.3.7,Wirtschaftliche Lage insgesamt
+2,.4,Agrarsektor
+3,.4.1,Landwirtschaft bzw. Agrarsektor insgesamt
+3,.4.2,Produktionsverhältnisse und Organisation landwirtschaftlicher Betriebe
+3,.4.3,Privatisierung im Agrarsektor
+3,.4.4,Landwirtschaftliche Produktionsfaktoren und Kredit
+3,.4.5,Agrarpolitik/ Agrarumweltpolitik
+3,.4.6,Agrarprodukte
+3,.4.7,Ernährungswirtschaft
+3,.4.8,"Wettbewerbsfähigkeit der Landwirtschaft (intrasektoral, intersektoral, international)"
+3,.4.9,Außenwirtschaftliche Beziehungen des Agrarsektors
+3,.4.1,Regionale Entwicklung und Arbeitsverhältnisse im ländlichen Raum
+2,L 2,Europäische Union (EU)
+3,L 2.1,EU insgesamt
+3,L 2.2,Deutschland
+1,Anmerkung,Unterteilung für jedes Land bzw. jede Ländergruppe unter Punkt L 2 gemäß der Angaben für die MOEL (Punkt L 1)
+2,L 3,OECD-Länder außer EU
+3,L 3.1,Vereinigte Staaten und Kanada
+3,L 3.2,Sonstige OECD-Staaten / OECD-Staaten insgesamt
+1,Anmerkung,Unterteilung für jedes Land bzw. jede Ländergruppe unter Punkt L 3:
+2,.1,Makroökonomische Rahmenbedingungen
+2,.2,Agrarsektor
+1,L 4,Weitere Länder
+2,L 4.1,China
+2,L 4.2,"Weitere Transformationsländer (Mongolei, Vietnam, Kambodscha, Laos, Burma, Tansania, Kuba)"
+2,L 4.3,Sonstige Welt / Welt insgesamt
+1,Anmerkung,Unterteilung für jedes Land bzw. jede Ländergruppe unter Punkt L 4:
+2,.1,Makroökonomische Rahmenbedingungen
+2,.2,Agrarsektor / ländliche Entwicklung
+0,S ,Statistiken
+1,S 1,RGW insgesamt
+2,S 1.1,Rahmendaten
+2,S 1.2,Agrarstatistik
+1,S 2,MOEL insgesamt
+2,S 2.1,Rahmendaten
+2,S 2.2,Agrarstatistik
+1,S 3,Visegrad-Staaten
+2,S 3.1,Visegrad-Staaten insgesamt
+3,S 3.1.1,Rahmendaten
+3,S 3.1.2,Agrarstatistik
+2,S 3.2,Polen
+3,S 3.2.1,Rahmendaten
+3,S 3.2.2,Agrarstatistik
+2,S 3.3,Tschechoslowakei
+3,S 3.3.1,Rahmendaten
+3,S 3.3.2,Agrarstatistik
+2,S 3.4,Tschechische Republik
+3,S 3.4.1,Rahmendaten
+3,S 3.4.2,Agrarstatistik
+2,S 3.5,Slowakische Republik
+3,S 3.5.1,Rahmendaten
+3,S 3.5.2,Agrarstatistik
+2,S 3.6,Ungarn
+3,S 3.6.1,Rahmendaten
+3,S 3.6.2,Agrarstatistik
+1,S 4,Südosteuropa
+2,S 4.1,Rumänien
+3,S 4.1.1,Rahmendaten
+3,S 4.1.2,Agrarstatistik
+2,S 4.2,Bulgarien
+3,S 4.2.1,Rahmendaten
+3,S 4.2.2,Agrarstatistik
+2,S 4.3,Albanien
+3,S 4.3.1,Rahmendaten
+3,S 4.3.2,Agrarstatistik
+2,S 4.4,Ex-Jugoslawien
+3,S 4.4.1,Rahmendaten
+3,S 4.4.2,Agrarstatistik
+2,S 4.5,Slowenien
+3,S 4.5.1,Rahmendaten
+3,S 4.5.2,Agrarstatistik
+2,S 4.6,Kroatien
+3,S 4.6.1,Rahmendaten
+3,S 4.6.2,Agrarstatistik
+2,S 4.7,Jugoslawien (Serbien und Montenegro)
+3,S 4.7.1,Rahmendaten
+3,S 4.7.2,Agrarstatistik
+2,S 4.8,"Bosnien Herzegowina, Mazedonien und Kosovo"
+3,S 4.8.1,Rahmendaten
+3,S 4.8.2,Agrarstatistik
+1,S 5,Baltische Länder
+2,S 5.1,Baltische Länder insgesamt
+3,S 5.1.1,Rahmendaten
+3,S 5.1.2,Agrarstatistik
+2,S 5.2,Estland
+3,S 5.2.1,Rahmendaten
+3,S 5.2.2,Agrarstatistik
+2,S 5.3,Lettland
+3,S 5.3.1,Rahmendaten
+3,S 5.3.2,Agrarstatistik
+2,S 5.4,Litauen
+3,S 5.4.1,Rahmendaten
+3,S 5.4.2,Agrarstatistik
+1,S 6,Sowjetunion
+2,S 6.1,Rahmendaten
+2,S 6.2,Agrarstatistik
+1,S 7,Nachfolgestaaten der Sowjetunion
+2,S 7.1,Gesamtdarstellung
+3,S 7.1.1,Rahmendaten
+3,S 7.1.2,Agrarstatistik
+2,S 7.2,Russische Föderation
+3,S 7.2.1,Rahmendaten
+3,S 7.2.2,Agrarstatistik
+2,S 7.3,Weißrussland
+3,S 7.3.1,Rahmendaten
+3,S 7.3.2,Agrarstatistik
+2,S 7.4,"Ukraine, Moldavien"
+3,S 7.4.1,Rahmendaten
+3,S 7.4.2,Agrarstatistik
+2,S 7.5,Zentralasien
+3,S 7.5.1,Rahmendaten
+3,S 7.5.2,Agrarstatistik
+2,S 7.6,Kaukasische Republiken
+3,S 7.6.1,Rahmendaten
+3,S 7.6.2,Agrarstatistik
+1,S 8,Sonstige Länder und Ländergruppen in Mittel- und Osteuropa
+2,S 8.1,Rahmendaten
+2,S 8.2,Agrarstatistik
+1,S 9,EU
+2,S 9.1,Rahmendaten
+2,S 9.2,Agrarstatistik
+1,S 10,Deutschland
+2,S 10.1,Rahmendaten
+2,S 10.2,Agrarstatistik
+1,S 11,OECD
+2,S 11.1,Rahmendaten
+2,S 11.2,Agrarstatistik
+1,S 12,China
+2,S 12.1,Rahmendaten
+2,S 12.2,Agrarstatistik
+1,S 13,Sonstige Länder bzw. Ländergruppen der Welt
+2,S 13.1,Rahmendaten
+2,S 13.2,Agrarstatistik
+1,S 14,Gesamte Welt
+2,S 14.1,Rahmendaten
+2,S 14.2,Agrarstatistik
+0,Z ,Zeitschriften

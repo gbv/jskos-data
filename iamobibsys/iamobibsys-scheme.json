@@ -1,0 +1,76 @@
+[
+  {
+    "@context": "https://gbv.github.io/jskos/context.json",
+    "ADDRESS": {
+      "code": "06120",
+      "country": "Deutschland",
+      "locality": "Halle (Saale)",
+      "street": "Theodor-Lieser-Str. 2"
+    },
+    "API": [],
+    "FORMAT": [
+      {
+        "uri": "http://bartoc.org/en/Format/PDF"
+      }
+    ],
+    "creator": [
+      {
+        "uri": "https://coli-conc.gbv.de/login/users/79f27329-75b8-443c-9460-0fa3f482e091",
+        "prefLabel": {
+          "en": "David-Benjamin Rohrer"
+        }
+      }
+    ],
+    "definition": {
+      "und": [
+        "Aufstellungssystematik der Bibliothek des IAMO."
+      ]
+    },
+    "languages": [
+      "de"
+    ],
+    "license": [
+      {
+        "uri": "http://rightsstatements.org/vocab/InC/1.0/"
+      }
+    ],
+    "modified": "2024-05-13T11:02:54.890Z",
+    "namespace": "http://uri.gbv.de/terminology/iamobibsys/",
+    "notation": [
+      "IAMO-BibSys"
+    ],
+    "notationPattern": "([A-Z] ([0-9]{1,2}(.[0-9](.[0-9]{1,2})?)?)?|.[0-9](.[0-9]{1,2})?|Anmerkung)",
+    "prefLabel": {
+      "de": "Bibliothekssystematik des IAMO"
+    },
+    "publisher": [
+      {
+        "prefLabel": {
+          "en": "Leibniz-Institut für Agrarentwicklung in Transformationsökonomien (IAMO)"
+        },
+        "uri": "http://viaf.org/viaf/122850358"
+      }
+    ],
+    "subject": [
+      {
+        "uri": "http://dewey.info/class/63/e23/",
+        "inScheme": [
+          {
+            "uri": "http://bartoc.org/en/node/241"
+          }
+        ],
+        "notation": [
+          "63"
+        ]
+      }
+    ],
+    "type": [
+      "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+      "http://w3id.org/nkos/nkostype#classification_schema"
+    ],
+    "uri": "http://bartoc.org/en/node/20512",
+    "created": "2024-05-13T09:25:39.552Z",
+    "concepts": [],
+    "topConcepts": []
+  }
+]
