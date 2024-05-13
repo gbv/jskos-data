@@ -1,0 +1,2144 @@
+level,notation,pfefLabel,scopeNote
+0,01.00,Algemene werken: algemeen,"Toelichting: in deze hoofdrubriek uitsluitend werken van algemene aard; Verwijzing: voor algemene werken van afzonderlijke vakgebieden, zie de betreffende vakgebieden"
+1,01.10,Bibliografieën: algemeen,"Toelichting: beschouwingen over en inleiding tot de bibliografie; Verwijzing: voor bibliotheekcatalogi, zie: 06.80 (documentaire informatie; bibliotheekcatalogi)"
+2,01.11,"Algemene bibliografieën, wereldbibliografieën",Hierbij: bibliografieën van bibliografieën
+2,01.14,"Nationale bibliografieën, regionale bibliografieën","Hierbij: bibliotheekcatalogi met een bibliografisch karakter, lokale en regionale bibliografieën van publicaties verschenen in een plaats of een regio"
+2,01.18,Bibliografieën van werken met een bijzonder karakter,"Toelichting: bibliografieën van feestbundels, pseudoniemen en dergelijke m.a.w. hier alleen bibliografieën voor die werken die geen eigen BC-code als zodanig hebben"
+2,01.19,Bibliografieën: overige,
+1,01.20,Algemene naslagwerken: algemeen,Toelichting: beschouwingen over en inleidingen tot woordenboeken en encyclopedieën
+2,01.21,Algemene woordenboeken,"Toelichting: encyclopedische, d.w.z. beschrijvende én verklarende woordenboeken"
+2,01.22,Algemene encyclopedieën,
+2,01.24,Algemene adresboeken,
+2,01.29,Algemene naslagwerken: overige,
+1,01.30,"Biografie, biografische woordenboeken: algemeen","Toelichting: beschouwingen over en inleidingen tot de (auto)biografie; Verwijzing: voor studies over leven en/of werk van afzonderlijke personen, zie de betreffende vakgebieden"
+2,01.31,Algemene biografische woordenboeken,
+2,01.32,Nationale biografische woordenboeken,
+2,01.39,"Biografie, biografische woordenboeken: overige",
+1,01.40,Algemene bronnenverzamelingen: algemeen,Hierbij: algemene overheidspublicaties; Toelichting: deze en volgende rubrieken worden alleen gebruikt voor uitgaven die niet op onderwerp ingedeeld kunnen worden
+2,01.41,"Periodieke uitgaven, tijdschriften, weekbladen","Hierbij: kranten en tijdschriften zelf; Verwijzing: voor beschouwingen over en inleidingen tot periodieke uitgaven, tijdschriften en weekbladen, zie: 05.33 (communicatiewetenschap; journalistiek)"
+2,01.42,Dagbladen,
+2,01.49,Algemene bronnenverzamelingen: overige,"Hierbij: almanakken, jaarboeken, jaarverslagen"
+1,01.50,Algemene reeksen,
+1,01.60,Verzamelwerken,"Toelichting: verzamelwerken van één of meerdere niet-vakgebonden auteurs, thematisch verzamelwerk, feestbundels en gedenkbundels (niet vakgebonden) en dergelijke"
+1,01.99,Algemene werken: overige,
+0,02.00,Wetenschap en cultuur in het algemeen,
+1,02.01,Geschiedenis van wetenschap en cultuur,Hierbij: intellectuele geschiedenis
+1,02.02,Filosofie en theorie der wetenschap,"Is: 08.35 (filosofie; wetenschapsfilosofie); Hierbij: wetenschapsfilosofie, algemene semiotiek; Verwijzing: voor de semiotiek van afzonderlijke wetenschapsgebieden, zie de betreffende vakgebieden"
+1,02.10,Wetenschap en samenleving,
+1,02.11,Wetenschapssociologie,
+1,02.12,Kennissociologie,
+1,02.13,Wetenschapsbeoefening,Hierbij: normalisatie; Toelichting: methoden en technieken van wetenschappelijk onderzoek
+1,02.14,Organisatie van wetenschap en cultuur,"Hierbij: organisaties en instellingen, academies van wetenschappen, algemene musea, wereldtentoonstellingen; Verwijzing: voor organisaties of instellingen die zich met afzonderlijke vakgebieden bezighouden, zie de betreffende vakgebieden"
+1,02.15,"Wetenschapsbeleid, cultuurbeleid",Hierbij: wetenschappelijke prijzen toegekend door overheden
+1,02.16,"Wetenschappelijke samenwerking, culturele samenwerking",
+1,02.20,Wetenschapsvoorlichting,Hierbij: wetenschapsjournalistiek
+1,02.30,Museologie,Verwijzing: voor algemene musea zie: 02.14 (organisatie van wetenschap en cultuur); Verwijzing: voor musea van afzonderlijke vakgebieden zie de betreffende vakgebieden
+1,02.40,Futurologie,Verwijzing: voor technologische aspecten zie: 50.14 (technische wetenschappen in het algemeen: aspectenonderzoek der techniek)
+1,02.50,Esoterische wetenschappen,"Toelichting: occulte wetenschappen; Hierbij: occultisme, waarzegkunst, hekserij, populaire astrologie, spiritisme; Verwijzing: voor antieke astrologie, zie: 39.01 (astronomie: geschiedenis van de astronomie); Verwijzing: voor fysionomie, frenologie en grafologie, zie: 77.52 (psychologie; persoonlijkheidsleer); Verwijzing: voor dromen, zie: 77.47 (psychologie; slapen, dromen); Verwijzing: voor esoterische filosofie, zie: 08.47 (filosofie: esoterische filosofie); Verwijzing: voor parapsychologie, zie: 77.92 (psychologie; parapsychologie)"
+1,02.60,Vrouwenstudies: algemeen,
+1,02.99,Wetenschap en cultuur in het algemeen: overige,
+0,05.00,Communicatiewetenschap: algemeen,Verwijzing: voor mediarecht zie: 86.78 (recht; informatierecht  communicatierecht)
+1,05.01,Geschiedenis van de communicatiewetenschap,
+1,05.02,Filosofie en theorie van de communicatiewetenschap,
+1,05.03,Methoden en technieken van de communicatiewetenschap,
+1,05.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,05.05,Overheidsbeleid,
+1,05.10,Informatie en communicatie: algemeen,Verwijzing: voor theoretische aspecten zie: 53.71 (informatietheorie communicatietheorie signaaltheorie)
+2,05.12,Communicatieprocessen,"Hierbij: analfabetisme, alfabetisering, non-verbale communicatie; Verwijzing: voor lezen, zie: 05.15 (lezen); Verwijzing: voor schrijven, zie: 05.16 (schrijven)"
+2,05.15,Lezen,"Hierbij: leren lezen; Verwijzing: voor taalonderwijs, zie: 17.41 (algemene taal- en literatuurwetenschap; taaldidactiek)"
+2,05.16,Schrijven,"Verwijzing: voor taalonderwijs, zie: 17.41 (algemene taal- en literatuurwetenschap; taaldidactiek)"
+2,05.19,Informatie en communicatie: overige,
+1,05.20,Communicatie en samenleving,Toelichting: informatiemaatschappij
+1,05.30,"Massacommunicatie, massacommunicatiemiddelen: algemeen",
+2,05.31,Publiciteit,"Verwijzing: voor reclame als marketinginstrument, zie: 85.40 (bedrijfskunde, organisatiekunde; marketing)"
+2,05.32,Publieke opinie,
+2,05.33,Journalistiek,"Verwijzing: voor algemene periodieke uitgaven, zie: 01.41 (algemene werken; periodieke uitgaven, tijdschriften, weekbladen); Verwijzing: voor dagbladen, zie: 01.42 (algemene werken; dagbladen)"
+2,05.34,Omroep: algemeen,
+3,05.35,Radio,
+3,05.36,Televisie,
+2,05.37,"Film, video",
+2,05.38,"Elektronische communicatie, inhoudelijke aspecten","Hierbij: internet, www als massacommunicatiemiddel; Verwijzing: voor technische aspecten zie rubrieken 53 en 54"
+2,05.39,"Massacommunicatie, massacommunicatiemiddelen: overige","Hierbij: grammofoonplaat, compact disk, beeldplaat"
+1,05.40,Communicatietransport: algemeen,
+2,05.41,Post,
+2,05.42,Telecommunicatie,
+2,05.43,Kabelsystemen,
+2,05.49,Communicatietransport: overige,
+1,05.70,Communicatie-industrie: algemeen,Hierbij: telematica
+2,05.71,Telecommunicatie-industrie,
+2,05.72,"Radio-industrie, televisie-industrie",
+2,05.73,Fonografische industrie,
+2,05.79,Communicatie-industrie: overige,
+1,05.99,Communicatiewetenschap: overige,
+0,06.00,Documentaire informatie: algemeen,"Toelichting: boekwetenschap, bibliotheekwetenschap, documentatiewetenschap en archiefwetenschap; Toelichting: zeer algemene boeken over het vakgebied en de vakbeoefening; Verwijzing: voor algemene bibliografieën, zie: 01.10-01.19 (algemene werken; bibliografieën)"
+1,06.01,Geschiedenis van de documentaire informatie,
+2,06.02,Geschiedenis van de boekwetenschap,Hierbij: geschiedenis van de handschriftenkunde
+2,06.03,Geschiedenis van de bibliotheek- en documentatiewetenschap,
+2,06.04,Geschiedenis van de archiefwetenschap,
+1,06.05,"Onderwijs, beroepsuitoefening, organisaties",
+1,06.07,Handschriften en boeken tezamen,
+1,06.08,Materialen,"Toelichting: materiaal om documentaire informatie mee en/of op vast te leggen (papier, perkament, cd-rom, magneetband etc.); schrijfmateriaal (pennen, potloden, veren); Verwijzing: voor technische publicaties, zie: 54.80 (toepassingen van computersystemen, computertechniek: algemeen) en 58.23 (procestechnologie; textielindustrie, papierindustrie)"
+1,06.09,"Schrift, schriftsoorten","Toelichting: algemeen; Verwijzing: voor kalligrafie, zie: 21.93 (afzonderlijke kunstvormen, schriftkunst)"
+1,06.10,Handschriftenkunde: algemeen,
+3,06.12,Codicologie,
+3,06.13,Paleografie,Toelichting: wetenschap van de praktijk van het schrijven in de late oudheid en vroegmoderne tijd; Is: 15.26 (geschiedenis; paleografie)
+3,06.14,"Catalogi, inventarissen","Verwijzing: voor catalogi en inventarissen van handschriften betreffende een bepaald onderwerp, zie aldaar"
+3,06.15,"Individuele handschriften, facsimile's","Hierbij: publicaties die in hun geheel gewijd zijn aan een afzonderlijk handschrift; Verwijzing: voor (facsimile's van) handschriften betreffende een bepaald onderwerp, zie aldaar"
+2,06.16,Handschriftenkunde: overige,
+1,06.20,Het boek: algemeen,"Hierbij: publicaties over analytische bibliografie; Toelichting: publicaties over het gedrukte boek; publicaties over het elektronische boek; Verwijzing: voor andere informatiedragers, zie: 05.30 (communicatiewetenschap; massacommunicatie, massacommunicatiemiddelen: algemeen); Verwijzing: voor grafische techniek, zie: 52.87 (werktuigbouwkunde; druktechniek)"
+2,06.21,Geschiedenis van het gedrukte boek,"Toelichting: studies over uitgeven, drukken, binden en/of boekhandel tezamen; Verwijzing: voor studies over uitgeven, drukken, binden en boekhandel afzonderlijk zie de betreffende rubrieken"
+2,06.22,Vormgeving van gedrukte boeken,"Hierbij: typografie, boekkunst; Hierbij: lay-out, publicaties over vormgeving en vormgevers. Publicaties over kunstenaarsboeken vallen onder de hoofdrubriek kunst; Hierbij: publicaties die uitsluitend gewijd zijn aan de afbeeldingen bij emblemata; publicaties over boek- en tijdschriftillustraties; Verwijzing: voor computergraphics, zie: 54.73 (informatica; computergraphics)"
+2,06.23,"Uitgeven, uitgeverij","Hierbij: elektronisch publiceren; Hierbij: uitgeverscatalogi; Verwijzing: voor uitgeverscatalogi met afzonderlijke onderwerpen, zie de betreffende rubrieken; Verwijzing: voor studies over uitgeven, drukken, binden en/of boekhandel tezamen, zie: 06.21 (geschiedenis van het gedrukte boek)"
+2,06.24,"Drukken, drukkerij","Verwijzing: voor zuiver technische boeken, zie: 52.87 (werktuigbouwkunde; druktechniek); Verwijzing: voor studies over uitgeven, drukken, binden en/of boekhandel tezamen, zie: 06.21 (geschiedenis van het gedrukte boek)"
+2,06.25,"Boekbinden, boekbinderij","Verwijzing: industriële boekbinderij, handboekbinderij, kunstboekbanden"
+2,06.26,Boekhandel,"Hierbij: boekhandelscatalogi; Verwijzing: voor boekhandelscatalogi met afzonderlijke onderwerpen, zie de betreffende rubrieken; Verwijzing: voor studies over uitgeven, drukken, binden en/of boekhandel tezamen, zie: 06.21 (geschiedenis van het gedrukte boek)"
+2,06.27,"Bibliofilie, bibliotheken van particulieren",Hierbij: catalogi van particuliere bibliotheken
+2,06.29,Het boek: overige,
+1,06.30,"Bibliotheekwezen, documentatiewezen: algemeen","Verwijzing: voor bibliotheekcatalogi, zie: 06.80 (bibliotheekcatalogi)"
+2,06.31,"Geschiedenis van het bibliotheekwezen, documentatiewezen","Verwijzing: voor geschiedenis van afzonderlijke bibliotheken en documentatie- instellingen, zie 06.40-06.49 (documentaire informatie; instellingen)"
+2,06.40,Instellingen: algemeen,Hierbij: publicaties over bibliotheekwezen in een land in het algemeen
+3,06.41,Wetenschappelijke bibliotheken,"Hierbij: bibliotheek van het Vaticaan, Koninklijke Bibliotheek, overige nationale bibliotheken e.d."
+3,06.42,Openbare bibliotheken,
+3,06.43,Speciale bibliotheken,
+3,06.44,Documentatie-instellingen,Hierbij: informatiecentra
+3,06.49,Instellingen: overige,Hierbij: kloosterbibliotheken
+2,06.50,Bibliotheekbeheer: algemeen,
+3,06.51,"Bouw, inrichting",
+3,06.52,"Bedrijfsvoering, personeel",
+3,06.53,"Collectie, collectievorming",
+3,06.54,Automatisering,"Toelichting: automatisering t.b.v. de bedrijfsvoering; Verwijzing: voor automatisering van ontsluiting e.d., zie: 06.70 e.v."
+3,06.55,Conservering en restauratie,"Hierbij: publicaties over conservering en preservering van alle informatiedragers, van handschrift tot cd-rom; Verwijzing: voor conservering en restauratie van kunstvoorwerpen, zie: 20.15 (kunstwetenschappen; restaureren, conserveren, vervalsen)"
+3,06.59,Bibliotheekbeheer: overige,
+2,06.60,"Bibliotheekgebruik, informatievoorziening",Verwijzing: voor informatica zie: 54 (informatica); Hierbij: gebruikersonderzoek
+2,06.64,Information storage en retrieval,"Hierbij: online literatuuronderzoek, cd-rom, databestanden; Verwijzing: voor vakinhoudelijke aspecten van Internet, zie de betreffende rubrieken; Verwijzing: voor beheersmatige aspecten van Internet, zie: 06.50 (bibliotheekbeheer: algemeen) en volgende; Verwijzing: voor algemene, technische aspecten, zie: 54.32 (informatica; computernetwerken)"
+2,06.70,Ontsluiting: algemeen,"Hierbij: catalogusapparaat, geautomatiseerde ontsluiting"
+3,06.71,Formele ontsluiting,"Hierbij: titelbeschrijving, bibliografische controle"
+3,06.72,Onderwerpsontsluiting,
+3,06.79,Ontsluiting: overige,
+2,06.80,Bibliotheekcatalogi,"Verwijzing: voor bibliotheekcatalogi met een bibliografisch karakter, zie: 01.14 (algemene werken; nationale bibliografieën, regionale bibliografieën); Verwijzing: voor bibliotheekcatalogi over een bepaald onderwerp, zie de betreffende rubriek; Verwijzing: voor catalogi van particuliere bibliotheken, zie: 06.27 (bibliofilie, bibliotheken van particulieren)"
+2,06.89,"Bibliotheekwezen, documentatiewezen: overige",
+1,06.90,"Archieven, archivistiek","Is: 15.24 (geschiedenis;  archivistiek); Hierbij: algemene archiefinventarissen; Verwijzing: voor archiefwetenschap in het algemeen, zie: 06.00 (documentaire informatie); Verwijzing: voor archieven en inventarissen die betrekking hebben op afzonderlijke vakgebieden, zie de betreffende vakgebieden; Verwijzing: voor geschiedenis van de archiefwetenschap, zie: 06.04 (geschiedenis van de archiefwetenschap)"
+1,06.99,Documentaire informatie: overige,
+0,08.00,Filosofie: algemeen,"Hierbij: humanisme als hedendaagse stroming; Toelichting: filosofie van vakgebieden die niet expliciet in dit schema zijn vermeld, vindt men onder de betreffende vakgebieden"
+1,08.03,Filosofie en methode van de filosofie,Hierbij: metafilosofie
+1,08.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,08.10,Niet-westerse filosofie,"Hierbij: stromingen van de niet-westerse filosofie, vergelijkende filosofie"
+1,08.20,Geschiedenis van de westerse filosofie: algemeen,Hierbij: filosofische stromingen door de eeuwen heen
+2,08.21,"Griekse oudheid, Romeinse oudheid","Hierbij: filosofische stromingen uit de klassieke oudheid, patristische filosofie"
+2,08.22,Middeleeuwse filosofie,"Hierbij: filosofische stromingen uit de middeleeuwen, Byzantijnse filosofie"
+2,08.23,Renaissancefilosofie,"Hierbij: filosofische stromingen uit de renaissance, 15e en 16e eeuw"
+2,08.24,"Nieuwe westerse filosofie (17e, 18e en 19e eeuw)",
+2,08.25,Contemporaine westerse filosofie (20 en 21e eeuw),Hierbij: publicaties over fenomenologie of existentialisme als stroming
+1,08.30,Systematiek van de filosofie: algemeen,"Hierbij: alleen zeer breed opgezette, algemene werken"
+2,08.31,Metafysica,Hierbij: ontologie
+2,08.32,Kentheorie,"Verwijzing: voor kennissociologie, zie: 02.12 (wetenschap en cultuur in het algemeen; kennissociologie)"
+2,08.33,"Logica, argumentatieleer","Verwijzing: voor mathematische logica, zie: 31.10 (wiskunde; logica, verzamelingsleer)"
+2,08.34,Taalfilosofie,Is: 17.11 (algemene taal- en literatuurwetenschap;  taalfilosofie)
+2,08.35,Wetenschapsfilosofie,"Is: 02.02 (wetenschap en cultuur in het algemeen; filosofie en theorie der wetenschap); Hierbij: algemene semiotiek; Verwijzing: voor semiotiek van afzonderlijke wetenschapsgebieden, zie de betreffende vakgebieden"
+2,08.36,"Filosofische antropologie, filosofische psychologie",
+2,08.37,Godsdienstfilosofie,"Is: 11.02 (theologie, godsdienstwetenschappen; godsdienstfilosofie)"
+2,08.38,Ethiek,"Verwijzing: voor ethiek van afzonderlijke vakgebieden, zie de rubriek 'filosofie' van de betreffende vakgebieden"
+2,08.40,Rechtsfilosofie,Is: 86.04 (recht; rechtsfilosofie)
+2,08.41,Esthetica,"Verwijzing: voor filosofie van de kunst, zie: 20.06 (kunstwetenschappen; filosofie van de kunst)"
+2,08.42,Cultuurfilosofie,"Verwijzing: voor filosofie van de techniek, zie: 50.12 (technische wetenschappen in het algemeen; filosofie van de techniek)"
+2,08.43,Geschiedfilosofie,Toelichting: filosofie en theorie van de geschiedenis; Is: 15.02 (geschiedenis; filosofie en theorie van de geschiedwetenschap)
+2,08.44,Sociale filosofie,"Is: 70.08 (sociale wetenschappen in het algemeen; sociale filosofie); Verwijzing: voor filosofie van het economisch denken, zie: 83.01 (economie; geschiedenis en filosofie van het economisch denken)"
+2,08.45,Politieke filosofie,Is: 89.06 (politicologie; politieke filosofie)
+2,08.46,Natuurfilosofie,
+2,08.47,Esoterische filosofie,"Hierbij: theosofie, antroposofie, vrijmetselarij"
+2,08.49,Systematiek van de filosofie: overige,
+1,08.99,Filosofie: overige,
+0,10.00,Geesteswetenschappen: algemeen,Toelichting: humaniora in het algemeen
+1,10.01,Geschiedenis van de geesteswetenschappen,
+1,10.02,Filosofie en theorie van de geesteswetenschappen,"Hierbij: methodologie, systematiek"
+1,10.03,"Methoden, technieken en organisatie van geesteswetenschappelijk onderzoek",
+1,10.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,10.10,Multidisciplinaire interessegebieden,
+1,10.99,Geesteswetenschappen: overige,
+0,11.00,Theologie en godsdienstwetenschap: algemeen,
+1,11.01,Systematische godsdienstwetenschap: algemeen,Hierbij: vergelijkende godsdienstwetenschap in het algemeen
+2,11.02,Godsdienstfilosofie,Is: 08.37 (filosofie; godsdienstfilosofie)
+2,11.04,"Onderwijs, beroepsuitoefening, organisaties",
+2,11.05,Godsdienstsociologie,
+2,11.06,Godsdienstpsychologie,
+2,11.07,Relaties tussen godsdiensten,"Verwijzing: voor verhouding tussen jodendom en christendom, zie: 11.27 (verhouding jodendom-christendom)"
+2,11.08,Niet-godsdienstigheid,Hierbij: atheïsme
+2,11.09,Systematische godsdienstwetenschap: overige,Hierbij: afzonderlijke onderwerpen van de vergelijkende godsdienstwetenschap
+1,11.10,Antieke godsdiensten: algemeen,
+2,11.11,Egyptische godsdienst,
+2,11.12,Mesopotamische godsdiensten,
+2,11.13,Kanaänitische godsdienst,
+2,11.14,Perzische godsdienst,
+2,11.15,Griekse godsdienst,
+2,11.17,Romeinse godsdienst,
+2,11.18,Uitheemse godsdiensten en culten in het Romeinse Rijk,
+2,11.19,Antieke godsdiensten: overige,
+1,11.20,Jodendom: algemeen,"Verwijzing: voor apocriefen en pseudepigrafen, zie: 11.37 (apocriefen, pseudepigrafen); Verwijzing: voor de godsdienst van Israël vóór de Babylonische ballingschap en de (Hebreeuwse) bijbel, zie: 11.30-11.43"
+2,11.21,Joodse godsdienstige literatuur,"Hierbij: literatuur van het vroege jodendom, rabbijnse literatuur (Misjna, Talmoed, Midrasj en Haggada) en Halachische literatuur, inclusief joodse ethiek; stichtelijke literatuur"
+2,11.23,Praktische theologie van het jodendom,"Toelichting: feesten, riten en gebruiken; liturgie, homiletiek, preken; pastoraat"
+2,11.24,Joodse theologie en filosofie,Verwijzing: zie voor joodse ethiek 11.21 (joodse godsdienstige literatuur)Verwijzing: zie voor joodse ethiek 11.21 (joodse godsdienstige literatuur)
+2,11.25,Joodse mystiek: kabbala,
+2,11.26,Stromingen binnen het jodendom,Hierbij: geschriften van de stromingen (b.v. Dode-Zeerollen)
+2,11.27,Verhouding jodendom-christendom,"Verwijzing: verhouding jodendom tot andere godsdiensten, zie: 11.07 (relaties tussen godsdiensten)"
+2,11.29,Jodendom: overige,
+1,11.30,Bijbel: algemeen,
+2,11.31,"Teksten, vertalingen van de bijbel",Toelichting: teksten en vertalingen van Oude en Nieuwe Testament en van afzonderlijke bijbelboeken
+2,11.32,Geschiedenis van tekst en vertaling van de bijbel,Toelichting: geschiedenis van tekst en vertaling van het Oude en Nieuwe Testament en van afzonderlijke bijbelboeken
+2,11.33,Onderzoek en interpretatie van de bijbel,"Hierbij: geschiedenis van bijbelgebruik en exegese; Hierbij: literaire en historische kritiek, exegese, hermeneutiek, commentaren op de bijbel in het algemeen"
+2,11.35,"Bijbelse oudheden, bijbelse archeologie en geografie",Toelichting: ook voor Oude en Nieuwe Testament afzonderlijk
+2,11.36,Bijbelse theologie,Toelichting: alleen voor de theologie van de bijbel als geheel
+2,11.37,"Apocriefen, pseudepigrafen","Toelichting: de deuterocanonieke boeken worden niet hier geplaatst, maar op dezelfde wijze behandeld als de boeken van het Oude Testament"
+2,11.40,Oude Testament: algemeen,"Hierbij: geschiedenis van de canon van het Oude Testament; Verwijzing: voor geschiedenis van tekst en vertaling van het Oude Testament, zie: 11.32 (geschiedenis van tekst en vertaling van de bijbel); Verwijzing: voor teksten en vertalingen van het Oude Testament, zie: 11.31 (teksten, vertalingen van de bijbel)"
+3,11.41,Onderzoek en interpretatie van het Oude Testament,"Hierbij: literaire en historische kritiek, exegese, hermeneutiek, commentaren op (afzonderlijke boeken of gedeelten van) het Oude Testament"
+3,11.42,Geschiedenis van het oudtestamentische tijdvak,
+3,11.43,Oude Testament in relatie tot andere culturen,
+2,11.45,Nieuwe Testament: algemeen,"Hierbij: geschiedenis van de canon van het Nieuwe Testament; Verwijzing: voor geschiedenis van tekst en vertaling van het Nieuwe Testament, zie: 11.32 (geschiedenis van tekst en vertaling van de bijbel); Verwijzing: voor teksten en vertalingen van het Nieuwe Testament, zie: 11.31 (teksten, vertalingen van de bijbel)"
+3,11.46,Onderzoek en interpretatie van het Nieuwe Testament,"Hierbij: literaire en historische kritiek, exegese, hermeneutiek, commentaren op (afzonderlijke boeken of gedeelten van) het Nieuwe Testament"
+3,11.47,Cultuurhistorische achtergronden van het Nieuwe Testament,
+2,11.49,Bijbel: overige,"Verwijzing: voor bijbelse geografie, zie 11.35 (bijbelse oudheden, bijbelse archeologie en geografie)"
+1,11.50,"Kerkgeschiedenis, dogmengeschiedenis: algemeen","Hierbij: zendingsgeschiedenis in het algemeen; Toelichting: beperkt tot het christendom; Verwijzing: voor dogmatische teksten van na 1500, zie: 11.61 (systematische theologie)"
+2,11.51,Vroege christendom,
+2,11.52,Middeleeuws christendom,
+2,11.53,Oosters christendom,Toelichting: na 451 (concilie van Chalcedon)
+2,11.54,Rooms-katholicisme,Toelichting: vanaf de 16e eeuw
+2,11.55,Protestantisme,Hierbij: anglicanisme
+2,11.59,"Kerkgeschiedenis, dogmengeschiedenis: overige",Hierbij: publicaties over bijzondere onderwerpen die meerdere tijden en denominaties bestrijken
+1,11.60,Christelijke leer: algemeen,"Hierbij: christendom in het algemeen, geloofsbelijdenissen, catechismussen"
+2,11.61,Systematische theologie,"Hierbij: dogmatiek; Verwijzing: voor dogmatische teksten van voor 1500, zie: 11.50-11.59 (kerkgeschiedenis, dogmengeschiedenis)"
+2,11.62,Christelijke ethiek,
+2,11.63,Spiritualiteit en mystiek,"Hierbij: monnikenwezen, kloosterleven; Hierbij: stichtelijke literatuur; Verwijzing: voor de geschiedenis van spiritualiteit en mystiek, zie: 11.50-11.59 (kerkgeschiedenis, dogmengeschiedenis); Verwijzing: voor de spirituele en mystieke teksten van vóór 1500, zie: 11.50-11.59 (kerkgeschiedenis, dogmengeschiedenis); Verwijzing: voor preken, zie: 11.75 (homiletiek)"
+2,11.66,Oecumene,"Verwijzing: voor de geschiedenis van de oecumene, zie: 11.59 (kerkgeschiedenis, dogmengeschiedenis: overige)"
+2,11.69,Christelijke leer: overige,Hierbij: feministische theologie
+1,11.70,Praktische theologie: algemeen,
+2,11.71,Pastorale psychologie,
+2,11.72,Kerkelijke sociologie,
+2,11.73,"Kerkorganisatie, kerkrecht","Hierbij: canoniek recht, geschiedenis en historische teksten m.b.t. kerkorganisatie en kerkrecht"
+2,11.74,Liturgie,Hierbij: geschiedenis en historische teksten m.b.t. de liturgie; liederenbundels 
+2,11.75,Homiletiek,Hierbij: preken en prekenbundels; geschiedenis en historische teksten 
+2,11.76,Pastoraat,
+2,11.77,Godsdienstige opvoeding,Hierbij: catechese; geschiedenis en historische teksten 
+2,11.78,Missiologie,"Verwijzing: voor geschiedenis van missie en zending, zie: 11.50-11.59 (kerkgeschiedenis, dogmengeschiedenis)"
+2,11.79,Praktische theologie: overige,"Hierbij: apostolaat; Hierbij: diakonaat, gemeenteleven"
+1,11.80,Islam: algemeen,
+2,11.81,Koran,
+2,11.82,Traditieliteratuur,Hierbij: Mohammed
+2,11.83,Stromingen binnen de islam,
+2,11.84,Islam: overige,
+1,11.86,Godsdiensten van China,"Hierbij: taoïsme, confucianisme; Hierbij: deze godsdiensten buiten China"
+1,11.87,Godsdiensten van Japan,Hierbij: shintoïsme; Hierbij: deze godsdienst buiten Japan;  Hierbij: shintoïsme
+1,11.90,Indische godsdiensten: algemeen,
+2,11.91,"Brahmanisme, vedisme",
+2,11.92,Hindoeïsme,Hierbij: hindoeïsme buiten India
+2,11.93,Boeddhisme,Hierbij: boeddhisme buiten India
+2,11.94,Indische godsdiensten: overige,
+1,11.98,Overige godsdiensten,"Verwijzing: voor theosofie, antroposofie, vrijmetselarij, zie: 08.47 (filosofie; esoterische filosofie)"
+1,11.99,Theologie en godsdienstwetenschap: overige,
+0,15.00,Geschiedenis: algemeen,"Verwijzing: voor beschouwingen over (auto-)biografieën, zie: 01.30 (algemene werken; biografie, biografische woordenboeken); Verwijzing: voor nationale biografische woordenboeken, zie: 01.32 (algemene werken; nationale biografische woordenboeken)"
+1,15.01,Historiografie,"Hierbij: geschiedschrijving en geschiedbeoefening in het algemeen, ook in afzonderlijke landen; Verwijzing: voor geschiedschrijving over bepaalde landen, werelddelen en grote gebiedsdelen, zie: 15.60-15.95"
+1,15.02,Filosofie en theorie van de geschiedwetenschap,Is: 08.43 (filosofie; geschiedfilosofie)
+1,15.03,Methoden en technieken van de geschiedwetenschap,
+1,15.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,15.10,Deeldisciplines van de geschiedenis,"Toelichting: in deze rubriek uitsluitend studies over de beoefening van deeldisciplines als agrarische geschiedenis, cultuurgeschiedenis, economische geschiedenis etc.; Verwijzing: voor toepassingen van afzonderlijke deeldisciplines van de geschiedenis op de algemene wereldgeschiedenis, afzonderlijke perioden en/of werelddelen en landen, zie: 15.50-15.95"
+1,15.20,Hulpwetenschappen: algemeen,"Toelichting: de rubrieken 15.21-15.23 bevatten ook toepassingen van de hulpwetenschappen in afzonderlijke landen en regio's;  Toelichting: 15.24-15.28 alleen voorzover ze niet elders geplaatst kunnen worden; Verwijzing: voor codicologie, zie: 06.12 (documentaire informatie; codicologie); Verwijzing: voor paleografie, zie: 15.26 (paleografie)"
+2,15.21,Chronologie,
+2,15.22,"Genealogie, heraldiek",
+2,15.23,"Numismatiek, sigillografie",
+2,15.24,Archieven,"Is: 06.90 (documentaire informatie; archieven, archivistiek); Hierbij: algemene archiefinventarissenVerwijzing: voor archiefwetenschap in het algemeen, zie: 06.00 (documentaire informatie); Verwijzing: voor archieven en inventarissen die betrekking hebben op afzonderlijke vakgebieden, zie de betreffende vakgebieden; Verwijzing: voor geschiedenis van de archiefwetenschap, zie: 06.04 (geschiedenis van de archiefwetenschap)"
+2,15.25,Oorkondenleer,
+3,15.26,Paleografie,Toelichting: wetenschap van de praktijk van het schrijven in de late oudheid en vroegmoderne tijdIs: 06.13 (documentaire informatie; paleografie)
+2,15.27,Epigrafie,Toelichting: harde materialen
+2,15.28,Papyrologie,"Hierbij: ostraka, wastafeltjes"
+2,15.29,Hulpwetenschappen: overige,
+1,15.30,Archeologie: algemeen,"Hierbij: ook publicaties gebaseerd op archeologische methoden (opgravingen); Hierbij: publicaties over (kunst)voorwerpen uit de klassieke oudheid (mits de nadruk ligt op het archeologische aspect); Toelichting: de rubrieken 15.30-15.39 bevatten ook archeologie van afzonderlijke landen en regio's; Verwijzing: voor bijbelse archeologie, zie: 11.35 (theologie, godsdienstwetenschappen; bijbelse oudheden, bijbelse archeologie en geografie)"
+2,15.31,Methoden en technieken van de archeologie,
+2,15.32,"Prehistorische archeologie, protohistorische archeologie",
+2,15.33,Pre-klassieke archeologie,"Hierbij: archeologie van Egypte, Mesopotamië, Myceense/Minoïsche cultuur"
+2,15.34,Klassieke archeologie,
+2,15.35,"Middeleeuwse archeologie, postmiddeleeuwse archeologie",
+2,15.36,Industriële archeologie,
+2,15.37,Maritieme archeologie,
+2,15.38,Archeologie van de niet-westerse wereld,
+2,15.39,Archeologie: overige,
+1,15.40,Prehistorie,"Hierbij: prehistorie van afzonderlijke landen en regio's; Verwijzing: voor prehistorische archeologie, zie: 15.32 (prehistorische archeologie, protohistorische archeologie); Verwijzing: voor prehistorische kunst, zie: 20.31 (kunstwetenschappen; prehistorische kunst)"
+1,15.50,"Algemene wereldgeschiedenis; geschiedenis van grote gebiedsdelen, bevolkingsgroepen, beschavingsgebieden: algemeen","Hierbij: toepassingen van deeldisciplines van de geschiedenis, zoals agrarische geschiedenis etc., die betrekking hebben op (perioden van) de algemene wereldgeschiedenis"
+1,15.51,Oudheid,"Hierbij: geschiedenis van afzonderlijke landen in de oudheid; Toelichting: Middellandse-Zeegebied, Midden-Oosten. Betreft grofweg de periode 2500 v. Chr. tot en met de 6e eeuw n.Chr.; Verwijzing: voor geschiedenis van het Romeinse Rijk, zie: 15.52 (Romeinse Rijk); Verwijzing: voor klassieke archeologie, zie: 15.34 (klassieke archeologie)"
+2,15.52,Romeinse Rijk,"Hierbij: geschiedenis van afzonderlijke landen in het Romeinse Rijk; Toelichting: Romeinse Rijk tot 476 na Chr.; Verwijzing: voor oudheid, zie: 15.51 (oudheid)"
+2,15.59,"Geschiedenis van grote gebiedsdelen, bevolkingsgroepen, beschavingsgebieden: overige",
+1,15.60,"Geschiedenis van werelddelen, geschiedenis van landen","Verwijzing: voor de archeologie van de afzonderlijke werelddelen, landen en regio's, zie: 15.30-15.39 (archeologie); Verwijzing: voor regionale toepassingen van deeldisciplines van de geschiedenis, zoals agrarische geschiedenis etc., zie: 15.65-15.95 (geschiedenis van werelddelen, geschiedenis van landen); Verwijzing: voor regionale toepassingen van hulpwetenschappen, zoals genealogie, heraldiek, numismatiek etc., zie: 15.20-15.29 (geschiedenis: hulpwetenschappen)"
+2,15.65,Wereldzeeën,"Hierbij: noordpoolgebied, Arctica"
+2,15.70,"Europa (na prehistorie, oudheid en Romeinse tijd)",
+2,15.75,Azië,
+2,15.80,Afrika,
+2,15.85,Amerika,
+2,15.90,"Australië, Oceanië",
+2,15.95,Antarctica,"Hierbij: zuidpoolgebied; Verwijzing: Arctica, zie: 15.65 (wereldzeeën)"
+1,15.99,Geschiedenis: overige,
+0,17.00,Algemene taal- en literatuurwetenschap: algemeen,"Hierbij: filologie; Verwijzing: voor taal- en letterkunde, ingedeeld naar afzonderlijke talen, zie: 18. (taal- en letterkunde naar afzonderlijke talen)"
+1,17.01,Algemene taalwetenschap: algemeen,
+2,17.02,Geschiedenis van de taalwetenschap en haar theorieën,
+2,17.03,Filosofie en theorie van de taalwetenschap,
+2,17.04,Methoden en technieken in de taalwetenschap,
+2,17.05,"Onderwijs, beroepsuitoefening, organisaties",
+2,17.08,Semiotiek,"Verwijzing: voor de algemene semiotiek, zie: 02.02 (wetenschap en cultuur in het algemeen; filosofie en theorie der wetenschap); Verwijzing: voor de semiotiek van afzonderlijke wetenschapsgebieden, zie de betreffende vakgebieden; Verwijzing: voor de semiotiek van de literatuur, zie: 17.81 (literair-wetenschappelijke richtingen)"
+2,17.10,Taal in relatie tot andere gebieden van wetenschap en cultuur,
+2,17.11,Taalfilosofie,Is: 08.34 (filosofie; taalfilosofie)
+2,17.12,Taaloorsprong,
+2,17.13,Taaltypologie,Hierbij: universalia
+2,17.14,Vergelijkende taalwetenschap,"Hierbij: contrastieve linguïstiek; Verwijzing: voor historisch(e) vergelijkende taalwetenschap, zie: 17.15 (historische linguïstiek)"
+2,17.15,Historische linguïstiek,Hierbij: diachronische linguïstiek
+2,17.16,Etymologie,
+2,17.18,Taalgeografie,Hierbij: dialectologie
+2,17.20,Sociolinguïstiek: algemeen,
+3,17.21,Monolinguale sociolinguïstiek,"Hierbij: ideolecten, taal en sekse, codetheorie, gesproken taal"
+3,17.22,"Taalplanning, taalpolitiek","Hierbij: taalnormen, taalzuivering"
+3,17.23,Multilinguale sociolinguïstiek,"Hierbij: tweetaligheid, taalcontact, creolisatie"
+3,17.24,Sociolinguïstiek: overige,
+2,17.28,Etnolinguïstiek,
+2,17.30,Psycholinguïstiek: algemeen,"Toelichting: taalpsychologie; Verwijzing: voor cognitieve psychologie, zie: 77.31 (psychologie; cognitie)"
+3,17.31,Taalverwerving,Toelichting: taalontwikkeling bij kinderen
+3,17.32,Taal en denken,
+3,17.34,Psycholinguïstiek: overige,Toelichting: psycholinguïstiek van de afzonderlijke linguïstische verschijnselen
+2,17.35,Neurolinguïstiek,
+2,17.40,Toegepaste taalwetenschap: algemeen,
+3,17.41,Taaldidactiek,Toelichting: omvat zowel moedertaaldidactiek als vreemdetalenonderwijs
+3,17.42,Taalbeheersing,
+3,17.43,Tweedetaalverwerving,
+3,17.44,Patholinguïstiek,"Hierbij: taalpathologie, logopedie"
+3,17.45,Vertaalwetenschap,
+3,17.46,"Mathematische linguïstiek, computerlinguïstiek","Hierbij: programmeertalen, automatische spraakherkenning, automatisch vertalen; Verwijzing: voor benadering vanuit de automatisering, zie: 54.53 (informatica; programmeertalen) en: 54.72 (informatica; kunstmatige intelligentie)"
+3,17.49,Toegepaste taalwetenschap: overige,
+2,17.50,Grammatica,Toelichting: de begrippen grammar en theory overlappen elkaar
+2,17.51,"Afzonderlijke scholen, afzonderlijke theorieën",
+2,17.52,Syntaxis,"Verwijzing: voor syntacto-semantische aspecten, zie: 17.58 (syntacto-semantische aspecten)"
+2,17.53,Fonetiek,
+2,17.54,Fonologie,
+2,17.55,Morfologie,
+2,17.56,Semantiek: algemeen,
+3,17.57,"Naamkunde, toponymie",Hierbij: onomastiek
+3,17.58,Syntacto-semantische aspecten,Hierbij: eenheden en hun betrekkingen
+3,17.59,Semantiek: overige,
+2,17.60,"Lexicologie, lexicografie","Verwijzing: voor tweetalige woordenboeken, zie: 18. (taal- en letterkunde naar afzonderlijke talen)"
+2,17.61,Pragmatiek,"Hierbij: taalgebruikskunde, discourse analysis van gesproken taal; Verwijzing: voor discourse analysis in geschreven taal, zie: 17.63 (tekstwetenschap)"
+2,17.62,"Retorica, stilistiek","Verwijzing: voor literaire aspecten, zie: 17.84 (literaire taal, literaire stijl)"
+2,17.63,Tekstwetenschap,"Hierbij: tekstlinguïstiek, discourse analysis in geschreven taal; Verwijzing: voor discourse analysis van gesproken taal, zie 17.61 (pragmatiek)"
+2,17.69,Algemene taalwetenschap: overige,
+1,17.70,Algemene literatuurwetenschap: algemeen,
+2,17.74,"Onderwijs, beroepsuitoefening, organisaties",
+2,17.75,Bloemlezingen uit de wereldliteratuur,
+2,17.76,Geschiedenis van de wereldliteratuur,
+2,17.80,Theorie van de literatuur: algemeen,
+3,17.81,Literair-wetenschappelijke richtingen,"Hierbij: literaire communicatie, literaire semiotiek"
+3,17.82,Literatuurkritiek,"Hierbij: waardeoordeel, tekstinterpretatie"
+3,17.83,Literaire esthetica,
+3,17.84,"Literaire taal, literaire stijl","Hierbij: retorica, stilistiek, poëtica, prosodie; Verwijzing: voor taalkundige aspecten, zie: 17.62 (retorica, stilistiek)"
+3,17.85,"Tekstgeschiedenis, tekstkritiek","Hierbij: editietechniek; Verwijzing: voor taalkundige aspecten, zie: 17.63 (tekstwetenschap)"
+3,17.86,"Literaire genres, genretheorie","Hierbij: epos, lyriek, roman"
+3,17.89,Theorie van de literatuur: overige,
+2,17.90,Letterkunde in relatie tot andere gebieden van wetenschap en cultuur,Hierbij: letterkunde en automatisering
+2,17.91,Letterkunde van en voor groepen,"Hierbij: volksliteratuur, jeugdliteratuur, arbeidersliteratuur"
+2,17.92,Vergelijkende literatuurwetenschap: algemeen,
+3,17.93,"Literaire thema's, literaire motieven",
+3,17.94,"Invloeden, relaties",
+3,17.95,Vertalen,"Toelichting: omvat literaire aspecten van vertalen; Verwijzing: voor taalkundige aspecten, zie: 17.45 (vertaalwetenschap)"
+3,17.97,Vergelijkende literatuurwetenschap: overige,
+2,17.99,Algemene literatuurwetenschap: overige,
+0,18.00,Talen: algemeen,
+1,18.01,Indo-europese talen: algemeen,
+2,18.02,Germaanse talen: algemeen,
+3,18.03,Engelse taal- en letterkunde,
+4,18.04,Engelse taalkunde,
+4,18.05,Engelse letterkunde,
+4,18.06,Anglo-Amerikaanse letterkunde,
+4,18.07,Engelse letterkunde buiten Europa en de VS,
+3,18.08,Duitse taalkunde,
+3,18.09,Duitse letterkunde,
+3,18.10,Nederlandse taalkunde,
+3,18.11,Nederlandse letterkunde,
+3,18.12,Afrikaanse taal- en/of letterkunde,
+3,18.13,Friese taal- en/of letterkunde,
+3,18.14,Scandinavische taal- en letterkunde,"Hierbij: Oudnoors, modern IJslands, Faeröers"
+4,18.15,Noorse taalkunde,
+4,18.16,Noorse letterkunde,
+4,18.17,Zweedse taalkunde,
+4,18.18,Zweedse letterkunde,
+4,18.19,Deense taalkunde,
+4,18.20,Deense letterkunde,
+3,18.21,Germaanse talen: overige,"Hierbij: Gotisch, Jiddisch"
+2,18.22,Romaanse talen: algemeen,
+3,18.23,Franse taal- en letterkunde,
+4,18.24,Franse taalkunde,
+4,18.25,Franse letterkunde,
+4,18.26,Franse letterkunde buiten Europa,
+3,18.27,Occitaanse taal- en/of letterkunde,Hierbij: Provençaals
+3,18.28,Italiaanse taalkunde,
+3,18.29,Italiaanse letterkunde,
+3,18.30,Spaanse taal- en letterkunde,
+4,18.31,Spaanse taalkunde,
+4,18.32,Spaanse letterkunde,
+4,18.33,Spaans-Amerikaanse letterkunde,
+3,18.34,Catalaanse taal- en/of letterkunde,
+3,18.35,Portugese taal- en letterkunde,
+4,18.36,Portugese taalkunde,
+4,18.37,Portugese letterkunde,
+4,18.38,Portugees-Amerikaanse letterkunde,
+3,18.39,Roemeense taal- en/of letterkunde,
+3,18.40,Romaanse talen: overige,"Hierbij: Reto-Romaans, Galicisch, Sardisch, Dalmatisch, Ladino"
+3,18.41,Klassieke talen: algemeen,
+4,18.42,Griekse taalkunde,
+4,18.43,Klassieke Griekse letterkunde,Hierbij: Hellenistische Griekse letterkunde
+4,18.44,Byzantijns-Griekse letterkunde,
+4,18.45,Latijnse taalkunde,
+4,18.46,Klassieke Latijnse letterkunde,
+4,18.47,Middeleeuws-Latijnse letterkunde,
+4,18.48,Neolatijnse letterkunde,
+4,18.49,Nieuwgriekse taal- en letterkunde,
+3,18.50,Slavische talen,Hierbij: Kerkslavisch
+4,18.51,Oekraïnse taal- en/of letterkunde,
+4,18.52,Russische taalkunde,
+4,18.53,Russische letterkunde,
+4,18.54,Poolse taal- en/of letterkunde,
+4,18.55,Slowaakse taal- en/of letterkunde,
+4,18.56,Tsjechische taal- en/of letterkunde,
+4,18.57,Bulgaarse taal- en/of letterkunde,
+4,18.58,Servo-Kroatische taal- en/of letterkunde,
+4,18.59,Sloveense taal- en/of letterkunde,
+4,18.60,Slavische talen: overige,"Hierbij: Wit-Russisch, Russinisch, Kasjoebisch, Polabisch, Sorbisch, Macedonisch"
+3,18.61,Baltische talen,Hierbij: Oudpruisisch
+4,18.62,Letse taal- en/of letterkunde,
+4,18.63,Litouwse taal- en/of letterkunde,
+3,18.64,Oudindische taal- en/of letterkunde,"Hierbij: Vedisch, Sanskriet"
+3,18.65,Middel- en Nieuwindische taal- en/of letterkunde,"Hierbij: Hindi, Urdu, Nepalees, Bengali, Zigeunertalen"
+3,18.66,Iraanse talen,"Hierbij: Perzisch, Koerdisch, Pahto"
+3,18.67,Keltische talen,
+3,18.68,Indo-europese talen: overige,"Hierbij: Armeens, Albanees, Italische talen, Anatolische talen, Tochaars"
+2,18.69,Afro-Aziatische talen: algemeen,
+3,18.70,Semitische taal- en/of letterkunde,"Hierbij: Aramees, Akkadisch, Zuid-Arabisch, Ethiopische talen"
+3,18.71,Arabische taal- en letterkunde: algemeen,
+4,18.72,Oude Arabische taal- en letterkunde,
+4,18.73,Moderne Arabische taalkunde,
+4,18.74,Moderne Arabische letterkunde,
+3,18.75,Hebreeuwse taal- en letterkunde: algemeen,
+4,18.76,Oude Hebreeuwse taal- en/of letterkunde,"Hierbij: Klassiek, Misjna/Rabbijns en Middelhebreeuws; Toelichting: tot en met 1780"
+4,18.77,Moderne Hebreeuwse taal- en/of letterkunde,Toelichting: vanaf 1781
+3,18.78,Afro-Aziatische talen: overige,"Hierbij: Berbertalen, talen van het oude Egypte, Tsjadische, Koesjitische, Omotische talen"
+2,18.79,Oeraalse talen: algemeen,"Hierbij: Karelisch, Samisch; Toelichting: Fins-Oegrische en Samojeedse talen"
+3,18.80,Hongaarse taal- en/of letterkunde,
+3,18.81,Finse taal- en/of letterkunde,
+3,18.82,Estische taal- en/of letterkunde,
+2,18.83,Altaïsche talen,Hierbij: Mongools
+3,18.84,Turkse taal- en/of letterkunde,Toelichting: Turkije-Turks en Osmaans
+2,18.85,Sino-Tibetaanse talen,"Hierbij: Tibetaans, Burmees"
+2,18.86,Chinese taal- en letterkunde,Hierbij: Kantonees
+2,18.87,Japanse taal- en letterkunde,
+2,18.88,Dravidische talen,Hierbij: Tamil
+2,18.89,Kaukasische talen,Hierbij: Georgisch
+2,18.90,Overige Aziatische talen,"Hierbij: Koreaans, Vietnamees, Thais, Soemerisch"
+2,18.91,Amerindische talen,Toelichting: indianentalen
+2,18.92,Talen van Sub-Saharaans Afrika,"Hierbij: Niger-Congotalen, Nilo-Saharaanse en Khoisan talen"
+2,18.93,Austronesische talen,
+3,18.94,Indonesische en Maleisische taal- en/of letterkunde,Hierbij: Maleis
+2,18.95,"Papoeatalen, Australische talen",Hierbij: non-Austronesische talen van Indonesië en Oceanië
+2,18.96,Pidgin- en Creoolse talen,
+2,18.97,Gebarentalen,
+2,18.98,Kunstmatige wereldtalen,"Hierbij: Esperanto, Volapük"
+1,18.99,Overige talen,"Hierbij: Baskisch, Eskimotalen, Etruskisch"
+0,20.00,Kunstwetenschappen: algemeen,"Hierbij: catalogi en gidsen van algemene kunstmusea, -tentoonstellingen en -verzamelingen; Verwijzing: voor de afzonderlijke kunstvormen, zie: 21. (afzonderlijke kunstvormen)"
+1,20.01,Geschiedenis van de kunstwetenschappen,
+1,20.02,Filosofie en theorie van de kunstwetenschappen,
+1,20.03,Methoden en technieken van de kunstwetenschappen,"Verwijzing: voor iconologie, zie: 20.20 (iconografie)"
+1,20.04,"Onderwijs, beroepsuitoefening, organisaties","Toelichting: alleen voor publicaties die alle kunstdisciplines betreffen. Publicaties over onderwijs, organisatie e.d. van een bepaalde kunstvorm, zie bij die betreffende kunstvorm"
+1,20.05,Kunst in relatie tot andere gebieden van cultuur: algemeen,"Toelichting: hieronder vallen zowel de wisselwerking tussen de kunst en letterkunde, als de wisselwerking tussen kunst en wetenschap(pen), als de invloed van een bepaalde cultuur op bv. de Europese kunst"
+2,20.06,Filosofie van de kunst,"Hierbij: semiotiek van de kunst; Verwijzing: voor esthetica, zie: 08.41 (filosofie; esthetica)"
+2,20.07,"Kunstkritiek, kunstbeschouwing",
+2,20.08,Psychologie van de kunst,Hierbij: kunstbeleving
+2,20.09,Kunst in relatie tot andere gebieden van cultuur: overige,
+1,20.10,Kunst en maatschappij: algemeen,"Hierbij: sociologie van de kunst, feministische kunst"
+2,20.11,Verzamelwezen,"Hierbij: algemene publicaties over verzamelingen; Verwijzing: voor catalogi en gidsen van algemene kunstverzamelingen, zie: 20.00 (kunstwetenschappen: algemeen); Verwijzing: voor publicaties over speciale verzamelingen, zie het onderwerp van de betreffende verzameling"
+2,20.12,Museumwezen,"Hierbij: algemene publicaties over kunstmusea; Verwijzing: voor afzonderlijke kunstmusea, zie: 20.00 (kunstwetenschappen); Verwijzing: voor catalogi en gidsen met een bepaald onderwerp, zie het betreffende onderwerp; Verwijzing: voor museologie, zie: 02.30 (wetenschap en cultuur in het algemeen; museologie)"
+2,20.13,Tentoonstellingen,"Hierbij: algemene publicaties over tentoonstellingen; Verwijzing: voor catalogi en gidsen van tentoonstellingen van algemene kunsttentoonstellingen, zie: 20.00 (kunstwetenschappen: algemeen); Verwijzing: voor tentoonstellingen over een bepaald onderwerp, zie het betreffende onderwerp"
+2,20.14,Commerciële aspecten van kunst,"Hierbij: kunsthandel, veilingwezen"
+2,20.15,"Conserveren, restaureren, vervalsen","Hierbij: natuurwetenschappelijk onderzoek van kunstvoorwerpen; Verwijzing: publicaties over restauratie, conservering, vervalsing van een bepaald kunstvoorwerp of bepaalde kunstvorm, zie bij de betreffende kunstvorm"
+2,20.16,Kunstbevordering,Hierbij: mecenaat
+2,20.19,Kunst en maatschappij: overige,"Hierbij: beeldrecht, plagiaat, kunstroof"
+1,20.20,Iconografie,Hierbij: algemene werken over iconografie
+2,20.21,Iconografische thema's,"Verwijzing: voor genres als landschapsschilderkunst, zie de betreffende afzonderlijke kunstvormen"
+1,20.30,Geschiedenis van de kunst: algemeen,"Hierbij: internationale biografische woordenboeken; Toelichting: kunstgeschiedenis; Verwijzing: voor de geschiedenis van de afzonderlijke kunstvormen, zie: 21. (afzonderlijke kunstvormen)"
+2,20.31,Prehistorische kunst,
+2,20.32,Kunst van schriftloze volken,"Verwijzing: voor de antropologische benadering, zie: 73.62 (culturele antropologie; kunst)"
+2,20.33,Volkskunst,
+2,20.40,"Kunst van niet-Europese landen, bevolkingsgroepen, beschavingsgebieden: algemeen","Verwijzing: voor afzonderlijke kunstvormen van niet-Europese landen, bevolkingsgroepen, beschavingsgebieden, zie: 21. (afzonderlijke kunstvormen)"
+3,20.41,Azië,Hierbij: hedendaagse Israëlische kunst
+3,20.42,Chinese kunst,
+3,20.43,Japanse kunst,
+3,20.44,"Zuid-Azië, Zuidoost-Azië, Achter-Indië","Verwijzing: voor afzonderlijke landen, zie: 20.41 (Azië)"
+3,20.45,"Nabije Oosten, Voor-Azië","Verwijzing: voor afzonderlijke landen, zie: 20.41 (Azië)"
+3,20.46,Mesopotamië,
+3,20.47,Perzië,
+3,20.48,Joodse kunst,"Verwijzing: voor hedendaagse Israëlische kunst, zie: 20.41 (Azië)"
+3,20.49,Hindoeïstische kunst,
+3,20.50,Islamitische kunst,
+3,20.51,Boeddhistische kunst,
+3,20.52,Afrika,
+3,20.53,Egypte,
+3,20.54,Amerika,Hierbij: hedendaagse Amerikaanse kunst
+3,20.55,Pre-Columbiaanse kunst,
+3,20.56,"Australië, Nieuw-Zeeland, Oceanië",
+3,20.59,"Kunst van niet-Europese landen, bevolkingsgroepen, beschavingsgebieden: overige",
+2,20.60,Kunst van de klassieke oudheid: algemeen,"Toelichting: klassieke beschavingsgebieden en beschavingen; Verwijzing: voor afzonderlijke kunstvormen, zie: 21. (afzonderlijke kunstvormen); Verwijzing: voor klassieke archeologie, zie: 15.33 (geschiedenis; pre-klassieke archeologie)"
+3,20.61,Griekse kunst,
+3,20.62,"Italische kunst, Etruskische kunst, Romeinse kunst",Toelichting: tot Constantijn de Grote
+3,20.63,"Laatantieke kunst, vroegchristelijke kunst",
+3,20.64,Kunst van de volksverhuizingstijd,
+3,20.65,Byzantijnse kunst,
+3,20.69,Kunst van de klassieke oudheid: overige,
+2,20.70,Kunst van Europa,"Hierbij: biografische woordenboeken van kunstenaars uit Europese landen; Verwijzing: voor afzonderlijke kunstvormen, zie: 21. (afzonderlijke kunstvormen); Verwijzing: voor Europese kunst buiten Europa, zie: 20.40 tot 20.59 (kunst van niet-Europese landen, bevolkingsgroepen en beschavingsgebieden)"
+2,20.89,Geschiedenis van de kunst: overige,"Hierbij: amateurkunst, kunst van gevangenen, psychisch gestoorden etc. als zodanig"
+1,20.99,Kunstwetenschappen: overige,
+0,21.00,Schilderkunst: algemeen,
+1,21.01,Technieken en materialen,"Hierbij: fresco, olieverf"
+1,21.02,Geschiedenis van de schilderkunst,Hierbij: naïeve schilderkunst
+1,21.10,Miniatuurschilderkunst,"Verwijzing: voor miniaturen in handschriften, zie: 06.10 (documentaire informatie; handschriftenkunde: algemeen)"
+1,21.11,Muurschilderkunst,Hierbij: plafondschilderkunst
+1,21.12,Glasraamkunst,"Hierbij: glas-in-lood, glas-in-beton, gebrandschilderd glas"
+1,21.19,Schilderkunst: overige,"Hierbij: achterglasschilderkunst, altaarstukken, iconen"
+0,21.20,Tekenkunst: algemeen,
+1,21.21,Technieken en materialen,"Hierbij: aquarel, pastel, pentekening"
+1,21.22,Geschiedenis van de tekenkunst,
+1,21.29,Tekenkunst: overige,"Hierbij: kindertekeningen, schetstekeningen"
+0,21.30,Grafische kunst: algemeen,
+1,21.31,Technieken en materialen,"Hierbij: ets, gravure, houtsnede"
+1,21.32,Geschiedenis van de grafische kunst,
+1,21.37,Toegepaste grafische kunst,"Hierbij: reclamekunst, affiches, postzegels"
+1,21.39,Grafische kunst: overige,"Hierbij: kinderprenten, strips, volksprenten"
+0,21.40,Fotografische kunst: algemeen,"Verwijzing: voor amateurfotografie, zie: 76.43 (recreatie en vrijetijdsbesteding; amateurfotografie)"
+1,21.41,"Technieken, materialen en apparatuur",
+1,21.42,Geschiedenis van de fotografische kunst,
+1,21.49,Fotografische kunst: overige,"Hierbij: industriële fotografie, reproductiefotografie"
+0,21.50,Beeldhouwkunst: algemeen,"Verwijzing: voor niet-zelfstandige onderdelen (in bijv. hout of ivoor), zie: 21.80 (decoratieve kunst) en verder"
+1,21.51,Technieken en materialen,
+1,21.52,Geschiedenis van de beeldhouwkunst,
+1,21.59,Beeldhouwkunst: overige,"Hierbij: gedenktekens, reliëfs, medailles"
+0,21.60,Bouwkunst: algemeen,"Verwijzing: voor technische aspecten, zie: 56.60 (civiele techniek, bouwkunde; architectonisch ontwerpen: algemeen)"
+1,21.62,Geschiedenis van de bouwkunst,
+1,21.70,Religieuze bouwkunst,"Hierbij: kerkgebouwen (incl. de kunstschatten daarin), kloosters, moskeeën, synagogen, tempels"
+1,21.71,Utilitaire bouwkunst,"Hierbij: bedrijfsgebouwen, boerderijen, fabrieken, kastelen, openbare gebouwen, paleizen; Verwijzing: voor industriële archeologie, zie: 15.36 (geschiedenis; industriële archeologie)"
+1,21.72,Woningbouw,"Verwijzing: voor technische aspecten, zie: 56.62 (civiele techniek, bouwkunde; woningbouw)"
+1,21.73,Stedenbouw,"Verwijzing: voor stadsplanning, zie: 74.60 ((sociale) geografie, cartografie, planologie, demografie; planologie: algemeen); Verwijzing: voor technische aspecten, zie: 56.70 (civiele techniek, bouwkunde; stedenbouw: algemeen)"
+1,21.74,"Landschapskunst, tuinkunst",Toelichting: tuinarchitectuur
+1,21.75,Monumentenzorg,Toelichting: publicaties over afzonderlijke monumenten of specifieke kunstvormen: zie bij de betreffende kunstvorm. Inventarissen: zie bij de betreffende kunstvorm; Hierbij: beschermde stadsgezichten; Toelichting: publicaties over afzonderlijke monumenten of specifieke kunstvormen: zie bij de betreffende kunstvorm. Inventarissen: zie bij de betreffende kunstvorm
+1,21.79,Bouwkunst: overige,"Hierbij: bouwornamentiek, onderdelen van gebouwen"
+0,21.80,Decoratieve kunst: algemeen,Hierbij: methoden en technieken van de decoratieve kunst in het algemeen
+1,21.81,Geschiedenis van de decoratieve kunst,
+1,21.82,Industriële vormgeving,Hierbij: design
+1,21.83,Geschiedenis van het ornament,Hierbij: ornamentboeken
+1,21.84,Binnenhuiskunst,"Hierbij: binnenhuisarchitectuur, stoffering en decoratie van het interieur, meubelkunst"
+1,21.85,"Kleding, mode","Hierbij: kostuum (algemeen); Verwijzing: voor niet-kunsthistorische benadering van het geestelijk kostuum, militair kostuum, klederdracht etc., zie de betreffende BC-codes"
+1,21.86,Textielkunst,"Hierbij: batik, borduurkunst, geweven stoffen, kantklossen, tapijten, tapisserieën, textielsculpturen"
+1,21.87,Houtkunst,"Hierbij: houtsnijwerk, intarsia"
+1,21.88,Keramiek,"Verwijzing: voor technische aspecten, zie: 58.25 (procestechnologie; keramische industrie)"
+1,21.90,Glaskunst,"Verwijzing: voor technische aspecten, zie: 58.25 (procestechnologie; ceramische industrie)"
+1,21.91,Metaalbewerking,"Hierbij: brons, ijzersmeedkunst, tin"
+1,21.92,Edelsmeedkunst,
+1,21.93,Schriftkunst,"Toelichting: kalligrafie; Verwijzing: voor handschriftkunde, schrift, zie: 06.10 (documentaire informatie; handschriftenkunde: algemeen)"
+1,21.94,Mozaïeken,
+1,21.97,Decoratieve kunst: overige,"Hierbij: bloemschikken, (edel)stenen, email, instrumenten, ivoor, kerkschatten, klokken, leer, papier, papier-maché, schilderijlijsten, sieraden, speelgoed, suikergoed"
+0,21.99,Overige kunstvormen,"Hierbij: computerkunst, performances, videokunst, assemblages, installaties"
+0,24.00,"Theaterwetenschap, film- en televisiewetenschap, muziekwetenschap: algemeen",
+1,24.01,Theaterwetenschap: algemeen,Toelichting: omvat het geheel van de podiumkunsten
+2,24.02,Theorie en esthetiek van theater en toneel,
+2,24.04,"Onderwijs, beroepsuitoefening, organisaties",
+2,24.05,Systematische theaterwetenschap,Toelichting: theater in relatie tot andere gebieden van cultuur
+2,24.06,Geschiedenis van het theater,
+2,24.07,"Theaterinrichting, theatertechniek","Verwijzing: voor theaterbouw, zie: 21.71 (afzonderlijke kunstvormen; utilitaire bouwkunst)"
+2,24.09,"Decors, kostuums, enscenering",
+2,24.10,Toneelkunst: algemeen,"Verwijzing: voor toneelmuziek, zie: 24.63 (toneelmuziek, filmmuziek, balletmuziek, dansmuziek)"
+3,24.11,Geschiedenis van het toneel,
+3,24.12,"Regie, speltechniek, acteren",Hierbij: interpretatie
+3,24.13,Verschijningsvormen,"Hierbij: amateurtoneel, komedie, tragedie, politiek toneel, religieus toneel"
+3,24.14,Toneelkunst: overige,Hierbij: mime
+2,24.15,Danskunst: algemeen,"Verwijzing: voor dansmuziek en balletmuziek, zie: 24.63 (toneelmuziek, filmmuziek, balletmuziek, dansmuziek)"
+3,24.16,Geschiedenis van de danskunst,
+3,24.17,Verschijningsvormen,Hierbij: ballet
+3,24.18,Choreografie,
+3,24.19,Danskunst: overige,
+2,24.20,Muziektheater: algemeen,"Toelichting: omvat zowel het theatrale als het muzikale aspect; Verwijzing: voor operamuziek en operettemuziek, zie 24.62 (operamuziek, operettemuziek)"
+3,24.21,Geschiedenis van het muziektheater,
+3,24.22,Verschijningsvormen,"Hierbij: opera, operette, musical"
+3,24.23,"Kleinkunst, cabaret, revue",
+3,24.24,"Poppenspel, marionettenspel",
+3,24.25,"Variété, circus",
+3,24.28,Muziektheater: overige,
+2,24.29,Theaterwetenschap: overige,
+1,24.30,Film- en televisiewetenschap: algemeen,"Hierbij: filmkunst: algemeen; Verwijzing: voor filmmuziek, zie: 24.63 (toneelmuziek, filmmuziek, balletmuziek, dansmuziek)"
+3,24.31,Theorie en esthetiek van de filmkunst,
+3,24.32,Geschiedenis van de filmkunst,
+3,24.33,"Regie, productie en techniek",
+3,24.34,Verschijningsvormen,"Hierbij: motieven, documentaires, animatiefilms, stomme films, SF-films, reclamefilms, tekenfilms"
+2,24.35,Videofilm,"Verwijzing: voor videokunst, zie: 21.99 (afzonderlijke kunstvormen; overige kunstvormen)"
+2,24.36,Televisie als kunstvorm,Hierbij: televisiedrama
+2,24.37,Virtuele werkelijkheid als kunstvorm,"Hierbij: cyborg art, if art"
+2,24.39,Film- en televisiewetenschap: overige,"Verwijzing: voor virtuele werklijkheid als kunstvorm, zie: 24.37"
+1,24.40,Muziekwetenschap: algemeen,
+1,24.41,"Onderwijs, beroepsuitoefening, organisaties",
+1,24.42,Systematische muziekwetenschap: algemeen,"Toelichting: muziek in relatie tot andere gebieden van cultuur; Verwijzing: voor muziek in relatie tot overige kunstvormen, zie: 20.05 (kunstwetenschappen; kunst in relatie tot andere gebieden van cultuur: algemeen)"
+2,24.43,Muziekfilosofie,
+2,24.44,Muziekpsychologie,Hierbij: muziekbeleving
+2,24.45,Muzieksociologie,Toelichting: muziek en samenleving
+2,24.46,"Fysiologie, muziektechnologie","Hierbij: akoestiek, (toon)stemmingen, studiotechniek"
+2,24.49,Systematische muziekwetenschap: overige,
+1,24.50,Historische muziekwetenschap: algemeen,"Toelichting: geschiedenis van de muziek; Verwijzing: voor volksmuziek, zie: 24.70 (etnomusicologie)"
+2,24.60,"Muziekvormen, muziekgenres: algemeen",
+3,24.61,Vocale muziek,Hierbij: vocaal-instrumentale muziek
+3,24.62,"Operamuziek, operettemuziek",
+3,24.63,"Toneelmuziek, filmmuziek, balletmuziek, dansmuziek",
+3,24.64,Instrumentale muziek,"Verwijzing: voor de afzonderlijke muziekinstrumenten en hun muziek, zie: 24.80-24.89 (muziekinstrumenten en hun muziek)"
+3,24.65,"Populaire muziek, amusementsmuziek","Hierbij: blues, jazz, chanson"
+3,24.66,Liturgische muziek,Hierbij: geestelijke muziek
+3,24.68,"Muziekvormen, muziekgenres: overige",Hierbij: elektronische muziek
+2,24.69,Historische muziekwetenschap: overige,
+1,24.70,Etnomusicologie,Hierbij: Europese volksmuziek
+1,24.75,Muziektheorie: algemeen,
+2,24.76,Compositieleer,"Hierbij: contrapunt, instrumentatie, harmonieleer, vormleer"
+2,24.77,Interpretatie,"Hierbij: editie, notatie, uitvoeringspraktijk"
+2,24.78,"Stijlanalyse, structuuranalyse",
+2,24.79,Muziektheorie: overige,
+1,24.80,Muziekinstrumenten en hun muziek: algemeen,Toelichting: bouw en kenmerken van de instrumenten en de techniek van het bespelen
+2,24.81,Toetsinstrumenten,"Hierbij: beiaard, clavecimbel, orgel, piano"
+2,24.82,Snaarinstrumenten,
+2,24.83,Blaasinstrumenten,
+2,24.84,Slaginstrumenten,Hierbij: effectinstrumenten
+2,24.85,"Mechanische muziekinstrumenten, elektronische muziekinstrumenten",
+3,24.86,Zangstem,Toelichting: stem en stemtechniek
+2,24.89,Muziekinstrumenten en hun muziek: overige,
+1,24.99,Muziekwetenschap: overige,
+0,30.00,Exacte wetenschappen: algemeen,
+1,30.01,Geschiedenis van de exacte wetenschappen,
+1,30.02,Filosofie en theorie van de exacte wetenschappen,
+1,30.03,"Methoden, technieken en organisatie van exact wetenschappelijk onderzoek",
+1,30.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,30.10,"Cybernetica, systeemtheorie","Hierbij: operations research; Verwijzing: voor regeltechniek, zie: 50.20 (technische wetenschappen in het algemeen; meet- en regeltechniek: algemeen)"
+1,30.20,Multidisciplinaire interessegebieden,
+1,30.30,Exacte wetenschappen in relatie tot andere gebieden van wetenschap en cultuur,
+1,30.99,Exacte wetenschappen: overige,
+0,31.00,Wiskunde: algemeen,
+1,31.01,Geschiedenis van de wiskunde,
+1,31.02,Filosofie en theorie van de wiskunde,"Verwijzing: voor logica, argumentatieleer, zie: 08.33 (filosofie; logica, argumentatieleer)"
+1,31.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,31.10,"Logica, verzamelingsleer",
+1,31.11,"Geordende algebra, algemene mathematische systemen",
+1,31.12,Combinatoriek,
+1,31.14,Getallentheorie,
+1,31.20,Algebra: algemeen,
+2,31.21,Groepentheorie,"Verwijzing: voor topologische groepen en Liegroepen, zie: 31.30 (topologische groepen, Liegroepen)"
+2,31.23,"Ringen, algebra's",
+2,31.24,"Lichamen, polynomen",
+2,31.25,"Lineaire algebra, multilineaire algebra",
+2,31.27,Categorietheorie,Hierbij: homologische algebra
+2,31.29,Algebra: overige,
+1,31.30,"Topologische groepen, Liegroepen",
+1,31.35,Harmonische analyse,"Hierbij: Fourieranalyse, speciale functies"
+1,31.40,Analyse: algemeen,
+2,31.41,Reële analyse,"Hierbij: maattheorie, integratietheorie"
+2,31.42,Functies van één complexe variabele,Hierbij: potentiaaltheorie
+2,31.43,Functies van meerdere complexe variabelen,Hierbij: theorie van de analytische ruimten
+2,31.44,Gewone differentiaalvergelijkingen,
+2,31.45,Partiële differentiaalvergelijkingen,
+2,31.46,Functionaalanalyse,"Hierbij: operatortheorie, integraalvergelijkingen, integraaltransformaties, operational calculus"
+2,31.48,Variatierekening,
+2,31.49,Analyse: overige,"Hierbij: reeksen; Verwijzing: voor globale analyse, zie: 31.55 (globale analyse)"
+1,31.50,Meetkunde: algemeen,
+2,31.51,Algebraïsche meetkunde,
+2,31.52,Differentiaalmeetkunde,
+2,31.55,Globale analyse,
+2,31.59,Meetkunde: overige,"Verwijzing: voor differentiaaltopologie, zie 31.65 (variëteiten, celcomplexen)"
+1,31.60,Topologie: algemeen,
+2,31.61,Algebraïsche topologie,Hierbij: k-theorie
+2,31.65,"Variëteiten, celcomplexen",Hierbij: differentiaaltopologie
+2,31.69,Topologie: overige,
+1,31.70,Waarschijnlijkheidsrekening,
+1,31.73,Mathematische statistiek,"Verwijzing: voor toepassingen van de statistiek binnen bepaalde vakgebieden, zie de betreffende vakgebieden"
+1,31.76,Numerieke analyse,
+1,31.80,Toepassingen van de wiskunde,"Verwijzing: voor toepassingen van de wiskunde binnen bepaalde vakgebieden, zie de betreffende vakgebieden"
+2,31.81,Mathematische fysica,
+1,31.99,Wiskunde: overige,
+0,33.00,Natuurkunde: algemeen,
+1,33.01,Geschiedenis van de natuurkunde,
+1,33.02,Filosofie en theorie van de natuurkunde,
+1,33.03,"Meetmethoden, meettechnieken, instrumentatie",
+1,33.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,33.06,Wiskundige methoden,
+1,33.08,Fysische informatica,Toelichting: computational physics
+1,33.10,Klassieke fysica: algemeen,
+2,33.11,Klassieke mechanica,
+2,33.12,Akoestiek,
+2,33.14,"Vloeistofdynamica, transportverschijnselen in gassen en vloeistoffen, reologie",Hierbij: transportverschijnselen in gassen en vloeistoffen
+2,33.16,Elektromagnetisme,Hierbij: klassieke veldentheorie
+2,33.18,Klassieke optica,"Verwijzing: voor moderne optica, zie: 33.38 (moderne optica)"
+2,33.19,Klassieke fysica: overige,
+1,33.20,Modern klassieke fysica: algemeen,
+2,33.21,"Relativiteit, gravitatie",
+2,33.23,Kwantumfysica,Toelichting: kwantummechanica
+2,33.25,Thermodynamica,"Verwijzing: voor chemische thermodynamica, zie: 35.12 (scheikunde; chemische thermodynamica, fasenleer)"
+2,33.26,Statistische fysica,
+2,33.27,Niet-lineaire dynamica,
+2,33.29,Modern klassieke fysica: overige,
+1,33.30,"Atoomfysica, molecuulfysica: algemeen",
+2,33.31,Elektronenstructuur van atomen en moleculen: theorie,
+2,33.32,"Atoomspectra, interacties met fotonen",
+2,33.33,"Molecuulspectra, interacties met fotonen",
+2,33.34,"Botsingen, interacties",
+2,33.35,"Atoomconstanten, molecuulconstanten",
+2,33.36,Bijzondere atomen en moleculen,
+2,33.38,Moderne optica,"Hierbij: niet-lineaire optica, Lasers, Masers"
+2,33.39,"Atoomfysica, molecuulfysica: overige",
+1,33.40,Kernfysica: algemeen,
+2,33.41,Kernstructuur,
+2,33.43,"Radioactiviteit, elektromagnetische overgangen",
+2,33.44,"Kernreacties, kernverstrooiing: theorie",
+2,33.45,"Specifieke kernreacties, specifieke kernverstrooiing",
+2,33.46,Hoge-energiekernfysica,
+2,33.47,Specifieke eigenschappen van kernen,Toelichting: kernconstanten
+2,33.48,Reactorfysica,
+2,33.49,Kernfysica: overige,
+1,33.50,Fysica van elementaire deeltjes en velden: algemeen,
+2,33.51,Kwantumveldentheorie,"Hierbij: relativistische kwantummechanica, renormalisatietheorie"
+2,33.52,Speciale theorieën,Hierbij: standaardmodel
+2,33.54,Speciale theorieën bij extreem hoge energieën,"Hierbij: stringtheorie, conforme veldentheorie"
+2,33.56,"Eigenschappen van specifieke deeltjes, resonanties",
+2,33.58,Specifieke reacties,
+2,33.59,Fysica van elementaire deeltjes en velden: overige,
+1,33.60,Gecondenseerde materie: algemeen,Toelichting: vaste-stoffysica
+2,33.61,Structuur van vloeistoffen en vaste stoffen,"Verwijzing: voor kristallografie, zie 51.10 (materiaalkunde; kristallografie)"
+2,33.62,"Mechanische eigenschappen, akoestische eigenschappen",
+2,33.63,Roosterdynamica,
+2,33.64,"Toestandsvergelijkingen, fasenovergangen",
+2,33.65,"Thermische eigenschappen, diffusie",
+2,33.67,"Kwantumvloeistoffen, kwantum vaste stoffen",Hierbij: vloeibaar en vast helium
+2,33.68,"Oppervlakken, grenslagen, dunne lagen","Is: 51.22 (materiaalkunde; oppervlakken, grenslagen, dunne lagen)"
+2,33.71,Elektronentoestanden,
+2,33.72,Elektronisch transport in gecondenseerde materie,
+2,33.73,"Elektronenstructuur en elektrische eigenschappen van oppervlakken, grenslagen en dunne lagen",
+2,33.74,Supergeleiding,
+2,33.75,"Magnetische eigenschappen, magnetische materialen",
+2,33.76,"Magnetische resonantie, magnetische relaxatie, Mössbauereffect",
+2,33.77,"Diëlektrische en optische eigenschappen, spectroscopie",
+2,33.78,"Elektronenemissie, ionenemissie",
+2,33.79,Gecondenseerde materie: overige,
+1,33.80,"Plasma's, elektrische ontladingen",
+1,33.90,Interdisciplinaire onderwerpen: algemeen,"Verwijzing: voor elektrotechniek, zie 53. (elektrotechniek); Verwijzing: voor fysische chemie, zie 35.10-35.19 (scheikunde; fysische chemie)Verwijzing: voor materiaalkunde, zie 51. (materiaalkunde); Verwijzing: voor mathematische fysica, zie: 31.81 (wiskunde; mathematische fysica)"
+2,33.93,Biofysica,"Is: 42.12 (biologie; biofysica)Verwijzing: voor medische fysica, zie: 44.31 (geneeskunde; medische fysica)"
+2,33.95,Astrofysica,Hierbij: kosmische straling;  Is: 39.22 (astronomie; astrofysica)
+2,33.98,Interdisciplinaire onderwerpen: overige,
+1,33.99,Natuurkunde: overige,
+0,35.00,Scheikunde: algemeen,"Verwijzing: voor milieuchemie, zie: 43.12 (milieukunde; milieuchemie); Verwijzing: voor procestechnologie, zie: 58. (procestechnologie)"
+1,35.01,Geschiedenis van de scheikunde,
+1,35.02,Filosofie en theorie van de scheikunde,"Verwijzing: voor theoretische chemie, zie: 35.11 (quantumchemie, chemische binding)"
+1,35.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,35.05,"Mathematische methoden, statistische methoden",Hierbij: chemometrie
+1,35.06,Computertoepassingen,
+1,35.07,Laboratoriumtechniek,
+1,35.08,Veiligheid in het laboratorium,Hierbij: veiligheidsgegevens van chemicaliën
+1,35.09,Alchemie,
+1,35.10,Fysische chemie: algemeen,
+2,35.11,"Kwantumchemie, chemische binding",Hierbij: computational chemistry;  Hierbij: theoretische chemie
+2,35.12,"Chemische thermodynamica, fasenleer","Verwijzing: voor fasenovergangen, zie: 33.64 (natuurkunde; toestandsvergelijkingen, fasenovergangen)"
+2,35.13,Reactiedynamica,
+2,35.14,Elektrochemie,
+2,35.15,Radiochemie,
+2,35.16,Fotochemie,
+2,35.17,Katalyse,"Verwijzing: voor industriële katalyse, zie: 58.14 (procestechnologie; chemische processen)"
+2,35.18,"Colloïdchemie, grensvlakchemie",Hierbij: oppervlaktechemie
+2,35.19,Fysische chemie: overige,
+1,35.20,Analytische chemie: algemeen,"Verwijzing: voor analysemethoden in de biochemie, zie: 35.71 (biochemische methoden); Verwijzing: voor chemometrie, zie: 35.05 (mathematische methoden, statistische methoden); Verwijzing: voor oppervlakteanalyse, zie: 51.22 (materiaalkunde; oppervlakken, grenslagen, dunne lagen)"
+2,35.21,Automatisering in de chemische analyse,"Hierbij: sensoren; Verwijzing: voor automatisering van de afzonderlijke analytisch chemische technieken, zie de betreffende technieken"
+2,35.22,Klassieke analytische chemie,"Hierbij: thermische analyse, titrimetrie, volumetrie, gravimetrie, complexometrie"
+2,35.24,Elektrochemische analyse,
+2,35.25,Spectrochemische analyse,"Hierbij: NMR, ESR, colorimetrie"
+2,35.27,Massaspectrometrie,
+2,35.28,Radiochemische analyse,
+2,35.29,"Chromatografische analyse, elektroforese",
+2,35.31,Anorganische analyse,
+2,35.33,Organische analyse,
+2,35.35,"Chemische analyse van lucht, water en bodem",
+2,35.39,Analytische chemie: overige,
+1,35.40,Anorganische chemie: algemeen,"Verwijzing: voor materiaalkunde, zie: 51. (materiaalkunde)"
+2,35.41,Fysische anorganische chemie,"Hierbij: reactiemechanismen, stereochemie"
+2,35.42,Anorganische synthesen,
+2,35.43,Coördinatieverbindingen,
+2,35.44,"Alkalimetalen, aardalkalimetalen en hun verbindingen","Toelichting: Li, Na, K, Rb, Cs, Fr, Be, Mg, Ca, Sr, Ba en Ra"
+2,35.45,Overgangsmetalen en hun verbindingen,"Toelichting: elementen met de atoomnummers 21 t/m 29, 39 t/m 47, 57 t/m 79, 89 en hoger"
+2,35.46,Halogenen en hun verbindingen,"Toelichting: F, Cl, Br, I en At"
+2,35.47,Chalcogenen en hun verbindingen,"Toelichting: O, S, Se, Te en Po"
+2,35.48,Anorganische verbindingen: overige,
+2,35.49,Anorganische chemie: overige,
+1,35.50,Organische chemie: algemeen,
+2,35.51,Fysische organische chemie,"Hierbij: reactiemechanismen, stereochemie"
+2,35.52,Organische synthesen,
+2,35.53,Supramoleculaire chemie,
+2,35.55,Alifatische verbindingen,
+2,35.57,Homocyclische verbindingen,Hierbij: aromatische homocyclische verbindingen
+2,35.59,Heterocyclische verbindingen,Hierbij: aromatische heterocyclische verbindingen
+2,35.60,Organometaalchemie,
+2,35.61,Functionele groepen,
+2,35.62,"Aminozuren, peptiden, eiwitten",
+2,35.63,Koolhydraten,
+2,35.65,Nucleïnezuren,
+2,35.66,"Terpenen, steroïden, alkaloïden",
+2,35.68,Organische verbindingen: overige,
+2,35.69,Organische chemie: overige,
+1,35.70,Biochemie: algemeen,
+2,35.71,Biochemische methoden,
+2,35.72,Bio-energetica,
+2,35.73,Moleculaire genetica,
+2,35.74,"Enzymen, hormonen, vitaminen",
+2,35.75,"Eiwitten, nucleïnezuren",
+2,35.79,Biochemie: overige,
+1,35.80,Macromoleculaire chemie,"Hierbij: polymeerchemie, polymerisatie; Verwijzing: voor materiaalkundige aspecten, zie: 51.70 (materiaalkunde; polymeren); Verwijzing: voor polymeertechnologie, zie: 58.22 (procestechnologie; polymeertechnologie)"
+1,35.90,Vastestofchemie,
+1,35.99,Scheikunde: overige,
+0,38.00,Aardwetenschappen: algemeen,
+1,38.01,Geschiedenis van de aardwetenschappen,
+1,38.03,Methoden en technieken in de aardwetenschappen,"Hierbij: fotogeologie, satellietwaarnemingen, radarmethoden"
+1,38.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,38.09,Fysische geografie,"Verwijzing: voor (sociale) geografie, zie: 74.00-74.29 (geografie, sociale geografie)"
+1,38.10,Geologie: algemeen,
+2,38.15,Historische geologie: algemeen,
+3,38.16,Stratigrafie,
+3,38.17,Geochronologie,
+3,38.19,Historische geologie: overige,
+2,38.20,Paleontologie: algemeen,
+3,38.21,"Paleobotanie, palynologie",
+3,38.22,Paleozoölogie,
+3,38.23,Paleo-ecologie,
+3,38.24,Paleontologie: overige,
+2,38.25,Petrologie: algemeen,Toelichting: gesteentenkunde
+3,38.26,Stollingsgesteenten,
+3,38.27,Metamorfe gesteenten,
+3,38.28,Sedimentaire gesteenten,
+3,38.29,Petrologie: overige,
+2,38.30,Mineralogie,Hierbij: afzonderlijke mineralen
+2,38.32,Geochemie,
+2,38.35,Endogene geologie: algemeen,
+3,38.36,Tektoniek,
+3,38.37,Vulkanologie,
+3,38.38,Seismologie,
+3,38.39,Endogene geologie: overige,
+2,38.40,Exogene geologie: algemeen,
+3,38.41,Sedimentatie,
+3,38.42,Erosie,
+3,38.43,Gletsjerkunde,
+3,38.44,Exogene geologie: overige,
+2,38.45,Geomorfologie: algemeen,
+3,38.46,"Karstverschijnselen, speleologie",
+3,38.47,Glaciale morfologie,"Verwijzing: voor glaciale geologie, zie: 38.15 (historische geologie: algemeen)"
+3,38.49,Geomorfologie: overige,
+2,38.50,Delfstoffengeologie: algemeen,
+3,38.51,Geologie van fossiele brandstoffen,"Verwijzing: voor mijnbouw, zie: 57. (mijnbouwkunde)"
+3,38.52,Ertsgeologie,
+3,38.54,Delfstoffengeologie: overige,
+2,38.55,Regionale geologie,
+2,38.58,Gesteentemechanica,
+2,38.59,Geologie: overige,Hierbij: toegepaste geologie
+1,38.60,Bodemkunde,"Verwijzing: voor landbouwkundige aspecten, zie: 48.32 (landbouwwetenschappen; bodemkunde, landevaluatie)"
+1,38.70,Geofysica: algemeen,
+2,38.71,"Aardmagnetisme, aardelektriciteit, aardwarmte",Hierbij: poollicht
+2,38.72,Seismometrie,
+2,38.73,Geodesie,"Toelichting: hier uitsluitend landmeetkunde; Verwijzing: voor cartografie, zie: 74.30-74.49 (cartografie)"
+2,38.79,Geofysica: overige,
+1,38.80,Meteorologie: algemeen,
+2,38.81,Atmosfeer,"Verwijzing: voor poollicht, zie: 38.71 ( aardmagnetisme, aardelektriciteit, aardwarmte)"
+2,38.82,Klimatologie,
+2,38.84,Meteorologie: overige,
+1,38.85,Hydrologie: algemeen,
+2,38.86,Grondwater,
+2,38.87,Oppervlaktewater,
+2,38.89,Hydrologie: overige,
+1,38.90,Oceanografie,
+1,38.95,"Milieugeologie, geo-ecologie",
+1,38.99,Aardwetenschappen: overige,
+0,39.00,Astronomie: algemeen,"Verwijzing: voor methoden en technieken in de astronomie, zie: 39.10 (praktische astronomie)"
+1,39.01,Geschiedenis van de astronomie,Hierbij: antieke astrologie
+1,39.02,Filosofie en theorie van de astronomie,
+1,39.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,39.10,Praktische astronomie: algemeen,Hierbij: methoden en technieken van de astronomie
+2,39.11,"Astronomische waarnemingen, observatoria, planetaria",
+2,39.12,Astronomische instrumenten,
+2,39.13,Radioastronomie,
+2,39.19,Praktische astronomie: overige,
+1,39.20,Theoretische astronomie: algemeen,
+2,39.21,Astrodynamica,
+2,39.22,Astrofysica,Hierbij: kosmische straling;  Is: 33.95 (natuurkunde; astrofysica)
+2,39.23,Hemelmechanica,
+2,39.24,Exobiologie,Is: 42.22 (biologie; exobiologie)
+2,39.29,Theoretische astronomie: overige,
+1,39.30,Kosmologie,"Hierbij: kosmogonie; Verwijzing: voor de filosofische benadering, zie: 08.46 (filosofie; natuurfilosofie)"
+1,39.40,"Sterrenstelsels, sterren: algemeen",
+2,39.41,Extragalactische stelsels,
+2,39.42,Melkwegstelsel,
+2,39.43,Interstellaire materie,Hierbij: kosmische materie
+2,39.49,"Sterrenstelsels, sterren: overige",
+1,39.50,Zonnestelsel: algemeen,
+2,39.51,Zon,
+2,39.52,Maan,
+2,39.53,Planeten,
+2,39.54,Interplanetaire materie,"Hierbij: kometen, meteoren"
+2,39.59,Zonnestelsel: overige,
+1,39.99,Astronomie: overige,
+0,42.00,Biologie: algemeen,
+1,42.01,Geschiedenis van de biologie,
+1,42.02,Filosofie en theorie van de biologie,Hierbij: bio-ethiek
+1,42.03,Methoden en technieken van de biologie,"Hierbij: microscopie; Verwijzing: voor toepassing van statistiek in de biologie, zie: 42.11 (biomathematica)"
+1,42.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,42.05,Natuurlijke historie,Hierbij: natuurbeschrijvingen
+1,42.10,Theoretische biologie,"Hierbij: modellen, taxonomie in het algemeen"
+1,42.11,Biomathematica,"Hierbij: biostatistiek, biometrie"
+1,42.12,Biofysica,"Is: 33.93 (natuurkunde; biofysica)Verwijzing: voor medische fysica, zie: 44.31 (geneeskunde; medische fysica)"
+1,42.13,Moleculaire biologie,"Verwijzing: voor biochemie, zie: 35.70-35.79 (scheikunde; biochemie)"
+1,42.14,Radiobiologie,
+1,42.15,"Cytologie, celbiologie, celfysiologie","Hierbij: microbiële genetica, membranen, receptoren"
+1,42.16,Celmorfologie,"Hierbij: cytohistochemie, celkweek; Verwijzing: voor celdeling en celdifferentiatie, zie: 42.23 (embryologie, ontwikkelingsbiologie)"
+1,42.17,Algemene fysiologie,"Hierbij: groei, veroudering, bioritmen, homeostase, adaptatie, thermobiologie, biometeorologie; Verwijzing: voor dierfysiologie, zie: 42.63 (dierfysiologie); Verwijzing: voor fysiologie van de mens, zie: 44.37 (geneeskunde; fysiologie); Verwijzing: voor plantenfysiologie, zie: 42.42 (plantenfysiologie); Verwijzing: voor veterinaire fysiologie, zie 46.12 (diergeneeskunde; veterinaire fysiologie)"
+1,42.18,Algemene endocrinologie,
+1,42.20,Genetica,"Verwijzing: voor genetica van de mens, zie: 44.48 (geneeskunde; medische genetica); Verwijzing: voor genetica van dieren, zie: 42.64 (dierengenetica); Verwijzing: voor microbiële genetica, zie: 42.15 (cytologie, celbiologie, celfysiologie); Verwijzing: voor plantengenetica, zie: 42.43 (plantengenetica); Verwijzing: voor technische aspecten van genetische manipulatie, modificatie, zie: 58.30 (procestechnologie; biotechnologie)"
+1,42.21,Evolutie,"Verwijzing: voor evolutie van de mens, zie: 42.85 (fysische antropologie); Verwijzing: voor paleontologie, zie: 38.20 (aardwetenschappen; paleontologie: algemeen)"
+1,42.22,Exobiologie,Is: 39.24 (astronomie; exobiologie)
+1,42.23,"Embryologie, ontwikkelingsbiologie",
+1,42.24,Voortplanting,"Verwijzing: vootplanting bij de mens, zie: 44.92"
+1,42.30,Microbiologie,"Verwijzing: voor biotechnologie en toegepaste microbiologie, zie: 58.31 (procestechnologie; technische microbiologie)"
+1,42.31,Immunologie,
+1,42.32,Virologie,"Verwijzing: voor virusziekten van de mens, zie: 44.75 (geneeskunde; infectieziekten, parasitaire ziekten); Verwijzing: voor virusziekten van dieren, zie: 46.52 (diergeneeskunde; infectieziekten, parasitaire ziekten); Verwijzing: voor virusziekten van planten, zie: 48.54 (landbouwwetenschappen; planteziektenkunde)"
+1,42.33,Bacteriologie,
+1,42.34,Mycologie,Hierbij: fungi
+1,42.35,Protistologie,"Hierbij: protozoa, ééncellige planten"
+1,42.36,Parasitologie,"Verwijzing: voor parasitaire ziekten bij de mens, zie: 44.75 (geneeskunde; infectieziekten, parasitaire ziekten); Verwijzing: voor parasitaire ziekten bij dieren, zie: 46.52 (diergeneeskunde; infectieziekten, parasitaire ziekten)"
+1,42.40,Botanie: algemeen,"Hierbij: eetbare planten, geneeskrachtige planten, giftige planten"
+2,42.41,Plantenmorfologie,"Hierbij: cel- en weefselleer van planten; Verwijzing: voor pollenmorfologie, -atlassen, zie: 38.21 (aardwetenschappen; paleobotanie, palynologie)"
+2,42.42,Plantenfysiologie,Hierbij: fytochemie
+2,42.43,Plantengenetica,"Verwijzing: voor plantenveredeling, zie: 48.58 (landbouwwetenschappen; plantenveredeling)"
+2,42.44,"Plantengeografie, plantenecologie","Hierbij: populatiedynamica, flora's"
+2,42.45,"Plantentuinen, herbaria",
+1,42.48,"Plantensystematiek, plantentaxonomie",
+2,42.50,Cryptogamae: algemeen,"Toelichting: sporenplanten; Verwijzing: voor Fungi, zie: 42.34 (mycologie, lichenologie)"
+3,42.51,Algae,"Toelichting: wieren; Verwijzing: voor de overige Thallophytae, zie: 42.35 (protistologie)"
+3,42.52,Bryophyta,Toelichting: mossen
+3,42.53,Pteridophyta,Toelichting: varens
+2,42.54,Phanerogamae: algemeen,Toelichting: zaadplanten; Hierbij: dendrologie; Toelichting: zaadplanten
+3,42.55,Gymnospermae,Toelichting: naaktzadigen
+3,42.56,Angiospermae,Toelichting: bedektzadigen
+3,42.57,Monocotyledoneae,Toelichting: éénzaadlobbigen
+3,42.58,Dicotyledoneae,Toelichting: tweezaadlobbigen
+2,42.59,Botanie: overige,Hierbij: publicaties over zaden en reproductieve botanie
+1,42.60,Zoölogie: algemeen,
+2,42.61,"Cytologie, histologie van dieren",
+2,42.62,"Morfologie van dieren, anatomie van dieren, embryologie van dieren",
+2,42.63,Dierfysiologie,"Hierbij: vergelijkende fysiologie, fysiologie van afzonderlijke organen"
+2,42.64,Dierengenetica,
+2,42.65,"Zoögeografie, zoö-ecologie","Hierbij: populatiedynamica, fauna's"
+2,42.66,Ethologie,Hierbij: sociobiologie
+2,42.67,"Dierentuinen, aquaria, terraria",
+1,42.70,"Systematische zoölogie, zoötaxonomie","Toelichting: hier alleen algemene publicaties, Publicaties over specifieke diersoorten, zie aldaar."
+2,42.71,Invertebrata: algemeen,Toelichting: ongewervelden
+3,42.72,"Porifera, Coelenterata, Echinodermata, Brachyopoda","Hierbij: bryozoa; Toelichting: sponzen, holtedieren, stekelhuidigen, armpotigen, mosdieren"
+3,42.73,Mollusca,"Toelichting: weekdieren, schelpdieren"
+3,42.74,Arthropoda,"Hierbij: spinnen, mijten; Toelichting: geleedpotigen met uitzondering van insecten"
+3,42.75,Insecta,"Hierbij: entomologie; Toelichting: insecten; Verwijzing: voor spinnen, mijten, zie: 42.74 (Arthropoda)"
+3,42.76,"Platyhelminthes, Aschelminthes, Annelida","Toelichting: platwormen, rondwormen, gelede wormen"
+3,42.79,Invertebrata: overige,
+2,42.80,Vertebrata: algemeen,Toelichting: gewervelden
+3,42.81,Pisces,Toelichting: vissen
+3,42.82,"Amphibia, Reptilia","Toelichting: amfibieën, reptielen"
+3,42.83,Aves,Toelichting: vogels
+3,42.84,Mammalia,Toelichting: zoogdieren
+2,42.85,Fysische antropologie,Toelichting: antropobiologie; de mens als biologisch wezenHierbij: evolutie van de mens; Toelichting: antropobiologie; de mens als biologisch wezen
+2,42.89,Zoölogie: overige,
+1,42.90,Ecologie: algemeen,"Verwijzing: voor milieukunde, zie: 43. (milieukunde); Verwijzing: voor milieubiologie, zie: 43.11 (milieukunde; milieubiologie); Verwijzing: voor paleo-ecologie, zie: 38.23 (aardwetenschappen; paleo-ecologie)"
+2,42.91,Terrestrische ecologie,Hierbij: aerobiologie
+2,42.92,Hydrobiologie,
+3,42.93,Limnologie,
+3,42.94,Mariene biologie,
+2,42.95,Natuurbescherming,"Hierbij: bescherming van planten, bescherming van dieren; Verwijzing: voor natuurbeheer, zie: 43.31 (milieukunde; natuurbeheer, landschapsbeheer)"
+2,42.97,Ecologie: overige,
+1,42.99,Biologie: overige,
+0,43.00,Milieukunde: algemeen,Hierbij: algemene milieustatistieken
+1,43.01,Geschiedenis van de milieukunde,
+1,43.02,Filosofie van de milieukunde,Hierbij: milieuethiek
+1,43.03,Methoden en technieken van de milieukunde,"Hierbij: milieuvoorspellingstechnieken, MER-methoden, risico-analyse"
+1,43.04,"Onderwijs, beroepsuitoefening, organisaties",Hierbij: milieuvoorlichting
+1,43.10,Milieukunde: basiswetenschappen: algemeen,
+2,43.11,Milieubiologie,"Verwijzing: voor ecologie, zie: 42.90-42.97 (biologie; ecologie)"
+2,43.12,Milieuchemie,"Verwijzing: voor chemische analyse van lucht, water en bodem, zie: 35.35 (scheikunde; chemische analyse van lucht, water en bodem)"
+2,43.13,Milieutoxicologie,Hierbij: ecotoxicologie
+2,43.14,Milieugezondheidskunde,Is: 44.13 (geneeskunde; milieugezondheidskunde)
+2,43.15,Milieutechnologie,"Hierbij: ketenbeheer, schone/duurzame technologie, sanering; Toelichting: in deze rubriek uitsluitend de milieukundige benadering; Verwijzing: voor technische aspecten, zie: 58.50-58.59 (procestechnologie; milieutechnologie)"
+2,43.16,Milieurecht,Is: 86.75 (recht; milieurecht)
+2,43.17,Milieueconomie,Is: 83.63 (economie; milieueconomie)
+2,43.19,Milieukunde: basiswetenschappen: overige,
+1,43.30,Milieu- en natuurbeleid: algemeen,
+2,43.31,"Natuurbeheer, landschapsbeheer","Hierbij: beheersplannen; Verwijzing: voor natuurbescherming, zie: 42.95 (biologie; natuurbescherming)"
+2,43.32,Milieuhygiëne,"Hierbij: rampenplan, milieuveiligheid; Verwijzing: voor arbeidshygiëne, zie: 44.12 (geneeskunde; arbeidsgeneeskunde, bedrijfsgeneeskunde)"
+2,43.33,Beheer van natuurlijke hulpbronnen,"Hierbij: grondstoffenbeheer, energiebeheer"
+2,43.34,Integrale milieubeleidsinstrumenten,"Hierbij: milieubeleidsplanning, integrale milieuvergunning"
+2,43.35,Milieuregulering,"Hierbij: milieuregelgeving, subsidies, (interne) milieuzorgsystemen, (interne) milieuplannen, milieu-audits; Toelichting: zowel overheidsregulering als interne regulering van bedrijven en instellingen; Verwijzing: voor milieurecht, zie: 43.16 (milieurecht)"
+2,43.37,Normstelling,"Hierbij: milieukwaliteitseisen, mac-waarden, uitworpnormen, blootstellingsnormen; Verwijzing: voor normstelling met betrekking tot afzonderlijke milieuproblemen, zie: 43.40-43.79 (milieuproblemen)"
+2,43.39,Milieu- en natuurbeleid: overige,
+1,43.40,Milieuproblemen: algemeen,
+2,43.41,Milieuthema's: algemeen,
+3,43.42,Specifieke milieuthema's,"Hierbij: verzuring, vermesting, verspreiding, verstoring, (afval)verwijdering, versnippering, verdroging; Verwijzing: voor afvalverwerking, zie: 58.53 (procestechnologie; afvalverwerkingstechnieken)"
+3,43.47,Mondiale milieuthema's,"Hierbij: klimaatverandering, verwoestijning, ozonlaag"
+3,43.49,Milieuthema's: overige,
+2,43.50,Milieucompartimenten,"Toelichting: water, bodem, lucht, straling, geluid; Verwijzing: voor afvalverwijdering, zie: 43.42 (specifieke milieuthema's); Verwijzing: voor bodemsaneringstechnieken, zie: 58.52 (procestechnologie; bodemsaneringstechnieken)"
+2,43.56,Schadelijke stoffen,"Hierbij: milieugevaarlijke stoffen, zware metalen, fosfaten, nitraten, prioritaire stoffen"
+2,43.60,Milieusectoren: algemeen,Toelichting: milieudoelgroepen
+3,43.61,Landbouw en milieu,
+3,43.62,"Verkeer en milieu, vervoer en milieu",
+3,43.63,Industrie en milieu,
+3,43.64,Volkshuisvesting en milieu,Hierbij: verstedelijking en milieu
+3,43.65,Recreatie en milieu,Hierbij: toerisme en milieu
+3,43.66,Huishoudens en milieu,
+3,43.69,Milieusectoren: overige,
+2,43.70,Ontwikkelingsproblematiek en milieu,
+2,43.71,Wereldvoedselprobleem en milieu,
+2,43.72,Bevolkingsproblematiek en milieu,
+2,43.79,Milieuproblemen: overige,
+1,43.99,Milieukunde: overige,
+0,44.00,Geneeskunde: algemeen,"Verwijzing: voor gezondheidszorg, zie: 44.10-44.29 (maatschappelijke gezondheidszorg, persoonlijke gezondheidszorg, hygiëne)"
+1,44.01,Geschiedenis van de geneeskunde,
+1,44.02,Filosofie en ethiek van de geneeskunde,
+1,44.04,"Onderwijs, beroepsuitoefening, organisaties",Hierbij: fraude
+1,44.05,Medische economie,
+1,44.06,Medische sociologie,
+1,44.07,Medische psychologie,Hierbij: gezondheidspsychologie
+1,44.10,Maatschappelijke gezondheidszorg: algemeen,Toelichting: sociale geneeskunde; Hierbij: gezondheidsvoorlichting; Toelichting: sociale geneeskunde
+2,44.11,Preventieve geneeskunde,Hierbij: epidemiologie
+2,44.12,"Arbeidsgeneeskunde, bedrijfsgeneeskunde",Hierbij: beroepsziekten
+2,44.13,Milieugezondheidskunde,Is: 43.14 (milieukunde; milieugezondheidskunde)
+2,44.14,Gezondheidszorgvoorzieningenstelsel,Hierbij: verzekeringsgeneeskunde
+2,44.15,Eerstelijnsgezondheidszorg,"Verwijzing: voor huisartsgeneeskunde, zie: 44.62 (huisartsgeneeskunde)"
+2,44.16,Geestelijke gezondheidszorg,
+2,44.17,"Intramurale gezondheidszorgvoorzieningen, ziekenhuiswezen","Hierbij: tehuizen, verzorgingsinstituten"
+2,44.19,Maatschappelijke gezondheidszorg: overige,"Hierbij: schoolgeneeskunde, lijkbezorging, kruisverenigingen"
+1,44.20,"Persoonlijke gezondheidszorg, hygiëne: algemeen",
+2,44.21,Voeding,"Verwijzing: voor dieetleer, zie: 44.52 (therapie); Verwijzing: voor voeding van kinderen, zie: 44.67 (kindergeneeskunde); Verwijzing: zie ook 49.25 (huishoudkunde; eetwaren naar bereiding)"
+2,44.29,"Persoonlijke gezondheidszorg, hygiëne: overige",
+1,44.30,Geneeskunde: basisvakken: algemeen,"Verwijzing: voor het gebruik van basisvakken bij andere onderdelen van de geneeskunde, zie bij de betreffende onderdelen"
+2,44.31,Medische fysica,"Hierbij: biomedische techniek, biomedische materialen"
+2,44.32,"Medische wiskunde, medische statistiek",Hierbij: medische informatica
+2,44.33,Medische chemie,"Hierbij: stofwisseling; Verwijzing: voor klinische chemie, zie: 44.46 (klinische pathologie)"
+2,44.34,Anatomie,
+2,44.35,Histologie,
+2,44.36,Embryologie,
+2,44.37,Fysiologie,
+2,44.38,Farmacologie,"Hierbij: farmacotherapie, farmacochemie"
+2,44.41,Toxicologie,
+2,44.42,"Farmacie, farmaceutica",Hierbij: geneeskrachtige planten
+2,44.43,Medische microbiologie,"Verwijzing: voor parasitologie, zie: 44.44 (parasitologie)"
+2,44.44,Parasitologie,"Verwijzing: voor parasitaire ziekten, zie: 44.75 (infectieziekten, parasitaire ziekten)"
+2,44.45,Immunologie,"Hierbij: cytokines; Verwijzing: voor immunologische ziekten, zie: 44.78 (immunologische ziekten)"
+2,44.46,Klinische pathologie,"Hierbij: proefdieren, klinische chemie, bloed-, liquor- en semen-onderzoek"
+2,44.47,Pathologie,
+2,44.48,Medische genetica,
+2,44.49,Geneeskunde: basisvakken: overige,
+1,44.50,Diagnostiek en therapie: algemeen,"Verwijzing: voor de diagnostiek of therapie van onderdelen van de geneeskunde, zie bij de betreffende onderdelen"
+2,44.51,Diagnostiek,"Hierbij: symptomatologie; Verwijzing: voor radiodiagnostiek, zie: 44.64 (radiologie)"
+2,44.52,Therapie,"Hierbij: revalidatie, fysiotherapie, dieetleer, ergotherapie, reanimatie; Verwijzing: voor farmacotherapie, zie: 44.38 (farmacologie); Verwijzing: voor radiotherapie, zie: 44.64 (radiologie)"
+2,44.59,Diagnostiek en therapie: overige,"Hierbij: acute geneeskunde, intensive care"
+1,44.60,Geneeskunde: specialismen: algemeen,
+2,44.61,Interne geneeskunde,"Verwijzing: voor de afzonderlijke organen en lichaamsdelen, zie de betreffende specialismen"
+2,44.62,Huisartsgeneeskunde,"Verwijzing: voor eerstelijnsgezondheidszorg, zie: 44.15 (eerstelijnsgezondheidszorg)"
+2,44.63,Verpleegkunde,
+2,44.64,Radiologie,"Hierbij: radiodiagnostiek, radiotherapie, nucleaire geneeskunde, NMR, MRI; Verwijzing: voor de radiologie van de afzonderlijke organen en lichaamsdelen, zie de betreffende specialismen"
+2,44.65,Chirurgie,"Hierbij: transplantaties, plastische chirurgie; Verwijzing: voor de chirurgie van de afzonderlijke organen en lichaamsdelen, zie de betreffende specialismen"
+2,44.66,Anesthesiologie,Hierbij: anesthesie
+2,44.67,Kindergeneeskunde,"Verwijzing: voor kinderpsychiatrie, zie: 44.91 (psychiatrie, psychopathologie)"
+2,44.68,"Gerontologie, geriatrie",
+2,44.70,Sportgeneeskunde,
+2,44.71,Verkeersgeneeskunde,"Hierbij: luchtvaartgeneeskunde, ruimtevaartgeneeskunde, zeevaartgeneeskunde"
+2,44.72,Gerechtelijke geneeskunde,Hierbij: gerechtelijke tandheelkunde
+2,44.73,Geografische geneeskunde,"Hierbij: tropische geneeskunde, medische geografie; Toelichting: geneeskunde die door geografische factoren is bepaald"
+2,44.74,Seksuologie,"Verwijzing: voor psychologische aspecten, zie: 77.85 (psychologie; seksuologie)"
+2,44.75,"Infectieziekten, parasitaire ziekten","Hierbij: virusziekten, bacteriële ziekten; Hierbij: publicaties over geslachtsziekten in het algemeen én over afzonderlijke, specifieke geslachtsziekten; Verwijzing: voor parasitologie, zie: 44.44 (parasitologie)"
+2,44.76,"Voedingsstoornissen, deficiëntieziekten",
+2,44.77,Stofwisselingsziekten,
+2,44.78,Immunologische ziekten,"Hierbij: algemene allergieën, collageenziekten; Hierbij: aids; Verwijzing: voor immunologie, zie: 44.45 (immunologie)"
+2,44.79,Vergiftigingen,"Toelichting: door planten of dieren; Verwijzing: voor afzonderlijke stoffen, zie: 44.41 (toxicologie)"
+2,44.80,Traumatologie,Toelichting: fysisch veroorzaakte traumata en ziekten
+2,44.81,"Neoplasmata, gezwellen","Hierbij: oncologie, kanker; Verwijzing: voor neoplasmata van de afzonderlijke organen en lichaamsdelen, zie de betreffende specialismen"
+2,44.82,Aangeboren afwijkingen,"Verwijzing: voor de aangeboren afwijkingen van de afzonderlijke organen en lichaamsdelen, zie de betreffende specialismen"
+2,44.83,"Reumatologie, orthopedie","Hierbij: spierstelsel, skeletstelsel"
+2,44.84,Thorax,Hierbij: ademhalingsstelsel
+2,44.85,Cardiologie,Hierbij: hart en bloedvatstelsel
+2,44.86,Hematologie,"Hierbij: bloed en bloedbereidende organen, lymfestelsel"
+2,44.87,Gastro-enterologie,"Hierbij: spijsverteringsstelsel; Verwijzing: voor mondheelkunde, zie: 44.96 (tandheelkunde); Verwijzing: voor diabetes, zie: 44.89 (endocrinologie)"
+2,44.88,Urologie,"Hierbij: urogenitaalstelsel, nefrologie, nierziekten; Verwijzing: voor het genitaalstelsel van de vrouw, zie: 44.92 (gynaecologie; verloskunde)"
+2,44.89,Endocrinologie,Hierbij: diabetes
+2,44.90,Neurologie,"Hierbij: dementie, neuromusculair systeem, pijn, spina bifida"
+2,44.91,"Psychiatrie, psychopathologie","Hierbij: psychosomatische ziekten, kinderpsychiatrie; Verwijzing: voor psychotherapie, zie: 77.72-77.84 (psychologie; psychotherapie)"
+2,44.92,"Gynaecologie, obstetrie","Hierbij: voortplanting, kunstmatige inseminatie, embryo-implantatie, in-vitro fertilisatie, verloskunde"
+2,44.93,Dermatologie,
+2,44.94,"Keel-, neus- en oorheelkunde",
+2,44.95,Oogheelkunde,
+2,44.96,Tandheelkunde,"Hierbij: mondheelkunde; Verwijzing: voor gerechtelijke tandheelkunde, zie: 44.72 (gerechtelijke geneeskunde)"
+2,44.97,Geneeskunde: specialismen: overige,
+1,44.98,Alternatieve geneeskunde,"Hierbij: homeopathie, acupunctuur, chiropraxie, gebedsgenezing"
+1,44.99,Geneeskunde: overige,
+0,46.00,Diergeneeskunde: algemeen,
+1,46.01,Geschiedenis van de diergeneeskunde,
+1,46.02,"Filosofie, theorie en ethiek van de diergeneeskunde",
+1,46.03,Methoden en technieken van de diergeneeskunde,
+1,46.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,46.10,Diergeneeskunde: basisvakken: algemeen,"Verwijzing: voor endocrinologie van de voortplanting, zie: 46.60 (voortplanting)"
+2,46.11,"Veterinaire anatomie, veterinaire embryologie, veterinaire histologie",
+2,46.12,Veterinaire fysiologie,
+2,46.13,"Veterinaire biochemie, veterinaire endocrinologie",
+2,46.14,"Veterinaire farmacologie, veterinaire toxicologie",
+2,46.19,Diergeneeskunde: basisvakken: overige,
+1,46.20,Veterinaire volksgezondheid,"Hierbij: hygiëne en keuring van voedingsmiddelen van dierlijke oorsprong, slachthuiskunde, zoönosen"
+1,46.30,Preventieve diergeneeskunde,"Hierbij: bedrijfsdiergeneeskunde; Verwijzing: voor preventie van infectieziekten, zie: 46.54 (veterinaire immunologie)"
+1,46.40,Veterinaire pathologie,"Hierbij: algemene pathologie, orgaanpathologie, pathologische anatomie, oncologie, gerechtelijke diergeneeskunde"
+1,46.50,Veterinaire microbiologie,
+1,46.52,"Infectieziekten, parasitaire ziekten",
+1,46.54,Veterinaire immunologie,
+1,46.60,Voortplanting,"Hierbij: veterinaire verloskunde, kunstmatige inseminatie, embryotransplantatie; Verwijzing: voortplanting bij de mens, zie: 44.92"
+1,46.70,Geografie van dierziekten,Hierbij: tropische diergeneeskunde
+1,46.80,Klinische diergeneeskunde,"Hierbij: verpleging, veterinaire chirurgie, orthopedie, anesthesiologie, radiologie, cardiologie, hematologie, longziekten, gastro-enterologie, nefrologie, neurologie, oogheelkunde, dermatologie, endocriene ziekten; Toelichting: diagnostiek en therapie van dierziekten"
+1,46.90,Proefdierkunde,"Hierbij: pathologie van proefdieren, ziektemodellen, vivisectie"
+1,46.99,Diergeneeskunde: overige,
+0,48.00,Landbouwwetenschappen: algemeen,"Verwijzing: voor landbouw en milieu, zie: 43.61 (milieukunde; landbouw en milieu)"
+1,48.01,Geschiedenis van de landbouwwetenschappen,
+1,48.03,Methoden en technieken van de landbouwwetenschappen,
+1,48.04,"Onderwijs, beroepsuitoefening, organisaties",Hierbij: landbouwvoorlichting
+1,48.10,Landbouw als sector,Hierbij: landbouwbeleid in het algemeen; agrarische landenstudies 
+1,48.12,Geschiedenis van de landbouw,"Verwijzing: voor de historische benadering, zie: 15. (geschiedenis)"
+1,48.14,Landbouweconomie,Is: 83.66 (economie; landbouweconomie)
+1,48.16,Landbouwsystemen,"Hierbij: alternatieve landbouw, beheerslandbouw; Toelichting: farming systems; Toelichting: specifieke onderdelen uit de alternatieve landbouw worden bij de betreffende onderdelen geplaatst"
+1,48.18,Landbouwbedrijfsleer,
+1,48.20,Landbouwtechniek: algemeen,
+2,48.22,Bedrijfsgebouwen,
+2,48.24,"Werktuigen, machines",
+2,48.26,Arbeid in de landbouw,
+2,48.28,"Energie, energiebesparing",
+2,48.29,Landbouwtechniek: overige,
+1,48.30,Natuurlijke hulpbronnen: algemeen,
+2,48.32,"Bodemkunde, landevaluatie",Toelichting: bodem als hulpbron
+2,48.34,"Irrigatie, drainage",
+2,48.36,Grondbewerking,
+2,48.39,Natuurlijke hulpbronnen: overige,
+1,48.40,Bosbouw: algemeen,
+2,48.42,Bosteelt,
+2,48.44,Bosexploitatie,
+2,48.46,"Hout, houtproducten",
+2,48.49,Bosbouw: overige,
+1,48.50,Plantenteelt: algemeen,"Hierbij: akkerbouw, tuinbouw, fruitteelt, groenteteelt, sierteelt in het algemeen; Verwijzing: voor tuinieren, zie: 76.41 (recreatie, vrijetijdsbesteding; tuinieren)"
+2,48.52,"Plantenvoeding, bemestingsleer",
+2,48.54,Plantenziektenkunde,
+2,48.56,Vermeerdering van planten,
+2,48.58,Plantenveredeling,
+2,48.59,Plantenteelt: overige,
+1,48.60,"Zoötechniek, veeteelt: algemeen","Hierbij: insectenteelt, huisdieren; Verwijzing: voor diergeneeskunde, zie: 46. (diergeneeskunde)"
+2,48.61,Veevoeding,
+2,48.62,Gebruik van dieren,"Toelichting: als gezelschapsdier, rijdier, producent van voedsel"
+2,48.63,Economische zoölogie,"Toelichting: nuttige en schadelijke dieren, bestrijding van plagen"
+2,48.64,Veefokkerij,Hierbij: vermeerderen van landbouwhuisdieren
+2,48.66,Jacht,"Toelichting: wildbenutting; Verwijzing: voor jachtsport, zie: 76.12 (recreatie en vrijetijdsbesteding; takken van sport)"
+2,48.67,Visserij,"Verwijzing: voor hengelsport, zie: 76.12 (recreatie, vrijetijdsbesteding; takken van sport)"
+2,48.68,Aquacultuur,
+2,48.69,"Zoötechniek, veeteelt: overige",
+1,48.99,Landbouwwetenschappen: overige,
+0,49.00,Huishoudkunde: algemeen,
+1,49.01,Geschiedenis van de huishoudkunde,
+1,49.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,49.10,Soorten van huishoudingen,"Hierbij: privé-huishoudingen; Verwijzing: voor professionele gastvrijheid, zie: 49.55 (professionele gastvrijheid)"
+1,49.15,Economie van het huishouden,"Hierbij: budget, consumentenaangelegenheden; Verwijzing: voor consumentenrecht, zie: 86.67 (recht; consumentenrecht)"
+1,49.20,Huishoudelijke apparaten,
+1,49.25,Eetwaren naar bereiding,"Hierbij: kookkunst, recepten; Verwijzing: voor dieetleer, zie: 44.52 (geneeskunde; therapie); Verwijzing: voor voedingsmiddelentechnologie, zie: 58.34 (procestechnologie; levensmiddelentechnologie); Verwijzing: zie ook 44.21 (geneeskunde; voeding)"
+1,49.27,Dranken,
+1,49.30,"Woning, woninginrichting","Verwijzing: voor binnenhuisarchitectuur, zie: 21.84 (afzonderlijke kunstvormen; binnenhuiskunst)"
+1,49.35,Kleding,"Verwijzing: voor mode, zie: 21.85 (afzonderlijke kunstvormen; kleding, mode); Verwijzing: voor zelf maken van kleding, zie: 76.44 (recreatie en vrije tijdsbesteding; handenarbeid)"
+1,49.40,Lichaamsverzorging,"Verwijzing: voor lichamelijke gezondheidszorg, zie: 44.20 (geneeskunde; persoonlijke gezondheidszorg, hygiëne)"
+1,49.45,Materieel onderhoud,"Hierbij: wassen, strijken, schoonmaken"
+1,49.50,"Thuisverzorging van kinderen, zieken, gasten",
+1,49.55,Professionele gastvrijheid,"Hierbij: horeca, instellings- en gaarkeukens, catering"
+1,49.99,Huishoudkunde: overige,
+0,50.00,Technische wetenschappen: algemeen,
+1,50.01,Geschiedenis van de technische wetenschappen,
+1,50.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,50.10,Techniek: algemeen,
+2,50.11,Geschiedenis van de techniek,Hierbij: geschiedenis van de industriële technologie
+2,50.12,Filosofie van de techniek,
+2,50.13,Aangepaste technologie,"Verwijzing: voor toepassingen van aangepaste technologie, zie de betreffende rubrieken"
+2,50.14,Aspectenonderzoek der techniek,"Hierbij: technology assessment; Verwijzing: voor economische aspecten, zie: 83.62 (economie; economie van de technologie); Verwijzing: voor futurologie, zie: 02.40 (wetenschap en cultuur in het algemeen; futurologie)"
+2,50.17,Veiligheid in de techniek,
+2,50.19,Techniek: overige,
+1,50.20,Meet- en regeltechniek: algemeen,
+2,50.21,Meettechniek,
+2,50.22,Regeltechniek,"Toelichting: besturingstechniek; Verwijzing: voor procesbesturing, zie: 58.17 (procestechnologie; procesbesturing)"
+1,50.70,Energie,
+1,50.80,"Technisch ontwerpen, technisch tekenen","Verwijzing: voor automatiseringstechnische aspecten, zie: 54.73 (informatica; computergraphics)"
+1,50.99,Technische wetenschappen: overige,
+0,51.00,Materiaalkunde: algemeen,
+1,51.01,Geschiedenis van de materiaalkunde,
+1,51.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,51.10,Kristallografie,
+1,51.12,"Kristalvorming, kristalgroei, kristaldislocaties, kristaldefecten",Hierbij: éénkristallen
+1,51.20,"Materiaaloppervlakken, materiaalgrensvlakken: algemeen",
+2,51.22,"Oppervlakken, grenslagen, dunne lagen","Is: 33.68 (natuurkunde; oppervlakken, grenslagen, dunne lagen)"
+2,51.24,Corrosie,
+2,51.29,"Materiaaloppervlakken, materiaalgrensvlakken: overige",
+1,51.30,"Materiaalonderzoek, materiaaleigenschappen: algemeen",
+2,51.32,Breukmechanica,
+2,51.34,Vermoeiing,
+2,51.39,"Materiaalonderzoek, materiaaleigenschappen: overige",
+1,51.40,Keramische materialen,
+1,51.50,Metaalkunde: algemeen,
+2,51.52,Ferrometalen,
+2,51.54,Non-ferrometalen,
+2,51.59,Metaalkunde: overige,
+1,51.60,Composietmaterialen,
+1,51.70,Polymeren,"Hierbij: kunststoffen, elastomeren"
+1,51.99,Materiaalkunde: overige,
+0,52.00,Werktuigbouwkunde: algemeen,
+1,52.01,Geschiedenis van de werktuigbouwkunde,Hierbij: geschiedenis van mechanische technologie
+1,52.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,52.10,"Werktuigbouwkundig ontwerpen, construeren",
+1,52.12,Tribologie,
+1,52.15,Machineonderdelen: algemeen,
+2,52.16,Verbindingselementen,"Hierbij: veren, schokbrekers"
+2,52.17,Lagers,
+2,52.19,Machineonderdelen: overige,
+1,52.20,Overbrengingsmechanismen: algemeen,
+2,52.21,Tandwieloverbrengingen,
+2,52.22,"Koppelingen, remmen",
+2,52.24,Overbrengingsmechanismen: overige,
+1,52.25,"Pijpleidingen, appendages, vaten",
+1,52.30,"Thermische, hydraulische en pneumatische energieomzetters: algemeen","Hierbij: turbomachines, stromingswerktuigen"
+2,52.40,Thermische energieomzetters: algemeen,
+3,52.41,"Warmtewisselaars, stookinrichtingen, kernreactorconstructies",
+3,52.42,"Verwarming, ventilatie, klimaatregeling",
+3,52.43,Koeltechniek,Toelichting: koudetechniek
+3,52.44,"Stoomgeneratoren, stoomketels, stoommachines",
+3,52.45,"Benzinemotoren, dieselmotoren",Hierbij: wankelmotoren
+3,52.46,Gasturbines,
+3,52.49,Thermische energieomzetters: overige,
+2,52.50,Hydraulische en pneumatische energieomzetters: algemeen,
+3,52.51,"Pompen, compressoren",Hierbij: ventilatoren
+3,52.52,Waterturbines,Hierbij: watermolens
+3,52.53,Windturbines,Hierbij: windmolens
+3,52.54,Hydraulische en pneumatische energieomzetters: overige,
+2,52.59,"Thermische, hydraulische en pneumatische energieomzetters: overige",
+1,52.60,"Transporttechniek, opslagtechniek: algemeen","Verwijzing: voor logistiek, zie: 85.35 (bedrijfskunde, organisatiekunde, arbeidswetenschappen; productiemanagement)"
+2,52.61,Hefwerktuigen,"Hierbij: kranen, liften"
+2,52.62,"Pneumatisch transport, hydraulisch transport",
+2,52.63,Stofafscheidingstechniek,"Hierbij: cyclonen, centrifuges"
+2,52.69,"Transporttechniek, opslagtechniek: overige","Hierbij: transporteurs, vorkheftrucks, containers"
+1,52.70,Mechanische technologie: algemeen,Hierbij: werkplaatstechniek
+2,52.71,"Werkplaatsmeettechniek, gereedschapswerktuigen, instrumentmakerij","Hierbij: toleranties, passingen"
+2,52.72,Automatisering van de werkplaatstechniek,"Hierbij: robottoepassingen, manipulatoren"
+2,52.74,Materiaalbewerking: algemeen,
+3,52.75,Verspanende materiaalbewerking,
+3,52.76,Niet-verspanende materiaalbewerking,
+3,52.77,"Gieten, sinteren",
+3,52.78,"Warmtebehandeling, oppervlaktebehandeling",
+3,52.79,Materiaalbewerking: overige,
+2,52.80,Verbindingstechniek: algemeen,
+3,52.81,"Persverbindingen, schroefverbindingen, klinkverbindingen",
+3,52.82,Lastechniek,Hierbij: solderen
+3,52.84,Verbindingstechniek: overige,
+2,52.85,"Textieltechniek, vezeltechnologie","Verwijzing: voor textielveredeling, zie: 58.23 (procestechnologie; textielindustrie, papierindustrie)"
+2,52.86,Verpakkingstechniek,"Toelichting: voor toepassingen van verpakkingstechniek, zie de betreffende vakgebieden"
+2,52.87,Druktechniek,"Hierbij: drukmachines, bewerking van papier; Verwijzing: voor grafische aspecten, zie: 06.24 (documentaire informatie; drukken, drukkerij)"
+2,52.89,Mechanische technologie: overige,
+1,52.90,"Machinebewaking, machineonderhoud",
+1,52.99,Werktuigbouwkunde: overige,
+0,53.00,Elektrotechniek: algemeen,"Verwijzing: voor computers en randapparatuur, zie: 54. (informatica)"
+1,53.01,Geschiedenis van de elektrotechniek als vak,
+1,53.02,Theorie van de elektrotechniek,
+1,53.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,53.10,Geschiedenis van de elektrotechniek als verschijnsel,
+1,53.11,Netwerktheorie,
+1,53.12,Elektrotechnische componenten,
+1,53.13,Elektrotechnische schakelingen,
+1,53.15,Elektrische meettechniek,
+1,53.16,Elektrische regeltechniek,
+1,53.17,Vermogenselektronica,
+1,53.18,Elektrische ruis,
+1,53.30,Elektrische energietechniek: algemeen,"Verwijzing: voor algemene aspecten, zie: 50.70 (technische wetenschappen in het algemeen; energie)"
+2,53.31,Elektrische centrales,"Hierbij: elektriciteitsnetten, kabels"
+2,53.32,Elektromechanica,
+2,53.33,Elektrische generatoren,
+2,53.34,Elektrische motoren,
+2,53.35,Elektrische omvormers,"Hierbij: transformatoren, gelijkrichters, voedingsapparatuur"
+2,53.36,Directe energieomzetters,"Hierbij: batterijen, zonnecellen, magnetohydrodynamica"
+2,53.37,Hoogspanningstechniek,
+2,53.38,Verlichtingstechniek,Toelichting: lichttechniek
+2,53.39,Elektrische energietechniek: overige,
+1,53.50,Elektronica: algemeen,
+2,53.51,Elektronische componenten,
+2,53.52,Elektronische schakelingen,
+2,53.53,Versterkers,Hierbij: operationele versterkers
+2,53.54,Modulatie,Hierbij: codering
+2,53.55,Micro-elektronica,
+2,53.56,Halfgeleiderelementen,
+2,53.57,Geïntegreerde schakelingen,
+2,53.59,Elektronica: overige,
+1,53.70,Telecommunicatietechniek: algemeen,
+2,53.71,"Informatietheorie, communicatietheorie, signaaltheorie",
+2,53.72,Communicatienetten,Hierbij: satellietcommunicatie
+2,53.73,"Elektrische signaaltransmissie, optische signaaltransmissie",Hierbij: transmissielijnen
+2,53.74,Antennes,
+2,53.75,"Telegrafie, datatransmissie","Hierbij: telex, fax"
+2,53.76,Telefonie,Hierbij: mobilofoon
+2,53.77,Radiotechniek,
+2,53.78,Beeldtechniek,"Hierbij: televisietechniek, videotechniek"
+2,53.82,Microgolftechniek,
+2,53.83,"Telemetrie, telecontrole",
+2,53.84,"Elektronische navigatie, radar",
+2,53.85,Elektroakoestiek,Hierbij: audiotechniek
+2,53.89,Telecommunicatietechniek: overige,
+1,53.99,Elektrotechniek: overige,
+0,54.00,Informatica: algemeen,
+1,54.01,Geschiedenis van de informatica,
+1,54.02,Filosofie en theorie van de informatica,
+1,54.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,54.10,"Theoretische informatica programmeertalen, formele talen, berekenbaarheid","Hierbij: abstracte machines, analyse van algoritmen, complexiteit van problemen, semantiek van; Verwijzing: voor numerieke wiskunde, mathematische logica, discrete wiskunde, zie: 31. (wiskunde)"
+1,54.20,Computerapparatuur: algemeen,"Toelichting: hardware; Verwijzing: voor geïntegreerde schakelingen, zie: 53.57 (elektrotechniek; geïntegreerde schakelingen)"
+2,54.21,"Randapparatuur voor invoer, uitvoer en datacommunicatie",
+2,54.22,Logisch ontwerp van computers,
+2,54.29,Computerapparatuur: overige,
+1,54.30,Technische structuur van computersystemen: algemeen,
+2,54.31,Computerarchitectuur,Toelichting: processorarchitectuur
+2,54.32,Computernetwerken,"Hierbij: netwerkprotocols, gedistribueerde computersystemen; Toelichting: technische aspecten; Verwijzing: voor ontwikkeling en toepassing van internet en websites, zie: 54.84; Verwijzing: voor internet als massacommunicatiemiddel, zie 05.38 (elektronische communicatie, inhoudelijke aspecten)"
+2,54.33,Prestatieanalyse,Toelichting: performance
+2,54.39,Technische structuur van computersystemen: overige,
+1,54.40,Microcomputers,Toelichting: hier worden publicaties geplaatst over microcomputers waarin zowel hardware als software behandeld worden
+1,54.50,Programmatuur: algemeen,Toelichting: software
+2,54.51,Programmeertechnieken,"Hierbij: functioneel programmeren, parallel programmeren"
+2,54.52,Programmatuurontwikkeling,"Hierbij: specificaties, programmacode, verificatie, testen, debuggen, simulatie; Toelichting: software engineering"
+2,54.53,Programmeertalen,"Hierbij: vertalerbouw; Verwijzing: voor taalkundige aspecten, zie: 17.46 (algemene taal- en literatuurwetenschap; mathematische linguïstiek, computer linguïstiek (vertalen met computers)"
+2,54.54,Besturingssystemen,"Toelichting: operating systems, beheerssystemen"
+2,54.55,Opmaaktalen,"Hierbij: SGML, XML, etc."
+2,54.59,Programmatuur: overige,Hierbij: gebruikersvriendelijkheid
+1,54.60,Informatiesystemen: algemeen,
+2,54.61,"Ontwikkeling van informatiesystemen, beheer van informatiesystemen","Hierbij: projectmanagement, softwarebeheer"
+2,54.62,Machineleesbare gegevens,"Hierbij: gegevensstructuren, representatie van gegevens, opslag van gegevens, cryptografie, bestandsorganisatie"
+2,54.64,Gegevensbanken,"Toelichting: databanken, databases; Verwijzing: voor information storage and retrieval, zie: 06.64 (documentaire informatie; information storage and retrieval)"
+2,54.65,Webontwikkeling,"Hierbij: web engineering, systeemontwikkeling voor websites"
+2,54.69,Informatiesystemen: overige,
+1,54.70,Computermethoden: algemeen,
+2,54.71,"Formule manipulatie, computeralgebra",
+2,54.72,Kunstmatige intelligentie,Hierbij: expertsystemen
+2,54.73,Computergraphics,
+2,54.74,"Patroonherkenning, beeldverwerking",Toelichting: image processing
+2,54.79,Computermethoden: overige,
+1,54.80,"Toepassingen van computersystemen, computertechniek: algemeen","Verwijzing: voor bestuurlijke informatie, zie: 85.20 (bedrijfskunde, organisatiekunde; bestuurlijke informatie, informatieverzorging); Verwijzing: voor toepassingen gebonden aan een vakgebied, zie het betreffende vakgebied"
+2,54.81,Toepassingen van informatiesystemen,Hierbij: kantoorautomatisering
+2,54.82,Tekstverwerking,
+2,54.83,Computer aided engineering,"Hierbij: CAD, CAM, robotica"
+2,54.84,Ontwikkeling en toepassing van internet en websites,"Verwijzing: voor toepassingen van internet en websites binnen vakgebieden, zie de betreffende vakgebieden; Verwijzing: voor opmaaktalen, zie 54.55; Verwijzing: voor internet als massacommunicatiemiddel zie: 05.38"
+2,54.89,"Toepassingen van computersystemen, computertechniek: overige",
+1,54.99,Informatica: overige,
+0,55.00,"Verkeerstechniek, vervoerstechniek: algemeen","Verwijzing: voor de planologische aspecten van verkeer, zie: 74.75 (planologie; verkeer, transport); Verwijzing: voor vervoerseconomie, zie: 83.72 (economie; verkeer)"
+1,55.01,Geschiedenis van verkeers- en vervoerstechniek als vakgebied,
+1,55.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,55.06,"Verkeersregeling, verkeersveiligheid",
+1,55.08,Navigatie,"Toelichting: van schepen en lucht- en ruimtevaartuigen; Verwijzing: voor elektronische navigatie, zie: 53.84 (elektrotechniek; elektronische navigatie, radar)"
+1,55.10,Voertuigdynamica,
+1,55.15,Geschiedenis van verkeer en vervoer,
+1,55.20,"Wegverkeer, wegvoertuigen: algemeen",
+2,55.21,"Geschiedenis van de auto, geschiedenis van het automobilisme",
+2,55.22,Automobieltechniek,
+2,55.23,Automobielonderhoud,
+2,55.29,"Wegverkeer, wegvoertuigen: overige","Hierbij: elektrische auto's, tweewielers"
+1,55.30,"Railverkeer, railvoertuigen: algemeen",
+2,55.31,"Geschiedenis van treinen, geschiedenis van trams",Hierbij: spoorwegmaatschappijen
+2,55.39,"Railverkeer, railvoertuigen: overige",Hierbij: magneetzweefkussentreinen
+1,55.40,"Scheepvaart, schepen: algemeen",
+2,55.41,"Geschiedenis van de scheepvaart, scheepsbouw, schepen",
+2,55.42,Vaardynamica,
+2,55.43,Scheepsuitrusting,"Hierbij: scheepsonderdelen, scheepvaartinstrumenten"
+2,55.49,"Scheepvaart, schepen: overige","Hierbij: scheepsbevrachting, scheepsberging, reddingswezen"
+1,55.50,Luchtvaart: algemeen,
+2,55.51,Geschiedenis van de luchtvaart,
+2,55.52,Vliegmechanica,"Hierbij: stabiliteit, aerodynamica"
+2,55.53,Vliegtuiguitrusting,"Hierbij: onderdelen, instrumenten"
+2,55.59,Luchtvaart: overige,"Hierbij: parachutes, zeppelins, ballonnen"
+1,55.60,Ruimtevaart: algemeen,
+2,55.61,Geschiedenis van de ruimtevaart,
+2,55.69,Ruimtevaart: overige,
+1,55.70,Luchtkussenvoertuigen,
+1,55.99,"Verkeerstechniek, vervoerstechniek: overige",
+0,56.00,"Civiele techniek, bouwkunde: algemeen","Verwijzing: voor architectuur, zie: 21.60-21.79 (afzonderlijke kunstvormen; bouwkunst)"
+1,56.01,"Geschiedenis van de civiele techniek, bouwkunde",
+1,56.02,"Filosofie en theorie van de civiele techniek, bouwkunde",
+1,56.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,56.10,Bouwconstructies: algemeen,
+2,56.11,Constructief ontwerpen,
+2,56.12,Betonconstructies,
+2,56.13,Staalconstructies,
+2,56.14,Houtconstructies,
+2,56.15,Steenconstructies,
+2,56.19,Bouwconstructies: overige,
+1,56.20,"Wegenbouw, waterbouw: algemeen",
+2,56.21,"Grondwerk, funderingen",
+2,56.22,Tunnelbouw,
+2,56.23,Bruggenbouw,Hierbij: viaducten
+2,56.24,Wegenbouw,Hierbij: wegtracering
+2,56.25,Spoorwegenbouw,
+2,56.30,Waterbouwkundige constructies,"Hierbij: sluizen, stuwen, stuwdammen, steigers, rivierwegen"
+2,56.33,Kustwaterbouw,
+2,56.34,Offshoretechniek,
+2,56.35,Drinkwatervoorziening,"Verwijzing: voor waterhuishouding, zie: 48.34 (landbouwwetenschappen; irrigatie, drainage)"
+2,56.36,Riolering,"Verwijzing: voor afvalwaterzuivering, zie: 58.51 (procestechnologie: afvalwaterbehandeling)"
+2,56.39,"Wegenbouw, waterbouw: overige",
+1,56.40,Bouwbedrijf: algemeen,
+2,56.41,Bouwplaats,
+2,56.42,Bouwmethoden,"Hierbij: skeletbouw, prefabbouw"
+2,56.43,Bouwmaterieel,
+2,56.44,Bouwtoezicht,
+2,56.45,"Bouwmaterialen, bouwproducten","Hierbij: daken, vloeren, trappen, wanden, deuren, ramen, verbindingen, verbindingsmiddelen"
+2,56.46,Bouwafwerking,
+2,56.47,"Bouwonderhoud, bouwtechnische restauratie",
+2,56.49,Bouwbedrijf: overige,
+1,56.50,Gebouwinstallaties: algemeen,
+2,56.51,"Gasinstallaties, sanitaire installaties",
+2,56.52,Elektrische gebouwinstallaties,
+2,56.54,Gebouwinstallaties: overige,
+1,56.55,Bouwfysica: algemeen,
+2,56.56,Bouwakoestiek,Hierbij: lawaaibestrijding
+2,56.57,"Thermische aspecten van gebouwen, aerodynamische aspecten van gebouwen","Hierbij: tocht, ventilatie, klimaatregeling"
+2,56.59,Bouwfysica: overige,Hierbij: bouwfysische verlichting
+1,56.60,Architectonisch ontwerpen: algemeen,"Verwijzing: voor architectuurgeschiedenis, zie: 21.62 (afzonderlijke kunstvormen; geschiedenis van de bouwkunst); Verwijzing: voor binnenhuisarchitectuur, zie: 21.84 (afzonderlijke kunstvormen; binnenhuiskunst)"
+2,56.61,Architectonisch tekenen,
+2,56.62,Woningbouw,
+2,56.63,Utiliteitsbouw,
+2,56.64,"Culturele gebouwen, recreatieve gebouwen",
+2,56.69,Architectonisch ontwerpen: overige,
+1,56.70,Stedenbouw: algemeen,"Verwijzing: voor planologische aspecten, zie: 74.72 (planologie; urbane planning) en 74.73 (planologie; stadsvernieuwing, dorpsvernieuwing)"
+2,56.71,"Stadsreconstructie, stadsrenovatie",
+2,56.72,Stadsuitbreiding,
+2,56.73,Stedelijke verkaveling,
+2,56.79,Stedenbouw: overige,
+1,56.99,"Civiele techniek, bouwkunde: overige",
+0,57.00,Mijnbouwkunde: algemeen,
+1,57.01,Geschiedenis van de mijnbouwkunde,
+1,57.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,57.10,Ondergrondse mijnbouw,
+1,57.12,Dagbouw,
+1,57.14,Maritieme mijnbouw,
+1,57.20,Opsporing van delfstoffen,
+1,57.30,Winning van delfstoffen: algemeen,
+2,57.31,Winning van ertsen,
+2,57.35,Winning van fossiele brandstoffen: algemeen,
+3,57.36,"Winning van aardgas, winning van aardolie",Hierbij: transport door pijpleidingen
+3,57.37,"Winning van steenkool, winning van bruinkool, winning van turf",
+3,57.39,Winning van fossiele brandstoffen: overige,
+2,57.40,Winning van natuursteen,"Hierbij: zandwinning, grintwinning"
+2,57.49,Winning van delfstoffen: overige,"Hierbij: aardwarmte, edelstenen, waterwinning"
+1,57.50,Bereiding van delfstoffen: algemeen,"Verwijzing: voor verwerking van grondstoffen, zie: 58.21 (procestechnologie; brandstoftechnologie)"
+2,57.51,Bereiding van ertsen,"Toelichting: malen, breken, sortering, pelletisering, scheiding"
+2,57.52,Bereiding van niet-ertsen,
+2,57.59,Bereiding van delfstoffen: overige,
+1,57.60,"Ondergrondse opslag, ondergrondse lozing",
+1,57.99,Mijnbouwkunde: overige,
+0,58.00,Procestechnologie: algemeen,
+1,58.01,Geschiedenis van de procestechnologie,
+1,58.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,58.10,Proceskunde: algemeen,
+2,58.11,Procesontwerp,
+2,58.12,Fysische processen,"Hierbij: fysisch-chemische processen, scheidingsprocessen, mengprocessen; Toelichting: unit operations; Verwijzing: voor pyrotechniek, zie: 58.21 (brandstoftechnologie)"
+2,58.13,Membraantechnologie,
+2,58.14,Chemische processen,Hierbij: industriële katalyse; Toelichting: unit processes
+2,58.15,Reactorkunde,"Hierbij: chemische reactoren; Verwijzing: voor bioreactoren, zie: 58.31 (technische microbiologie)"
+2,58.16,Procesapparatuur,"Hierbij: apparaatkunde, fabriekskunde; Verwijzing: voor specifieke toepassingen binnen de procesindustrie, zie: 58.20-58.49 (procesindustrie); Verwijzing: voor werktuigbouwkundige aspecten, zie: 52.30-52.69 (werktuigbouwkunde)"
+2,58.17,Procesbesturing,"Verwijzing: voor regeltechniek, zie: 50.22 (technische wetenschappen in het algemeen; regeltechniek)"
+2,58.18,Proceseconomie,
+2,58.19,Proceskunde: overige,
+1,58.20,Procesindustrie: algemeen,Toelichting: industriële chemie
+2,58.21,Brandstoftechnologie,"Hierbij: petrochemische industrie, technologie en producten; pyrotechnologie, explosiva"
+2,58.22,Polymeertechnologie,"Hierbij: rubber; Verwijzing: voor materiaalkundige aspecten, zie: 51.70 (materiaalkunde; polymeren)"
+2,58.23,"Textielindustrie, papierindustrie","Hierbij: textielveredeling, chemisch reinigen, textielververij, karton, leertechnologie"
+2,58.24,Metallurgie,"Verwijzing: voor materiaalkundige aspecten, zie: 51.50 (materiaalkunde; metaalkunde: algemeen)"
+2,58.25,Keramische industrie,"Hierbij: glas, cement; Verwijzing: voor materiaalkundige aspecten, zie: 51.40 (materiaalkunde; keramische materialen)"
+2,58.26,"Kleurstoffenindustrie, verftechnologie","Hierbij: verven, inkten"
+2,58.28,Farmaceutische industrie,"Hierbij: parfumerie, cosmetica"
+2,58.30,Biotechnologie,"Hierbij: technische aspecten van genetische manipulatie, modificatie"
+2,58.31,Technische microbiologie,Hierbij: bioreactoren
+2,58.34,Levensmiddelentechnologie,"Hierbij: dranken, genotmiddelen"
+2,58.49,Procesindustrie: overige,
+1,58.50,Milieutechnologie: algemeen,"Verwijzing: voor milieukundige aspecten, zie: 43.15 (milieukunde; milieutechnologie); Verwijzing: voor milieutechnieken geïntegreerd in (productie)processen, zie: 58.12-58.14 (proceskunde) en 58.20-58.49 (procesindustrie)"
+2,58.51,Afvalwaterbehandeling,"Verwijzing: voor drinkwaterzuivering, zie: 56.35 (civiele techniek, bouwkunde; drinkwatervoorziening)"
+2,58.52,Bodemsaneringstechnieken,
+2,58.53,Afvalverwerkingstechnieken,Hierbij: recycling
+2,58.59,Milieutechnologie: overige,
+1,58.99,Procestechnologie: overige,
+0,70.00,Sociale wetenschappen: algemeen,
+1,70.01,Geschiedenis van de sociale wetenschappen,
+1,70.02,Filosofie en theorie van de sociale wetenschappen,"Hierbij: methodologie, systematiek"
+1,70.03,"Methoden, technieken en organisatie van sociaal-wetenschappelijk onderzoek",
+1,70.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,70.08,Sociale filosofie,Is: 08.44 (filosofie; sociale filosofie)
+1,70.10,Multidisciplinaire interessegebieden,
+1,70.99,Sociale wetenschappen: overige,
+0,71.00,Sociologie: algemeen,"Verwijzing: voor methoden en technieken van de sociologie, zie: 70.03 (sociale wetenschappen in het algemeen; methoden, technieken en organisatie van sociaal wetenschappelijk onderzoek)"
+1,71.01,Geschiedenis van de sociologie,
+1,71.02,Filosofie en theorie van de sociologie,"Verwijzing: voor sociale filosofie, zie: 70.08 (sociale wetenschappen in het algemeen; sociale filosofie)"
+1,71.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,71.05,Sociologische stromingen,
+1,71.07,Sociografie,"Verwijzing: voor sociale geografie, zie: 74.00-74.29 (geografie, sociale geografie)"
+1,71.10,Sociale structuur: algemeen,
+2,71.11,Maatschappij,
+2,71.12,"Sociale stratificatie, sociale mobiliteit","Hierbij: sociale klassen, sociale ongelijkheid, sociaal milieu"
+2,71.14,Stedelijke samenleving,
+2,71.15,Rurale samenleving,
+2,71.19,Sociale structuur: overige,"Hierbij: macht, leiderschap"
+1,71.20,Samenlevingsvormen: algemeen,
+2,71.21,"Familie, gezin",
+2,71.22,Huwelijk,"Hierbij: gehuwden, echtscheiding"
+2,71.23,Niet-huwelijkse samenlevingsvormen,
+2,71.24,Alleenstaanden,
+2,71.25,Seksualiteit,"Hierbij: homoseksualiteit in het algemeen. Voor homoseksualiteit als sociaal probleem, zie: 71.67 (seksualiteit als sociaal probleem); Verwijzing: voor seksualiteit als sociaal probleem, zie: 71.67 (seksualiteit als sociaal probleem)"
+2,71.29,Samenlevingsvormen: overige,
+1,71.30,Sociale groepen: algemeen,"Verwijzing: voor sociale klassen, zie: 71.12 (sociale stratificatie, sociale mobiliteit)"
+2,71.31,Seksen en hun onderlinge verhoudingen,Hierbij: vrouwendiscriminatie
+3,71.32,Man,
+3,71.33,Vrouw,"Verwijzing: voor algemene vrouwenstudies zie: 02.60 (wetenschap en cultuur in het algemeen; vrouwenstudies: algemeen); Verwijzing: voor vrouwenbeweging, zie: 71.38 (sociale bewegingen); Verwijzing: voor vrouwendiscriminatie, zie: 71.31 (seksen en hun onderlinge verhoudingen)"
+2,71.34,Leeftijdsgroepen,Hierbij: volwassenen
+3,71.35,Jeugd,
+3,71.36,Bejaarden,Hierbij: sociale gerontologie
+2,71.37,Etnische groepen,"Verwijzing: voor etnische betrekkingen, zie 71.62 (etnische betrekkingen); Verwijzing: voor minderhedenproblematiek, zie: 71.63 (minderhedenproblematiek)"
+2,71.38,Sociale bewegingen,"Hierbij: vrouwenbeweging, actiegroepen, kraakbeweging; Verwijzing: voor politieke actiegroepen, zie: 89.63 (politicologie; pressiegroepen)"
+2,71.39,Sociale groepen: overige,
+1,71.40,Sociale processen: algemeen,
+2,71.41,Sociale veranderingen,
+2,71.42,Economische factoren,Toelichting: veranderingen in de samenleving onder invloed van economische factoren
+2,71.43,Technologische factoren,Toelichting: veranderingen in de samenleving onder invloed van technische factoren
+2,71.44,Groepsprocessen,"Hierbij: sociale controle, socialisatie, sociale rol; Verwijzing: voor groepsdynamica, zie: 77.64 (psychologie; groepsdynamica)"
+2,71.49,Sociale processen: overige,
+1,71.50,Cultuur: algemeen,
+2,71.51,"Waarden, normen",Hierbij: ideologie
+2,71.52,Culturele processen,"Hierbij: acculturatie, assimilatie, diffusie; Verwijzing: voor culturele processen in niet-westerse samenlevingen, zie: 73.50 (culturele antropologie; acculturatie)"
+2,71.55,"Folklore, volkskunde: algemeen",Hierbij: regionale studies
+3,71.56,Materiële cultuur,"Hierbij: boerderijen, huizen, huisraad, gereedschap, kleding"
+3,71.57,Immateriële cultuur,"Hierbij: zeden en gewoonten, spelen, symbolen, volksgeneeskunde, sagen, legenden en sprookjes als volkskundig materiaal, volksgeloof"
+3,71.58,"Folklore, volkskunde: overige",
+2,71.59,Cultuur: overige,"Hierbij: tegencultuur, subcultuur"
+1,71.60,"Sociale vraagstukken, sociale conflicten: algemeen","Verwijzing: voor sociale ongelijkheid, zie: 71.12 (sociale stratificatie, sociale mobiliteit)"
+2,71.61,Discriminatie,"Verwijzing: voor rassendiscriminatie, zie: 71.62 (etnische betrekkingen); Verwijzing: voor vrouwendiscriminatie, zie: 71.31 (seksen en hun onderlinge verhoudingen)"
+2,71.62,Etnische betrekkingen,"Hierbij: rassendiscriminatie; Verwijzing: voor etnische groepen, zie: 71.37 (etnische groepen)"
+2,71.63,Minderhedenproblematiek,"Hierbij: minderhedenbeleid; Verwijzing: voor etnische groepen, zie: 71.37 (etnische groepen)"
+2,71.64,Deviant gedrag,
+2,71.65,Criminaliteit als sociaal probleem,"Hierbij: criminologie en victimologie; Verwijzing: voor delicten, strafrecht, zie: 86.41-86.49 (recht; strafrecht)"
+2,71.66,Verslaving,
+2,71.67,Seksualiteit als sociaal probleem,"Verwijzing: voor seksualiteit, zie: 71.25 (seksualiteit)"
+2,71.68,Sociaal gehandicapten,Hierbij: armoede
+2,71.70,Lichamelijk gehandicapten,
+2,71.71,Geestelijk gehandicapten,
+2,71.79,"Sociale vraagstukken, sociale conflicten: overige",
+1,71.80,Sociale politiek: algemeen,"Verwijzing: voor sociale dienstverlening, zie: 79. (andragologie)"
+2,71.81,Welzijnsbeleid,
+2,71.83,Volkshuisvesting,"Hierbij: woningnood; Verwijzing: voor technische aspecten, zie: 56.60-56.79 (civiele techniek, bouwkunde; architectonisch ontwerpen, stedebouw)"
+2,71.89,Sociale politiek: overige,
+1,71.99,Sociologie: overige,
+0,73.00,Culturele antropologie: algemeen,"Toelichting: van niet-westerse samenlevingen; Verwijzing: voor culturele antropologie van de westerse samenleving, zie: 71. (sociologie)"
+1,73.01,Geschiedenis van de culturele antropologie,
+1,73.02,Filosofie en theorie van de culturele antropologie,
+1,73.03,Methoden en technieken van de culturele antropologie,
+1,73.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,73.05,Antropologische musea,
+1,73.06,Etnografie,
+1,73.07,Niet-westerse sociologie: algemeen,
+2,73.08,Ontwikkelingsproblematiek,
+2,73.09,Niet-westerse sociologie: overige,
+1,73.10,Ecologische bestaansvoorwaarden: algemeen,
+2,73.11,Milieu,
+2,73.12,Bevolking,
+2,73.13,Nederzetting,
+2,73.19,Ecologische bestaansvoorwaarden: overige,
+1,73.20,Technologische bestaansvoorwaarden: algemeen,Hierbij: materiële cultuur in het algemeen
+2,73.21,Vervaardiging van gebruiksvoorwerpen,"Hierbij: pottenbakken, weven; Verwijzing: voor kunstzinnige benadering, zie: 21.80 (afzonderlijke kunstvormen; decoratieve kunst: algemeen)"
+2,73.22,"Wapens, jachtinstrumenten",
+2,73.23,Kleding,
+2,73.24,Huisvesting,
+2,73.25,"Voedsel, voedselbereiding",
+2,73.29,Technologische bestaansvoorwaarden: overige,
+1,73.30,Economische bestaansvoorwaarden: algemeen,
+2,73.31,"Landbouw, veeteelt",
+2,73.32,"Jagen, verzamelen",
+2,73.34,Handel en ruil,
+2,73.39,Economische bestaansvoorwaarden: overige,
+1,73.40,Sociale structuur: algemeen,
+2,73.41,Afstamming,
+2,73.42,"Leeftijdsgroepen, initiatie",
+2,73.43,"Familie, verwantschap, huwelijk",
+2,73.44,Seksualiteit,
+2,73.45,Seksen en hun onderlinge verhoudingen,
+2,73.46,Interetnische relaties,
+2,73.49,Sociale structuur: overige,
+1,73.50,Acculturatie,
+1,73.53,Immateriële cultuur,
+1,73.55,Religie: algemeen,
+2,73.56,Mythologie,
+2,73.57,"Cultus, riten (culturele antropologie)",
+2,73.58,Magie,"Hierbij: hekserij, toverij"
+2,73.59,Religie: overige,
+1,73.60,"Wetenschap, kunst, onderwijs: algemeen",
+2,73.61,"Wetenschap, geneeskunde","Toelichting: niet-westerse vormen van (volks)geneeskunde; Verwijzing: voor alternatieve geneeskunde, zie: 44.98 (geneeskunde; alternatieve geneeskunde)"
+2,73.62,Kunst,"Hierbij: muziek; Verwijzing: voor de kunstzinnige benadering, zie: 20. (kunstwetenschappen) en 21. (afzonderlijke kunstvormen); Verwijzing: voor de musicologische benadering, zie: 24.70 (muziekwetenschap; etnomusicologie)"
+2,73.63,Orale literatuur,"Hierbij: legenden, verhalen"
+2,73.64,"Taal, communicatie",
+2,73.65,Opvoeding en onderwijs,
+2,73.69,"Wetenschap, kunst, onderwijs: overige",
+1,73.70,Politieke antropologie: algemeen,
+2,73.71,"Rechten, normen en wetten","Verwijzing: voor rechtsantropologie, zie: 86.06 (recht; rechtsantropologie)"
+2,73.72,"Politiek, bestuur",
+2,73.79,Politieke antropologie: overige,
+1,73.80,Folklore,"Verwijzing: voor folklore in het algemeen, zie: 71.55 (sociologie; folklore, volkskunde: algemeen); Verwijzing: voor westerse folklore, zie: 71.55 (sociologie; folklore, volkskunde: algemeen)"
+1,73.85,Cultuurpsychologie,"Hierbij: persoonlijkheid en cultuur, cross-culturele psychologie, volkenpsychologie"
+1,73.99,Culturele antropologie: overige,
+0,74.00,"Geografie, sociale geografie: algemeen","Verwijzing: voor fysische geografie, zie: 38.09 (aardwetenschappen; fysische geografie); Verwijzing: voor sociografie, zie: 71.07 (sociologie; sociografie)"
+1,74.01,"Geschiedenis van de geografie, sociale geografie",
+1,74.02,"Filosofie en theorie van de geografie, sociale geografie",
+1,74.03,"Methoden en technieken van de geografie, sociale geografie","Verwijzing: voor algemene methoden en technieken van de sociale wetenschappen, zie: 70.03 (sociale wetenschappen in het algemeen; methoden, technieken en organisatie van sociaal wetenschappelijk onderzoek)"
+1,74.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,74.05,Reizen,"Toelichting: voor publicaties over reizen en reisbeschrijvingen in het algemeen; Verwijzing: voor reisbeschrijvingen zelf en publicaties óver deze reisbeschrijvingen, zie: 74.13-74.28"
+1,74.06,Thematische geografie: algemeen,"Verwijzing: voor thematische geografie die betrekking heeft op afzonderlijke regio's, zie: 74.10-74.28 (regionale geografie)"
+1,74.10,Regionale geografie: algemeen,"Verwijzing: voor de (sociale) geografie van afzonderlijk benoemde gebieden, zie: 74.11- 74.28"
+2,74.11,Imaginaire wereld,
+2,74.13,Aarde,
+3,74.15,Grote gebiedsdelen,"Hierbij: westerse wereld, derde wereld, islamitische wereld, tropen; Toelichting: gebieden verspreid over meerdere werelddelen"
+2,74.17,Wereldzeeën,
+3,74.19,Europa,
+4,74.20,Nederland,"Verwijzing: voor Nederland en andere Europese landen tezamen, zie: 74.19 (Europa)"
+2,74.21,Azië,
+2,74.23,Afrika,
+3,74.25,Noord-Amerika,
+3,74.26,Midden- en Zuid-Amerika,
+2,74.27,"Australië, Oceanië",
+2,74.28,Poolgebieden,
+1,74.29,"Geografie, sociale geografie: overige",
+0,74.30,Cartografie: algemeen,Toelichting: in deze en volgende rubrieken worden studies over de cartografie geplaatst; Verwijzing: voor landmeetkunde zie: 38.73 (aardwetenschappen; geodesie)
+1,74.31,Geschiedenis van de cartografie,Hierbij: historische cartografie
+1,74.33,Theorie van de cartografie,
+1,74.34,"Onderwijs, beroepsuitoefening, organisaties",
+1,74.35,Topografische cartografie,
+1,74.37,Thematische cartografie,
+1,74.40,Kaartvervaardiging: algemeen,Hierbij: elektronische verwerking van kaarten
+2,74.41,"Luchtfoto's, fotogrammetrie, remote sensing",
+2,74.42,Kaarttekenen,
+2,74.43,"Kaartproductie, drukken van kaarten",
+2,74.46,Kaartvervaardiging: overige,"Hierbij: kaartredactie, atlascartografie"
+1,74.47,Kaartgebruik,
+1,74.49,Cartografie: overige,
+0,74.60,Planologie: algemeen,
+1,74.61,Geschiedenis van de planologie,
+1,74.64,"Onderwijs, beroepsuitoefening, organisaties",
+1,74.70,Nationale plannen,
+1,74.71,Regionale planning,"Hierbij: streekplannen, grensoverschrijdende regionale planning; Verwijzing: voor economische aspecten, zie: 83.64 (economie; regionale economie); Verwijzing: voor stedenbouw, zie 21.73 (afzonderlijke kunstvormen; stedenbouw) en 56.70 (civiele techniek, bouwkunde; stedenbouw: algemeen)"
+1,74.72,Urbane planning,"Hierbij: structuurplannen, bestemmingsplannen; Verwijzing: voor economische aspecten, zie 83.64 (economie; regionale economie); Verwijzing: voor stedenbouw, zie: 21.73 (afzonderlijke kunstvormen; stedenbouw) en 56.70 (civiele techniek, bouwkunde; stedenbouw)"
+1,74.73,"Stadsvernieuwing, dorpsvernieuwing",
+1,74.74,Rurale planning,
+1,74.75,"Verkeer, transport","Verwijzing: voor verkeers- en vervoerstechniek, zie: 55. (verkeerstechniek, vervoerstechniek); Verwijzing: voor vervoerseconomie, zie: 83.72 (economie; verkeer)"
+1,74.79,Planologie: overige,"Hierbij: nutsvoorzieningen, recreatieplanning"
+0,74.80,Demografie: algemeen,
+1,74.81,Geschiedenis van de demografie,
+1,74.83,Methoden en technieken van de demografie,
+1,74.91,Geboorte,
+1,74.92,Sterfte,
+1,74.93,"Geslachten, generaties",
+1,74.94,Migratie,
+1,74.95,Bevolking,"Hierbij: bevolkingspolitiek, bevolkingsgeografie, historische demografie"
+1,74.99,Demografie: overige,
+0,76.00,"Recreatie, vrijetijdsbesteding: algemeen",
+1,76.01,"Geschiedenis van de recreatie, vrijetijdsbesteding",
+1,76.02,"Filosofie en theorie van de recreatie, vrijetijdsbesteding",
+1,76.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,76.10,Sport: algemeen,"Verwijzing: voor lichamelijke opvoeding, zie: 80.46 (pedagogiek; lichamelijke opvoeding, gezondheidsopvoeding)"
+2,76.11,"Sportsociologie, sportpsychologie",
+2,76.12,Takken van sport,Hierbij: denksport
+2,76.13,Gehandicaptensport,
+2,76.14,Toernooien,Hierbij: Olympische spelen
+2,76.19,Sport: overige,"Verwijzing: voor sportaccomodaties, zie: 76.65 (sportaccomodaties)"
+1,76.30,Spel: algemeen,Hierbij: kinderspel
+2,76.31,"Spelen, spellen","Hierbij: afzonderlijke spelsoorten; Verwijzing: voor denksport, zie: 76.12 (takken van sport)"
+1,76.40,Hobby: algemeen,
+2,76.41,Tuinieren,
+2,76.42,Filatelie,
+2,76.43,Amateurfotografie,"Verwijzing: voor fotografische kunst, zie: 21.40-21.49 (afzonderlijke kunstvormen; fotografische kunst)"
+2,76.44,Handenarbeid,Hierbij: handwerken
+2,76.49,Hobby: overige,
+1,76.50,Verenigingsleven: algemeen,"Verwijzing: voor sportverenigingen, zie: 76.10-76.19 (sport)"
+2,76.51,Bejaardensociëteiten,
+2,76.52,Sociaal-culturele verenigingen,"Hierbij: leesclubs, filmclubs"
+2,76.59,Verenigingsleven: overige,
+1,76.60,"Uitgaansleven, toerisme: algemeen",
+2,76.61,Publieke vermakelijkheden,"Hierbij: kermis, dierengevechten"
+2,76.62,Recreatievoorzieningen: algemeen,
+3,76.63,Toeristische organisaties,
+3,76.64,Theaters,"Hierbij: bioscoop, schouwburg; Toelichting: met nadruk op theaterbezoek; Verwijzing: voor overige aspecten van theaters, zie: 24.01-24.39 (theaterwetenschap)"
+3,76.65,Sportaccomodaties,"Hierbij: sportterreinen, stadions"
+3,76.69,Recreatievoorzieningen: overige,
+2,76.70,Huisvesting van toeristen,"Hierbij: hotels, pensions, herbergen, vakantiecentra"
+2,76.71,Dagrecreatie,
+2,76.72,Vakantie,
+2,76.79,"Uitgaansleven, toerisme: overige",
+1,76.99,"Recreatie, vrijetijdsbesteding: overige",
+0,77.00,Psychologie: algemeen,
+1,77.01,Geschiedenis van de psychologie,
+1,77.02,Filosofie en theorie van de psychologie,"Verwijzing: voor filosofische psychologie, zie: 08.36 (filosofie; filosofische antropologie en filosofische psychologie)"
+1,77.03,"Onderwijs, beroepsuitoefening, organisaties",
+1,77.04,Methoden en technieken in de psychologie: algemeen,"Verwijzing: voor algemene methoden en technieken van de sociale wetenschappen, zie: 70.03 (sociale wetenschappen in het algemeen; methoden, technieken en organisatie van sociaal wetenschappelijk onderzoek)"
+2,77.05,Experiment,
+2,77.06,Observatie,
+2,77.07,Psychometrie,"Hierbij: mathematische psychologie, testconstructie, schaalconstructie"
+2,77.08,Psychodiagnostiek,Hierbij: testgebruik
+2,77.09,Methoden en technieken in de psychologie: overige,
+1,77.10,Stromingen en richtingen binnen de psychologie: algemeen,
+2,77.11,Bewustzijnspsychologie,
+2,77.12,Gestaltpsychologie,
+2,77.13,Dieptepsychologie,
+2,77.14,Psychoanalyse,"Verwijzing: voor psychoanalytische therapie, zie: 77.82 (psychoanalytische therapie)"
+2,77.15,Analytische psychologie,
+2,77.16,Individualpsychologie,
+2,77.17,Neo-freudianen,
+2,77.18,Ego-psychologie,
+2,77.20,Behaviorisme,
+2,77.21,Humanistische psychologie,
+2,77.22,Fenomenologische psychologie,"Hierbij: existentiële psychologie, geesteswetenschappelijke psychologie"
+2,77.23,Historische gedragswetenschap,Hierbij: metabletica
+2,77.24,Kritische psychologie,
+2,77.29,Stromingen en richtingen binnen de psychologie: overige,
+1,77.30,Functieleer: algemeen,
+2,77.31,Cognitie,"Verwijzing: voor kunstmatige intelligentie, zie: 54.72 (informatica; kunstmatige intelligentie); Verwijzing: voor taalpsychologie, zie: 17.30 (algemene taal- en literatuurwetenschap; psycholinguïstiek: algemeen)"
+2,77.32,"Intelligentie, creativiteit","Hierbij: denken, probleemoplossen"
+2,77.33,"Oordelen, beslissen",
+2,77.34,"Leren, conditioneren",Is: 81.51 (onderwijs; leerproces)
+2,77.35,Geheugen,
+2,77.36,"Verbeelding, fantasie",
+2,77.37,"Aandacht, concentratie",
+2,77.40,Waarneming,
+3,77.41,Visuele waarneming,
+3,77.42,Auditieve waarneming,
+3,77.43,"Smaak, reuk",
+3,77.44,Tast,
+2,77.45,Motivatie,"Hierbij: wil, driften, instinct"
+2,77.46,Emoties,
+2,77.47,"Slapen, dromen",
+2,77.48,Psychomotoriek,
+2,77.49,Functieleer: overige,
+1,77.50,Psychofysiologie,Hierbij: neuropsychologie
+1,77.51,Dierpsychologie,
+1,77.52,Persoonlijkheidsleer,"Hierbij: karakterologie, typologie, fysiognomie, frenologie, grafologie"
+1,77.53,Ontwikkelingspsychologie,
+2,77.54,Pasgeborenen,
+2,77.55,"Kind, kleuter",
+2,77.56,"Jeugd, puberteit, adolescentie",
+2,77.57,Volwassenheid,
+2,77.58,Ouderdom,Hierbij: psychogerontologie
+1,77.60,Sociale psychologie: algemeen,
+2,77.61,"Attitude, vooroordeel, beïnvloeding",
+2,77.62,Sociale perceptie,
+2,77.63,"Sociale interactie, sociale relaties",Hierbij: intermenselijke communicatie
+2,77.64,Groepsdynamica,Hierbij: groepscommunicatie
+2,77.65,Massapsychologie,
+2,77.69,Sociale psychologie: overige,
+1,77.70,Klinische psychologie: algemeen,"Verwijzing: voor psychopathologie, zie: 44.91 (geneeskunde; psychiatrie, psychopathologie)"
+2,77.72,Psychotherapie: algemeen,
+3,77.73,"Autogene training, relaxatie-therapie",
+3,77.74,Bezigheidstherapie,"Hierbij: arbeidstherapie, speltherapie, muziektherapie"
+3,77.75,Gedragstherapie,
+3,77.76,Gesprekstherapie,Hierbij: counseling
+3,77.77,Gestalttherapie,
+3,77.78,Groepstherapie,
+3,77.81,"Gezinstherapie, relatietherapie",
+3,77.82,Psychoanalytische therapie,"Verwijzing: voor psychoanalyse als stroming binnen de psychologie, zie: 77.14 (psychoanalyse)"
+3,77.83,Kinderpsychotherapie,
+3,77.84,Psychotherapie: overige,Hierbij: rationeel-emotieve therapie
+1,77.85,Seksuologie,"Hierbij: sekseverschillen; Verwijzing: voor medische aspecten, zie: 44.74 (geneeskunde; seksuologie); Verwijzing: voor sociologische aspecten, zie: 71.25 (sociologie; seksualiteit)"
+1,77.91,Omgevingspsychologie,Hierbij: klimaatpsychologie
+1,77.92,Parapsychologie,
+1,77.93,Toegepaste psychologie,
+1,77.99,Psychologie: overige,
+0,79.00,Andragologie: algemeen,"Toelichting: in deze hoofdrubriek wordt literatuur geplaatst die ingaat op het aspect van hulpverlening; Verwijzing: voor algemene methoden en technieken van de sociale wetenschappen, zie: 70.03 (sociale wetenschappen in het algemeen; methoden, technieken en organisatie van sociaal wetenschappelijk onderzoek)"
+1,79.01,Geschiedenis van de andragologie,
+1,79.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,79.10,Sociale hulpverlening: algemeen,"Verwijzing: voor gezondheidszorg, zie: 44.10 (geneeskunde; maatschappelijke gezondheidszorg: algemeen) en 44.20 (geneeskunde; persoonlijke gezondheidszorg, hygiëne: algemeen)"
+2,79.11,Methoden en technieken van hulpverlening,
+2,79.12,Armenzorg,
+2,79.13,Bejaardenzorg,
+2,79.14,Gehandicaptenzorg,
+2,79.15,Gezinszorg,
+2,79.16,Jeugdhulpverlening,Hierbij: kinderbescherming
+2,79.17,"Hulpverlening bij levensmoeilijkheden, hulpverlening bij gezinsmoeilijkheden",
+2,79.18,Hulpverlening aan minderheden,
+2,79.20,Reclassering,
+2,79.21,Thuislozenzorg,
+2,79.22,Hulpverlening aan verslaafden,
+2,79.23,"Hulpverlening aan slachtoffers van oorlogen, rampen of ongevallen",
+2,79.29,Sociale hulpverlening: overige,Hierbij: telefonische hulpdiensten
+1,79.50,Samenlevingsopbouw,Hierbij: opbouwwerk
+1,79.60,"Vormingswerk, ontwikkelingswerk","Hierbij: club- en buurthuiswerk, cultureel werk"
+2,79.63,Volwasseneneducatie,"Hierbij: permanente educatie, omscholing, bijscholing, herscholing, volksuniversiteit; Verwijzing: voor onderwijs dat opleidt tot examens, zie: 81. (onderwijs)"
+1,79.99,Andragologie: overige,
+0,80.00,Pedagogiek: algemeen,
+1,80.01,Geschiedenis van de pedagogiek,"Hierbij: historische pedagogiek; Verwijzing: voor geschiedenis van de opvoeding, zie: 80.34 (geschiedenis van de opvoeding)"
+1,80.02,Filosofie en theorie van de pedagogiek,Hierbij: wijsgerige en theoretische pedagogiek
+1,80.03,Methoden en technieken van de pedagogiek,"Verwijzing: voor algemene methoden en technieken van de sociale wetenschappen, zie: 70.03 (sociale wetenschappen in het algemeen; methoden, technieken en organisatie van sociaal wetenschappelijk onderzoek)"
+1,80.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,80.10,Stromingen en richtingen binnen de pedagogiek,"Hierbij: Montessori, marxistische pedagogiek, kritische pedagogiek, reformpedagogiek"
+1,80.20,Deelgebieden binnen de pedagogiek: algemeen,"Verwijzing: voor onderwijskunde, zie: 81. (onderwijs)"
+2,80.25,Orthopedagogiek: algemeen,
+3,80.26,Cognitieve stoornissen,
+3,80.27,"Zintuiglijke storingen, motorische storingen",
+3,80.28,Gedragsstoornissen,
+3,80.29,Orthopedagogiek: overige,"Verwijzing: voor residentiële orthopedagogiek, zie: 80.83 (opvoeding binnen opvoedingsinstellingen)"
+2,80.30,Sociale pedagogiek,
+2,80.32,Vergelijkende pedagogiek,
+2,80.34,Geschiedenis van de opvoeding,"Verwijzing: voor geschiedenis van de pedagogiek, zie: 80.01 (geschiedenis van de pedagogiek)"
+2,80.36,Opvoeding en maatschappij,
+2,80.39,Deelgebieden binnen de pedagogiek: overige,
+1,80.40,Terreinen van opvoeding: algemeen,"Verwijzing: voor politieke vorming, zie: 89.53 (politicologie; politieke cultuur)"
+2,80.41,Persoonlijkheidsvorming,
+2,80.42,Emotionele vorming,
+2,80.43,Intellectuele vorming,
+2,80.44,Sociale vorming,
+2,80.45,Ethische vorming,
+2,80.46,Lichamelijke opvoeding,"Verwijzing: voor gymnastiek, zie: 76.12 (recreatie en vrije tijdsbesteding; takken van sport); Verwijzing: voor medische aspecten, zie: 44. (geneeskunde)"
+2,80.47,Seksuele opvoeding,
+2,80.48,Esthetische vorming,
+2,80.51,Religieuze vorming,
+2,80.59,Terreinen van opvoeding: overige,Hierbij: media-educatie
+1,80.70,Opvoedingspraktijk,Hierbij: opvoedingsstijlen
+1,80.80,Opvoedingsmilieu: algemeen,
+2,80.81,Sociaal milieu,
+2,80.82,Opvoeding binnen het gezin,
+2,80.83,Opvoeding binnen opvoedingsinstellingen,"Hierbij: residentiële orthopedagogiek; Verwijzing: voor kinderopvang en peuterspeelzalen, zie: 80.89 (opvoedingsmilieu: overige)"
+2,80.89,Opvoedingsmilieu: overige,"Hierbij: kinderopvang, peuterspeelzalen"
+1,80.99,Pedagogiek: overige,
+0,81.00,Onderwijs: algemeen,
+1,81.01,Geschiedenis van het onderwijs,
+1,81.02,Filosofie en theorie van het onderwijs,
+1,81.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,81.05,Onderwijsresearch: algemeen,"Verwijzing: voor algemene methoden en technieken van de sociale wetenschappen, zie: 70.03 (sociale wetenschappen in het algemeen; methoden, technieken en organisatie van sociaal wetenschappelijk onderzoek)"
+2,81.06,Onderwijsevaluatie,
+2,81.07,Vergelijkende onderwijskunde,
+2,81.09,Onderwijsresearch: overige,
+1,81.10,Onderwijsbeleid op macroniveau: algemeen,"Verwijzing: voor onderwijsrecht, zie: 86.59 (recht; bestuursrecht: overige)"
+2,81.11,Recht op onderwijs,"Hierbij: toegankelijkheid, leerplicht; Verwijzing: voor onderwijsrecht, zie: 86.59 (recht; bestuursrecht: overige)"
+2,81.12,Ontwikkeling van het onderwijs,"Hierbij: verbetering van het onderwijs, hervorming van het onderwijs"
+2,81.13,Onderwijsplanning,
+2,81.14,Onderwijseconomie,
+2,81.17,Studiefinanciering,
+2,81.19,Onderwijsbeleid op macroniveau: overige,Hierbij: onderwijsinspectie
+1,81.20,Onderwijssociologie: algemeen,
+2,81.21,Sociale ongelijkheid in het onderwijs,
+2,81.22,Sekse-ongelijkheid in het onderwijs,
+2,81.23,Schoolleven,Hierbij: studentenleven
+2,81.24,Onderwijs en werkgelegenheid,"Hierbij: onderwijs en arbeidsmarkt, onderwijs en bedrijfsleven"
+2,81.29,Onderwijssociologie: overige,
+1,81.30,Personeel: algemeen,
+2,81.31,Onderwijsgevenden,
+2,81.33,Niet-onderwijsgevend personeel,
+2,81.34,Personeel: overige,
+1,81.35,Onderwijsgebouwen,Hierbij: inrichting van gebouwen
+1,81.40,Onderwijsorganisatie op mesoniveau: algemeen,Hierbij: schoolorganisatie
+2,81.41,Toelating tot de onderwijsinstelling,
+2,81.42,Groepering,"Hierbij: klassenindeling, jaarklassensysteem, streaming"
+2,81.43,"Overgang, eindexamen",Hierbij: (voortijdig) schoolverlaten
+2,81.44,"Presentie, absentie","Hierbij: vakantie, rooster, schoolbezoek"
+2,81.45,Onderwijsmanagement,"Hierbij: schoolmanagement, financieel beheer"
+2,81.46,Onderwijsbegeleiding,"Hierbij: studievoorlichting, beroepskeuze"
+2,81.47,Ouderparticipatie,
+2,81.49,Onderwijsorganisatie op mesoniveau: overige,
+1,81.50,Onderwijspsychologie: algemeen,
+2,81.51,Leerproces,"Is: 77.34 (psychologie; leren, conditioneren)"
+2,81.52,Studieprestatie,Hierbij: leerprestatie
+2,81.53,Studentenevaluatie,"Hierbij: leerlingevaluatie, examinering, tentaminering"
+2,81.54,Studeren,Hierbij: studiemethodiek
+2,81.55,Studentengedrag,"Hierbij: leerlinggedrag, schoolverzuim"
+2,81.59,Onderwijspsychologie: overige,
+1,81.60,Onderwijsproces: algemeen,"Hierbij: lesgeven, doceren"
+2,81.61,Didactiek,"Verwijzing: voor didactiek van afzonderlijke vakken, zie de rubriek 'onderwijs' van de betreffende vakken"
+2,81.62,Curriculum,"Verwijzing: voor curriculum van afzonderlijke vakken, zie de rubriek 'onderwijs' van de betreffende vakken"
+2,81.64,Onderwijsproces: overige,
+1,81.65,Leermiddelen: algemeen,"Hierbij: studiemateriaal, didactisch materiaal"
+2,81.66,Gedrukt materiaal,
+2,81.67,Audiovisuele middelen,
+2,81.68,Computers in het onderwijs,
+2,81.69,Leermiddelen: overige,
+1,81.70,"Onderwijssystemen, onderwijsinstellingen: algemeen","Verwijzing: voor volwasseneneducatie, zie: 79.63 (andragologie; volwasseneneducatie)"
+2,81.71,"Openbaar onderwijs, bijzonder onderwijs",Hierbij: schoolstrijd
+2,81.73,Voorschools onderwijs,Hierbij: kleuteronderwijs
+2,81.74,Primair onderwijs,Hierbij: basisonderwijs
+2,81.75,Secundair onderwijs: algemeen,Hierbij: voortgezet onderwijs: algemeen
+3,81.76,Voorbereidend wetenschappelijk onderwijs,
+3,81.77,Algemeen voortgezet onderwijs,
+3,81.78,Beroepsonderwijs,Hierbij: hoger beroepsonderwijs
+3,81.79,Secundair onderwijs: overige,Hierbij: voortgezet onderwijs: overige
+2,81.80,Tertiair onderwijs,Hierbij: hoger onderwijs
+2,81.81,Buitenschoolse vorming,Hierbij: stageprojecten
+2,81.82,Onderwijs aan bijzondere groepen: algemeen,
+3,81.83,Speciaal onderwijs,
+3,81.84,Onderwijs aan minderheden,Hierbij: onderwijs aan allochtonen;  Hierbij: multicultureel onderwijs
+3,81.85,Onderwijs aan schoolverlaters,"Hierbij: leerlingwezen, participatieonderwijs"
+3,81.89,Onderwijs aan bijzondere groepen: overige,Hierbij: onderwijs aan hoogbegaafden
+2,81.90,Alternatieve onderwijssystemen,"Hierbij: montessorimethode, jenaplan; Verwijzing: voor de pedagogische aspecten, zie: 80.10 (pedagogiek; stromingen binnen de pedagogiek, richtingen binnen de pedagogiek)"
+2,81.94,"Onderwijssystemen, onderwijsinstellingen: overige",
+1,81.99,Onderwijs: overige,
+0,83.00,Economie: algemeen,Toelichting: economiewetenschap
+1,83.01,Geschiedenis en filosofie van het economisch denken,"Verwijzing: voor economische geschiedenis, zie: 15. (geschiedenis)"
+1,83.03,Methoden en technieken,"Hierbij: input-output (algemeen) (economie); Hierbij: speltheorie (economie); Hierbij: statistiek (economie); Hierbij: wiskundige economie; Hierbij: econometrie; Hierbij: input-output (algemeen), speltheorie, wiskundige economie, statistiek"
+1,83.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,83.05,"Economische sociologie, economische psychologie",
+1,83.06,Feministische economie,Hierbij: gender economics; invloed van de sekse op economie en economische wetenschap 
+1,83.10,Algemene economische theorie: algemeen,Hierbij: economisch evenwicht
+2,83.11,Micro-economie,Hierbij: prijstheorie
+2,83.12,Macro-economie,
+2,83.13,Welvaartseconomie,Hierbij: economie en recht
+2,83.14,"Inkomen, inkomensverdeling",
+2,83.15,Institutionele economie,
+2,83.19,Algemene economische theorie: overige,
+1,83.20,Economische stelsels: algemeen,
+2,83.21,Markteconomie,Hierbij: kapitalistisch systeem
+2,83.22,"Socialistische economie, communistische economie",
+2,83.25,Economische transitie,
+2,83.29,Economische stelsels: overige,
+1,83.30,"Economische toestand, economische ontwikkeling, economische structuur: algemeen","Hierbij: algemene economische landenstudies; Verwijzing: voor landenstudies van afzonderlijke onderdelen van de economie, zie de betreffende onderdelen"
+2,83.32,Economische politiek,Toelichting: economische planning
+2,83.33,Economische fluctuaties,Toelichting: conjunctuur; Hierbij: economische groei; Toelichting: conjunctuur
+2,83.39,"Economische toestand, economische ontwikkeling, economische structuur: overige",
+1,83.40,Internationale economie: algemeen,Hierbij: economische integratie
+2,83.42,Internationale handel,
+2,83.44,Internationale monetaire economie,Hierbij: monetaire integratie
+2,83.46,Ontwikkelingseconomie,Hierbij: internationale ontwikkelingssamenwerking
+2,83.48,Internationale economische organisaties,"Verwijzing: voor algemene internationale organisaties, zie: 89.72 (politicologie; internationale organisaties) en voor juridische aspecten van internationale organisaties, zie: 86.87 (recht; recht der internationale organisaties: algemeen)"
+2,83.49,Internationale economie: overige,
+1,83.50,Nationale monetaire economie,
+1,83.52,Overheidseconomie,"Hierbij: publieke sector, openbare financiën, belastingen; Hierbij: schulden (overheid)"
+1,83.54,Sociale zekerheid,"Verwijzing: voor sociale verzekeringen, zie: 85.66 (arbeidswetenschappen; sociale verzekeringen); Verwijzing: voor sociaal verzekeringsrecht, zie: 86.64 (recht; sociaal recht)"
+1,83.60,Economische sectoren: algemeen,Toelichting: bedrijfstakken
+2,83.61,Arbeidseconomie,"Hierbij: arbeidsmarkt, werkgelegenheid (algemeen); Verwijzing: voor onderwijs en arbeidsmarkt, zie: 81.24 (onderwijs; onderwijs en werkgelegenheid)"
+2,83.62,Economie van de technologie,"Toelichting: algemeen economische aspecten; Verwijzing: voor technologische innovatie op bedrijfsniveau, zie: 85.15 (bedrijfskunde, organisatiekunde; onderzoek en ontwikkeling) en 85.54 (arbeidswetenschappen, arbeidsvraagstukken; ergonomie)"
+2,83.63,Milieueconomie,"Is: 43.17 (milieukunde; milieueconomie)Hierbij: economie van de grond, ruimte, natuur, en natuurlijke hulpbronnen"
+2,83.64,Regionale economie,"Hierbij: stedelijke economie; Verwijzing: voor regionale, urbane planning gebruik: 74.71 ((sociale) geografie, cartografie, planologie, demografie; regionale planning)"
+2,83.65,Energie-economie,Hierbij: mijnbouweconomie
+2,83.66,Landbouweconomie,Is: 48.14 (landbouwwetenschappen; landbouweconomie)
+2,83.67,Industrie,
+2,83.68,Dienstensector,
+2,83.70,Verzekeringswezen,"Verwijzing: voor sociale verzekeringen, zie: 85.66 (arbeidswetenschappen; sociale verzekeringen)"
+2,83.71,Handel,"Hierbij: groothandel, detailhandel; Verwijzing: voor midden- en kleinbedrijf, zie: 83.82 (midden- en kleinbedrijf)"
+2,83.72,Verkeer,"Toelichting: vervoerseconomie; Verwijzing: voor de planologische aspecten van verkeer, zie 74.75 ((sociale) geografie, cartografie, planologie, demografie; verkeer, transport); Verwijzing: voor verkeers- en vervoerstechniek, zie: 55. (verkeerstechniek, vervoerstechniek)"
+2,83.79,Economische sectoren: overige,Hierbij: informele economie (westers)
+1,83.80,Industriële organisatie: algemeen,"Hierbij: fusies, kartelvorming"
+2,83.81,Theorie van de onderneming,Hierbij: theorie van het producentengedrag
+2,83.82,Midden- en kleinbedrijf,
+2,83.83,Grootbedrijf,Hierbij: multinationale ondernemingen
+2,83.89,Industriële organisatie: overige,
+1,83.99,Economie: overige,
+0,85.00,"Bedrijfskunde, organisatiekunde: algemeen","Hierbij: bedrijfseconomie in het algemeen;  Hierbij: ondernemerschap (algemeen); Verwijzing: voor industriële organisatie, zie: 83.80 (economie; industriële organisatie: algemeen); Verwijzing: voor landbouwkundige aspecten, zie: 48.18 (landbouwwetenschappen; landbouwbedrijfsleer)"
+1,85.02,"Filosofie en theorie van de bedrijfskunde, filosofie en theorie van de organisatiekunde",Hierbij: bedrijfsethiek
+1,85.03,"Methoden en technieken, operations research","Hierbij: bedrijfseconometrie, besliskunde"
+1,85.04,"Onderwijs, beroepsuitoefening, organisaties","Hierbij: bedrijfsopleidingen, deskundigheidsbevordering, organisatieadvisering"
+1,85.05,"Management, organisatie: algemeen",Hierbij: organisatietheorie
+1,85.08,"Organisatiesociologie, organisatiepsychologie","Hierbij: bedrijfscommunicatie, organisatieagogie, organisatieontwikkeling, organisatiecultuur"
+1,85.10,Strategisch beleid,Toelichting: omgeving en planning van organisatie
+2,85.12,Kwaliteitsmanagement,Hierbij: kwaliteitszorg
+1,85.15,Onderzoek en ontwikkeling,"Hierbij: innovatie; Toelichting: research and development; Verwijzing: voor economische aspecten, zie: 83.61 (economie; arbeidseconomie); Verwijzing: voor ergonomie, zie: 85.54 (arbeidswetenschappen; ergonomie)"
+1,85.20,"Bestuurlijke informatie, informatieverzorging","Hierbij: administratieve automatisering, MIS, bedrijfsinformatie; Verwijzing: voor automatiseringsaspecten, zie: 54. (informatica)"
+1,85.25,Accounting,"Hierbij: jaarrekening, accountancy, berichtgeving, kosten, winstvraagstukken, waarderingsvraagstukken, controlling"
+1,85.30,"Financieel management, financiering",
+1,85.33,Beleggingsleer,Hierbij: onroerend goed
+2,85.34,Logistiek management,
+1,85.35,Productiemanagement,
+1,85.40,Marketing,"Hierbij: reclame, verkoop; Verwijzing: voor reclame als massacommunicatiemiddel, zie: 05.31 (communicatiewetenschap; publiciteit)"
+1,85.49,"Bedrijfskunde, organisatiekunde: overige",
+0,85.50,"Arbeidswetenschappen, arbeidsvraagstukken: algemeen",Hierbij: arbeidssociologie in het algemeen
+1,85.51,Medezeggenschap,"Hierbij: ondernemingsraden, participatie"
+1,85.52,"Arbeidsomstandigheden, arbeidsvoorwaarden",Toelichting: kwaliteit van de arbeid
+1,85.53,Arbeidsorganisatie,Hierbij: arbeid en automatisering
+1,85.54,Ergonomie,"Verwijzing: voor innovatie, zie: 85.15 (onderzoek en ontwikkeling) en: 83.61 (economie; arbeidseconomie)"
+1,85.60,Arbeidsduur,"Hierbij: werktijden, verzuim, pensionering"
+1,85.61,Lonen,"Hierbij: beloning, pensioen"
+1,85.62,Personeelsmanagement,"Hierbij: human resource management, personeelswerk"
+1,85.63,Arbeidsverhoudingen,"Hierbij: vakbonden, arbeidsconflicten, stakingen"
+1,85.64,Beroepen,
+1,85.65,"Soorten arbeid, soorten arbeiders","Hierbij: jeugdigen, ongeschoolden, vrouwen, gastarbeiders, thuisarbeid, seizoenarbeid, onbetaalde arbeid, kinderarbeid"
+1,85.66,Sociale verzekeringen,"Verwijzing: voor sociaal verzekeringsrecht, zie: 86.64 (recht; sociaal recht); Verwijzing: voor sociale zekerheid, zie: 83.54 (economie; sociale zekerheid)"
+1,85.69,"Arbeidswetenschappen, arbeidsvraagstukken: overige",
+0,86.00,Recht: algemeen,"Hierbij: vertalende woordenboeken. Voor verklarende woordenboeken zie: 86.10 (rechtsgeschiedenis, recht van afzonderlijke landen, gebieden en volken); Toelichting: rechtswetenschap"
+1,86.01,Geschiedenis van de rechtswetenschap,
+1,86.02,"Onderwijs, beroepsuitoefening, organisaties","Verwijzing: voor advocatuur, zie: 86.16 (rechtshulp); Verwijzing: voor magistratuur, zie: 86.15 (rechterlijke organisatie)"
+1,86.03,"Rechtstheorie, rechtsmethodologie",Hierbij: rechtsinformatica;  Hierbij: rechtseconomie en recht en economie
+1,86.04,Rechtsfilosofie, Is: 08.40 (filosofie; rechtsfilosofie); Hierbij: gerechtigheid
+1,86.05,Rechtssociologie,
+1,86.06,Rechtsantropologie,Hierbij: adatrecht;  Hierbij: gewoonterecht van niet-westerse landen
+1,86.07,Rechtspsychologie,"Verwijzing: voor gerechtelijke geneeskunde, zie: 44.72 (geneeskunde; gerechtelijke geneeskunde)"
+1,86.08,Rechtsbronnen,"Hierbij: wetgeving, wetten, rechtersrecht (jurisprudentie), gewoonterecht; Toelichting: publicaties over rechtsbronnen, wetgeving, wetten, rechtersrecht (jurisprudentie), gewoonterecht; Verwijzing: voor publicaties over rechtsbronnen in het internationaal recht, zie: 86.85 (internationaalrechtelijke bronnen); Verwijzing: voor wetgeving, wetten, jurisprudentie van afzonderlijke rechtsgebieden, zie de betreffende rechtsgebieden"
+1,86.09,Rechtspleging,"Hierbij: geschillenbeslechting, sancties, (handels-) arbitrage; Verwijzing: voor internationale rechtspleging, zie: 86.82 (internationale rechtspleging: algemeen)"
+1,86.10,"Rechtsgeschiedenis, recht van afzonderlijke landen, gebieden en volken","Hierbij: verklarende woordenboeken. Voor vertalende woordenboeken zie: 86.00 (recht: algemeen); Verwijzing: voor canoniek recht, zie: 11.73 (theologie, godsdienstwetenschappen; kerkorganisatie, kerkrecht); Verwijzing: voor rechtsgeschiedenis etc. van afzonderlijke rechtsgebieden, zie de betreffende rechtsgebieden"
+1,86.11,Rechtsvergelijking,"Verwijzing: voor rechtsvergelijking tussen afzonderlijke rechtsstelsels, zie: 86.10 (rechtsgeschiedenis, recht van afzonderlijke landen, gebieden en volken)"
+1,86.12,Romeins recht,"Verwijzing: voor Romeins-Hollands recht, zie: 86.10 (rechtsgeschiedenis, recht van afzonderlijke landen, gebieden en volken); Verwijzing: voor Romeins recht in afzonderlijke landen, gebieden of bij afzonderlijke volken, zie: 86.10 (rechtsgeschiedenis, recht van afzonderlijke landen, gebieden en volken); Verwijzing: voor Romeins recht van afzonderlijke rechtsgebieden, zie de betreffende rechtsgebieden; bijv. Romeins erfrecht bij erfrecht"
+1,86.13,Common Law,"Toelichting: Angelsaksisch recht; Verwijzing: voor Common Law van afzonderlijke rechtsgebieden, zie de betreffende rechtsgebieden; bijv. Engels huwelijksrecht bij huwelijksrecht"
+1,86.14,Islamitisch recht,
+1,86.15,Rechterlijke organisatie,Hierbij: magistratuur
+1,86.16,Rechtshulp,Hierbij: advocatuur
+1,86.19,Recht: overige,"Hierbij: klachtrecht, tuchtrecht; Hierbij: alleen algemene publicaties over klacht- en tuchtrecht. Voor specifiek klacht- en tuchtrecht zie de betreffende rubriek; Verwijzing: voor economisch publiekrecht, zie: 86.62 (economisch publiekrecht); Verwijzing: voor rechtseconomie en recht en economie, zie: 86.03 (rechtstheorie, rechtsmethodologie)"
+1,86.20,Burgerlijk recht: algemeen,
+2,86.21,"Personenrecht, familierecht","Verwijzing: voor jeugdrecht, zie: 86.65 (jeugdrecht)"
+2,86.22,"Huwelijksrecht, huwelijksgoederenrecht",
+2,86.23,Erfrecht,
+2,86.24,Vermogensrecht,
+2,86.25,Zakenrecht,
+2,86.26,Verbintenissenrecht,"Hierbij: overeenkomstenrecht; Verwijzing: voor onrechtmatige daad, zie: 86.39 (burgerlijk recht: overige); Verwijzing: voor productaansprakelijkheid, zie: 86.67 (consumentenrecht)"
+2,86.27,Handelsrecht,
+2,86.28,Faillissementsrecht,
+2,86.30,Verzekeringsrecht,
+2,86.31,Rechtspersonenrecht,Hierbij: verenigingsrecht en stichtingsrecht
+2,86.32,Vennootschapsrecht,Hierbij: jaarrekeningenrecht;  Hierbij: ondernemingsvormen
+2,86.33,Intellectuele eigendom,
+2,86.34,Notarieel recht,Hierbij: notariaat
+2,86.35,Burgerlijk procesrecht,"Verwijzing: voor arbitrage, zie: 86.09 (rechtspleging)"
+2,86.36,Internationaal privaatrecht,Hierbij: algemene publicaties over internationaal privaatrecht en het internationaal privaatrecht van de afzonderlijke rechtsgebieden
+2,86.39,Burgerlijk recht: overige,"Hierbij: onrechtmatige daad; Verwijzing: voor productaansprakelijkheid, zie: 86.67 (consumentenrecht)"
+1,86.40,Publiekrecht: algemeen,
+2,86.41,Strafrecht: algemeen,
+3,86.42,Delicten,
+3,86.43,"Strafprocesrecht, strafrechtelijke sancties","Verwijzing: voor politie, zie: 88.17 (bestuurskunde; politie)"
+3,86.44,Penitentiair recht,"Verwijzing: voor gevangeniswezen, zie: 88.15 (bestuurskunde; overheidsdiensten, overheidsbedrijven, semi-overheidsinstellingen)"
+3,86.45,"Militair strafrecht, militair tuchtrecht",
+3,86.46,Internationaal strafrecht,"Verwijzing: voor oorlogstribunalen, zie: 86.84 (overige internationale rechterlijke organisaties)"
+3,86.49,Strafrecht: overige,
+2,86.50,Staatsrecht: algemeen,
+3,86.51,Grondwet,
+3,86.52,Grondrechten,"Verwijzing: voor mensenrechten, zie: 86.81 (mensenrechten); Verwijzing: voor specifieke grondrechten (recht op wonen e.d.), zie de betreffende rubriek"
+3,86.53,Recht van lagere overheden,
+3,86.54,Staatsrecht: overige,
+2,86.55,Bestuursrecht: algemeen,"Verwijzing: voor bestuurskunde, zie 88. (bestuurskunde)"
+3,86.56,Bestuursprocesrecht,
+3,86.57,Ambtenarenrecht,
+3,86.58,Vreemdelingenrecht,"Hierbij: asielrecht, vluchtelingenrecht"
+3,86.59,Bestuursrecht: overige,"Hierbij: onderwijsrecht, onrechtmatige overheidsdaad"
+1,86.60,Gemengde rechtsgebieden: algemeen,
+2,86.61,Belastingrecht,"Verwijzing: voor economische aspecten, zie: 83.52 (economie; overheidseconomie)"
+2,86.62,Economisch publiekrecht,"Hierbij: internationaal economisch publiekrecht, vestigingsrecht, winkelsluitingswetgeving, warenwetgeving; Verwijzing: voor mededingingsrecht, zie: 86.70 (mededingingsrecht)"
+2,86.63,Arbeidsrecht,"Hierbij: stakingsrecht, arbeidsovereenkomstenrecht, recht betreffende winstdeling, recht betreffende medezeggenschap, ontslagrecht"
+2,86.64,Sociaal-verzekeringsrecht,"Toelichting: algemene publicaties over sociaal recht, recht betreffende sociale voorzieningen en sociale verzekeringen; Verwijzing: voor arbeidsrecht, zie: 86.63 (arbeidsrecht); Verwijzing: voor sociale verzekeringen, zie: 85.66 (arbeidswetenschappen; sociale verzekeringen); Verwijzing: voor sociale zekerheid, zie 83.54 (economie; sociale zekerheid)"
+2,86.65,Jeugdrecht,
+2,86.66,"Gezondheidsrecht, patiëntenrecht",
+2,86.67,Consumentenrecht,Hierbij: productaansprakelijkheid
+2,86.70,Mededingingsrecht,
+2,86.71,Bouwrecht,
+2,86.72,Huurrecht,
+2,86.73,Vervoersrecht,"Hierbij: scheepvaartrecht, luchtvaartrecht, zeevervoersrecht"
+2,86.74,Verkeersrecht,
+2,86.75,Milieurecht,Is: 43.16 (milieukunde; milieurecht)
+2,86.76,Ruimtelijkeordeningsrecht,Hierbij: onteigeningsrecht
+2,86.77,Agrarisch recht,"Hierbij: (zee)visserijrecht, jachtrecht"
+2,86.78,"Informatierecht, communicatierecht","Hierbij: mediarecht, informaticarecht, computerrecht"
+2,86.79,Gemengde rechtsgebieden: overige,
+1,86.80,Internationaal recht: algemeen,"Hierbij: volkenrecht: algemeen; Verwijzing: voor internationaal economisch publiekrecht, zie: 86.62 (economisch publiekrecht); Verwijzing: voor internationaal milieurecht, zie: 86.75 (milieurecht); Verwijzing: voor internationaal privaatrecht, zie: 86.36 (internationaal privaatrecht); Verwijzing: voor internationaal strafrecht, zie: 86.46 (internationaal strafrecht)"
+2,86.81,Mensenrechten,"Hierbij: rechten van volkeren; Verwijzing: voor asielrecht, vluchtelingenrecht, zie: 86.58 (vreemdelingenrecht); Verwijzing: voor grondrechten, zie: 86.52 (grondrechten); Verwijzing: voor rechten van het kind, zie: 86.65 (jeugdrecht); Verwijzing: voor specifieke mensenrechten, zie de betreffende rubriek"
+2,86.82,Internationale rechtspleging: algemeen,"Hierbij: geschillenbeslechting, sancties"
+3,86.83,Internationaal Hof van Justitie,Hierbij: Permanent Hof van Internationale Justitie
+3,86.84,Overige internationale rechterlijke organisaties,Hierbij: oorlogstribunalen
+2,86.85,Internationaalrechtelijke bronnen,"Hierbij: publicaties over verdragenrecht, jurisprudentie, gewoonterecht"
+2,86.86,Europees recht,"Hierbij: publicaties over institutioneel recht en over algemeen Europees materieel recht; Toelichting: recht omtrent de Europese Unie; Verwijzing: voor Europees recht van afzonderlijke rechtsgebieden, zie de betreffende rechtsgebieden; Verwijzing: voor publicaties over de Europese Unie als internationale organisatie, zie: 89.72 (politicologie; internationale organisaties)"
+2,86.87,Recht der internationale organisaties: algemeen,"Verwijzing: voor economische aspecten, zie: 83.49 (economie; internationale economie: overige); Verwijzing: voor politieke aspecten, zie: 89.72 (politicologie; internationale organisaties)"
+3,86.88,Recht van de Verenigde Naties,"Hierbij: recht van de Volkenbond; Verwijzing: voor publicaties over de Verenigde Naties als internationale organisatie, zie: 89.72 (politicologie; internationale organisaties); Verwijzing: voor economische aspecten, zie: 83.48 (economie; internationale economische organisaties)"
+3,86.89,Recht van overige internationale organisaties,
+2,86.91,"Diplomatiek recht, consulair recht",
+2,86.92,Oorlogsrecht,"Hierbij: humanitair recht, humanitair oorlogsrecht; Verwijzing: voor oorlogstribunalen, zie: 86.84 (overige internationale rechterlijke organisaties)"
+2,86.93,Recht van de zee,Hierbij: rivierenrecht; Toelichting: zeevervoersrecht als term valt onder privaatrechtelijk vervoersrecht
+2,86.94,Territoriaal recht,
+2,86.95,"Luchtrecht, ruimterecht",
+1,86.99,Internationaal recht: overige,"Verwijzing: voor overige onderwerpen betreffende recht, zie: 86.19 (recht: overige)"
+0,88.00,Bestuurskunde: algemeen,"Verwijzing: voor bestuur van bedrijven, zie: 85. (bedrijfskunde, organisatiekunde, arbeidswetenschappen); Verwijzing: voor bestuursrecht, zie: 86.55-86.59 (recht; bestuursrecht)"
+1,88.02,Filosofie en theorie van de bestuurskunde,
+1,88.03,Methoden en technieken van de bestuurskunde,
+1,88.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,88.10,Overheid: algemeen,"Hierbij: interbestuurlijke betrekkingen, centralisatie, decentralisatie; Verwijzing: voor overheidsfinanciën, zie: 83.52 (economie; overheidseconomie)"
+2,88.11,Centrale overheidslichamen,"Hierbij: regering, rijksoverheid, departementen, ministeries"
+2,88.12,"Provinciale overheidslichamen, regionale overheidslichamen","Hierbij: intergemeentelijke bestuursorganisaties, sub-nationale bestuursorganisaties"
+2,88.13,Lokale overheidslichamen,"Hierbij: gemeenten, deelraden"
+2,88.14,Functionele overheidslichamen,Hierbij: waterschappen
+2,88.15,"Overheidsdiensten, overheidsbedrijven, semi-overheidsinstellingen","Hierbij: brandweer, gevangeniswezen, nutsbedrijven"
+2,88.17,Politie,
+2,88.19,Overheid: overige,
+1,88.20,"Overheidsorganisatie, overheidsmanagement","Hierbij: bureaucratie, ambtelijk leiderschap"
+1,88.30,Overheidspersoneel,"Hierbij: ambtenaren, ambtsethiek, civil service; Verwijzing: voor ambtenarenrecht, zie: 86.57 (recht; ambtenarenrecht)"
+1,88.40,Politiek-bestuurlijke betrekkingen,
+1,88.50,Overheid en burger,"Hierbij: burgerparticipatie, inspraak"
+1,88.60,Beleidswetenschap: algemeen,"Hierbij: beleidsanalyse, beleidsonderzoek, beleidsplanning; Verwijzing: voor overheidsbeleid op afzonderlijke terreinen, zie de betreffende vakgebieden"
+2,88.61,Beleidsvoorbereiding,
+2,88.62,Besluitvorming,"Hierbij: crisisbesluitvorming; Verwijzing: voor politieke besluitvorming, zie: 89.55 (politicologie; politieke besluitvorming)"
+2,88.63,Beleidsimplementatie,
+2,88.65,Beleidsevaluatie,
+2,88.69,Beleidswetenschap: overige,
+1,88.70,Vergelijkende bestuurskunde,Toelichting: internationaal vergelijkend onderzoek van openbaar bestuur in het algemeen
+1,88.99,Bestuurskunde: overige,
+0,89.00,Politicologie: algemeen,"Toelichting: politieke wetenschappen; Verwijzing: voor politieke antropologie, zie: 73.70 (culturele antropologie; politieke antropologie: algemeen); Verwijzing: voor politieke geschiedenis, zie: 15. (geschiedenis)"
+1,89.01,Geschiedenis van de politicologie,
+1,89.03,Methoden en technieken van de politicologie,
+1,89.04,"Onderwijs, beroepsuitoefening, organisaties",
+1,89.05,Politiek in het algemeen,"Toelichting: deze zeer globale rubriek dient terughoudend te worden gebruikt. Voor studies over afzonderlijke landen 89.40 (interne betrekkingen van de staat: algemeen); Verwijzing: voor overheidsbeleid, zie: 88.10 (bestuurskunde; overheid: algemeen); Verwijzing: voor partijpolitiek, zie: 89.61 (politieke partijen)"
+1,89.06,Politieke filosofie,"Is: 08.45 (filosofie; politieke filosofie)Hierbij: vrijheid, gelijkheid"
+1,89.10,Politieke ideologieën: algemeen,"Toelichting: politieke stromingen; Verwijzing: voor afzonderlijke politieke partijen of organisaties, zie: 89.60-89.69 (politieke organisaties)"
+2,89.11,Conservatisme,
+2,89.12,Liberalisme,
+2,89.13,Christen-democratie,
+2,89.14,Socialisme,"Hierbij: marxisme, sociaal-democratie"
+2,89.15,Communisme,"Hierbij: marxisme-leninisme, eurocommunisme"
+2,89.19,Socialistische stromingen,"Hierbij: raden-socialisme, utopisch socialisme"
+2,89.20,Anarchisme,
+2,89.21,Fascisme,"Hierbij: extreem rechts, nationaal-socialisme"
+2,89.22,Nationalisme,
+2,89.29,Politieke ideologieën: overige,"Hierbij: syndicalisme, populisme, zionisme, pan-bewegingen, Groenen"
+1,89.30,Politieke systemen: algemeen,Hierbij: vergelijkende studies en studies over werelddelen; Toelichting: politieke stelsels
+2,89.31,Staat,"Hierbij: territorium, legitimiteit, souvereiniteit; Verwijzing: voor staatsrecht, zie: 86.50 (recht; staatsrecht: algemeen)"
+2,89.32,"Staatsvormen, regeringsvormen",
+2,89.33,Monarchie,"Hierbij: constitutionele monarchie, absolute monarchie"
+2,89.34,Republiek,
+2,89.35,Democratie,Hierbij: parlementaire democratie
+2,89.36,Autoritaire stelsels,
+2,89.39,Politieke systemen: overige,"Hierbij: theocratie, feodalisme, stadstaten, federale staten, nationale staten, ideaalstaten, utopieën"
+1,89.40,Interne betrekkingen van de staat: algemeen,"Hierbij: binnenlandse politiek in het algemeen;  Hierbij: studies over afzonderlijke landen; Verwijzing: voor administratief recht, zie: 86.55 (recht; bestuursrecht: algemeen)"
+2,89.41,Interne betrekkingen van de staat met afzonderlijke groeperingen,"Hierbij: onderdanen; Verwijzing: voor benadering vanuit groeperingen, zie: 89.63 (pressiegroepen); Verwijzing: voor publicaties over kerk en staat zie 11. (theologie en godsdienstwetenschap)"
+2,89.42,Interne betrekkingen van de staat met burgers,
+2,89.49,Interne betrekkingen van de staat: overige,
+1,89.50,Politieke processen: algemeen,"Hierbij: politieke structuur, politiek handelen"
+2,89.51,Politieke sociologie,
+2,89.52,Politieke psychologie,
+2,89.53,Politieke cultuur,"Hierbij: politieke socialisatie, politieke vorming"
+2,89.54,Politieke invloed,Hierbij: politieke macht
+2,89.55,Politieke besluitvorming,"Verwijzing: voor besluitvorming van de overheid, zie: 88. (bestuurskunde)"
+2,89.56,Politieke communicatie,Hierbij: politieke propaganda
+2,89.57,Politieke participatie,Hierbij: verkiezingen
+2,89.58,Politiek geweld,"Hierbij: revolutie, terrorisme; Verwijzing: voor oorlog in het algemeen, zie: 89.76 (polemologie)"
+2,89.59,Politieke processen: overige,Hierbij: politisering
+1,89.60,Politieke organisaties: algemeen,
+2,89.61,Politieke partijen,Hierbij: partijpolitiek in het algemeen
+2,89.62,Politieke bewegingen,"Hierbij: verzetsbewegingen, afscheidingsbewegingen, bevrijdingsbewegingen"
+2,89.63,Pressiegroepen,"Hierbij: actiegroepen, belangenbehartiging, lobbyisme"
+2,89.69,Politieke organisaties: overige,
+1,89.70,Internationale betrekkingen: algemeen,"Verwijzing: voor internationaal recht, zie: 86.80 (recht; internationaal recht: algemeen)"
+2,89.71,Internationale samenwerking: algemeen,"Hierbij: internationale integratie, wereldregering, wereldfederalisme, politieke integratie en desintegratie"
+3,89.72,Internationale organisaties,"Hierbij: volkenbond, Verenigde Naties, NAVO, Warschau-pact; Hierbij: publicaties over taken en bevoegdheden binnen EG-verband; Toelichting: bondgenootschappen"
+3,89.74,Internationale samenwerking: overige,
+2,89.75,Internationale conflicten: algemeen,"Verwijzing: voor afzonderlijke politieke conflicten, zie: 15. (geschiedenis)"
+3,89.76,Polemologie,"Hierbij: oorlog in het algemeen, psychologie van oorlog en vrede; Verwijzing: voor afzonderlijke oorlogen, zie: 15. (geschiedenis); Verwijzing: voor defensiepolitiek, zie: 89.90 (buitenlandse politiek); Verwijzing: voor internationaal terrorisme, zie: 89.58 (politiek geweld); Verwijzing: voor oorlogsvoering en strategie, zie: 89.83 (oorlogsvoering) en 89.84 (strategie, tactiek)"
+3,89.77,"Bewapening, ontwapening","Verwijzing: voor wapens, zie: 89.87 (wapens, strijdmiddelen)"
+3,89.78,Vredesbeweging,
+3,89.79,Internationale conflicten: overige,
+2,89.80,Krijgskunde: algemeen,
+3,89.81,Krijgsmacht,Hierbij: afzonderlijke onderdelen en diensten
+3,89.82,Militair personeel,"Verwijzing: voor militair straf- en tuchtrecht, zie: 86.45 (recht; militair strafrecht, militair tuchtrecht)"
+3,89.83,Oorlogvoering,"Hierbij: afzonderlijke vormen van oorlogvoering, zee-oorlog, guerrilla; Verwijzing: voor geschiedenis van afzonderlijke oorlogen, zie: 15. (geschiedenis); Verwijzing: voor oorlog in het algemeen, zie: 89.76 (polemologie)"
+3,89.84,"Strategie, tactiek",
+3,89.85,"Logistiek, bevoorrading",
+3,89.86,"Militaire spionage, militaire inlichtingendiensten",Hierbij: spionage en inlichtingendiensten
+3,89.87,"Wapens, strijdmiddelen",Hierbij: afzonderlijke wapens en strijdmiddelen
+3,89.89,Krijgskunde: overige,
+2,89.90,Buitenlandse politiek,"Hierbij: diplomatie in het algemeen; Verwijzing: voor geschiedenis en praktijk van de buitenlandse politiek in afzonderlijke tijdperken en van afzonderlijke landen, zie: 15. (geschiedenis)"
+2,89.91,Imperialisme,"Hierbij: kolonialisme, dekolonisatie"
+2,89.92,Oost-Westverhouding,
+2,89.93,Noord-Zuidverhouding,
+2,89.94,Internationale betrekkingen: overige,"Hierbij: politieke vluchtelingen; Verwijzing: voor spionage en inlichtingendiensten, zie: 89.86 (militaire spionage, militaire inlichtingendiensten)"
+1,89.99,Politicologie: overige,
