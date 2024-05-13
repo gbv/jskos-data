@@ -1,118 +1,27 @@
-[
-  {
-    "@context": "https://gbv.github.io/jskos/context.json",
-    "ACCESS": [
-      {
-        "uri": "http://bartoc.org/en/Access/Free"
-      }
-    ],
-    "ADDRESS": {
-      "code": "2595",
-      "country": "Netherlands",
-      "locality": "Den Haag",
-      "street": "Prins Willem-Alexanderhof 5"
-    },
-    "API": [],
-    "FORMAT": [
-      {
-        "uri": "http://bartoc.org/en/Format/PDF"
+{
+  "identifier": [
+    "http://www.wikidata.org/entity/Q810226"
+  ],
+  "namespace": "http://uri.gbv.de/terminology/nbc/",
+  "notation": [
+    "NBC"
+  ],
+  "notationPattern": "[0-9]{2}\\.[0-9]{2}",
+  "prefLabel": {
+    "en": "Dutch Basic Classification",
+    "nl": "Nederlandse Basisclassificatie"
+  },
+  "publisher": [
+    {
+      "prefLabel": {
+        "en": "Koninklijke Bibliotheek (Netherlands)"
       },
-      {
-        "uri": "http://bartoc.org/en/Format/Printed"
-      }
-    ],
-    "contributor": [
-      {
-        "prefLabel": {
-          "en": "Sabrina Gaab"
-        },
-        "uri": "https://coli-conc.gbv.de/login/users/2062a0cd-5f05-400e-898a-124c0c96767c"
-      },
-      {
-        "uri": "https://coli-conc.gbv.de/login/users/79f27329-75b8-443c-9460-0fa3f482e091",
-        "prefLabel": {
-          "en": "David-Benjamin Rohrer"
-        }
-      }
-    ],
-    "creator": [
-      {
-        "uri": "https://coli-conc.gbv.de/login/users/2062a0cd-5f05-400e-898a-124c0c96767c",
-        "prefLabel": {
-          "en": "Sabrina Gaab"
-        }
-      }
-    ],
-    "definition": {
-      "en": [
-        "\"The Dutch Basic Classification (NBC) is originally a Dutch library classification scheme developed for academic libraries. This rating is late 80's developed under the leadership of the Royal Library (Netherlands), in use since 1990 and has since been updated. the purpose of the basic rating is originally threefold: Organize or categorization of scientific publications on research areas, search or subject indexing of books and journals by academic libraries, the Collection Development Coordination in Dutch research libraries in practice the Basic classification is used together with a detailed word system. consisting of keywords, description of place and time, type keyword, genre, keyword and personal name as subject. The current basic classification (3rd revised edition 1998) is divided into five categories, 48 ​​categories and about 2250 part sections. Headings are indicated with two numbers, sub-areas are indicated by two more digits after which the column to which they belong, separated by a dot.\""
-      ],
-      "nl": [
-        "\"De Nederlandse basisclassificatie (NBC) is een van oorsprong Nederlands bibliotheek classificatie-schema speciaal ontwikkeld voor wetenschappelijke bibliotheken. Deze classificatie is eind 80-er jaren ontwikkeld onder leiding van de Koninklijke Bibliotheek (Nederland), in gebruik sinds 1990 en wordt sindsdien bijgewerkt. Het doel van de basisclassificatie is oorspronkelijk drieledig: Indelen ofwel categorisering van wetenschappelijke publicaties op onderzoeksgebieden; Zoekfunctie ofwel onderwerpsontsluiting van boeken en tijdschriften door wetenschappelijke bibliotheken; Coördinatie van de Collectievorming in Nederlandse wetenschappelijke bibliotheken. In de praktijk wordt de Basisclassificatie gebruikt samen met een gedetailleerd woordsysteem bestaande uit trefwoorden, aanduiding van plaats en tijd, vormtrefwoord, genretrefwoord en persoonsnaam als onderwerp. De huidige basisclassificatie (3e herziene versie uit 1998) is opgedeeld in 5 categorieën, 48 rubrieken en zo’n 2250 deelrubrieken. Rubrieken worden met twee cijfers aangegeven, deelrubrieken worden aangegeven door nog twee cijfers achter dat van de rubriek waartoe zij behoren, gescheiden door een punt.\""
-      ]
-    },
-    "identifier": [
-      "http://www.wikidata.org/entity/Q810226"
-    ],
-    "languages": [
-      "nl"
-    ],
-    "modified": "2024-05-10T06:15:36.506Z",
-    "namespace": "http://uri.gbv.de/terminology/nbc/",
-    "notation": [
-      "NBC"
-    ],
-    "notationPattern": "[0-9]{2}\\.[0-9]{2}",
-    "partOf": [
-      {
-        "uri": "http://bartoc.org/en/node/18930"
-      }
-    ],
-    "prefLabel": {
-      "en": "Dutch Basic Classification",
-      "nl": "Nederlandse Basisclassificatie"
-    },
-    "publisher": [
-      {
-        "prefLabel": {
-          "en": "Koninklijke Bibliotheek (Netherlands)"
-        },
-        "uri": "http://viaf.org/viaf/157027892"
-      }
-    ],
-    "startDate": "2004",
-    "subject": [
-      {
-        "uri": "http://dewey.info/class/0/e23/",
-        "inScheme": [
-          {
-            "uri": "http://bartoc.org/en/node/241"
-          }
-        ],
-        "notation": [
-          "0"
-        ]
-      },
-      {
-        "uri": "http://dewey.info/class/001/e23/",
-        "inScheme": [
-          {
-            "uri": "http://bartoc.org/en/node/241"
-          }
-        ],
-        "notation": [
-          "001"
-        ]
-      }
-    ],
-    "type": [
-      "http://www.w3.org/2004/02/skos/core#ConceptScheme",
-      "http://w3id.org/nkos/nkostype#classification_schema"
-    ],
-    "uri": "http://bartoc.org/en/node/745",
-    "url": "http://www.kb.nl/sites/default/files/docs/bc04.pdf",
-    "created": "2014-07-31T10:54:00Z",
-    "concepts": [],
-    "topConcepts": []
-  }
-]
+      "uri": "http://viaf.org/viaf/157027892"
+    }
+  ],
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+    "http://w3id.org/nkos/nkostype#classification_schema"
+  ],
+  "uri": "http://bartoc.org/en/node/745"
+}
