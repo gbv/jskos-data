@@ -1,5 +1,4 @@
 #Erstellt die JSKOS-Datei crm-concepts.ndjson aus der JSONL-Datei, die mit https://github.com/pg-format/pgraphs aus der PG-Datei erstellt wurde.
-#Unterstriche in der JSONL-Datei wurden vorher mit replace durch Leerzeichen ersetzt.
 #""topConceptOf":[{"uri":"http://www.cidoc-crm.org/cidoc-crm/"}]," wurde für E1 nachgetragen.
 import json
 
