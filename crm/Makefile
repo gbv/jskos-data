@@ -1,8 +1,9 @@
 BARTOC=http://bartoc.org/en/node/1644
 include ../Makefile
-
-crm-concepts.ndjson: crm-scheme.json crm-classes.pg
-	wc -l $@
 	
 crm.jsonl:
 	pgraph crm-classes.pg crm.jsonl
+
+crm-concepts.ndjson: crm-scheme.json crm.jsonl
+	../venv/bin/python3 jsonl2jskos.py
+	wc -l $@
