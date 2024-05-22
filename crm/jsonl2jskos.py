@@ -1,4 +1,4 @@
-#Erstellt die JSKOS-Datei crm-concepts.ndjson aus der JSONL-Datei, die mit https://github.com/pg-format/pgraphs aus der PG-Datei erstellt wurde.
+#Erstellt die JSKOS-Datei crm-concepts.ndjson aus der JSONL-Datei, die mit https://github.com/pg-format/pgraphs aus der PG-Datei erstellt wurde. 
 import json
 
 input_file = 'crm.jsonl'
