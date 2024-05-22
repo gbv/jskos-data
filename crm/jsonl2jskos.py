@@ -1,5 +1,4 @@
 #Erstellt die JSKOS-Datei crm-concepts.ndjson aus der JSONL-Datei, die mit https://github.com/pg-format/pgraphs aus der PG-Datei erstellt wurde.
-#""topConceptOf":[{"uri":"http://www.cidoc-crm.org/cidoc-crm/"}]," wurde für E1 nachgetragen.
 import json
 
 input_file = 'crm.jsonl'
@@ -49,9 +48,12 @@ with open(output_file, 'w') as outfile:
             'uri': f"http://www.cidoc-crm.org/cidoc-crm/{notation}",
             'inScheme': [{"uri": "http://bartoc.org/en/node/1644"}]
         }
-        
+        if notation == "E1":
+            new_record["topConceptOf"] = [{"uri": "http://www.cidoc-crm.org/cidoc-crm/"}]
+
         if node_id in broader_relationships:
             new_record['broader'] = create_broader(broader_relationships[node_id])
         
+
         json.dump(new_record, outfile)
         outfile.write('\n')
