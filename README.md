@@ -44,6 +44,11 @@ And for some vocabularies:
 * [skos2jskos](https://metacpan.org/pod/App::skos2jskos)
 * Python 3
 
+For the usage of python you have to install a virtual environment:
+
+* sudo apt install python3-venv
+* make python
+
 ## Usage
 
 ## See also

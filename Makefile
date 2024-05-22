@@ -23,3 +23,7 @@ $(SCHEME):
 .PHONY: metrics
 metrics:
 	./metrics.sh | jq -s > metrics.json
+
+python:
+	python3 -m venv venv
+	venv/bin/pip install -r requirements.txt
