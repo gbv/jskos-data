@@ -47,7 +47,7 @@ with open(output_file, 'w') as outfile:
             'notation': [notation],
             'prefLabel': {"en": pref_label},
             'uri': f"http://www.cidoc-crm.org/cidoc-crm/{notation}",
-            'inScheme': [{"uri": "http://www.cidoc-crm.org/cidoc-crm/"}]
+            'inScheme': [{"uri": "http://bartoc.org/en/node/1644"}]
         }
         
         if node_id in broader_relationships:
