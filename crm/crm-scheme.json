@@ -1,0 +1,32 @@
+{
+  "altLabel": {
+    "en": [
+      "CIDOC-CRM"
+    ]
+  },
+  "identifier": [
+    "http://www.wikidata.org/entity/Q624005",
+    "http://www.cidoc-crm.org/cidoc-crm/"
+  ],
+  "namespace": "http://www.cidoc-crm.org/cidoc-crm/",
+  "notation": [
+    "CRM"
+  ],
+  "notationPattern": "[A-Z][0-9]+i?_[a-z_]+",
+  "prefLabel": {
+    "en": "CIDOC Conceptual Reference Model"
+  },
+  "publisher": [
+    {
+      "prefLabel": {
+        "en": "International Council of Museums"
+      },
+      "uri": "http://viaf.org/viaf/274852663"
+    }
+  ],
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+    "http://w3id.org/nkos/nkostype#ontology"
+  ],
+  "uri": "http://bartoc.org/en/node/1644"
+}
