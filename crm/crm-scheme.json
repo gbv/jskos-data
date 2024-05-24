@@ -12,7 +12,7 @@
   "notation": [
     "CRM"
   ],
-  "notationPattern": "[A-Z][0-9]+i?(_[A-Za-z_]+)?",
+  "notationPattern": "[A-Z]{1,2}[0-9]+i?(_[A-Za-z_]+)?",
   "prefLabel": {
     "en": "CIDOC Conceptual Reference Model"
   },

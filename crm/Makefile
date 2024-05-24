@@ -9,4 +9,4 @@ crm.jsonl: crm-classes.pg
 
 crm-concepts.ndjson: crm-scheme.json crm.jsonl
 	../venv/bin/python3 jsonl2jskos.py
-	wc -l $@
+	$(jskos-validate) concepts $@
