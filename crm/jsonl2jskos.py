@@ -20,15 +20,15 @@ with open(input_file, 'r') as infile:
 
 def create_broader(nodes_list):
     broader_nodes = []
-    for node in nodes_list:
-        notation = node.split('_', 1)[0]
-        uri = determine_uri(notation, record.get('properties', {}))
+    for node_id in nodes_list:
+        notation = node_id.split('_', 1)[0]
+        target_node = nodes.get(node_id, {})
+        uri = determine_uri(notation, target_node.get('properties', {}))
         broader_nodes.append({
             "uri": uri,
             "notation": [notation]
         })
     return broader_nodes
-
 def determine_uri(notation, properties):
     base_uri = f"http://www.cidoc-crm.org/cidoc-crm/{notation}"
     if 'extension' in properties:
@@ -38,7 +38,7 @@ def determine_uri(notation, properties):
         if "sci" in extensions:
             return f"http://www.cidoc-crm.org/extensions/crmsci/{notation}"
         if "LRMoo" in extensions:
-            return f"www.cidoc-crm.org/extensions/lrmoo/{notation}" 
+            return f"http://www.cidoc-crm.org/extensions/lrmoo/{notation}"  
     return base_uri
 
 with open(output_file, 'w') as outfile:
