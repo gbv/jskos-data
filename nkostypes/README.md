@@ -1,6 +1,6 @@
 # Convert NKOS KOS Type Vocabulary
 
-Source: http://nkos.slis.kent.edu/nkostype/nkostype.rdf
+Source: https://nkos.dublincore.org/nkostype/nkostype.rdf
 
 Requires: 
 

@@ -11,7 +11,7 @@ nkostype.ttl: nkostype.rdf
 	    | grep -v 'authority_file' > $@
 
 nkostype.rdf:
-	wget -N http://nkos.slis.kent.edu/nkostype/nkostype.rdf
+	wget -N https://nkos.dublincore.org/nkostype/nkostype.rdf
 
 # Mappings from Wikidata to NKOS Types
 wd.ids: wd2nkostype.ndjson
