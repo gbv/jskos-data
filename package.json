@@ -4,7 +4,8 @@
   "version": "0.0.0",
   "scripts": {
     "jskos-convert": "cd $INIT_CWD; jskos-convert",
-    "jskos-validate": "cd $INIT_CWD; jskos-validate"
+    "jskos-validate": "cd $INIT_CWD; jskos-validate",
+    "ndjson2rdf": "node ndjson2rdf.js"
   },
   "repository": {
     "type": "git",
@@ -20,6 +21,7 @@
     "jskos-cli": "^0.6.0",
     "jskos-tools": "^1.0.31",
     "jskos-validate": "^0.5.9",
+    "jsonld": "^8.3.2",
     "lodash": "^4.17.21",
     "ndjson": "^2.0.0"
   }
