@@ -5,6 +5,9 @@
       "DHB-Systematik"
     ]
   },
+  "identifier": [
+    "http://uri.gbv.de/terminology/dhb/"
+  ],
   "namespace": "http://uri.gbv.de/terminology/dhb/",
   "notation": [
     "DHB"
