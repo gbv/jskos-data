@@ -1,14 +1,11 @@
 {
-  "identifier": [
-    "http://bartoc.org/en/node/520"
-  ],
-  "namespace": "http://uri.gbv.de/terminology/dfg/",
+  "namespace": "http://uri.gbv.de/terminology/dfg2024/",
   "notation": [
-    "DFG"
+    "DFG'24"
   ],
   "notationPattern": "[1-4][1-9]?|[1-4][0-9]{2}(-[0-9][0-9])?",
   "prefLabel": {
-    "de": "DFG-Fachsystematik"
+    "de": "DFG-Fachsystematik (2024)"
   },
   "altLabel": {
     "de": [
@@ -20,5 +17,5 @@
   "type": [
     "http://w3id.org/nkos/nkostype#classification_schema"
   ],
-  "uri": "http://uri.gbv.de/terminology/dfg/"
+  "uri": "http://uri.gbv.de/terminology/dfg2024/"
 }
