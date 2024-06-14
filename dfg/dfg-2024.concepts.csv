@@ -1,0 +1,282 @@
+level,notation,prefLabel@de,prefLabel@en
+0,1,Geistes- und Sozialwissenschaften,Humanities and Social Sciences
+1,11,Geisteswissenschaften,Humanities
+2,111,Alte Kulturen,Ancient Cultures
+3,111-01,Ur- und Frühgeschichte (weltweit),Prehistory and World Archaeology
+3,111-02,Griechische und Lateinische Philologie,Greek and Latin Philology
+3,111-03,Alte Geschichte,Ancient History
+3,111-04,"Klassische, Provinzialrömische, Christliche und Islamische Archäologie","Classical, Roman, Christian and Islamic Archaeology"
+3,111-05,Ägyptische und Vorderasiatische Altertumswissenschaften,Egyptology and Ancient Near Eastern Studies
+2,112,Geschichtswissenschaften,History
+3,112-01,Mittelalterliche Geschichte,Medieval History
+3,112-02,Frühneuzeitliche Geschichte,Early Modern History
+3,112-03,Neuere und Neueste Geschichte (einschl. Europäische Geschichte der Neuzeit und Außereuropäische Geschichte),Modern and Contemporary History
+3,112-04,Wissenschaftsgeschichte,History of Science
+2,113,"Kunst-, Musik-, Theater- und Medienwissenschaften","Art History, Music, Theatre and Media Studies"
+3,113-01,Kunstgeschichte,Art History
+3,113-02,Musikwissenschaften,Musicology
+3,113-03,Theater- und Medienwissenschaften,Theatre and Media Studies
+2,114,Sprachwissenschaften,Linguistics
+3,114-01,"Allgemeine und Vergleichende Sprachwissenschaft, Experimentelle Linguistik, Typologie, Außereuropäische Sprachen","General and Comparative Linguistics, Experimental Linguistics, Typology, Non-European Languages"
+3,114-02,"Einzelsprachenwissenschaften, Historische Linguistik","Individual Linguistics, Historical Linguistics"
+3,114-03,"Angewandte Sprachwissenschaften, Computerlinguistik","Applied Linguistics, Computational Linguistics"
+2,115,Literaturwissenschaft,Literary Studies
+3,115-01,Germanistische Mediävistik (Ältere deutsche Literatur),German Medieval Studies (Medieval German Literature)
+3,115-02,Germanistische Literatur-und Kulturwissenschaften (Neuere deutsche Literatur),German Literary and Cultural Studies (Modern German Literature)
+3,115-03,Europäische und Amerikanische Literatur- und Kulturwissenschaften,European and American Literary and Cultural Studies
+3,115-04,Allgemeine und vergleichende Literaturwissenschaft; Kulturwissenschaft,General and Comparative Literary Studies; Cultural Studies
+2,116,"Sozial- und Kulturanthropologie, Außereuropäische Kulturen, Judaistik und Religionswissenschaft","Social and Cultural Anthropology, Non-European Cultures, Jewish Studies and Religious Studies"
+3,116-01,Ethnologie und Europäische Ethnologie,Social and Cultural Anthropology and Ethnology
+3,116-02,Asienbezogene Wissenschaften,Asian Studies
+3,116-03,"Afrika-, Amerika- und Ozeanienbezogene Wissenschaften","African, American and Oceania Studies"
+3,116-04,"Islamwissenschaft, Arabistik, Semitistik","Islamic Studies, Arabian Studies, Semitic Studies"
+3,116-05,Religionswissenschaft und Judaistik,Religious Studies and Jewish Studies
+2,117,Theologie,Theology
+3,117-01,Evangelische Theologie,Protestant Theology
+3,117-02,Katholische Theologie,Roman Catholic Theology
+2,118,Philosophie,Philosophy
+3,118-01,Geschichte der Philosophie,History of Philosophy
+3,118-02,Theoretische Philosophie,Theoretical Philosophy
+3,118-03,Praktische Philosophie,Practical Philosophy
+1,12,Sozial- und Verhaltenswissenschaften,Social and Behavioural Sciences
+2,121,Erziehungswissenschaft und Bildungsforschung,Educational Research
+3,121-01,Allgemeine und Historische Erziehungswissenschaft,General Education and History of Education
+3,121-02,Allgemeines und fachbezogenes Lehren und Lernen,General and Domain-Specific Teaching and Learning
+3,121-03,Bildungssysteme und Bildungsinstitutionen,Education Systems and Educational Institutions
+3,121-04,Erziehungswissenschaftliche Sozialisations- und Professionalitätsforschung,"Educational Research on Socialisation, Welfare and Professionalism"
+2,122,Psychologie,Psychology
+3,122-01,"Allgemeine, Kognitive und Mathematische Psychologie","General, Cognitive and Mathematical Psychology"
+3,122-02,Biologische Psychologie und Kognitive Neurowissenschaften,Biological Psychology and Cognitive Neuroscience
+3,122-03,Entwicklungspsychologie und Pädagogische Psychologie,Developmental and Educational Psychology
+3,122-04,Sozialpsychologie und Arbeits- und Organisationspsychologie,"Social Psychology, Industrial and Organisational Psychology"
+3,122-05,"Persönlichkeitspsychologie, Klinische und Medizinische Psychologie, Methoden","Personality Psychology, Clinical and Medical Psychology, Methodology"
+3,123,Sozialwissenschaften,Social Sciences
+3,123-01,Soziologische Theorie,Sociological Theory
+3,123-02,Empirische Sozialforschung,Empirical Social Research
+3,123-03,Publizistik und Kommunikationswissenschaft,Communication Sciences
+3,123-04,Politikwissenschaft,Political Science
+2,124,Wirtschaftswissenschaften,Economics
+3,124-01,Wirtschaftstheorie,Economic Theory
+3,124-02,"Wirtschaftspolitik, Angewandte Volkswirtschaftslehre","Economic Policy, Applied Economics"
+3,124-03,Accounting und Finance,Accounting und Finance
+3,124-04,Management und Marketing,Management and Marketing
+3,124-05,Operations Management und BWL-spezifische Wirtschaftsinformatik,Operations Management and Computer Science for Business Administration
+3,124-06,Statistik und Ökonometrie,Statistics and Econometrics
+3,124-07,Wirtschafts- und Sozialgeschichte,Economic and Social History
+2,125,Rechtswissenschaften,Jurisprudence
+3,125-01,Grundlagen des Rechts und der Rechtswissenschaft,Principles of Law and Jurisprudence
+3,125-02,Privatrecht,Private Law
+3,125-03,Öffentliches Recht,Public Law
+3,125-04,Strafrecht,Criminal Law
+3,125-05,Kriminologie,Criminology
+0,2,Lebenswissenschaften,Basic Research in Biology and Medicine
+1,21,Biologie,Biology
+2,211,Grundlagen der Biologie und Medizin,Basic Research in Biology and Medicine
+3,211-01,Biochemie,Biochemistry
+3,211-02,Biophysik,Biophysics
+3,211-03,Zellbiologie,Cell Biology
+3,211-04,Strukturbiologie,Structural Biology
+3,211-05,Allgemeine Genetik und funktionelle Genomforschung,General Genetics and Functional Genome Biology
+3,211-06,Entwicklungsbiologie,Developmental Biology
+3,211-07,Bioinformatik und Theoretische Biologie,Bioinformatics and Theoretical Biology
+2,212,Pflanzenwissenschaften,Plant Sciences
+3,212-01,Evolution und Systematik der Pflanzen und Pilze,Evolution and Systematics of Plants and Fungi
+3,212-02,Ökologie und Biodiversität der Pflanzen und Ökosysteme,Ecology and Biodiversity of Plants and Ecosystems
+3,212-03,"Organismische Interaktionen, chemische Ökologie und Mikrobiome pflanzlicher Systeme","Organismic Interactions, Chemical Ecology and Microbiomes of Plant Systems"
+3,212-04,Pflanzenphysiologie,Plant Physiology
+3,212-05,Biochemie und Biophysik der Pflanzen,Plant Biochemistry and Biophysics
+3,212-06,Zell- und Entwicklungsbiologie der Pflanzen,Plant Cell and Developmental Biology
+3,212-07,Genetik und Genomik der Pflanzen,Plant Genetics and Genomics
+2,213,Zoology,Zoology
+3,213-01,Systematik und Morphologie der Tiere,Systematics and Morphology (Zoology)
+3,213-02,"Evolution, Anthropologie","Evolution, Anthropology"
+3,213-03,"Ökologie und Biodiversität der Tiere und Ökosysteme, Organismische Interaktionen","Ecology and Biodiversity of Animals and Ecosystems, Organismic Interactions"
+3,213-04,Biologie des Verhaltens und der Sinne,Sensory and Behavioural Biology
+3,213-05,Biochemie und Physiologie der Tiere,Animal Physiology and Biochemistry
+3,213-06,Evolutionäre Zell- und Entwicklungsbiologie der Tiere,Evolutionary Cell and Developmental Biology (Zoology)
+1,22,Medizin,Medicine
+2,221,"Mikrobiologie, Virologie und Immunologie","Microbiology, Virology and Immunology"
+3,221-01,"Stoffwechselphysiologie, Biochemie und Genetik der Mikroorganismen","Metabolism, Biochemistry and Genetics of Microorganisms"
+3,221-02,Mikrobielle Ökologie und Angewandte Mikrobiologie,Microbial Ecology and Applied Microbiology
+3,221-03,"Medizinische Mikrobiologie und Mykologie, Hygiene, Molekulare Infektionsbiologie","Medical Microbiology and Mycology, Hygiene, Molecular Infection Biology"
+3,221-04,Virologie,Virology
+3,221-05,Immunologie,Immunology
+3,221-06,Parasitologie und Biologie der Erreger tropischer Infektionskrankheiten,Parasitology and Biology of Tropical Infectious Disease Pathogens
+2,222,Medizin,Medicine
+3,222-01,Epidemiologie und Medizinische Biometrie/Statistik,Epidemiology and Medical Biometry/Statistics
+3,222-02,"Public Health, Gesundheitsbezogene Versorgungsforschung, Sozial- und Arbeitsmedizin","Public Heatlh, Healthcare Research, Social and Occupational Medicine"
+3,222-03,Humangenetik,Human Genetics
+3,222-04,Anatomie und Physiologie,Anatomy and Physiology
+3,222-05,Ernährungswissenschaften,Nutritional Sciences
+3,222-06,Pathologie,Pathology
+3,222-07,Medizininformatik und medizinische Bioinformatik,Medical Informatics and Medical Bioinformatics
+3,222-08,Pharmazie,Pharmacy
+3,222-09,Pharmakologie,Pharmacology
+3,222-10,"Toxikologie, Laboratoriumsmedizin","Toxicology, Laboratory Medicine"
+3,222-11,Anästhesiologie,Anaesthesiology
+3,222-12,"Kardiologie, Angiologie","Cardiology, Angiology"
+3,222-13,"Pneumologie, Thoraxchirurgie","Pneumology, Thoracic Surgery"
+3,222-14,"Hämatologie, Onkologie","Hematology, Oncology"
+3,222-15,Gastroenterologie,Gastroenterology
+3,222-16,Nephrologie,Nephrology
+3,222-17,"Endokrinologie, Diabetologie, Metabolismus","Endocrinology, Diabetology, Metabolism"
+3,222-18,Rheumatologie,Rheumatology
+3,222-19,Dermatologie,Dermatology
+3,222-20,Kinder- und Jugendmedizin,Pediatric and Adolescent Medicine
+3,222-21,Gynäkologie und Geburtshilfe,Gynaecology and Obstetrics
+3,222-22,Klinische Immunologie und Allergologie,Clinical Immunology and Allergology
+3,222-23,"Reproduktionsmedizin, Urologie","Reproductive Medicine, Urology"
+3,222-24,Gerontobiologie und Geriatrie,Biogerontology and Geriatric Medicine
+3,222-25,Allgemein- und Viszeralchirurgie,General and Visceral Surgery
+3,222-26,Herz- und Gefäßchirurgie,Cardiac and Vascular Surgery
+3,222-27,"Orthopädie, Unfallchirurgie, rekonstruktive Chirurgie","Orthopaedics, Traumatology, Reconstructive Surgery"
+3,222-28,"Zahnheilkunde; Mund-, Kiefer- und Gesichtschirurgie","Dentistry, Oral Surgery"
+3,222-29,"Hals-Nasen-Ohrenheilkunde, Phoniatrie und Audiologie","Otolaryngology, Phoniatrics and Audiology"
+3,222-30,Radiologie,Radiology
+3,222-31,Klinische Infektiologie und Tropenmedizin,Clinical Infectiology and Tropical Medicine
+3,222-32,"Medizinische Physik, Biomedizinische Technik","Medical Physics, Biomedical Technology"
+3,222-33,"Nuklearmedizin, Strahlentherapie, Strahlenbiologie","Nuclear Medicine, Radiotherapy, Radiobiology"
+2,223,Neurowissenschaften,Neurosciences
+3,223-01,Entwicklungsneurobiologie,Developmental Neurobiology
+3,223-02,Molekulare Biologie und Physiologie von Nerven- und Gliazellen,Molecular Biology and Physiology of Neurons and Glial Cells
+3,223-03,Experimentelle und theoretische Netzwerk-Neurowissenschaften,Experimental and Theoretical Network Neuroscience
+3,223-04,"Kognitive, systemische und Verhaltensneurobiologie","Cognitive, Systems and Behavioural Neurobiology"
+3,223-05,Experimentelle Modelle zum Verständnis von Erkrankungen des Nervensystems,Experimental Models for the Understanding of Nervous System Diseases
+3,223-06,Molekulare und zelluläre Neurologie und Neuropathologie,Molecular and Cellular Neurology and Neuropathology
+3,223-07,Klinische Neurologie; Neurochirurgie und Neuroradiologie,Clinical Neurology; Neurosurgery and Neuroradiology
+3,223-08,Kognitive und systemische Humanneurowissenschaften,Human Cognitive and Systems Neuroscience
+3,223-09,Biologische Psychiatrie,Biological Psychiatry
+3,223-10,"Klinische Psychiatrie, Psychotherapie und Kinder- und Jugendpsychiatrie","Clinical Psychiatry, Psychotherapy, Child and Adolescent Psychiatry"
+3,223-11,Augenheilkunde,Ophthalmology
+1,23,"Agrar-, Forstwissenschaften und Tiermedizin","Agriculture, Forestry and Veterinary Medicine"
+2,231,"Agrar-, Forstwissenschaften und Tiermedizin","Agriculture, Forestry and Veterinary Medicine"
+3,231-01,Bodenwissenschaften,Soil Sciences
+3,231-02,"Pflanzenzüchtung, Pflanzenpathologie",Plant Breeding and Plant Pathology
+3,231-03,"Pflanzenbau, Pflanzenernährung, Agrartechnik","Plant Cultivation, Plant Nutrition, Agricultural Technology"
+3,231-04,Ökologie der Landnutzung,Ecology of Land Use
+3,231-05,"Agrarökonomie, Agrarpolitik, Agrarsoziologie","Agricultural Economics, Agricultural Policy, Agricultural Sociology"
+3,231-06,Forstwissenschaften,Forestry
+3,231-07,"Tierzucht, Tierernährung, Tierhaltung","Animal Breeding, Animal Nutrition, Animal Husbandry"
+3,231-08,Tiermedizin,Veterinary Medical Science
+0,3,Naturwissenschaften,Natural Sciences
+1,31,Chemie,Chemistry
+2,311,Molekülchemie,Molecular Chemistry
+3,311-01,"Anorganische Molekülchemie - Synthese, Charakterisierung",Inorganic Molecular Chemistry - Synthesis and Characterisation
+3,311-02,"Organische Molekülchemie - Synthese, Charakterisierung",Organic Molecular Chemistry - Synthesis and Characterisation
+2,312,Chemische Festkörper- und Oberflächenforschung,Chemical Solid State and Surface Research
+3,312-01,"Festkörper- und Oberflächenchemie, Materialsynthese","Solid State and Surface Chemistry, Material Synthesis"
+3,312-02,"Physikalische Chemie von Festkörpern und Oberflächen, Materialcharakterisierung","Physical Chemistry of Solids and Surfaces, Material Characterisation"
+2,313,Physikalische Chemie,Physical Chemistry
+3,313-01,"Physikalische Chemie von Molekülen, Flüssigkeiten und Grenzflächen, Biophysikalische Chemie","Physical Chemistry of Molecules, Liquids and Interfaces, Biophysical Chemistry"
+2,314,Analytische Chemie,Analytische Chemie
+3,314-01,Analytische Chemie,Analytical Chemistry
+2,315,Biologische Chemie und Lebensmittelchemie,Biological Chemistry and Food Chemistry
+3,315-01,Biologische und Biomimetische Chemie,Biological and Biomimetic Chemistry
+3,315-02,Lebensmittelchemie,Food Chemistry
+2,316,Polymerforschung,Polymer Research
+3,316-01,Präparative und Physikalische Chemie von Polymeren,Preparatory and Physical Chemistry of Polymers
+3,316-02,Experimentelle und Theoretische Polymerphysik,Experimental and Theoretical Physics of Polymers
+3,316-03,Polymermaterialien,Polymer Materials
+2,317,Theoretische Chemie,Theoretical Chemistry
+3,317-01,"Theoretische Chemie: Elektronenstruktur, Dynamik, Simulation","Theoretical Chemistry: Electron Structure, Dynamics, Simulation"
+3,317-02,"Theoretische Chemie: Moleküle, Materialien, Oberflächen","Theoretical Chemistry: Molecules, Materials, Surfaces"
+1,32,Physik,Physics
+2,321,Physik der kondensierten Materie,Condensed Matter Physics
+3,321-01,Experimentelle Physik der kondensierten Materie,Experimental Condensed Matter Physics
+3,321-02,Theoretische Physik der kondensierten Materie,Theoretical Condensed Matter Physics
+2,322,"Statistische Physik, Nichtlineare Dynamik, Komplexe Systeme,  Weiche und fluide Materie, Biologische Physik","Statistical Physics, Nonlinear Dynamics, Complex Systems, Soft and Fluid Matter,  Biological Physics"
+3,322-01,"Statistische Physik, Nichtlineare Dynamik, Komplexe Systeme, Weiche und fluide Materie, Biologische Physik","Statistical Physics, Nonlinear Dynamics, Complex Systems, Soft and Fluid Matter,  Biological Physics"
+2,323,"Optik, Quantenoptik und Physik der Atome, Moleküle und Plasmen","Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas"
+3,323-01,"Optik, Quantenoptik und Physik der Atome, Moleküle und Plasmen","Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas"
+2,324,"Teilchen, Kerne und Felder","Particles, Nuclei and Fields"
+3,324-01,"Kern- und Elementarteilchenphysik, Quantenmechanik, Relativitätstheorie, Felder","Nuclear and Elementary Particle Physics, Quantum Mechanics, Relativity, Fields"
+2,325,Astrophysik und Astronomie,Astrophysics and Astronomy
+3,325-01,Astrophysik und Astronomie,Astrophysics and Astronomy
+1,33,Mathematik,Mathematics
+2,331,Mathematik,Mathematics
+3,331-01,Mathematik,Mathematics
+1,34,Geowissenschaften,Geosciences
+2,341,"Atmosphären-, Meeres- und Klimaforschung","Atmospheric Science, Oceanography and Climate Research"
+3,341-01,Physik und Chemie der Atmosphäre,Atmospheric Science
+3,341-02,"Physik, Chemie und Biologie des Meeres",Oceanography
+2,342,Geologie und Paläontologie,Geology and Palaeontology
+3,342-01,Geologie,Geology
+3,342-02,Paläontologie,Palaeontology
+2,343,Geophysik und Geodäsie,Geophysics and Geodesy
+3,343-01,Physik des Erdkörpers,Geophysics
+3,343-02,"Geodäsie, Photogrammetrie, Fernerkundung, Geoinformatik, Kartographie","Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartography"
+2,344,"Mineralogie, Petrologie und Geochemie","Mineralogy, Petrology and Geochemistry"
+3,344-01,"Mineralogie, Petrologie und Geochemie","Mineralogy, Petrology and Geochemistry"
+2,345,Geographie,Geography
+3,345-01,Physische Geographie,Physical Geography
+3,345-02,Humangeographie,Human Geography
+2,346,Wasserforschung,Water Research
+3,346-01,"Hydrogeologie, Hydrologie, Limnologie, Siedlungswasserwirtschaft, Wasserchemie, Integrierte Wasserressourcen-Bewirtschaftung","Hydrogeology, Hydrology, Limnology, Urban Water Management, Water Chemistry, Integrated Water Resources Management"
+0,4,Ingenieurwissenschaften,Engineering Sciences
+1,41,Maschinenbau und Produktionstechnik,Mechanical and Industrial Engineering
+2,411,Produktionstechnik,Production Technology
+3,411-01,Spanende und abtragende Fertigungstechnik,Metal-Cutting and Abrasive Manufacturing Engineering
+3,411-02,"Ur- und Umformtechnik, Additive Fertigungsverfahren","Primary Shaping and Reshaping Technology, Additive Manufacturing"
+3,411-03,Fügetechnik und Trenntechnik,Joining and Separation Technology
+3,411-04,Kunststofftechnik,Plastics Engineering
+3,411-05,"Produktionssystematik, Betriebswissenschaften, Qualitätsmanagement und Fabrikplanung","Production Systems, Operations Management, Quality Management and Factory Planning"
+3,411-06,Produktionsautomatisierung und Montagetechnik,Production Automation and Assembly Technology
+2,412,Mechanik und Konstruktiver Maschinenbau,Mechanics and Constructive Mechanical Engineering
+3,412-01,"Konstruktion, Maschinenelemente, Produktentwicklung","Engineering Design, Machine Elements, Product Development"
+3,412-02,Mechanik,Mechanics
+3,412-03,"Leichtbau, Textiltechnik","Lightweight Construction, Textile Technology"
+3,412-04,Akustik,Acoustics
+1,42,Wärmetechnik/ Verfahrenstechnik,Thermal Engineering/ Process Engineering
+2,421,"Verfahrenstechnik, Technische Chemie","Process Engineering, Technical Chemistry"
+3,421-01,Chemische und Thermische Verfahrenstechnik,Chemical and Thermal Process Engineering
+3,421-02,Technische Chemie,Technical Chemistry
+3,421-03,Mechanische Verfahrenstechnik,Mechanical Process Engineering
+3,421-04,Bioverfahrenstechnik,Biological Process Engineering
+3,421-05,Systemverfahrenstechnik,Systems Process Engineering
+2,422,"Strömungsmechanik, Technische Thermodynamik und Thermische Energietechnik","Fluid Mechanics, Technical Thermodynamics and Thermal Energy Engineering"
+3,422-01,Energieverfahrenstechnik,Energy Process Engineering
+3,422-02,Technische Thermodynamik,Technical Thermodynamics
+3,422-03,Strömungsmechanik,Fluid Mechanics
+3,422-04,Strömungs- und Kolbenmaschinen,Hydraulic and Turbo Engines and Piston Engines
+1,43,Materialwissenschaft und Werkstofftechnik,Materials Science and Engineering
+2,431,Werkstofftechnik,Materials Engineering
+3,431-01,"Metallurgische, thermische und thermomechanische Behandlung von Werkstoffen","Metallurgical, Thermal and Thermomechanical Treatment of Materials"
+3,431-02,Materialien und Werkstoffe der Sinterprozesse und der generativen Fertigungsverfahren,Materials in Sintering Processes and Generative Manufacturing Processes
+3,431-03,Beschichtungs- und Oberflächentechnik,Coating and Surface Technology
+3,431-04,Mechanische Eigenschaften von metallischen Werkstoffen und ihre mikrostrukturellen Ursachen,Mechanical Properties of Metallic Materials and their Microstructural Origins
+3,431-05,Glas und Keramik und darauf basierende Verbundwerkstoffe,"Glass, Ceramics and Derived Composites"
+3,431-06,Polymere und biogene Werkstoffe und darauf basierende Verbundwerkstoffe,Polymeric and Biogenic Materials and Derived Composites
+2,432,Materialwissenschaft,Materials Science
+3,432-01,Herstellung und Eigenschaften von Funktionsmaterialien,Synthesis and Properties of Functional  Materials
+3,432-02,Biomaterialien,Biomaterials
+3,432-03,Thermodynamik und Kinetik sowie Eigenschaften der Phasen und Gefüge von Werkstoffen,Thermodynamics and Kinetics as well as Properties of Phases and Microstructure of Materials
+3,432-04,Computergestütztes Werkstoffdesign und Simulation von Werkstoffverhalten von atomistischer bis mikroskopischer Skala,Computer-Aided Design of Materials and Simulation of Materials Behaviour from Atomic to Microscopic Scale
+1,44,"Informatik, System- und Elektrotechnik","Computer Science, Systems and  Electrical Engineering"
+2,441,Systemtechnik,Systems Engineering
+3,441-01,"Automatisierungstechnik, Mechatronik, Regelungssysteme, Intelligente Technische Systeme, Robotik","Automation, Mechatronics, Control Systems, Intelligent Technical Systems, Robotics"
+3,441-02,Messsysteme,Measurement Systems
+3,441-03,Mikrosysteme,Microsystems
+3,441-04,"Verkehrs- und Transportsysteme, Intelligenter und automatisierter Verkehr","Traffic and Transport Systems, Intelligent and Automated Traffic"
+3,441-05,"Arbeitswissenschaft, Ergonomie, Mensch-Maschine-Systeme","Human Factors, Ergonomics, Human-Machine Systems"
+3,441-06,Biomedizinische Systemtechnik,Biomedical Systems Technology
+2,442,Elektrotechnik und Informationstechnik,Electrical Engineering and Information Technology
+3,442-01,"Elektronische Halbleiter, Bauelemente und Schaltungen, Integrierte Systeme, Sensorik, Theoretische Elektrotechnik","Electronic Semiconductors, Components and Circuits, Integrated Systems, Sensor Technology, Theoretical Electrical Engineering"
+3,442-02,"Kommunikationstechnik und- netze, Hochfrequenztechnik und photonische Systeme, Signalverarbeitung und maschinelles Lernen für Informationstechnik","Communication Technology and Networks, High-Frequency Technology and Photonic Systems, Signal Processing and Machine Learning for Information Technology"
+3,442-03,"Elektrische Energiesysteme, Power Management, Leistungselektronik, elektrische Maschinen und Antriebe","Electrical Energy Systems, Power Management, Power Electronics, Electrical Machines and Drives"
+3,442-04,"Hardwaresysteme und -architekturen für die Informationstechnik und die Künstliche Intelligenz, Quantentechnische Systeme","Hardware Systems and Architectures for Information Technology and Artificial Intelligence, Quantum Engineering Systems"
+2,443,Informatik,Computer Science
+3,443-01,Theoretische Informatik,Theoretical Computer Science
+3,443-02,Softwaretechnik und Programmiersprachen,Software Engineering and Programming Languages
+3,443-03,"Sicherheit und Verlässlichkeit, Betriebs-, Kommunikations- und verteilte Systeme","Security and Dependability, Operating, Communication and Distributed Systems"
+3,443-04,Künstliche Intelligenz und Maschinelle Lernverfahren,Artificial Intelligence and Machine Learning Methods
+3,443-05,"Bild- und Sprachverarbeitung, Computergraphik und Visualisierung, Human Computer Interaction, Ubiquitous und Wearable Computing","Image and Language Processing,  Computer Graphics and Visualisation, Human Computer Interaction, Ubiquitous and Wearable Computing"
+3,443-06,"Datenmanagement, datenintensive Systeme, Informatik-Methoden in der Wirtschaftsinformatik","Data Management, Data-Intensive Systems, Computer Science Methods in Business Informatics"
+3,443-07,"Rechnerarchitektur, eingebettete und massiv parallele Systeme","Computer Architecture, Embedded and Massively Parallel Systems"
+1,45,Bauwesen und Architektur,Construction Engineering and Architecture
+2,451,Bauwesen und Architektur,Construction Engineering and Architecture
+3,451-01,"Architektur, Bau- und Konstruktionsgeschichte, Bauforschung, Ressourcenökonomie im Bauwesen","Architecture, Building and Construction History, Construction Research, Sustainable Building Technology"
+3,451-02,"Städtebau/Stadtentwicklung, Raumplanung, Verkehrs- und Infrastrukturplanung, Landschaftsplanung","Urbanism, Spatial Planning, Transportation and Infrastructure Planning, Landscape Planning"
+3,451-03,"Baustoffwissenschaften, Bauchemie, Bauphysik","Construction Material Sciences, Chemistry, Building Physics"
+3,451-04,"Konstruktiver Ingenieurbau, Bauinformatik und Baubetrieb","Structural Engineering, Building Informatics and Construction Operation"
+3,451-05,"Angewandte Mechanik, Statik und Dynamik","Applied Mechanics, Statics and Dynamics"
+3,451-06,"Geotechnik, Wasserbau","Geotechnics, Hydraulic Engineering"
