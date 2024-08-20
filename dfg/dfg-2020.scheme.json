@@ -1,0 +1,29 @@
+{
+  "altLabel": {
+    "de": [
+      "Systematik der Fächer und Fachkollegien der DFG (2020)",
+      "DFG-Fachsystematik (2020)"
+    ]
+  },
+  "namespace": "https://w3id.org/dfgfo/2020/",
+  "notation": [
+    "DFG2020"
+  ],
+  "prefLabel": {
+    "de": "Systematik der Fächer und Fachkollegien der Deutschen Forschungsgemeinschaft (2020)",
+    "en": "Systematics of the subjects and colleges of the German Research Association (2020)"
+  },
+  "publisher": [
+    {
+      "prefLabel": {
+        "en": "Deutsche Forschungsgemeinschaft (DFG)"
+      },
+      "uri": "http://viaf.org/viaf/122652571"
+    }
+  ],
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+    "http://w3id.org/nkos/nkostype#classification_schema"
+  ],
+  "uri": "https://w3id.org/dfgfo/2020"
+}
