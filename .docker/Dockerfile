@@ -42,4 +42,7 @@ COPY .docker/*.ts .
 # Cache Deno dependencies for update script
 RUN deno cache --reload --lock=deno.lock update.ts build.ts
 
+# Make Git work with jskos-data folder despite "dubious ownership"
+RUN git config --global --add safe.directory /jskos-data
+
 CMD ["bash", "entrypoint.sh"]
