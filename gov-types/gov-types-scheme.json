@@ -1,0 +1,23 @@
+{
+  "namespace": "http://gov.genealogy.net/types.owl#",
+  "notation": [
+    "gov-types"
+  ],
+  "notationPattern": "((group_)?[0-9]*)",
+  "prefLabel": {
+    "de": "Liste aller Objekttypen des Geschichtlichen Orts-Verzeichnis",
+    "en": "List of all types for the Historic Geo Information System"
+    },
+  "publisher": [
+    {
+      "prefLabel": {
+        "de": "Verein für Computergenealogie"
+      },
+      "uri": "http://viaf.org/viaf/137014797"
+    }
+  ],
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#ConceptScheme"
+  ],
+  "uri": "https://bartoc.org/en/node/20536"
+}
