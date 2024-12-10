@@ -1,0 +1,25 @@
+{
+  "altLabel": {
+    "de": [
+      "Liste aller Objekttypen des Geschichtlichen Orts-Verzeichnis",
+      "Liste aller Objekttypen des Geschichtlichen Ortsverzeichnis"
+    ],
+    "en": [
+      "List of all types for the Historic Geo Information System"
+    ]
+  },
+  "namespace": "http://gov.genealogy.net/types.owl#",
+  "notation": [
+    "gov-types"
+  ],
+  "notationPattern": "(group_)?[0-9]+",
+  "prefLabel": {
+    "de": "GOV: Liste aller Objekttypen",
+    "en": "GOV: List of all types"
+  },
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+    "http://w3id.org/nkos/nkostype#list"
+  ],
+  "uri": "http://bartoc.org/en/node/20536"
+}
