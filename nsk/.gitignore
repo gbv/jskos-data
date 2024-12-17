@@ -1,3 +1,5 @@
 *.pp
 *.tsv
 *.csv
+!NSK_Fachgruppenkatalog.csv
+!NSK_Sachkatalogschlüssel.csv
