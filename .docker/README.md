@@ -3,18 +3,6 @@
 This container aims to offer all the tools and dependencies needed to build vocabularies in this repository. Work in progress.
 
 ## To-Dos
-- [x] Test all vocabularies
-- [x] Add script that updates repo and rebuilds vocabularies where files were changed
-  - [x] Deal with modified files in the repo
-- [x] Error with `brunfels`, `fid`, `fos`, `ssg` (same error?)
-- [x] Error with `fivr` and `fivs`
-- [x] Error with `hochschulfaechersystematik`
-- [x] Error with `msc2010`
-- [x] `pdftotext` dependency (see `msc2020`)
-- [ ] `rvk`:
-  - [ ] Make sure it works with just `make`
-  - [ ] Install mc2skos from Git as described in README?
-- [x] Error with `zdb-fgs`
 - [ ] Error with `nomenclature` (#48)
 - [ ] Error with `nkostypes`
 
