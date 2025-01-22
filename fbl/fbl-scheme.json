@@ -1,0 +1,18 @@
+{
+  "identifier": [
+    "http://uri.gbv.de/terminology/fbl"
+  ],
+  "namespace": "http://uri.gbv.de/terminology/fbl/",
+  "notation": [
+    "FBL"
+  ],
+  "notationPattern": "[A-Z][A-Z] - [A-Z][A-Z]|[A-Z]([A-Z]( [0-9]+(-[0-9]*)?)?)?",
+  "prefLabel": {
+    "de": "Fachbereich Literatur und Sprachwissenschaften der TIB Hannover"
+  },
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+    "http://w3id.org/nkos/nkostype#classification_schema"
+  ],
+  "uri": "http://bartoc.org/en/node/20543"
+}
