@@ -18,9 +18,9 @@
     "axios": "^1.7.7",
     "csvtojson": "^2.0.10",
     "fast-xml-parser": "^4.5.0",
-    "jskos-cli": "^0.6.2",
+    "jskos-cli": "^0.7.3",
     "jskos-tools": "^1.0.40",
-    "jskos-validate": "^0.6.0",
+    "jskos-validate": "^1.1.0",
     "jsonld": "^8.3.2",
     "lodash": "^4.17.21",
     "ndjson": "^2.0.0"
