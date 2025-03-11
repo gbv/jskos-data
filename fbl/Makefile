@@ -7,3 +7,4 @@ fbl-concepts.csv: FBL-Systematik.xlsx
 
 $(CONCEPTS): fbl-concepts.csv $(SCHEME)
 	$(jskos-convert) concepts -l de -s $(SCHEME) -m $< > $@
+	$(jskos-validate) concepts $@
