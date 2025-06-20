@@ -1,0 +1,22 @@
+{
+  "identifier": [
+    "http://uri.gbv.de/terminology/datacite/contributorType"
+  ],
+  "namespace": "http://uri.gbv.de/terminology/datacite/contributorType",
+  "prefLabel": {
+    "en": "DataCite contributorType"
+  },
+  "publisher": [
+    {
+      "prefLabel": {
+        "en": "DataCite"
+      },
+      "uri": "http://viaf.org/viaf/1368154592505043370008"
+    }
+  ],
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+    "http://w3id.org/nkos/nkostype#list"
+  ],
+  "uri": "http://bartoc.org/en/node/20720"
+}
