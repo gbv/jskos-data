@@ -1,7 +1,0 @@
-notation,prefLabel,definition
-Abstract,Abstract,"A brief description of the resource and the context in which the resource was created."
-Methods,Methods,"The methodology employed for the study or research."
-SeriesInformation,SeriesInformation,"Information about a repeating series, such as volume, issue, number."
-TableOfContents,TableOfContents,"A listing of the Table of Contents."
-TechnicalInfo,TechnicalInfo,"Detailed information that may be associated with design, implementation, operation, use, and/or maintenance of a process, system, or instrument."
-Other,Other,"Other description information that does not fit into an existing category."
