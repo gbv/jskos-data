@@ -53,7 +53,10 @@ for (const change of currentChanges) {
 }
 
 // Update repo
-await $`git pull`
+// Force reset to origin/master
+console.log("⚠️  Local repo is divergent. Resetting to origin/master...")
+await $`git fetch`
+await $`git reset --hard origin/master`
 console.log()
 
 if (updatedFiles.includes("package-lock.json")) {
