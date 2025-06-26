@@ -1,8 +1,6 @@
 # jskos-data
 
-[![Docker image](https://github.com/gbv/jskos-data/act
-ions/workflows/docker.yml/badge.svg)](https://github.com/gbv/jskos-data/pkgs/co
-ntainer/jskos-data)
+[![Docker image](https://github.com/gbv/jskos-data/actions/workflows/docker.yml/badge.svg)](https://github.com/gbv/jskos-data/pkgs/container/jskos-data)
 ![License](https://img.shields.io/github/license/gbv/jskos-data.svg)
 
 This repository contains a collection of Knowledge Organization Systems (KOS) and related data encoded in [JSKOS data format](https://gbv.github.io/jskos/). The collection is part of [project coli-conc](https://coli-conc.gbv.de/).
