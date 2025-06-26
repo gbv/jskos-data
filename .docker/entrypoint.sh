@@ -6,14 +6,15 @@ if [ ! -e /jskos-data/.git ]; then
 fi
 
 cd /jskos-data
+
 # TODO: Only when updated
 if [ ! -e node_modules ]; then
   npm ci
 fi
 
 # Backup directory for created files that would be overridden
-mkdir .backup
-mkdir .log
+mkdir -p .backup
+mkdir -p .log
 
 echo "Node.js $(node --version)"
 echo "npm $(npm --version)"
