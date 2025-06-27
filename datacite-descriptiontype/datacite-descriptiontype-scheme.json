@@ -1,8 +1,8 @@
 {
   "identifier": [
-    "http://uri.gbv.de/terminology/datacite/descriptionType/"
+    "http://uri.gbv.de/terminology/datacite-descriptiontype/"
   ],
-  "namespace": "http://uri.gbv.de/terminology/datacite/descriptionType/",
+  "namespace": "http://uri.gbv.de/terminology/datacite-descriptiontype/",
   "prefLabel": {
     "en": "DataCite descriptionType"
   },
