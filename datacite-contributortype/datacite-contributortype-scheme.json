@@ -1,8 +1,8 @@
 {
   "identifier": [
-    "http://uri.gbv.de/terminology/datacite/contributorType/"
+    "http://uri.gbv.de/terminology/datacite-contributortype/"
   ],
-  "namespace": "http://uri.gbv.de/terminology/datacite/contributorType/",
+  "namespace": "http://uri.gbv.de/terminology/datacite-contributortype/",
   "prefLabel": {
     "en": "DataCite contributorType"
   },
