@@ -1,8 +1,8 @@
 {
   "identifier": [
-    "http://uri.gbv.de/terminology/datacite/resourceTypeGeneral/"
+    "http://uri.gbv.de/terminology/datacite-resourcetypegeneral/"
   ],
-  "namespace": "http://uri.gbv.de/terminology/datacite/resourceTypeGeneral/",
+  "namespace": "http://uri.gbv.de/terminology/datacite-resourcetypegeneral/",
   "prefLabel": {
     "en": "DataCite resourceTypeGeneral"
   },

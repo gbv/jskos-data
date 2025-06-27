@@ -1,8 +1,8 @@
 {
   "identifier": [
-    "http://uri.gbv.de/terminology/datacite/relatedIdentifierType/"
+    "http://uri.gbv.de/terminology/datacite-relatedidentifiertype/"
   ],
-  "namespace": "http://uri.gbv.de/terminology/datacite/relatedIdentifierType/",
+  "namespace": "http://uri.gbv.de/terminology/datacite-relatedidentifiertype/",
   "prefLabel": {
     "en": "DataCite relatedIdentifierType"
   },
