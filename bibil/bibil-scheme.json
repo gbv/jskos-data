@@ -1,0 +1,25 @@
+{
+  "altLabel": {
+    "und": [
+      "Thesaurus BiBIL"
+    ]
+  },
+  "namespace": "http://uri.gbv.de/terminology/bibil/",
+  "prefLabel": {
+    "en": "Thesaurus Bibliography Computerized Bibliography of Lausanne",
+    "und": "Thesaurus Bibliographie Biblique Informatisée de Lausanne"
+  },
+  "publisher": [
+    {
+      "prefLabel": {
+        "en": "Institut Romand des Sciences Bibliques, Université de Lausanne"
+      },
+      "uri": "http://viaf.org/viaf/122103104"
+    }
+  ],
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+    "http://w3id.org/nkos/nkostype#thesaurus"
+  ],
+  "uri": "http://bartoc.org/en/node/151"
+}
