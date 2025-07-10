@@ -4,6 +4,9 @@
       "Thesaurus BiBIL"
     ]
   },
+  "identifier": [
+    "http://uri.gbv.de/terminology/bibil/"
+  ],
   "namespace": "http://uri.gbv.de/terminology/bibil/",
   "prefLabel": {
     "en": "Thesaurus Bibliography Computerized Bibliography of Lausanne",
