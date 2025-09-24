@@ -1,0 +1,2 @@
+{"uri":"http://uri.gbv.de/terminology/datacite-nametype/Organizational","notation":["Organizational"],"inScheme":[{"uri":"http://bartoc.org/en/node/20828"}],"prefLabel":{"en":"Organizational"},"scopeNote":{"en":["The type of name. "]},"topConceptOf":[{"uri":"http://bartoc.org/en/node/20828"}]}
+{"uri":"http://uri.gbv.de/terminology/datacite-nametype/Personal","notation":["Personal"],"inScheme":[{"uri":"http://bartoc.org/en/node/20828"}],"prefLabel":{"en":"Personal"},"scopeNote":{"en":["The type of name. "]},"topConceptOf":[{"uri":"http://bartoc.org/en/node/20828"}]}
