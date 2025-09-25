@@ -3,6 +3,9 @@
     "http://uri.gbv.de/terminology/datacite-resourcetypegeneral/"
   ],
   "namespace": "http://uri.gbv.de/terminology/datacite-resourcetypegeneral/",
+  "notation": [
+    "resource"
+  ],
   "prefLabel": {
     "en": "DataCite resourceTypeGeneral"
   },

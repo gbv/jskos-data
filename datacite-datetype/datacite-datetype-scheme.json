@@ -3,6 +3,9 @@
     "http://uri.gbv.de/terminology/datacite-datetype/"
   ],
   "namespace": "http://uri.gbv.de/terminology/datacite-datetype/",
+  "notation": [
+    "date"
+  ],
   "prefLabel": {
     "en": "DataCite dateType"
   },
