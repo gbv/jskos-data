@@ -1,4 +1,9 @@
 {
+  "altLabel": {
+    "de": [
+      "FBL-Systematik"
+    ]
+  },
   "identifier": [
     "http://uri.gbv.de/terminology/fbl"
   ],
