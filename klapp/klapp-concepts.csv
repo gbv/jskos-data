@@ -1,0 +1,736 @@
+﻿level,notation,prefLabel
+0,1000,Généralités
+1,1001-1002,"Mélanges jubilaires, ouvrages collectifs"
+1,1010,La Littérature française des origines à nos jours
+1,1020,Culture et civilisation françaises
+2,1021,Langue française
+1,1030,Ouvrages de références
+2,1033,Formes spécifiques
+3,1033 c,Bibliographies des thèses
+3,1033 e,Bibliographies littéraires
+3,1033 g,Catalogues
+3,1033 i,Dictionnaires littéraires
+1,1050,La République des lettres françaises
+2,1051,Enseignement de la littérature française
+2,1052,Prix littéraires ; Salon littéraire
+3,1052 c,Prix Goncourt
+3,1052 d,Prix Goncourt des lycéens
+3,1052 a,Prix littéraires
+3,1052 s,Salon littéraire
+2,1053,"Académies, Sociétés littéraires etc."
+3,1053 a,Académie Française
+3,1053 g,Académie Goncourt
+3,1053 p,La Pléiade
+3,1053 s,Société d'Histoire Littéraire de la France (SHLF)
+3,1053 u,École Normale
+2,1054,Histoire et enseignement de la discipline / Littérature française dans le monde 
+3,1054 ac,Afrique
+3,1054 af,Afrique du Sud
+3,1054 al,Allemagne
+3,1054 am,Amérique (États-Unis)
+3,1054 an,Angleterre
+3,1054 au,Australie
+3,1054 av,Autriche
+3,1054 be,Belgique (Flandre)
+3,1054 ca,Canada
+3,1054 cb,Canada anglophone
+3,1054 cc,Canada français
+3,1054 da,Danemark
+3,1054 es,Espagne
+3,1054 fi,Finlande
+3,1054 ho,Hongrie
+3,1054 in,Inde
+3,1054 ir,Irlande
+3,1054 it,Italie
+3,1054 ja,Japon
+3,1054 jo,Jordanie
+3,1054 me,Mexique
+3,1054 no,Norvège
+3,1054 nu,Nouvelle-Zélande
+3,1054 pa,Pays-Bas (Hollande)
+3,1054 pl,Pologne
+3,1054 po,Portugal
+3,1054 pr,Proche Orient
+3,1054 ro,Roumanie
+3,1054 ru,Russie
+3,1054 rt,Répubique Tchèque
+3,1054 sc,Scandinavie
+3,1054 si,Suisse
+3,1054 su,Suède
+3,1054 th,Thaïlande
+2,1055,Romanistes ; Chercheurs
+1,1070,"Revues littéraires, Presse"
+2,1077,Revues spécifiques
+3,1077 an,"Annales, Histoire, Sciences Sociales"
+3,1077 at,"Atelier du roman, L'"
+3,1077 au,Australian Journal of French Studies
+3,1077 be,Beiträge zur romanischen Philologie
+3,1077 br,Bérénice
+3,1077 cb,Cahiers de Civilisation Médiévale
+3,1077 cd,Cahiers de la Quinzaine
+3,1077 ch,Cahiers de littérature française
+3,1077 ck,Cahiers du Sud
+3,1077 cm,Caliban
+3,1077 co,"Cerf-Volant, Le"
+3,1077 cp,Chemins
+3,1077 cr,Critique
+3,1077 di,Dix-huitième Siècle
+3,1077 do,Dokumente
+3,1077 el,Elseneur
+3,1077 en,"Ephémère, L'"
+3,1077 ep,Esprit
+3,1077 er,Essays in French Literature and Culture
+3,1077 eu,Europe
+3,1077 fg,Figaro
+3,1077 fi,Francofonia
+3,1077 fk,Frankreich-Jahrbuch
+3,1077 fm,Französisch heute
+3,1077 fo,Français Aujourd'hui
+3,1077 fq,French Literature Series
+3,1077 fr,"French Review, The"
+3,1077 fu,French Studies
+3,1077 fw,French Studies Bulletin
+3,1077 fy,French Studies in Southern Africa
+3,1077 ge,Germanisch-Romanische Monatsschrift
+3,1077 hi,Histoires littéraires
+3,1077 hu,Humanité
+3,1077 in,"Infini, L'"
+3,1077 jc,Journal des Savants
+3,1077 je,Journal of the Institute of Romance Studies
+3,1077 le,Lendemains
+3,1077 ge,Lettres Romanes
+3,1077 lh,"Lettres françaises, Les"
+3,1077 li,Lire
+3,1077 ma,Magasin encyclopédique
+3,1077 mc,"Magazine littéraire, Le"
+3,1077 me,Marginales
+3,1077 mg,"Matricule des anges, Le"
+3,1077 mi,Medioevo romanzo
+3,1077 mk,Mercure de France
+3,1077 mm,Messages
+3,1077 mo,"Monde, Le"
+3,1077 ne,Nord'
+3,1077 nh,Notre Librairie
+3,1077 nk,"Nouveau Magazine littéraire, Le"
+3,1077 nn,"Nouveau Recueil, Le"
+3,1077 nq,"Nouvelle Revue Française, La"
+3,1077 nt,"Nouvelle Tour de Feu, La"
+3,1077 pb,Papers on French Seventeenth Century Literature
+3,1077 pd,Papilles (revue)
+3,1077 pl,Pleine Marge
+3,1077 po,Po&sie
+3,1077 pt,Poétique
+3,1077 qb,Quaderni di Filologia romanza
+3,1077 qi ,Quinzaine littéraire
+3,1077 rb,RBL (La Revue de Belles-Lettres)
+3,1077 ra,Rapports-Het Franse Boek
+3,1077 re,Renaissance and Reformation = Renaissance et Réforme
+3,1077 rg,Revue Textuel
+3,1077 rh,Revue d'Histoire littéraire de la France
+3,1077 ri ,Revue de linguistique romane
+3,1077 rj,Revue de littérature comparée (RLC)
+3,1077 rk,Revue des Deux Mondes
+3,1077 rl,Revue des Langues Romanes
+3,1077 rm,Revue générale
+3,1077 rn,"Revue littéraire, La"
+3,1077 ro,Riveneuve Continents
+3,1077 rp,"Rocambole, Le"
+3,1077 rq,Romance Philology
+3,1077 rt,Romance Studies
+3,1077 ru,Romania
+3,1077 rv,Romanic Review
+3,1077 rw,Romanica Wratislaviensia
+3,1077 rx,Romanische Forschungen
+3,1077 ry,Romanistische Zeitschrift für Literaturgeschichte
+3,1077 rz,Romantisme
+3,1077 rc,"Règle du jeu, La"
+3,1077 sf,Studi Francesi
+3,1077 su,Sud
+3,1077 tb,Tangence
+3,1077 te,Temps Modernes
+3,1077 th,Théodore Balmoral
+3,1077 to,Tour de Feu
+3,1077 tr,Travaux de littérature
+3,1077 ul,"Ull crític, L'"
+3,1077 vo,Vox Romanica
+3,1077 xv,XVII% Siècle
+3,1077 ya,Yale French Studies
+3,1077 ze,Zeitschrift für romanische Philologie
+3,1077 ec,"Écrits, Les"
+3,1077 ed,Écriture
+3,1077 et,Études françaises
+1,1090,L'Écrivain
+2,1091-1099,Aspects divers
+3,1091,"Écrire, écriture"
+3,1092 b,Atelier d'écriture
+3,1092 d,Contrainte 
+3,1092 f,Écriture féminine
+3,1093 c,Continuation
+3,1093 d,Dédicace autographe
+3,1093 g,Groupe
+3,1093 i,Interpolation
+3,1093 l,Plagiat
+3,1093 p,Plurilinguisme
+3,1093 r,Recomposition
+3,1093 t,Réécriture
+3,1093 u,"Réécriture, Palimpseste"
+3,1094 d,OEuvre
+3,1094 h,Pseudonyme
+3,1094 k,Écrivains juifs
+3,1097 m,Maisons d'écrivain
+1,1110,La Création littéraire
+2,1111,"Genèse du texte, Critique génétique"
+1,1130-1139,Le Livre et les bibliothèques
+2,1130,Géneralités
+2,1131,"Lecteur, lectrice ; Lecture"
+2,1133 a,Archive
+2,1133 b,Bibliothèque Nationale
+2,1133 d,Bibliothèque nationale et universitaire de Strasbourg (BNU)
+2,1133 h,Collection
+2,1134 a,Annotation
+2,1134 i,Illustration
+2,1135,Imprimerie
+1,1150-1159,"Édition, Éditeurs et Libraires"
+2,1150,Généralités
+2,1152,Censure
+2,1153,Collection
+3,1153 q,Albums de la Pléiade (Collection)
+3,1153 b,Bouquins (Collection)
+3,1153 e,Écrivains de toujours (Collection)
+3,1153 p,"Pléiade, Bibliothèque de la"
+2,1155,Éditeurs et Libraires
+1,1170-1179,Critique et méthodes
+2,1170,Géneralités
+2,1171,Philologie
+2,1172,Histoire littéraire
+2,1173,Périodisation
+2,1174,Terminologie et théorie littéraire
+2,1175 b,Réception de la littérature
+2,1175 d,Société et littérature
+2,1175 k,Usage de la littérature
+2,1176 b,Bibliothérapie
+2,1176 e,Esthétique
+2,1177,Interprétation et analyse des textes
+2,1178,Informatique
+2,1179,Groupe et Revue «Tel Quel
+1,1190,"Théorie du texte, Textologie"
+2,1191-1198,Aspects divers 
+3,1191 b,Chapitre
+3,1191 c,Citation
+3,1191 d,Discontinuité
+3,1191 f,Formule
+3,1191 r,Référence
+3,1191 p,Épigraphe
+3,1192 c,Commentaire
+3,1192 d,Description
+3,1192 f,Discours
+3,1192 h,Hypertexte
+3,1192 r,Répétition
+3,1193,Intertextualité
+3,1194 d,Dédicace
+3,1194 m,Montage
+3,1194 n,Note 
+3,1194 p,Page
+3,1194 r,Paratexte
+3,1194 t,Prologue
+3,1194 v,Péritexte
+3,1194 x,Table des matières
+3,1195 p,Préface
+3,1195 t,Titre
+3,1196 c,Couverture
+3,1196 s,Série
+3,1197 f,Fragment
+3,1197 r,Recueil
+3,1198 c,Cycle
+3,1198 i,Illustration
+1,1199,Nouvelles technologies
+1,1200,Structuralisme - Poststructuralisme
+1,1220,Poétique
+1,1240,Sémiotique (et Sémiologie)
+1,1245,Informatique
+1,1260,Genres et formes
+2,1266 ab,Anecdote
+2,1266 an,Anthologie
+2,1266 ap,Aphorisme
+2,1266 be,Bestiaire
+2,1266 cf,Café littéraire
+2,1266 ci,Caricature
+2,1266 cn,Carnet de voyage
+2,1266 co,Collection
+2,1266 cr,Confessions
+2,1266 ct,Critique d'art
+2,1266 dg,Dialogue
+2,1266 dh,Dialogue saturnale
+2,1266 dk,Dictionnaire
+2,1266 dl,"Dictionnaire, Encyclopédie"
+2,1266 de,Dédicace
+2,1266 ek,Ekphrasis
+2,1266 em,Emblème
+2,1266 eo,Encyclopédie
+2,1266 et,Entretien (littéraire)
+2,1266 fb,Fable
+2,1266 fc,Fable express
+2,1266 fi,Fait divers
+2,1266 fo,Formes brèves
+2,1266 gu,Guide touristique
+2,1266 hc,Haïku
+2,1266 ho,Hommage
+2,1266 ic,Iconotexte
+2,1266 id,Idéogramme
+2,1266 im,Impromptu
+2,1266 lp,Littérature personnelle
+2,1266 mb,Manuel
+2,1266 md,Maxime
+2,1266 mi ,Mimécriture
+2,1266 mk,Miscellanée
+2,1266 mo,Monologue
+2,1266 mp,Monologue intérieur
+2,1266 me,Méditation
+2,1266 no,Noël
+2,1266 pb,Pamphlet
+2,1266 pd,Parodie
+2,1266 pf,Pastiche
+2,1266 ph,Pastorale
+2,1266 po,Portrait
+2,1266 pr,Proverbe
+2,1266 rc,Recueil
+2,1266 re,Récit poétique
+2,1266 rh,Rêverie
+2,1266 sc,Satire
+2,1266 tb,Tableau
+2,1266 te,Témoignage
+2,1266 ut,Utopie
+2,1266 el,Éloge
+2,1266 ep,Énigme
+2,1266 ew,Épopée
+2,1266 ev,Épître
+1,1280,Poésie
+2,1281,Anthologies
+2,1282,Histoire et critique
+2,1283,Structures et images
+2,1284,Enseignement de la poésie
+2,1285,Traduction
+2,1287,Les Formes poétiques
+3,1288 b,Alexandrin
+3,1288 f,Comptines
+3,1288 k,Pastorale
+3,1288 m,Poème en prose
+3,1288 o,Poésie intime
+3,1288 q,Satire
+3,1288 r,Sextine
+3,1288 s,Sonnet
+3,1288 v,Vers libre
+3,1288 x,Verset
+3,1288 d,Épigramme
+1,1300,Genres et formes de la prose
+2,1301,"Théorie narrative, Narratologie"
+2,1303,Genres spécifiques
+3,1303 ah,Almanach
+3,1303 al,Ana
+3,1303 an,Anecdote
+3,1303 ap,Aphorisme
+3,1303 au,Autobiographie
+3,1303 bi,Biographie
+3,1303 ck,Conte
+3,1303 cm,Conversation
+3,1303 co,Correspondance
+3,1303 di,Discours
+3,1303 es,Essai
+3,1303 ex,Exemplum
+3,1303 fd,Fait divers
+3,1303 fm,Formes brèves
+3,1303 hg,Hagiographie
+3,1303 hi,Histoire drôle
+3,1303 hl,Histoire tragique
+3,1303 hq,Histoires comiques
+3,1303 hs,Historiographie
+3,1303 ji,Journal intime
+3,1303 lf,Lettre
+3,1303 lg,Lettre d'amour
+3,1303 lp,Littérature personnelle
+3,1303 ld,Légende
+3,1303 mb,Manifeste
+3,1303 mc,Maxime
+3,1303 mi,Miroir du prince
+3,1303 mo,Moralistes
+3,1303 me,Mémoires
+3,1303 no,Nouvelle
+3,1303 pb,Pamphlet
+3,1303 ph,Pastiche
+3,1303 pg,Pornographie
+3,1303 po,Portrait
+3,1303 pr,Prédication
+3,1303 rp,Reportage
+3,1303 rs,Robinsonsonnade
+3,1303 rc,Récit
+3,1303 rd,Récit bref
+3,1303 re,Récit d'enfance
+3,1303 rf,Récit de filiation
+3,1303 rg,Récit de mort
+3,1303 rh,Récit de rêve
+3,1303 rk,Récit de vie
+3,1303 ri,Récit poétique
+3,1303 rl,Récits de voyage
+3,1303 sb,Saga
+3,1303 se,Sermon
+3,1303 si,Série
+3,1303 tb,Tableau de moeurs
+3,1303 tr,Traité de savoir-vivre
+3,1303 vo,Voyage littéraire
+2,1305,Roman   
+2,1306,Formes du roman
+3,1306 ci,Ciné-roman
+3,1306 da,Roman alchimique
+3,1306 dd,Roman autobiographique
+3,1306 ee,Roman biographique
+3,1306 eh,Roman d'apprentissage
+3,1306 em,Roman d'aventure 
+3,1306 ff,"Roman d'éducation, Roman de formation, Bildungsroman"
+3,1306 gg,Roman d'énigme
+3,1306 hh,Roman de chevalerie
+3,1306 ii,Roman domestique
+3,1306 kk,Roman historique
+3,1306 ll,Roman initiatique
+3,1306 mm,Roman libertin
+3,1306 nn,Roman mémoriel
+3,1306 oo,Roman noir
+3,1306 pp,Roman picaresque
+3,1306 qq,Roman policier
+3,1306 rr,Roman sentimental
+3,1306 cp,Roman à la première personne
+3,1306 ip,Roman épistolaire
+3,1306 ss,Roman-photo
+3,1306 tt,Téléroman
+1,1310,Théâtre
+2,1311-1317,"Genres spécifiques, Aspects divers, Compagnies de théâtre etc. "
+3,1311,"Histoire, structure, critique"
+3,1312,Comédie
+3,1313 c,Tragi-comédie
+3,1313 t,Tragédie
+3,1314 c,Café-théâtre
+3,1314 c,Confrérie de la Passion 
+3,1314 d,Danse
+3,1314 e,Entrée royale
+3,1314 f,Farce
+3,1314 h,Fête de cour
+3,1314 i,Impromptu
+3,1314 k,Monologue comique
+3,1314 m,Mystère
+3,1314 n,Mélodrame
+3,1314 o,Opéra
+3,1314 q,Théâtre Montansier
+3,1315 c,Comédie-Française
+3,1315 e,Odéon
+3,1315 h,Opéra-Comique
+3,1315 l,Théâtre de l'Odéon
+3,1315 n,Théâtre des Nations
+3,1315 p,Théâtre du Peuple (Bussang)
+3,1315 s,Théâtre national de Strasbourg
+3,1315 u,Théâtre populaire
+3,1316 a,Festival d'Avignon
+3,1316 t,Thèmes et structures
+3,1317 i,Influences
+1,1330,Cinéma
+2,1331,Définitions et histoire
+2,1332,Cinéma et littérature
+2,1333,Gens du cinéma
+1,1350,"Radio, Télévision, Vidéo, Médias"
+1,1370,Sociologie de la littérature 
+1,1390,Thèmes et motifs
+2,1399,Motifs spécifiques
+3,1399 afr,Afrique
+3,1399 alg,Algérie
+3,1399 alt,Altérité
+3,1399 ami,Amitié
+3,1399 amo,Amour
+3,1399 ani,Animal
+3,1399 ant,Anthropologie
+3,1399 art,Art(s)
+3,1399 bib,Bible
+3,1399 com,Comique
+3,1399 cor,Corps
+3,1399 dan,Dandy(sme)
+3,1399 don,Don Juan
+3,1399 der,Dreyfus (Affaire)
+3,1399 drg,Drogues
+3,1399 dro,Droit
+3,1399 eco,Écologie
+3,1399 emb,Emblème
+3,1399 ero,"Érotique, Érotisme"
+3,1399 esp,Espace
+3,1399 exo,Exotisme
+3,1399 fan,Fantastique
+3,1399 fem,Femme
+3,1399 fen,Féminisme
+3,1399 gas,Gastronomie
+3,1399 gen,Genre (sexe)
+3,1399 gue,Guerre
+3,1399 geo,Géographie
+3,1399 his,Histoire
+3,1399 hos,Homosexualité
+3,1399 hum,Humour
+3,1399 ile,Ile
+3,1399 ima,Image
+3,1399 int,Intellectuel
+3,1399 iro,Ironie
+3,1399 jea,Jeanne d'Arc
+3,1399 mer,Merlin
+3,1399 mod,Modernité
+3,1399 mor,Mort
+3,1399 mus,Musique
+3,1399 myt,Mythe(s)
+3,1399 mec,"Médecin, Médecine"
+3,1399 med,Méditerranée
+3,1399 mel,Mélancolie
+3,1399 mem,Mémoire
+3,1399 ori,Orient
+3,1399 par,"Paris, Ville de"
+3,1399 pay,Paysage
+3,1399 pei,Peinture
+3,1399 phi,Philosophie
+3,1399 pho,Photographie
+3,1399 pol,Politique
+3,1399 psy,Psychanalyse
+3,1399 rel,Religion
+3,1399 rir,Rire
+3,1399 rev,Rêve
+3,1399 tem,Temps
+3,1399 uto,Utopie
+3,1399 vil,Ville
+3,1399 voy,Voyages
+1,1400,Littérature enfantine et littérature de jeunesse
+1,1420,Littérature régionale
+1,1440,Littérature populaire
+2,1444,Genres et aspects divers
+3,1444 al,Almanach
+3,1444 bl,Bibliothèque bleue
+3,1444 ch,Chanson populaire
+3,1444 cm,Comptine
+3,1444 co,Conte
+3,1444 cq,Conte de fées
+3,1444 cs,Conte fantastique
+3,1444 cu,Conte merveilleux
+3,1444 cw,Conte populaire
+3,1444 fb,Fable folklorique
+3,1444 lc,Littérature de colportage
+3,1444 pl,Paralittérature
+3,1444 rp ,Roman Harlequin
+3,1444 rd,Roman d'amour
+3,1444 rf,Roman d'aventures
+3,1444 rh,Roman d'espionnage
+3,1444 rk,Roman d'horreur
+3,1444 rm,Roman feuilleton
+3,1444 rs,Roman populaire
+3,1444 rt,Roman rose
+3,1444 ru,Roman sentimental
+3,1444 rw,Roman-feuilleton
+3,1444 rv,Roman-photo
+3,1444 rb,Récit fantastique
+3,1444 we,Western
+3,1444 ep,Épopée folklorique
+1,1460,Science-fiction
+1,1480,Bande dessinée
+2,1488,Auteurs et dessinateurs
+1,1500,Chansons
+2,1505,"Chansonniers, chansonnières"
+1,1520,Stylistique et rhétorique
+2,1521,Définitions et méthodes
+2,1522,Figures de style etc.
+3,1522 al,Allusion
+3,1522 ag,Allégorie
+3,1522 cl,Cliché
+3,1522 co,Comparaison
+3,1522 dd,Discours direct/indirect
+3,1522 di,Discours rapporté
+3,1522 fr,Fragment
+3,1522 mb,Manière
+3,1522 mi,Mise en abyme
+3,1522 me ,Métaphore
+3,1522 pd,Paradoxe
+3,1522 pg,Parodie
+3,1522 pi,Pastiche
+3,1522 po,Ponctuation
+3,1522 ry,Rythme
+3,1522 re,Répétition
+3,1522 si,Style indirect libre
+2,1524,Rhétorique
+2,1525,Les Mots et les écrivains
+1,1540,Traduction
+2,1541,Problèmes et méthodes
+2,1543,Antiquité 
+2,1544,Langues et régions spécifiques
+3,1544 ab,Afrikaans
+3,1544 ad,Allemand
+3,1544 af,Américain
+3,1544 ag,Amérique latine
+3,1544 ai,Anglais
+3,1544 al,Anglais (Grande-Bretagne)
+3,1544 an,Arabe
+3,1544 ap,Argentine
+3,1544 ar,Arménien
+3,1544 au,Australie
+3,1544 br,Breton
+3,1544 ca,Catalan
+3,1544 ch,Chinois
+3,1544 co,Coréen
+3,1544 cr,Croate
+3,1544 es,Espagnol
+3,1544 fi,Finnois
+3,1544 gr,Grec ancien
+3,1544 ho,Hongrois
+3,1544 he,Hébreu
+3,1544 in,Inde
+3,1544 it,Italien
+3,1544 ja,Japonais
+3,1544 la,Langues anciennes
+3,1544 lt,Latin
+3,1544 mo,Moyen français
+3,1544 me,Médiolatin
+3,1544 no,Norvégien
+3,1544 oc,Occitan
+3,1544 pl,Polonais
+3,1544 po,Portugais
+3,1544 pp,Portugais (Brésil)
+3,1544 ro,Roumain
+3,1544 ru,Russe
+3,1544 rv,Russe (Russie et Union soviétique)
+3,1544 sc,Scandinave
+3,1544 su,Suédois
+3,1544 tc,Tchèque
+3,1544 ti,Tibétain
+3,1544 tu,Turc
+3,1544 uk,Ukraine
+3,1544 yi,Yiddish
+3,1544 eg ,Égypte
+2,1545,Traducteurs et Traductions d'oeuvres spécifiques
+1,1560,Comparatisme
+1,1580,Influences
+2,1581,Époques
+3,1581 a,Antiquité
+3,1581 m,Moyen Âge
+2,1582,Latin
+2,1585,Régions
+3,1585 ab,Afrique
+3,1585 ad,Afrique de l'Ouest
+3,1585 af,Algérie
+3,1585 ah,Allemagne
+3,1585 ai,Allemagne (RDA)
+3,1585 ak,Alsace
+3,1585 al,Amérique
+3,1585 am,Amérique (États-Unis)
+3,1585 an,Amérique centrale
+3,1585 ao,Amérique latine
+3,1585 aq,Angleterre
+3,1585 ar,Arabie
+3,1585 au,Argentine
+3,1585 av,Asie
+3,1585 aw,Australie
+3,1585 ax,Autriche
+3,1585 be,Belgique
+3,1585 br,Brésil
+3,1585 bu,Bulgarie
+3,1585 ch,Chine
+3,1585 cl,Colombie (Colombia)
+3,1585 co,Corée
+3,1585 cr,Costa Rica
+3,1585 ep,Espagne
+3,1585 es,Estonie
+3,1585 eu ,Europe
+3,1585 ev,Europe centrale
+3,1585 fi,Finlande
+3,1585 gr,Grèce
+3,1585 ge,Géorgie
+3,1585 ho,Hongrie
+3,1585 in,Inde
+3,1585 ik,Irak
+3,1585 in,Iran
+3,1585 ir,Irlande
+3,1585 is,Israël
+3,1585 it,Italie
+3,1585 ja,Japon
+3,1585 mc,Macédoine
+3,1585 me,Mallorca (Majorque)
+3,1585 mh,Mexique
+3,1585 mo,Moravie
+3,1585 no,Nouvelle-Zélande
+3,1585 or,Orient
+3,1585 pb,Pays-Bas (Hollande)
+3,1585 pe,Perse
+3,1585 pl,Pologne
+3,1585 po,Portugal
+3,1585 pu,Puglia
+3,1585 ro,Roumanie
+3,1585 rs,Russie
+3,1585 rt,Russie (et Union soviétique)
+3,1585 re,République Tchèque (et Tchécoslovaquie) 
+3,1585 sc,Scandinavie
+3,1585 sl,Slovénie
+3,1585 so,Soudan
+3,1585 su,Suisse
+3,1585 st,Suède
+3,1585 sy,Syrie
+3,1585 tu,Turquie
+3,1585 vi,Vietnam
+3,1585 yo,Yougoslavie
+3,1585 ec,Écosse 
+2,1588,Personnes
+0,2000,Moyen-Age
+0,3000,Seizième Siècle
+0,4000,Dix-Septième Siècle
+0,5000,Dix-Huitième Siècle
+0,6000,Dix-Neuvième Siècle
+1,6100,Ouvrages de références
+1,6200,Études générales et littéraires
+1,6210 j,Littérature de jeunesse 
+1,6210 p,Revues et la presse
+1,6220 i,L'Histoire et les idées 
+1,6220 p,Édition
+1,6300,Thèmes et motifs
+1,6400,La Langue et le vocabulaire
+1,6500,Relations et influences
+1,6700,Poésie
+2,6710,Poème en prose
+1,6800,Prose
+2,6888,Genres de prose
+3,6888 al,Almanach
+3,6888 au,Autobiographie
+3,6888 bi,Biographie
+3,6888 cb,Conte
+3,6888 cf,Conte de fées
+3,6888 ct,Conte fantastique
+3,6888 co,Correspondance
+3,6888 es,Essai
+3,6888 fo,Formes brèves
+3,6888 hi,Historiographie
+3,6888 jo,Journal intime
+3,6888 le,Lettre
+3,6888 li,Littérature personnelle
+3,6888 ma,Manifeste
+3,6888 me,Mémoires
+3,6888 no,Nouvelle
+3,6888 pb,Pamphlet
+3,6888 ph,Physiologie
+3,6888 po,Portrait
+3,6888 pr,Préface
+3,6888 rb,Roman
+3,6888 rh,Roman historique
+3,6888 rp,Roman populaire
+3,6888 rv,Récits de voyage
+2,6890,Thèmes et motifs
+1,6900,Théâtre
+2,6910,Acteurs et gens de théâtre - Généralités
+2,6911,"Acteurs, actrices, gens de théâtre"
+1,6950,Romantisme
+2,6951,Bibliographie et références
+2,6952,Études générales
+2,6953,Groupe de Coppet
+2,6954,Thèmes
+2,6955,Influences et traduction
+1,6960,Réalisme
+1,6970,Naturalisme
+1,6980,Symbolisme
+2,6981,Relations et influences
+1,6999,Auteurs et autrices
+0,7000,Vingtième Siècle
+0,8000,La Littérature d'aujourd'hui
+0,9000,La Littérature française hors de France
