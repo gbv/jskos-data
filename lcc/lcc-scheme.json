@@ -3,7 +3,7 @@
     "http://id.loc.gov/authorities/classification",
     "http://www.wikidata.org/entity/Q621080"
   ],
-  "namespace": "http://id.loc.gov/authorities/classification/",
+  "namespace": "http://uri.gbv.de/terminology/lcc/",
   "notation": [
     "LCC"
   ],
