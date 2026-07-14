@@ -1,0 +1,27 @@
+{
+  "identifier": [
+    "http://id.loc.gov/authorities/classification",
+    "http://www.wikidata.org/entity/Q621080"
+  ],
+  "namespace": "http://uri.gbv.de/terminology/lcc/",
+  "notation": [
+    "LCC"
+  ],
+  "notationPattern": "(?:[A-Z(][A-Z0-9.()\\-]*(?: [A-Z0-9.()\\-]+)*[A-Z0-9)]|[A-Z]|[A-Z][A-Za-z]*)",
+  "prefLabel": {
+    "en": "Library of Congress Classification"
+  },
+  "publisher": [
+    {
+      "prefLabel": {
+        "en": "Library of Congress"
+      },
+      "uri": "http://viaf.org/viaf/151962300"
+    }
+  ],
+  "type": [
+    "http://www.w3.org/2004/02/skos/core#ConceptScheme",
+    "http://w3id.org/nkos/nkostype#classification_schema"
+  ],
+  "uri": "http://bartoc.org/en/node/486"
+}
