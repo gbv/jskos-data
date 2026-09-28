@@ -2,7 +2,8 @@
 
 # Usage: catmandu convert marcxml --fix 'add_field(language,en)' --fix ddc2jskos.fix to ndjson < ddc23en.xml > ddc23en.ndjson
 
-select marc_match(LDR/6, 'w')   # record type == classification
+select marc_match(LDR/6, 'w')  # record type == classification
+select marc_match(008/6, '[ab]') # exclude DDC-specific non-concept records
 select marc_match(008/8, 'a')	# valid records only
 
 # some transformation in lib/Catmandu/Fix/ddc.pm
