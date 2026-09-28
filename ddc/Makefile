@@ -8,4 +8,4 @@ CONCEPTS := ddc$(version)$(lang).ndjson
 default: $(CONCEPTS)
 
 $(CONCEPTS): $(ZIP)
-	unzip -p $(ZIP) | catmandu convert marcxml --fix 'add_field(language,$(lang))' --fix ddc2jskos.fix to ndjson > $@
+	unzip -p $(ZIP) | catmandu convert -I lib marcxml --fix 'add_field(language,$(lang))' --fix ddc2jskos.fix to ndjson > $@

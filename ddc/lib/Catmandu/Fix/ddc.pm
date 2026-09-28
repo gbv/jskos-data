@@ -11,7 +11,8 @@ sub fix {
     my ($f153) = grep { $_->[0] eq '153' } @fields;
     if ($f153) {
         my $uri;
-        my @sf = splice @$f153, 3;
+        my @sf = @$f153;
+        splice @sf, 0, 3;
         while (@sf) {
             my $code  = shift @sf;
             my $value = shift @sf;

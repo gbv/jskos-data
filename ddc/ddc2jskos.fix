@@ -9,7 +9,6 @@ select marc_match(008/8, 'a')	# valid records only
 ddc()
 
 # notation and uri
-marc_map(153$ac, uri, join:'-')
 if marc_has(153$z[0])
   # table record
   marc_spec(153$z[0],table)
